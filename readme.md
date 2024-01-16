@@ -7,7 +7,7 @@ icon: home
 
 ![](/images/WikiBanner.png)
 
-# Willkommen
+# Home
 
 !!! Herzlich Willkommen im neuen OpenMC Wiki!
 Wir haben das Wiki grundlegend überarbeitet und sämtliche Inhalte auf ihre Aktualität überprüft.
