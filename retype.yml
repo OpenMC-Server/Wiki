@@ -52,11 +52,11 @@ url: betawiki.openmc.net      # The base URL of your website
 # -----------------------------------------------------------------------------
 
 branding:
-  title: OpenMC Wiki              # Your custom website title; keep it short
-  logo: /logo.png             # Path to a logo file
-  logoDark: /logo-dark.png    # Path to a logo file to use in dark mode
+  title: OpenMC Wiki          # Your custom website title; keep it short
+  logo:                       # Path to a logo file
+  logoDark:                   # Path to a logo file to use in dark mode
   logoAlign: right            # Align the logo to the right or the left
-  label: Docs                 # Optional label
+  label: 2.0                  # Optional label
                               # To remove the label, remove this config
   colors:
     label:                    # Label colors
@@ -94,7 +94,7 @@ cache:
 
 # -----------------------------------------------------------------------------
 
-cname: example.com            # The CNAME file value
+cname: false                  # The CNAME file value
                               # or, false to not create a CNAME file
 
 # -----------------------------------------------------------------------------
