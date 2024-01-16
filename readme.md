@@ -1,3 +1,10 @@
+---
+label: Home
+layout: default
+order: 1
+icon: home-fill
+---
+
 ![](/images/WikiBanner.png)
 
 # Willkommen
