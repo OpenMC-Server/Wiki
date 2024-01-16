@@ -61,7 +61,7 @@ branding:
   colors:
     label:                    # Label colors
       text: "#0066ff"         # Custom color for the label text
-      background: "#00ccff"   # Custom color for the label background
+      background: "#66ffff"   # Custom color for the label background
 
 # -----------------------------------------------------------------------------
 
@@ -81,7 +81,7 @@ links:                        # Custom links to add to the top bar
 # -----------------------------------------------------------------------------
 
 footer:
-  copyright: "OpenMC Wiki © 2024 is licensed under [!badge CC BY-NC-ND 4.0](http://creativecommons.org/licenses/by-nc-nd/4.0/?ref=chooser-v1)"
+  copyright: "OpenMC Wiki © 2024 is licensed under [CC BY-NC-ND 4.0](http://creativecommons.org/licenses/by-nc-nd/4.0/?ref=chooser-v1)"
   links:
 
     - text: Impressum
