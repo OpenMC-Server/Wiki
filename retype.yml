@@ -42,7 +42,7 @@ input: .                      # Local path from this retype.yml file to the
 
 # -----------------------------------------------------------------------------
 
-# output: .retype               # Custom path to the output directory
+output: .retype               # Custom path to the output directory
                               # See also: input
 
 # -----------------------------------------------------------------------------
