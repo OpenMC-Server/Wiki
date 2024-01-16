@@ -1,7 +1,7 @@
 ---
 label: Home
 layout: default
-order: 1
+order: 1000
 icon: home
 ---
 
