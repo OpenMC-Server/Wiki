@@ -60,8 +60,8 @@ branding:
                               # To remove the label, remove this config
   colors:
     label:                    # Label colors
-      text: "#ffffff"         # Custom color for the label text
-      background: "#ff0000"   # Custom color for the label background
+      text: "#0066ff"         # Custom color for the label text
+      background: "#00ccff"   # Custom color for the label background
 
 # -----------------------------------------------------------------------------
 
