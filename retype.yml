@@ -47,15 +47,12 @@ output: .retype               # Custom path to the output directory
 
 # -----------------------------------------------------------------------------
 
-url: example.com              # The base URL of your website
-url: docs.example.com         # Can also be a sub-domain
-url: example.com/docs         # Can also include a sub-folder path
-url: https://example.com/docs # Can also include a protocol
+url: betawiki.openmc.net      # The base URL of your website
 
 # -----------------------------------------------------------------------------
 
 branding:
-  title: Example              # Your custom website title; keep it short
+  title: OpenMC Wiki              # Your custom website title; keep it short
   logo: /logo.png             # Path to a logo file
   logoDark: /logo-dark.png    # Path to a logo file to use in dark mode
   logoAlign: right            # Align the logo to the right or the left
