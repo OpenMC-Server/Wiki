@@ -208,3 +208,5 @@ templating:
   liquid: false               # Is Liquid syntax {% ... %} enabled?
                               # If true, Retype is incompatible with the
                               # GitBook style of component configuration
+
+locale: de
