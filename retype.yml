@@ -81,11 +81,13 @@ links:                        # Custom links to add to the top bar
 # -----------------------------------------------------------------------------
 
 footer:
-  copyright: "" # A custom copyright statement
-  links:                      # A list of links to include in the footer
-                              # See also: links
-    - text: OpenMC Wiki © 2024 is licensed under CC BY-NC-ND 4.0           # The text to use for the link
-      link: http://creativecommons.org/licenses/by-nc-nd/4.0/?ref=chooser-v1        # Point to an internal file or external URL
+  copyright: "OpenMC Wiki © 2024 is licensed under [!badge CC BY-NC-ND 4.0](http://creativecommons.org/licenses/by-nc-nd/4.0/?ref=chooser-v1)"
+  links:
+
+    - text: Impressum
+      link: https://openmc.net/impressum/
+    - text: Datenschutzerklärung
+      link: https://openmc.net/datenschutzerklaerung/
 
 # -----------------------------------------------------------------------------
 
@@ -159,7 +161,7 @@ markdown:                     # Markdown configuration options
 # -----------------------------------------------------------------------------
 
 meta:
-  title: " | Widgets"         # Appended to the <title> element on all pages
+  title: " | OpenMC Wiki"         # Appended to the <title> element on all pages
 
 # -----------------------------------------------------------------------------
 
