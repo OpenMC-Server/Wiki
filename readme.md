@@ -2,11 +2,18 @@
 label: Home
 layout: default
 order: 1
-icon: home-fill
+icon: home
 ---
 
 ![](/images/WikiBanner.png)
 
 # Willkommen
 
-This is a basic page, with only a title and some text content.
+!!! Herzlich Willkommen im neuen OpenMC Wiki!
+Wir haben das Wiki grundlegend überarbeitet und sämtliche Inhalte auf ihre Aktualität überprüft.
+Sollten dir Fehler auffallen, kannst du uns diese gerne per Discord melden!
+!!!
+
+## Schnellnavigation
+
+[!button variant="light" icon="👋" text="Einstieg"]
