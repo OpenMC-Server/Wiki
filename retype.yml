@@ -67,24 +67,25 @@ branding:
 
 links:                        # Custom links to add to the top bar
                               # See also: footer.links
-  - text: Home                # The text to use for the link
-    link: https://example.com # Link to an internal file or external URL
-  - text: API
-    link: /getting-started.md # Link to an internal file
-    icon: gear                # A custom icon name, :emoji:, <svg>, or
-                              # a path to a file
-    iconAlign: left           # Icon alignment, to the left or right
-    target: blank             # Custom target
-                              # Use "blank" to open link in a new window
+  - text: Website                # The text to use for the link
+    link: https://openmc.net/
+  - text: Forum
+    link: https://openmc.net/forum/
+  - text: Livemap
+    link: https://map.openmc.net/
+  - text: Discord
+    link: https://discord.com/invite/ecqPF34
+  - text: Instagram
+    link: https://instagram.com/openmc/
 
 # -----------------------------------------------------------------------------
 
 footer:
-  copyright: "© All rights reserved." # A custom copyright statement
+  copyright: "" # A custom copyright statement
   links:                      # A list of links to include in the footer
                               # See also: links
-    - text: License           # The text to use for the link
-      link: license.md        # Point to an internal file or external URL
+    - text: OpenMC Wiki © 2024 is licensed under CC BY-NC-ND 4.0           # The text to use for the link
+      link: http://creativecommons.org/licenses/by-nc-nd/4.0/?ref=chooser-v1        # Point to an internal file or external URL
 
 # -----------------------------------------------------------------------------
 
