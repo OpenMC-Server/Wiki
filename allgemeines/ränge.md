@@ -15,12 +15,12 @@ Die verbleibende Restzeit deines Ranges oder + Plus Upgrades siehst du jederzeit
 Folgende Ränge gibt es auf OpenMC:
 ### Spieler
 Der Spieler Rang ist der Standard - Rang, welchen jeder neue Spieler auf OpenMC erhält. Er kann im /shop auf den VIP Rang erweitert werden, sowie das Plus - Upgrade erwerben.\
-[!badge variant="dark" !badge size="large" icon=":gem:" text="VIP (5€ / Monat)"]\
+[!badge variant="dark" size="large" icon=":gem:" text="VIP (5€ / Monat)"]\
 Der VIP Rang erweitert den Spieler Rang um viele Funktionen (siehe Tabelle) und wird nach einer Spende an den Server für den jeweiligen Zeitraum vergeben.
 
 ### Siedler
 Der Siedler Rang wird an ausgewählte Spieler vergeben, die bereits seit langer Zeit Teil der Community sind. Sie repräsentieren diese, bereichern sie mit ihrem Wissen sowie Ideen und geben eine Hilfestellung für Neuankömmlinge. Es gibt keinen Anspruch auf den Rang oder einen fest definierten Zeitpunkt, ab dem der Rang zu erlangen ist. Eine explizite Beantragung ist nicht möglich. Die genauen Regelungen zum Siedler Rang findest du hier.\
-[!badge variant="dark" !badge size="large" icon=":gem:" text="VIS (5€ / Monat)"]\
+[!badge variant="dark" size="large" icon=":gem:" text="VIS (5€ / Monat)"]\
 Der VIS Rang erweitert den Siedler Rang um viele Funktionen (siehe Tabelle) und wird nach einer Spende an den Server für den jeweiligen Zeitraum vergeben.
 
 ### Plus - Upgrade (70k $ / Monat)
