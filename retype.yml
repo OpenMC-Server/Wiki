@@ -123,7 +123,7 @@ exclude:                      # Files or folders to exclude from the build
 
 # -----------------------------------------------------------------------------
 
-favicon: favicon.ico   # Path to a custom favicon, or
+favicon: /images/favicon.png   # Path to a custom favicon, or
                               # just put a favicon.ico in your project root
 
 # -----------------------------------------------------------------------------
