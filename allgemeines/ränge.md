@@ -43,15 +43,15 @@ Homes                       | 10      | 30      | 50    | 50    |           | 50
 Pets                        | 5       | 20      | 30    | 30    |           | 30
 Jobs                        | 1       | 2       | 3     | 3     |           | 3
 PlayerWarps                 | 1       | 2       | 1     | 2     | 5         | 5
-Colorcodes                  |         |         | ✔     | ✔     |           | ✔
-Links im Chat               |         | ✔       | ✔     | ✔     | ✔         | ✔
-Armorstands                 |         |         | ✔     | ✔     |           | ✔
-Partikel                    |         |         | ✔     | ✔     |           | ✔
-/workbench (/wb)            |         | ✔       | ✔     | ✔     |           | ✔
-/enderchest (/ec)           |         | ✔       | ✔     | ✔     |           | ✔
-/stonecutter                |         |         | ✔     | ✔     |           | ✔
-/anvil                      |         |         | ✔     | ✔     |           | ✔
-/nick                       |         |         | ✔     | ✔     |           | ✔
-/hat                        |         | ✔       | ✔     | ✔     |           | ✔
-/heal                       |         |         |       |       |  ✔        | ✔
-/ptime & /pweather          |         |         | ✔     | ✔     |           | ✔
+Colorcodes                  |         |         | ✓     | ✓     |           | ✓
+Links im Chat               |         | ✓       | ✓     | ✓     | ✓         | ✓
+Armorstands                 |         |         | ✓     | ✓     |           | ✓
+Partikel                    |         |         | ✓     | ✓     |           | ✓
+/workbench (/wb)            |         | ✓       | ✓     | ✓     |           | ✓
+/enderchest (/ec)           |         | ✓       | ✓     | ✓     |           | ✓
+/stonecutter                |         |         | ✓     | ✓     |           | ✓
+/anvil                      |         |         | ✓     | ✓     |           | ✓
+/nick                       |         |         | ✓     | ✓     |           | ✓
+/hat                        |         | ✓       | ✓     | ✓     |           | ✓
+/heal                       |         |         |       |       |  ✓        | ✓
+/ptime & /pweather          |         |         | ✓     | ✓     |           | ✓
