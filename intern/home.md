@@ -5,4 +5,4 @@ order: 99
 icon: house
 ---
 
-# Home (Teambereich)
+# Home Teambereich
