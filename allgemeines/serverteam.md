@@ -15,7 +15,7 @@ Im nächsten Abschnitt findest du alle aktiven Teammitglieder und ihre Aufgabenb
 ## Owner
 ### kev2k2
 ||| Column 1
-<img src="/images/kev2k2.png/" width="150" height="200" />
+<img src="/images/kev2k2.png" width="150" height="200" />
 ||| Column 2
 Aufgabenbereiche:
 - Serverleitung
