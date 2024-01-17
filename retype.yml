@@ -173,8 +173,8 @@ search:                       # Custom configuration of the website search
   minChars: 2                 # Min characters required to trigger a search
   mode: full                  # The search index creation mode
                               # Options include: full | partial | basic
-  noResultsFoundMsg: "No results" # Message when no results are found
-  placeholder: Search         # Placeholder text used in the input field
+  noResultsFoundMsg: "Keine Ergebnisse" # Message when no results are found
+  placeholder: Suchen         # Placeholder text used in the input field
 
 # -----------------------------------------------------------------------------
 
@@ -193,7 +193,6 @@ serve:
 # -----------------------------------------------------------------------------
 
 start:
-  open: false                 # Do not automatically open web browser on start
   pro: true
 
 # -----------------------------------------------------------------------------
