@@ -11,7 +11,7 @@ icon: thumbsup
 Du kannst täglich auf zwei Seiten voten, um Belohnungen zu erhalten und den Server kostenfrei zu unterstützen.
 
 !!!warning Wichtiger Hinweis:
-Während Restarts und Wartungsarbeiten kann es dazu kommen, dass Votes nicht registriert werden können. Bitte vote in diesen Zeiträumen nicht.
+Bitte während Restarts und Wartungsarbeiten **nicht** für den Server voten. Dies kann zum Verlust von Votes und der VoteStreak führen.
 !!!
 
 [!button icon=":cow:" text="Seite 1 (minecraft-server.eu)"](https://minecraft-server.eu/vote/index/20B25) [!button variant="secondary" icon=":gem:" text="Seite 2 (minecraft-serverlist.net)"](https://www.minecraft-serverlist.net/vote/51535)
