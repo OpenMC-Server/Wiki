@@ -46,15 +46,28 @@ Nutze [!badge variant="ghost" text="/vote"] und bewege die Maus über deinen Kop
 - Die Belohnungen können vorab nicht eingesehen werden, so gibt es immer etwas neues zu entdecken!
 
 
-## Votechests
-Die Votechests, auch Votekisten genannt, sind der einzige Weg, um Votecoins auszugeben. Mit [!badge variant="ghost" text="/vote"] kommst du in das Menü, in dem du Keys (Schlüssel) für die Votekisten kaufen kannst. Diese Kisten stehen am Spawn ([!badge variant="ghost" text="/spawn"]  oder [!badge variant="ghost" text="/warp vote"]). Durch Rechtsklick mit einem Schlüssel auf die zugehörige Kiste wird diese geöffnet. Die Wahrscheinlichkeiten der einzelnen Gewinne aus den Votekisten sind unten aufgelistet. Du kannst diese Wahrscheinlichkeiten ebenfalls in der Kiste selbst ansehen, indem die diese einfach linksklickst.
+## VoteChests /VoteCoins
+Die VoteChests, auch Votekisten genannt, sind der einzige Weg, um Votecoins auszugeben. Mit [!badge variant="ghost" text="/vote"] kommst du in das Menü, in dem du Keys (Schlüssel) für die Votekisten kaufen kannst. Diese Kisten stehen am Spawn ([!badge variant="ghost" text="/spawn"]  oder [!badge variant="ghost" text="/warp vote"]). Durch Rechtsklick mit einem Schlüssel auf die zugehörige Kiste wird diese geöffnet. Die Wahrscheinlichkeiten der einzelnen Gewinne aus den Votekisten sind unten aufgelistet. Du kannst diese Wahrscheinlichkeiten ebenfalls in der Kiste selbst ansehen, indem die diese einfach linksklickst.
 
 ### Befehle
 [!badge variant="ghost" text="/vc top"]\
 Zeigt die Spieler, die die meisten VoteCoins besitzen.
 
 [!badge variant="ghost" text="/vc balance <spielername>"]\
-Zeigt die Anzahl an Votecoins, die diese Person besitzt. Dieser Befehl kann nur verwendet werden, wenn die Person online ist und sich auf dem gleichen Server (Bauwelt, Farmwelt, Industriewelt, Eventwelt) wie du befindet.
+Zeigt die Anzahl an VoteCoins, die diese Person besitzt. Dieser Befehl kann nur verwendet werden, wenn die Person online ist und sich auf dem gleichen Server (Bauwelt, Farmwelt, Industriewelt, Eventwelt) wie du befindet.
 
 [!badge variant="ghost" text="/vc send <spielername> <anzahl>"]\
 Mit diesem Befehl kannst du eine beliebige Anzahl an Votecoins an eine andere Person schicken. Dieser Befehl kann ebenfalls nur verwendet werden, wenn die Person online ist und sich auf dem gleichen Server (Bauwelt, Farmwelt, Industriewelt, Eventwelt) wie du befindet.
+
+### Wahrscheinlichkeiten
++++ Resource Chest
+Preis: 1 VoteCoin
+
+Gewinn | Wahrscheinlichkeit in %
+32 Eisen | 5,89
+
++++ Tab 2
+This is another Tab
++++ Tab 3
+Wow! Yet another tab :+1:
++++
