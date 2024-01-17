@@ -66,59 +66,6 @@ Preis: 1 VoteCoin
 Name   | Value
 ---    | ---
 32 Eisen  |                	5,89
-64 Eisen	                  7,86\
-5 Eisenblöcke	              3,14 
-10 Eisenblöcke	            1,57 
-32 Gold	5,89
-64 Gold	7,86 
-5 Goldblöcke	3,14 
-10 Goldblöcke	1,57 
-8 Diamanten	3,14
-16 Diamanten	5,89
-32 Diamanten	4,72
-1 Diamantblock	7,86
-5 Diamantblöcke 	1,57 
-10 Diamantblöcke 	0,31 
-32 Lapislazuli 	5,89
-64 Lapislazuli 	7,86 
-5 Lapislazuliblöcke 	3,14 
-10 Lapislazuliblöcke 	1,57 
-1 Netheritbarren	0,31
-500 $	4,70
-1000 $	9,43 
-5000 $ 	3,14 
-10000 $ 	1,57 
-15000 $ 	0,31 
-3 Shard I	1,67
-==-
-+++ Resource Chest
-Preis: 1 VoteCoin
-
-32 Eisen                  	5,89\
-64 Eisen	                  7,86\
-5 Eisenblöcke	              3,14 
-10 Eisenblöcke	            1,57 
-32 Gold	5,89
-64 Gold	7,86 
-5 Goldblöcke	3,14 
-10 Goldblöcke	1,57 
-8 Diamanten	3,14
-16 Diamanten	5,89
-32 Diamanten	4,72
-1 Diamantblock	7,86
-5 Diamantblöcke 	1,57 
-10 Diamantblöcke 	0,31 
-32 Lapislazuli 	5,89
-64 Lapislazuli 	7,86 
-5 Lapislazuliblöcke 	3,14 
-10 Lapislazuliblöcke 	1,57 
-1 Netheritbarren	0,31
-500 $	4,70
-1000 $	9,43 
-5000 $ 	3,14 
-10000 $ 	1,57 
-15000 $ 	0,31 
-3 Shard I	1,67
 
 +++ Tab 2
 This is another Tab
