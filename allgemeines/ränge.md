@@ -18,12 +18,12 @@ Der Spieler Rang ist der Standard - Rang, welchen jeder neue Spieler auf OpenMC 
 ### :yellow_heart: VIP (5€/Monat)
 Der VIP Rang erweitert den Spieler Rang um viele Funktionen (siehe Tabelle) und wird nach einer Spende an den Server für den jeweiligen Zeitraum vergeben.
 
-### :green_circle: Siedler
+### :large_green_circle: Siedler
 Der Siedler Rang wird an ausgewählte Spieler vergeben, die bereits seit langer Zeit Teil der Community sind. Sie repräsentieren diese, bereichern sie mit ihrem Wissen sowie Ideen und geben eine Hilfestellung für Neuankömmlinge. Es gibt keinen Anspruch auf den Rang oder einen fest definierten Zeitpunkt, ab dem der Rang zu erlangen ist. Eine explizite Beantragung ist nicht möglich. Die genauen Regelungen zum Siedler Rang findest du hier.
 ### :green_heart: VIS (5€/Monat)
 Der VIS Rang erweitert den Siedler Rang um viele Funktionen (siehe Tabelle) und wird nach einer Spende an den Server für den jeweiligen Zeitraum vergeben.
 
-### :star: Plus - Upgrade (70k $ / Monat)
+### :heavy_plus_sign: Plus - Upgrade (70k $ / Monat)
 Das Plus - Upgrade gewährt weitere Rechte, die nicht in den oberen Rängen enthalten sind (siehe Tabelle). Diese Rechte sind unabhängig von den Grundrängen. Das bedeutet, dass die Rechte, die durch das +-Upgrade vergeben werden, nicht zwischen Spieler, Siedler, VIP und VIS unterscheiden. 
 
 ### :tada: Champion
