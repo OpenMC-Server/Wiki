@@ -56,7 +56,7 @@ branding:
   logo: /images/Logo_Transparent.png
   logoDark: /images/Logo_Transparent_Weiß.png
   logoAlign: left
-  label: 2.0
+  label: v2.0
   
   colors:
     label:
