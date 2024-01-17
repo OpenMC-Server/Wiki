@@ -1,7 +1,7 @@
 ---
 label: Serverregeln
 layout: default
-order: 997
+order: 898
 icon: log
 ---
 
