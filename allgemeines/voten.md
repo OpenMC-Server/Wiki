@@ -60,8 +60,7 @@ Zeigt die Anzahl an VoteCoins, die diese Person besitzt. Dieser Befehl kann nur 
 Mit diesem Befehl kannst du eine beliebige Anzahl an Votecoins an eine andere Person schicken. Dieser Befehl kann ebenfalls nur verwendet werden, wenn die Person online ist und sich auf dem gleichen Server (Bauwelt, Farmwelt, Industriewelt, Eventwelt) wie du befindet.
 
 ### Wahrscheinlichkeiten
-+++ Resource Chest
-Preis: 1 VoteCoin
++++ Resource Chest [!badge 1 VC]
 
 {.compact}
 Gewinn   | Wahrscheinlichkeit in %
@@ -92,8 +91,7 @@ Gewinn   | Wahrscheinlichkeit in %
 15000 $ | 0,31 
 3 Shard I |	1,67
 
-+++ Combat Chest
-Preis: 6 VoteCoins
++++ Combat Chest [!badge 6 VC]
 
 {.compact}
 Gewinn   | Wahrscheinlichkeit in %
@@ -133,6 +131,47 @@ Goldapfel |	0,73
 3 Shard I |	10,00
 Niete |	5,99
 
-+++ Tab 3
-Wow! Yet another tab :+1:
++++ Tool Chest [!badge 5 VC]
+
+{.compact}
+Gewinn   | Wahrscheinlichkeit in %
+--- | ---
+Mighty V Spitzhacke (Glück) |	1,20
+Mighty V, Haltbarkeit X Spitzhacke (Glück) | 0,17
+Mighty V Spitzhacke (Behutsamkeit) | 1,20
+Mighty V, Haltbarkeit X Spitzhacke (Behutsamkeit) |	0,17
+Deepslate Spitzhacke | 3,50
+Mighty V Axt (Glück) | 2,00
+Mighty V, Haltbarkeit X Axt (Glück) |	0,28
+Mighty V Axt (Behutsamkeit) |	2,00
+Mighty V, Haltbarkeit X Axt (Behutsamkeit) | 0,28
+Mighty V Schaufel |	4,00
+Mighty V, Haltbarkeit X Schaufel | 0,56
+Mighty V Hacke | 4,00
+Mighty V, Haltbarkeit X Hacke | 0,56
+Mighty V Angel | 0,80
+Mighty V Elytra |	1,30
+Mighty X Elytra |	0,35
+Mighty V Schere |	3,80
+Mighty X Schere |	0,56
+Verzaubertes Buch: Effizienz V | 11,97
+Verzaubertes Buch: Glück III | 11,97
+Verzaubertes Buch: Behutsamkeit |	11,97
+Verzaubertes Buch: Reparatur | 11,97
+Verzaubertes Buch: Haltbarkeit III | 11,97
+3 Shard I |	8,33
+Niete |	8,59
+
++++ Claim Chest
+
+{.compact}
+Gewinn   | Wahrscheinlichkeit in %
+--- | ---
+
++++ Collector Chest
+
+{.compact}
+Gewinn   | Wahrscheinlichkeit in %
+--- | ---
+
 +++
