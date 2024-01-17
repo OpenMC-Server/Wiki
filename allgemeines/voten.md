@@ -63,8 +63,8 @@ Mit diesem Befehl kannst du eine beliebige Anzahl an Votecoins an eine andere Pe
 +++ Resource Chest
 Preis: 1 VoteCoin
 
-32 Eisen                  	5,89
-64 Eisen	                  7,86 
+32 Eisen                  	5,89\
+64 Eisen	                  7,86\
 5 Eisenblöcke	              3,14 
 10 Eisenblöcke	            1,57 
 32 Gold	5,89
