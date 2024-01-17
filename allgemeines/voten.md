@@ -167,11 +167,64 @@ Niete |	8,59
 {.compact}
 Gewinn   | Wahrscheinlichkeit in %
 --- | ---
+500 Claimblöcke	| 11,36
+1000 Claimblöcke | 45,45
+2500 Claimblöcke | 22,73
+5000 Claimblöcke | 11,36
+7500 Claimblöcke | 5,68
+10000 Claimblöcke |	2,27
+15000 Claimblöcke | 1,14
 
 +++ Collector Chest
 
 {.compact}
 Gewinn   | Wahrscheinlichkeit in %
 --- | ---
+Universelles Petfutter* |	8,00
+Rückstoß II Stock |	3,00
+Rückstoß V Stock | 2,00
+Rückstoß X Stock | 1,00
+Dreizack Sog V | 1,00
+Love | 5,00
+Justice |	4,00
+Hope | 3,00
+Freedom |	2,00
+Faith |	0,5
+Kevs Command Block | 0,5
+Eros Pfeil | 3,00
+Maksys Eiserner Braustand |	0,5
+Best Diamond Ever |	3,00
+Adminträne | 0,5
+Obi's Räucherstäbchen |	0,5
+Taos Blue |	1,00
+Staubis Armorstand | 1,00
+Cupcakes Hasenpfote |	1,00
+Ultimative Claiming Schaufel | 1,00
+Absorption V (3:00) |	9,00
+Eile II (15:00) |	9,00
+Unterwasseratmung (30:00) |	9,00
+Unsterblichkeit X (0:20) | 9,00
+Glow (15:00) | 4,00
+Hermes Schuhe |	2,00
+Votekies | 2,00
+3 Shard I |	7,00
+Niete |	11,0
+Saison Kopf |	3,00
+Joris Wuerfel |	1,00
+Eules Feder |	1,00
 
+* Du erhältst das Petfutter nicht direkt, sondern einen Gutschein. Diesen kannst du direkt beim Dorfbewohner, der sich hinter der Collector-Chest befindet, einlösen.
 +++
+
+## Belohnung durch NameMC
+Über NameMC besteht die Möglichkeit, sich einmalig eine kleine Extra-Belohnung von 20 VoteCoins zu verdienen!
+
+!!!warning Wichtiger Hinweis:
+Die Belohnung wird nur in der Bauwelt registriert. Für das Beanspruchen deines Profiles muss ein externer Server besucht werden, um deinen Account zu verifizieren. Alle Infos dazu findest du auf der Seite von NameMC.
+!!!
+
+Um an der Unterstützung teilzunehmen, sind folgende Schritte notwendig:
+1. [Beanspruche dein Profil auf NameMC](https://de.namemc.com/claim-your-profile).
+2. [Navigiere zu OpenMC auf NameMC](https://de.namemc.com/server/openmc.net).
+3. Hinterlasse ein Herz auf dem Profil von OpenMC.
+4. Warte Ingame auf deine Belohnung. Diese wird innerhalb von 10 Minuten im Chat erscheinen.
