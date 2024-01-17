@@ -14,6 +14,6 @@ Im nächsten Abschnitt findest du alle aktiven Teammitglieder und ihre Aufgabenb
 
 ## Owner
 ### kev2k2
--![](kev2k2.jpg) Aufgabenbereiche:
+-![](/images/kev2k2.png) Aufgabenbereiche:
 - Serverleitung
 - Backend
