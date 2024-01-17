@@ -5,7 +5,7 @@ order: 1000
 icon: home
 ---
 
-![](/images/WikiBanner.png)
+![](/images/hero.png)
 
 # Home
 
