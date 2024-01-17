@@ -15,7 +15,7 @@ Du kannst täglich auf zwei Seiten voten, um Belohnungen zu erhalten und den Ser
 Bitte vote während Restarts und Wartungsarbeiten **nicht** für den Server. Dies kann zum Verlust von Votes und der VoteStreak führen.
 !!!
 
-[!button icon=":cow:" text="Seite 1 (minecraft-server.eu)"](https://minecraft-server.eu/vote/index/20B25) [!button variant="secondary" icon=":gem:" text="Seite 2 (minecraft-serverlist.net)"](https://www.minecraft-serverlist.net/vote/51535)
+[!button icon=":heart:" text="Seite 1 (minecraft-server.eu)"](https://minecraft-server.eu/vote/index/20B25) [!button variant="secondary" icon=":blue_heart:" text="Seite 2 (minecraft-serverlist.net)"](https://www.minecraft-serverlist.net/vote/51535)
 
 Tipp: Wenn du mit [!badge variant="ghost" text="/vote"] auf dem Server votest wird dein Name automatisch vorausgefüllt, und du musst nur auf "Bestätigen" klicken.\
 Dort kannst du auch deinen persönlichen Votelink kopieren und z.B. für unterwegs abspeichern.
