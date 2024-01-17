@@ -12,7 +12,7 @@ Die Teammitglieder sind in drei Ränge untergeteilt. Die Moderatoren sind an ers
 
 Im nächsten Abschnitt findest du alle aktiven Teammitglieder und ihre Aufgabenbereiche.
 
-## :red_circle: Owner
+## Owner
 ||| kev2k2
 <img src="/images/kev2k2.png" width="150" height="200" /> Aufgabenbereiche: Serverleitung, Backend, Wiki, Online-Dienste
 |||
@@ -20,7 +20,7 @@ Im nächsten Abschnitt findest du alle aktiven Teammitglieder und ihre Aufgabenb
 <img src="/images/flowflower.png" width="150" height="200" /> Aufgabenbereiche: Serverleitung, Wiki, Finanzen
 |||
 
-## :red_circle: Admins
+## Admins
 ||| LPBoy_HD
 <img src="/images/lpboy_hd.png" width="150" height="200" /> Aufgabenbereiche: Interne Organisation, Event-Organisation, Farmgenehmigungen, mcMMO
 |||
@@ -31,7 +31,7 @@ Im nächsten Abschnitt findest du alle aktiven Teammitglieder und ihre Aufgabenb
 <img src="/images/lashtaglp.png" width="150" height="200" /> Aufgabenbereiche: Interne Organisation, Event-Organisation
 |||
 
-## :large_blue_circle: Moderatoren
+## Moderatoren
 ||| Cupcake7506
 <img src="/images/cupcake7506.png" width="150" height="200" /> Aufgabenbereiche: Event-Organisation, Spielersupport, Wiki
 |||
