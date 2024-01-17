@@ -53,8 +53,8 @@ url: betawiki.openmc.net      # The base URL of your website
 
 branding:
   title: OpenMC Wiki          # Your custom website title; keep it short
-  logo:                       # Path to a logo file
-  logoDark:                   # Path to a logo file to use in dark mode
+  logo: /images/Logo_Transparent                      # Path to a logo file
+  logoDark: /images/Logo_Transparent_Weiß                  # Path to a logo file to use in dark mode
   logoAlign: right            # Align the logo to the right or the left
   label: 2.0                  # Optional label
                               # To remove the label, remove this config
