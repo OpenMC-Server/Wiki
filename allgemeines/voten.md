@@ -12,7 +12,7 @@ Mit einem Vote unterstützt du den Server und erhältst tolle Belohnungen über 
 Du kannst täglich auf zwei Seiten voten, um Belohnungen zu erhalten und den Server kostenfrei zu unterstützen.
 
 !!!warning Wichtiger Hinweis:
-Bitte während Restarts und Wartungsarbeiten **nicht** für den Server voten. Dies kann zum Verlust von Votes und der VoteStreak führen.
+Bitte vote während Restarts und Wartungsarbeiten **nicht** für den Server. Dies kann zum Verlust von Votes und der VoteStreak führen.
 !!!
 
 [!button icon=":cow:" text="Seite 1 (minecraft-server.eu)"](https://minecraft-server.eu/vote/index/20B25) [!button variant="secondary" icon=":gem:" text="Seite 2 (minecraft-serverlist.net)"](https://www.minecraft-serverlist.net/vote/51535)
