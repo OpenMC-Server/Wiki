@@ -13,10 +13,9 @@ Die Teammitglieder sind in drei Ränge untergeteilt. Die Moderatoren sind an ers
 Im nächsten Abschnitt findest du alle aktiven Teammitglieder und ihre Aufgabenbereiche.
 
 ## Owner
-### kev2k2
-||| Column 1
+||| kev2k2
 <img src="/images/kev2k2.png" width="150" height="200" />
-||| Column 2
-Aufgabenbereiche:
+||| Aufgabenbereiche
 - Serverleitung
 - Backend
+|||
