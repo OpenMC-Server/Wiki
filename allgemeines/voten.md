@@ -63,12 +63,76 @@ Mit diesem Befehl kannst du eine beliebige Anzahl an Votecoins an eine andere Pe
 +++ Resource Chest
 Preis: 1 VoteCoin
 
-Name   | Value
----    | ---
+{.compact}
+Gewinn   | Wahrscheinlichkeit in %
+--- | ---
 32 Eisen  |                	5,89
+64 Eisen |	7,86 
+5 Eisenblöcke |	3,14 
+10 Eisenblöcke |	1,57 
+32 Gold |	5,89
+64 Gold |	7,86 
+5 Goldblöcke | 3,14 
+10 Goldblöcke |	1,57 
+8 Diamanten	| 3,14
+16 Diamanten | 5,89
+32 Diamanten | 4,72
+1 Diamantblock | 7,86
+5 Diamantblöcke |	1,57 
+10 Diamantblöcke | 0,31 
+32 Lapislazuli | 5,89
+64 Lapislazuli | 7,86 
+5 Lapislazuliblöcke | 3,14 
+10 Lapislazuliblöcke | 1,57 
+1 Netheritbarren |0,31
+500 $	| 4,70
+1000 $ | 9,43 
+5000 $ | 3,14 
+10000 $ | 1,57 
+15000 $ | 0,31 
+3 Shard I |	1,67
 
-+++ Tab 2
-This is another Tab
++++ Combat Chest
+Preis: 6 VoteCoins
+
+{.compact}
+Gewinn   | Wahrscheinlichkeit in %
+--- | ---
+Mighty Schwert | 2,57
+Mighty V Schwert | 0,35
+Mighty X Schwert | 0,14
+Mighty V Kampfaxt |	0,35
+Mighty X Kampfaxt |	0,15
+Bogen (Unendlichkeit + Reparatur) |	0,25
+Mighty V Schild |	0,35
+Mighty V Schildkrötenhelm |	1,30
+Mighty X Schildkrötenhelm |	0,25
+Mighty Helm |	2,57
+Mighty V Helm |	1,30
+Mighty X Helm |	0,25
+Mighty Brustplatte | 2,57
+Mighty V Brustplatte | 1,30
+Mighty X Brustplatte | 0,25
+Mighty Hose |	2,57
+Mighty V Hose |	1,30
+Mighty X Hose |	0,25
+Mighty Schuhe |	2,57
+Mighty V Schuhe |	1,30
+Mighty X Schuhe |	0,25
+Diamantrüstung | 3,67
+Verzaubertes Buch: Schärfe V | 7,89
+Verzaubertes Buch: Stärke V |	7,89
+Verzaubertes Buch: Schutz IV | 7,89
+Verzaubertes Buch: Dornen III |	7,89
+Verzaubertes Buch: Federfall IV |	7,89
+Verzaubertes Buch: Reparatur | 7,89
+Verzaubertes Buch: Haltbarkeit III | 7,89
+Pfeil des Lebens | 1,10
+Pfeil des Todes |	1,10
+Goldapfel |	0,73
+3 Shard I |	10,00
+Niete |	5,99
+
 +++ Tab 3
 Wow! Yet another tab :+1:
 +++
