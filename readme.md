@@ -11,7 +11,7 @@ icon: home
 
 !!! Herzlich Willkommen im neuen OpenMC Wiki!
 Wir haben das Wiki grundlegend überarbeitet und sämtliche Inhalte auf ihre Aktualität überprüft.
-Sollten dir Fehler auffallen, kannst du uns diese gerne per Discord melden!
+Sollten dir Fehler auffallen, kannst du uns diese gerne per Discord melden.
 !!!
 
 ## Schnellnavigation
