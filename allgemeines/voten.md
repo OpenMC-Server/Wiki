@@ -10,6 +10,10 @@ icon: thumbsup
 ## Votelinks
 Du kannst täglich auf zwei Seiten voten, um Belohnungen zu erhalten und den Server kostenfrei zu unterstützen.
 
+!!!warning Wichtiger Hinweis:
+Während Restarts und Wartungsarbeiten kann es dazu kommen, dass Votes nicht registriert werden können. Bitte vote in diesen Zeiträumen nicht.
+!!!
+
 [!button icon=":cow:" text="Seite 1 (minecraft-server.eu)"](https://minecraft-server.eu/vote/index/20B25) [!button variant="secondary" icon=":gem:" text="Seite 2 (minecraft-serverlist.net)"](https://www.minecraft-serverlist.net/vote/51535)
 
 Tipp: Wenn du mit [!badge variant="ghost" text="/vote"] auf dem Server votest wird dein Name automatisch vorausgefüllt, und du musst nur auf "Bestätigen" klicken.\
@@ -42,7 +46,6 @@ Nutze [!badge variant="ghost" text="/vote"] und bewege die Maus über deinen Kop
 - Zur Aufrechterhaltung der Votestreak muss auf mindestens einer Voteseite für OpenMC abgestimmt werden
 - Votes, welche von den Voteseiten nicht erfolgreich registriert wurden sowie Votes ohne oder mit falschem Namen können von uns leider nicht berücksichtigt werden.
 - Bei vollem Inventar droppen Votebelohnungen auf den Boden.
-- Während Restarts und Wartungsarbeiten kann es dazu kommen, dass Votes nicht registriert werden können. Bitte seht in diesem Zeitraum vom Voten ab.
 - Die Belohnungen können vorab nicht eingesehen werden, so gibt es immer etwas neues zu entdecken!
 
 
@@ -162,7 +165,7 @@ Verzaubertes Buch: Haltbarkeit III | 11,97
 3 Shard I |	8,33
 Niete |	8,59
 
-+++ Claim Chest
++++ Claim Chest [!badge 2 VC]
 
 {.compact}
 Gewinn   | Wahrscheinlichkeit in %
@@ -175,12 +178,12 @@ Gewinn   | Wahrscheinlichkeit in %
 10000 Claimblöcke |	2,27
 15000 Claimblöcke | 1,14
 
-+++ Collector Chest
++++ Collector Chest [!badge 4 VC]
 
 {.compact}
 Gewinn   | Wahrscheinlichkeit in %
 --- | ---
-Universelles Petfutter* |	8,00
+Universelles Petfutter¹ |	8,00
 Rückstoß II Stock |	3,00
 Rückstoß V Stock | 2,00
 Rückstoß X Stock | 1,00
@@ -213,7 +216,7 @@ Saison Kopf |	3,00
 Joris Wuerfel |	1,00
 Eules Feder |	1,00
 
-* Du erhältst das Petfutter nicht direkt, sondern einen Gutschein. Diesen kannst du direkt beim Dorfbewohner, der sich hinter der Collector-Chest befindet, einlösen.
+¹ Du erhältst das Petfutter nicht direkt, sondern einen Gutschein. Diesen kannst du direkt beim Dorfbewohner, der sich hinter der Collector-Chest befindet, einlösen.
 +++
 
 ## Belohnung durch NameMC
