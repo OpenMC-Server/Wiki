@@ -52,22 +52,22 @@ url: betawiki.openmc.net      # The base URL of your website
 # -----------------------------------------------------------------------------
 
 branding:
-  title: Wiki          # Your custom website title; keep it short
-  logo: /images/Logo_Transparent.png                      # Path to a logo file
-  logoDark: /images/Logo_Transparent_Weiß.png                  # Path to a logo file to use in dark mode
-  logoAlign: left            # Align the logo to the right or the left
-  label: 2.0                  # Optional label
-                              # To remove the label, remove this config
+  title: Wiki
+  logo: /images/Logo_Transparent.png
+  logoDark: /images/Logo_Transparent_Weiß.png
+  logoAlign: left
+  label: 2.0
+  
   colors:
-    label:                    # Label colors
-      text: "#0066ff"         # Custom color for the label text
-      background: "#66ffff"   # Custom color for the label background
+    label:
+      text: "#0066ff"
+      background: "#66ffff"
 
 # -----------------------------------------------------------------------------
 
-links:                        # Custom links to add to the top bar
-                              # See also: footer.links
-  - text: Website                # The text to use for the link
+links:
+
+  - text: Website
     link: https://openmc.net/
   - text: Forum
     link: https://openmc.net/forum/
