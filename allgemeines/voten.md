@@ -64,8 +64,7 @@ Zeigt die Anzahl an VoteCoins, die diese Person besitzt. Dieser Befehl kann nur 
 Mit diesem Befehl kannst du eine beliebige Anzahl an Votecoins an eine andere Person schicken. Dieser Befehl kann ebenfalls nur verwendet werden, wenn die Person online ist und sich auf dem gleichen Server (Bauwelt, Farmwelt, Industriewelt, Eventwelt) wie du befindet.
 
 ### Wahrscheinlichkeiten
-+++ Resource Chest [!badge 1 VC]
-
+==- Resource Chest [!badge 1 VC]
 {.compact}
 Gewinn   | Wahrscheinlichkeit in %
 --- | ---
@@ -94,9 +93,7 @@ Gewinn   | Wahrscheinlichkeit in %
 10000 $ | 1,57 
 15000 $ | 0,31 
 3 Shard I |	1,67
-
-+++ Combat Chest [!badge 6 VC]
-
+==- Combat Chest [!badge 6 VC]
 {.compact}
 Gewinn   | Wahrscheinlichkeit in %
 --- | ---
@@ -134,9 +131,7 @@ Pfeil des Todes |	1,10
 Goldapfel |	0,73
 3 Shard I |	10,00
 Niete |	5,99
-
-+++ Tool Chest [!badge 5 VC]
-
+==- Tool Chest [!badge 5 VC]
 {.compact}
 Gewinn   | Wahrscheinlichkeit in %
 --- | ---
@@ -165,9 +160,7 @@ Verzaubertes Buch: Reparatur | 11,97
 Verzaubertes Buch: Haltbarkeit III | 11,97
 3 Shard I |	8,33
 Niete |	8,59
-
-+++ Claim Chest [!badge 2 VC]
-
+==- Claim Chest [!badge 2 VC]
 {.compact}
 Gewinn   | Wahrscheinlichkeit in %
 --- | ---
@@ -178,9 +171,7 @@ Gewinn   | Wahrscheinlichkeit in %
 7500 Claimblöcke | 5,68
 10000 Claimblöcke |	2,27
 15000 Claimblöcke | 1,14
-
-+++ Collector Chest [!badge 4 VC]
-
+==- Collector Chest [!badge 4 VC]
 {.compact}
 Gewinn   | Wahrscheinlichkeit in %
 --- | ---
@@ -218,7 +209,7 @@ Joris Wuerfel |	1,00
 Eules Feder |	1,00
 
 ¹ Du erhältst das Petfutter nicht direkt, sondern einen Gutschein. Diesen kannst du direkt beim Dorfbewohner, der sich hinter der Collector-Chest befindet, einlösen.
-+++
+==-
 
 ## Belohnung durch NameMC
 Über NameMC besteht die Möglichkeit, sich einmalig eine kleine Extra-Belohnung von 20 VoteCoins zu verdienen!
