@@ -10,8 +10,8 @@ Auf dieser Seite findest du Erläuterungen zu den Events, die regelmäßig auf O
 
 ## Bauevent
 !!! Aktuelles Bauevent:
-*Thema:* Traumwelt
-*Dauer:* 2. - 27. Januar
+*Thema:* Traumwelt\
+*Dauer:* 2. - 27. Januar\
 *Bewertungsevent:* 27.01., 15 Uhr - 21 Uhr
 !!!
 ### Über das Bauevent
@@ -67,6 +67,7 @@ Wir möchten allen Spielern die gleiche Chance geben, das Bauevent zu gewinnen. 
 - 10 VoteCoins - für jedes Teammitglied
 
 [!badge variant="info" text="Teilnahmebelohnung:"]
+
 Alle Teilnehmer, welche mit Ernsthaftigkeit und Kreativität am Event teilnehmen, erhalten unabhängig von der Platzierung eine Teilnahmebelohnung:
 - 25k $
 - 10 VoteCoins
