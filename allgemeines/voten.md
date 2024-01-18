@@ -50,7 +50,7 @@ Nutze [!badge variant="ghost" text="/vote"] und bewege die Maus über deinen Kop
 - Die Belohnungen können vorab nicht eingesehen werden, so gibt es immer etwas neues zu entdecken!
 
 
-## VoteChests /VoteCoins
+## VoteChests/VoteCoins
 Die VoteChests, auch Votekisten genannt, sind der einzige Weg, um Votecoins auszugeben. Mit [!badge variant="ghost" text="/vote"] kommst du in das Menü, in dem du Keys (Schlüssel) für die Votekisten kaufen kannst. Diese Kisten stehen am Spawn ([!badge variant="ghost" text="/spawn"]  oder [!badge variant="ghost" text="/warp vote"]). Durch Rechtsklick mit einem Schlüssel auf die zugehörige Kiste wird diese geöffnet. Die Wahrscheinlichkeiten der einzelnen Gewinne aus den Votekisten sind unten aufgelistet. Du kannst diese Wahrscheinlichkeiten ebenfalls in der Kiste selbst ansehen, indem die diese einfach linksklickst.
 
 ### Befehle
