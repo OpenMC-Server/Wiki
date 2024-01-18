@@ -65,6 +65,7 @@ Mit diesem Befehl kannst du eine beliebige Anzahl an Votecoins an eine andere Pe
 
 ### Wahrscheinlichkeiten
 ==- Resource Chest [!badge 1 VC]
+
 {.compact}
 Gewinn   | Wahrscheinlichkeit in %
 --- | ---
@@ -93,7 +94,9 @@ Gewinn   | Wahrscheinlichkeit in %
 10000 $ | 1,57 
 15000 $ | 0,31 
 3 Shard I |	1,67
+
 ==- Combat Chest [!badge 6 VC]
+
 {.compact}
 Gewinn   | Wahrscheinlichkeit in %
 --- | ---
@@ -131,7 +134,9 @@ Pfeil des Todes |	1,10
 Goldapfel |	0,73
 3 Shard I |	10,00
 Niete |	5,99
+
 ==- Tool Chest [!badge 5 VC]
+
 {.compact}
 Gewinn   | Wahrscheinlichkeit in %
 --- | ---
@@ -171,7 +176,9 @@ Gewinn   | Wahrscheinlichkeit in %
 7500 Claimblöcke | 5,68
 10000 Claimblöcke |	2,27
 15000 Claimblöcke | 1,14
+
 ==- Collector Chest [!badge 4 VC]
+
 {.compact}
 Gewinn   | Wahrscheinlichkeit in %
 --- | ---
