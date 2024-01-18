@@ -9,7 +9,7 @@ stages:
 pages:
   stage: deploy
   script:
-  - retype build --secret $RETYPE_SECRET --output public
+  - retype build --output public
   artifacts:
     paths:
     - public/
