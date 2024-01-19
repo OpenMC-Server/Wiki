@@ -2,7 +2,7 @@
 label: Claiming (Grundstück erstellen)
 layout: default
 order: 799
-icon: package
+icon: :house_with_garden:
 ---
 
 # Claiming (Grundstück erstellen)
