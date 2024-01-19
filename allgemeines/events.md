@@ -77,20 +77,20 @@ Alle Teilnehmer, welche mit Ernsthaftigkeit und Kreativität am Event teilnehmen
 Ein Team darf aus maximal drei Teilnehmern bestehen. Dabei ist die unter "Preise" aufgeführte Aufteilung der Preise zu beachten.
 
 Eingereichte Bauwerke…
-- [x] müssen in einem Abstand von mindestens 6 Chunks zu anderen Bauwerken errichtet werden, sodass das Eventbauwerk klar von bestehenden Bauwerken zu unterscheiden ist. Kann dieser Abstand nicht eingehalten werden, ist eine klar erkennbare Abgrenzung des Bauwerkes vorzunehmen (z.B. durch rote Wollblöcke).
-- [x] dürfen maximal von drei Spielern errichtet werden (Terraforming ist ebenfalls Bestandteil des Bauprozesses).
-- [x] müssen vollständig während des Eventzeitraums errichtet werden.
-- [x] müssen dem Thema des Bauevents eindeutig sichtbar entsprechen.
-- [x] dürfen lediglich als Eventbeitrag und nicht als Werbung für Shops o.ä. dienen.
-- [x] dürfen nur in der Bauwelt gebaut werden.
-- [x] müssen die Performance berücksichtigen.
+- [x] ...müssen in einem Abstand von mindestens 6 Chunks zu anderen Bauwerken errichtet werden, sodass das Eventbauwerk klar von bestehenden Bauwerken zu unterscheiden ist. Kann dieser Abstand nicht eingehalten werden, ist eine klar erkennbare Abgrenzung des Bauwerkes vorzunehmen (z.B. durch rote Wollblöcke).
+- [x] ...dürfen maximal von drei Spielern errichtet werden (Terraforming ist ebenfalls Bestandteil des Bauprozesses).
+- [x] ...müssen vollständig während des Eventzeitraums errichtet werden.
+- [x] ...müssen dem Thema des Bauevents eindeutig sichtbar entsprechen.
+- [x] ...dürfen lediglich als Eventbeitrag und nicht als Werbung für Shops o.ä. dienen.
+- [x] ...dürfen nur in der Bauwelt gebaut werden.
+- [x] ...müssen die Performance berücksichtigen.
 
 Teilnehmer...
-- [x] dürfen Baututorials sowie Bauwerke aus dem Internet höchstens zur Inspiration verwenden und keineswegs exakt nachbauen. Sofern dies geschieht, muss die Quelle der Inspiration während der Anmeldung angegeben werden.
-- [x] dürfen Schematics/Litematica nur verwenden, wenn sämtliche Blöcke von Hand platziert werden.
-- [x] dürfen sich nur an einem Bauwerk beteiligen.
+- [x] ...dürfen Baututorials sowie Bauwerke aus dem Internet höchstens zur Inspiration verwenden und keineswegs exakt nachbauen. Sofern dies geschieht, muss die Quelle der Inspiration während der Anmeldung angegeben werden.
+- [x] ...dürfen Schematics/Litematica nur verwenden, wenn sämtliche Blöcke von Hand platziert werden.
+- [x] ...dürfen sich nur an einem Bauwerk beteiligen.
 
 ### Bauwerk anmelden
 In der Woche ab dem Montag vor dem Bewertungsevent kannst du dein Bauwerk auf Discord im #bauevent Channel anmelden.
 
-[!button icon=":arrow_right:" target="blank" text="Bauevent im Discord anmelden"](https://discord.com/invite/ecqPF34)
+[!button icon=":white_check_mark:" target="blank" text="Bauevent im Discord anmelden"](https://discord.com/invite/ecqPF34)
