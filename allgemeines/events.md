@@ -94,3 +94,30 @@ Teilnehmer...
 In der Woche ab dem Montag vor dem Bewertungsevent kannst du dein Bauwerk auf Discord im #bauevent Channel anmelden.
 
 [!button icon=":white_check_mark:" target="blank" text="Bauevent im Discord anmelden"](https://discord.com/invite/ecqPF34)
+
+
+## Mobevent
+
+### Über das Mobevent
+Das Mobevent findet jeden Samstag statt, solange kein anderes Event an diesem Tag stattfindet. Welches Event an einem Samstag stattfindet, wird immer mehrere Stunden zuvor in den #news auf [Discord](https://discord.com/invite/ecqPF34) angekündigt.
+
+Beim Mobevent kämpfst du zusammen mit deinen Mitspielern gegen eine Reihe an Wellen von Mobs. Dabei erhältst du mit jeder überlebten Welle weitere Belohnungen. Items können selbst beim Tod nicht verloren gehen und werden beim Wechsel (nach dem Event) in die Bauwelt automatisch zurückerstattet.
+
+Man bekommt in der Arena keinen Hunger und muss daher auch kein Essen mitnehmen. Zudem können keine Blöcke platziert werden und alle normalen Befehle sind nicht verfügbar.
+
+### Teilnahmebedingungen
+Das Stehlen von Erfahrungspunkten durch XP-Flaschen sowie Camping ohne aktives Mitkämpfen ist nicht erlaubt. Zudem gibt es folgende Item-Beschränkungen:
+
+**Verbotene Items:**
+- Elytren
+- Raketen (jeder Art)
+- Enderperlen
+- Chorus-Früchte
+
+### Belohnungen
+!!!warning Warning
+Um die Belohnungen zu erhalten, muss ein Slot im Inventar freigehalten werden.
+!!!
+
+Es wird ein Gutschein, der alle Belohnungen enthält (kann per Rechtsklick eingelöst werden) vergeben.\
+Die ersten drei Plätze erhalten nach dem Event eine einzigartige Trophäe, die den Sieg des Events würdigt.
