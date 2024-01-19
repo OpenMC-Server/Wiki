@@ -2,7 +2,7 @@
 label: Ränge
 layout: default
 order: 896
-icon: ruby
+icon: ":gem:"
 ---
 
 # Ränge
