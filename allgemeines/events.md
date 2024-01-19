@@ -14,6 +14,7 @@ Auf dieser Seite findest du Erläuterungen zu den Events, die regelmäßig auf O
 *Dauer:* 2. - 27. Januar\
 *Bewertungsevent:* 27.01., 15 Uhr - 21 Uhr
 !!!
+
 ### Über das Bauevent
 Das Bauevent findet jeden Monat statt. Es beginnt immer am 1. und endet am letzten Samstag des Monats mit einem Bewertungsevent. In diesem Zeitraum haben Teilnehmer Zeit, ein zum vorgegebenen Thema passendes Bauwerk zu erschaffen.
 
@@ -115,9 +116,58 @@ Das Stehlen von Erfahrungspunkten durch XP-Flaschen sowie Camping ohne aktives M
 - Chorus-Früchte
 
 ### Belohnungen
-!!!warning Warning
+!!!warning Wichtiger Hinweis:
 Um die Belohnungen zu erhalten, muss ein Slot im Inventar freigehalten werden.
 !!!
 
 Es wird ein Gutschein, der alle Belohnungen enthält (kann per Rechtsklick eingelöst werden) vergeben.\
 Die ersten drei Plätze erhalten nach dem Event eine einzigartige Trophäe, die den Sieg des Events würdigt.
+
+
+## Kit-Mobevent
+!!!danger Aktuell nicht verfügbar.
+Das Kit-Mobevent ist aktuell nicht verfügbar. Die folgenden Erläuterungen kommen daher nicht zur Anwendung.
+!!!
+
+### Über das Kit-Mobevent
+Im Kit-Mobevent werden dir eine Reihe von Klassen zur Verfügung gestellt, welche du auswählen und im Event benutzen kannst. Die verschiedenen Klassen haben ein "Mana-System" welches es ermöglicht, einzigartige Fähigkeiten an den Monstern im Kit-Mobevent auszuführen.
+
+Beim Kit-Mobevent kämpfst du zusammen mit deinen Mitspielern gegen eine Reihe an Wellen von Mobs. Dabei erhältst du mit jeder überlebten Welle weitere Belohnungen. Da keine eigenen Items benötigt werden kann jeder bei Bedarf mit einem leeren Inventar zum Event erscheinen.
+
+Sowohl die Teilnahmebedingungen, als auch die Belohnungen des Kit-Mobevents sind mit dem Mobevent identisch. Das Mitführen von eigenen Items ist nicht möglich.
+
+### Nutzung von Fähigkeiten
+Deine Fähigkeiten im Kit-Mobevent liegen üblicherweise immer auf dem zweiten und dritten Slot deiner Hotbar. Um sie zu verwenden, solltest du abhängig von den Fähigkeiten die Taste 2 oder 3 auf der Tastatur betätigen. Während des ganzen Events wird das Inventar den Spieler bewusst von diesen zwei Slots wieder zu seinem Ursprungsslot führen, somit sind hier wirklich nur die Fähigkeiten ausführbar. Du hast eine Fähigkeit erfolgreich verwendet, wenn das Fähigkeits-Icon beginnt einen Cooldown im Inventar runterzuzählen.
+
+
+## End-Reset
+
+[!badge :large_green_circle: Nächster End-Reset: 20. Januar 2024]
+
+### Über den End-Reset
+Der quartalsweise Reset der End-Farmwelt wird mit dem Kampf ums Drachenei zelebriert, welches nur über dieses Event zu erhalten und somit eines der wertvollsten Items auf dem Server ist.
+
+Ab dem Eventbeginn werden die normalerweise geltenden PvP Regeln (/regeln Punkt 3) im Farmwelt-End außer Kraft gesetzt. Items und Erfahrungspunkte, die durch einen Tod verloren gehen (egal ob durch Eigen- oder Fremdverschulden) müssen nicht zurückerstattet werden. Die Teilnahme erfolgt auf eigene Gefahr!
+
+Der genaue Zeitpunkt wird einige Tage vor dem End-Reset im Discord verkündet.
+
+### Weitere Besonderheiten
+- Euch erwartet ein überarbeitetes End mit besonderem Aufbau von Türmen und Kristallen.
+- Die Stärke des Enderdrachens ist an die Teilnehmeranzahl angepasst.
+- Weitere Mobs unterstützen den Enderdrachen in seinem Kampf.
+- Ein Teleport-Delay ist aktiv und bestimmte Funktionen sind nicht verfügbar.
+
+## Spleef
+todo
+
+## Paintball
+todo
+
+## Schach
+### Über das Spiel
+Schach kann jederzeit von 2 Leuten gespielt werden.
+
+Mit dem Befehl /warp Schach gelangt man zum Spiel. Wenn 2 Personen dem Spiel beigetreten sind, wird dieses automatisch gestartet. Mit einem linksklick auf die gewünschte Figur kann man diese auswählen und mit einem rechtsklick auf ein anderes Feld setzen. Wer gerade an der Reihe ist wird im Chat angezeigt.
+
+### Bitte beachten
+Um eine Runde Schach starten zu können, muss das Inventar leer sein.
