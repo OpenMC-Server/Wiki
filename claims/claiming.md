@@ -2,7 +2,7 @@
 label: Claiming (Grundstück erstellen)
 layout: default
 order: 799
-icon: organization
+icon: package
 ---
 
 # Claiming (Grundstück erstellen)
