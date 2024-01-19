@@ -2,7 +2,7 @@
 label: AdminClaims
 layout: default
 order: 797
-icon: organization
+icon: ":office:"
 ---
 
-# Claiming (Grundstück erstellen)
+# AdminClaims
