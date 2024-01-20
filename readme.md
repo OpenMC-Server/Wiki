@@ -16,11 +16,11 @@ Sollten dir Fehler auffallen, kannst du uns diese gerne per Discord melden.
 
 ## Schnellnavigation
 ||| Dein Start auf OpenMC
-[!button :icon-rocket: Einstieg](einstieg.md)
+[!button :icon-rocket: Einstieg](/allgemeines/einstieg.md)
 
 [!button :icon-location: Grundstück erstellen](claiming.md)
 ||| Column 2
-Content 2
+[!ref](/craftbookpipes/pipe-variablen.md)
 ||| Column 3
 Content 3
 |||
