@@ -20,7 +20,7 @@ Sollten dir Fehler auffallen, kannst du uns diese gerne per Discord melden.
 
 [!button :icon-location: Grundstück erstellen](claiming.md)
 ||| Column 2
-[!ref](/craftbookpipes/pipe-variablen.md)
+[!ref](pipe-variablen.md)
 ||| Column 3
 Content 3
 |||
