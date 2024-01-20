@@ -96,6 +96,7 @@ In der Woche ab dem Montag vor dem Bewertungsevent kannst du dein Bauwerk auf Di
 
 [!button icon=":white_check_mark:" target="blank" text="Bauevent im Discord anmelden"](https://discord.com/invite/ecqPF34)
 
+---
 
 ## Mobevent
 
