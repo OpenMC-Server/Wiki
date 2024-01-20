@@ -2,7 +2,7 @@
 label: ArmorStand Editor
 layout: default
 order: 396
-icon: accessibility
+icon: tag
 ---
 
 # ArmorStand Editor
