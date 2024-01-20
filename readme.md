@@ -2,7 +2,7 @@
 label: Home
 layout: default
 order: 1000
-icon: ":house:"
+icon: "<svg>/icons/house.svg</svg>"
 ---
 
 ![](/images/hero.png)
