@@ -2,7 +2,7 @@
 label: mcMMO
 layout: default
 order: 596
-icon: star
+icon: goal
 ---
 
 # mcMMO

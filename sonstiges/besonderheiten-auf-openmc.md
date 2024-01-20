@@ -2,7 +2,7 @@
 label: Besonderheiten auf OpenMC
 layout: default
 order: 296
-icon: gear
+icon: star
 ---
 
 # Besonderheiten auf OpenMC

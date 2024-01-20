@@ -2,7 +2,7 @@
 label: CustomCrafting
 layout: default
 order: 399
-icon: gear
+icon: cpu
 ---
 
 # CustomCrafting

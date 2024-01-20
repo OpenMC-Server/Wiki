@@ -2,7 +2,7 @@
 label: MyPet
 layout: default
 order: 398
-icon: gear
+icon: squirrel
 ---
 
 # MyPet

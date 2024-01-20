@@ -2,7 +2,7 @@
 label: Weitere Funktionen
 layout: default
 order: 395
-icon: gear
+icon: plus-circle
 ---
 
 # Weitere Funktionen

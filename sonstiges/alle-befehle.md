@@ -2,7 +2,7 @@
 label: Alle Befehle
 layout: default
 order: 299
-icon: gear
+icon: command-palette
 ---
 
 # Alle Befehle
