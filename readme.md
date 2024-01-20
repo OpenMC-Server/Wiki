@@ -15,14 +15,18 @@ Sollten dir Fehler auffallen, kannst du uns diese gerne per Discord melden.
 !!!
 
 ## Schnellnavigation
+<style>
+#icon-list {
+    list-style-type: none;
+    padding-left: 1rem;
+}
+</style>
 ||| Dein Start auf OpenMC
-[!button :icon-rocket: Einstieg](/allgemeines/einstieg.md)
-
-[!button :icon-location: Grundstück erstellen](claiming.md)
+{#icon-list}
+- :icon-rocket: &nbsp;[Einstieg](/allgemeines/einstieg.md)
+- :icon-location: &nbsp;[Grundstück erstellen](/claims/claiming.md)
 ||| Column 2
-[!ref](pipe-variablen.md)
+- :icon-location: &nbsp;[Grundstück erstellen](/claims/claiming.md)
 ||| Column 3
 Content 3
 |||
-
-        [!button :rocket: Pipe-Variablen](pipe-variablen.md)
