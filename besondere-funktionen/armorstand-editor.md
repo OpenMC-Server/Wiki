@@ -2,7 +2,7 @@
 label: ArmorStand Editor
 layout: default
 order: 396
-icon: tag
+icon: pencil
 ---
 
 # ArmorStand Editor
