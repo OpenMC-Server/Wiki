@@ -16,4 +16,4 @@ Sollten dir Fehler auffallen, kannst du uns diese gerne per Discord melden.
 
 ## Schnellnavigation
 
-[!button variant="light" icon="👋" text="Einstieg"]
+[!button :rocket: Einstieg](einstieg.md)
