@@ -30,3 +30,5 @@ Sollten dir Fehler auffallen, kannst du uns diese gerne per Discord melden.
 ||| Column 3
 Content 3
 |||
+
+Bitte schaue
