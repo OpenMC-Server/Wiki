@@ -2,7 +2,7 @@
 label: Serverteam
 layout: default
 order: 895
-icon: ":busts_in_silhouette:"
+icon: people
 ---
 
 # Serverteam

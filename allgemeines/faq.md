@@ -2,7 +2,7 @@
 label: FAQ
 layout: default
 order: 897
-icon: ":bulb:"
+icon: light-bulb
 ---
 
 # FAQ

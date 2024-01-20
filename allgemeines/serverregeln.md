@@ -2,7 +2,7 @@
 label: Serverregeln
 layout: default
 order: 898
-icon: ":scroll:"
+icon: log
 ---
 
 # Serverregeln

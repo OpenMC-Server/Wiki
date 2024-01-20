@@ -2,7 +2,7 @@
 label: Events
 layout: default
 order: 893
-icon: ":trophy:"
+icon: trophy
 ---
 
 # Events

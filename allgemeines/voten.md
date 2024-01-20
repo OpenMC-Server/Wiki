@@ -2,7 +2,7 @@
 label: Voten
 layout: default
 order: 894
-icon: ":ballot_box_with_ballot:"
+icon: thumbsup
 ---
 
 # Voten
