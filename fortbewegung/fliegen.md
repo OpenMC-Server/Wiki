@@ -2,7 +2,7 @@
 label: Fliegen
 layout: default
 order: 699
-icon: ":parachute:"
+icon: cloud
 ---
 
 # Fliegen

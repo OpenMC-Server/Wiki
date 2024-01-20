@@ -2,7 +2,7 @@
 label: PlayerWarps
 layout: default
 order: 697
-icon: ":pushpin:"
+icon: location
 ---
 
 # PlayerWarps

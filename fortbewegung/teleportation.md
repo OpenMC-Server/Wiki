@@ -2,7 +2,7 @@
 label: Teleportation
 layout: default
 order: 698
-icon: ":satellite_antenna:"
+icon: arrow-switch
 ---
 
 # Teleportation
