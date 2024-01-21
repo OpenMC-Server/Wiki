@@ -8,6 +8,7 @@ icon: home
 ![](/images/hero.png)
 
 # Home
+
 !!! Wiki-Relaunch
 Das Wiki wurde grundlegend überarbeitet. Es gibt ein neues User-Interface mit neuer Suche, umschaltbarem Darkmode und mehr. Außerdem wurden alle Artikel auf ihre Aktualität überprüft und ggf. überarbeitet. Wir freuen uns auf euer Feedback :space_invader:
 !!!
