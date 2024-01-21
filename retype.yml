@@ -192,9 +192,6 @@ serve:
 
 # -----------------------------------------------------------------------------
 
-start:
-  open: false                 # Do not automatically open web browser on start
-
 # -----------------------------------------------------------------------------
 
 snippets:                     # Custom code snippets configuration
