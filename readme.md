@@ -25,10 +25,9 @@ Sollten dir Fehler auffallen, kannst du uns diese gerne per Discord melden.
 {#icon-list}
 - :icon-rocket: &nbsp;[Einstieg](/allgemeines/einstieg.md)
 - :icon-location: &nbsp;[Grundstück erstellen](/claims/claiming.md)
-||| Column 2
-- :icon-location: &nbsp;[Grundstück erstellen](/claims/claiming.md)
-||| Column 3
-Content 3
+||| Häufig genutzte Artikel
+{#icon-list}
+- :icon-cpu: &nbsp;[CustomCrafting](/besondere-funktionen/customcrafting.md)
 |||
 
 Bitte schaue
