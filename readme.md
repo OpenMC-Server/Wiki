@@ -24,8 +24,8 @@ Sollten dir Fehler auffallen, kannst du uns diese gerne per Discord melden.
 ||| Dein Start auf OpenMC
 {#icon-list}
 - :icon-rocket: &nbsp;[Einstieg](/allgemeines/einstieg.md)
-- :icon-location: &nbsp;[Serverregeln](/allgemeines/serverregeln.md)
-- :icon-log: &nbsp;[Grundstück erstellen](/claims/claiming.md)
+- :icon-log: &nbsp;[Serverregeln](/allgemeines/serverregeln.md)
+- :icon-screen-normal: &nbsp;[Grundstück erstellen](/claims/claiming.md)
 ||| Häufig genutzte Artikel
 {#icon-list}
 - :icon-cpu: &nbsp;[CustomCrafting](/besondere-funktionen/customcrafting.md)

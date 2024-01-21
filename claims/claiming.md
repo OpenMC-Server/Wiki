@@ -2,7 +2,7 @@
 label: Claiming (Grundstück erstellen)
 layout: default
 order: 799
-icon: screen-full
+icon: screen-normal
 ---
 
 # Claiming (Grundstück erstellen)
