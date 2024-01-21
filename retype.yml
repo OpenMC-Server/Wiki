@@ -194,7 +194,6 @@ serve:
 
 start:
   open: false                 # Do not automatically open web browser on start
-  pro: true
 
 # -----------------------------------------------------------------------------
 
@@ -213,3 +212,6 @@ templating:
                               # GitBook style of component configuration
 
 locale: de
+
+start:
+  pro: true
