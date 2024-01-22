@@ -24,10 +24,10 @@ Um deinen erstellten Warp anschließend einer Kategorie zuzuweisen, nutze den Be
 ## Befehle
 Mögliche Aliase: [!badge variant="ghost" text="/pwarp"] [!badge variant="ghost" text="/pw"] [!badge variant="ghost" text="/playerwarp"]
 
-[!badge variant="ghost" text="/pwarp"]\
+[!badge variant="light" text="/pwarp"]\
 Öffnet das PlayerWarp-Menü, mit welchem du dich zu den PlayerWarps teleportieren kannst.
 
-[!badge variant="ghost" text="/pwarp help"]\
+[!badge variant="light" text="/pwarp help"]\
 Zeigt alle PlayerWarp Befehle an.
 
 [!badge variant="ghost" text="/pwarp <warpname>"]\
