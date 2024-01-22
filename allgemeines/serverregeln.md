@@ -41,7 +41,7 @@ icon: log
 **4.1** Wir bitten alle Spieler, unsere Serverhardware nicht mehr als nötig oder vertretbar zu belasten.\
 **4.2** Das Erbauen und Verwenden von Mechaniken, welche durch automatisierten Einfluss Geld mithilfe des Job-Systems generieren, ist nicht erlaubt. Bei Unsicherheiten steht euch das Team gerne für Fragen zur Verfügung.\
 **4.3** Die Benutzung von halb- und vollautomatischen Farmen ist ausschließlich in der Industriewelt erlaubt.\
-**4.4** Größere Lager- und Sortiersysteme sollten bevorzugt in der Industriewelt errichtet werden. Es sind Pipes zu verwenden (siehe [!badge variant="ghost" text="/wiki"]), wann immer möglich. Sollte die TPS durch ein solches System stärker beeinflusst werden, kann der Betrieb in der Bauwelt verboten werden, dies wird im Einzelfall entschieden.\
+**4.4** Größere Lager- und Sortiersysteme sollten bevorzugt in der Industriewelt errichtet werden. Es sind Pipes zu verwenden `/wiki`, wann immer möglich. Sollte die TPS durch ein solches System stärker beeinflusst werden, kann der Betrieb in der Bauwelt verboten werden, dies wird im Einzelfall entschieden.\
 **4.5** Größere halb- und vollautomatische Farmen sowie größere Lager- und Sortiersysteme müssen grundsätzlich vor Baubeginn angemeldet und abgenommen werden ([!badge variant="ghost" text="/farmanmeldung"] am Ort der Farm).\
 **4.6** Vorrichtungen zum Farmen von Witherskelettköpfen (z.B. Plattformen) sind in der Farmwelt verboten.\
 **4.7** Das Umgehen des AFK-Kicks (z.B. durch AFK-Pools, Skripts, etc.) ist nicht erlaubt.\
