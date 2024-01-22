@@ -75,7 +75,7 @@ Alle Teilnehmer, welche mit Ernsthaftigkeit und Kreativität am Event teilnehmen
 - Sammelitem
 
 ### Teilnahmebedingungen
-Ein Team darf aus maximal drei Teilnehmern bestehen. Dabei ist die unter "Preise" aufgeführte Aufteilung der Preise zu beachten.
+Ein Team darf aus maximal drei Teilnehmern bestehen. Dabei ist die [Aufteilung der Preise](#preise) zu beachten.
 
 Eingereichte Bauwerke…
 - [x] ...müssen in einem Abstand von mindestens 6 Chunks zu anderen Bauwerken errichtet werden, sodass das Eventbauwerk klar von bestehenden Bauwerken zu unterscheiden ist. Kann dieser Abstand nicht eingehalten werden, ist eine klar erkennbare Abgrenzung des Bauwerkes vorzunehmen (z.B. durch rote Wollblöcke).
@@ -176,7 +176,7 @@ todo
 ### Über das Spiel
 Schach kann jederzeit von 2 Leuten gespielt werden.
 
-Mit dem Befehl /warp Schach gelangt man zum Spiel. Wenn 2 Personen dem Spiel beigetreten sind, wird dieses automatisch gestartet. Mit einem linksklick auf die gewünschte Figur kann man diese auswählen und mit einem rechtsklick auf ein anderes Feld setzen. Wer gerade an der Reihe ist wird im Chat angezeigt.
+Mit dem Befehl `/warp Schach` gelangt man zum Spiel. Wenn 2 Personen dem Spiel beigetreten sind, wird dieses automatisch gestartet. Mit einem linksklick auf die gewünschte Figur kann man diese auswählen und mit einem rechtsklick auf ein anderes Feld setzen. Wer gerade an der Reihe ist wird im Chat angezeigt.
 
 ### Bitte beachten
 Um eine Runde Schach starten zu können, muss das Inventar leer sein.
