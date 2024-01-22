@@ -17,7 +17,7 @@ Bitte vote während Restarts und Wartungsarbeiten **nicht** für den Server. Die
 
 [!button icon=":heart:" target="blank" text="Seite 1 (minecraft-server.eu)"](https://minecraft-server.eu/vote/index/20B25) [!button variant="secondary" target="blank" icon=":blue_heart:" text="Seite 2 (minecraft-serverlist.net)"](https://www.minecraft-serverlist.net/vote/51535)
 
-Tipp: Wenn du mit [!badge variant="ghost" text="/vote"] auf dem Server votest wird dein Name automatisch vorausgefüllt, und du musst nur auf "Bestätigen" klicken.\
+Tipp: Wenn du mit `/vote` auf dem Server votest wird dein Name automatisch vorausgefüllt, und du musst nur auf "Bestätigen" klicken.\
 Dort kannst du auch deinen persönlichen Votelink kopieren und z.B. für unterwegs abspeichern.
 
 ## Belohnungen
@@ -40,7 +40,7 @@ Champion                  | 4         | ∞
 Mit der VoteStreak wird tägliches Voten belohnt! Mit jedem Tag, an dem du auf mindestens einer Seite gevotet hast, steigt die VoteStreak um 1 an. Je länger du also am Stück votest, desto höhere, bessere und einzigartigere Belohnungen bekommst du! Die erste Belohnung erhältst du an Tag 4, anschließend folgen täglich neue Belohnungen.
 
 ### VoteStreak einsehen
-Nutze [!badge variant="ghost" text="/vote"] und bewege die Maus über deinen Kopf, um sowohl deine aktuelle VoteStreak, als auch deinen Rekord anzuzeigen.
+Nutze `/vote` und bewege die Maus über deinen Kopf, um sowohl deine aktuelle VoteStreak, als auch deinen Rekord anzuzeigen.
 
 ### Gut zu wissen
 - Zur Aufrechterhaltung der VoteStreak muss auf mindestens einer Voteseite für OpenMC abgestimmt werden.
@@ -49,10 +49,10 @@ Nutze [!badge variant="ghost" text="/vote"] und bewege die Maus über deinen Kop
 - Die VoteStreak-Belohnungen können vorab nicht eingesehen werden.
 
 ## VoteChests/VoteCoins
-Die VoteChests, auch Votekisten genannt, sind der einzige Weg, um Votecoins auszugeben. Mit [!badge variant="ghost" text="/vote"] kommst du in das Menü, in dem du Keys (Schlüssel) für die VoteChests kaufen kannst. Diese stehen am Spawn ([!badge variant="ghost" text="/spawn"]  oder [!badge variant="ghost" text="/warp vote"]). Durch Rechtsklick mit einem Key auf die zugehörige VoteChest wird diese geöffnet. Die Wahrscheinlichkeiten der einzelnen Gewinne aus den VoteChests sind unten aufgelistet. Du kannst diese Wahrscheinlichkeiten ebenfalls in der VoteChest selbst ansehen, indem du auf diese linksklickst.
+Die VoteChests, auch Votekisten genannt, sind der einzige Weg, um Votecoins auszugeben. Mit `/vote` kommst du in das Menü, in dem du Keys (Schlüssel) für die VoteChests kaufen kannst. Diese stehen am Spawn (`/spawn`  oder `/warp vote`). Durch Rechtsklick mit einem Key auf die zugehörige VoteChest wird diese geöffnet. Die Wahrscheinlichkeiten der einzelnen Gewinne aus den VoteChests sind unten aufgelistet. Du kannst diese Wahrscheinlichkeiten ebenfalls in der VoteChest selbst ansehen, indem du auf diese linksklickst.
 
 ### Befehle
-[!badge variant="ghost" text="/vc top"]\
+`/vc top`\
 Zeigt die Spieler, die die meisten VoteCoins besitzen.
 
 [!badge variant="ghost" text="/vc balance (spielername)"]\
