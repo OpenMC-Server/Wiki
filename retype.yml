@@ -123,7 +123,7 @@ exclude:                      # Files or folders to exclude from the build
 
 # -----------------------------------------------------------------------------
 
-favicon: /images/favicon.png   # Path to a custom favicon, or
+favicon: /images/favicon.png  # Path to a custom favicon, or
                               # just put a favicon.ico in your project root
 
 # -----------------------------------------------------------------------------
@@ -161,7 +161,7 @@ markdown:                     # Markdown configuration options
 # -----------------------------------------------------------------------------
 
 meta:
-  title: " | OpenMC Wiki"         # Appended to the <title> element on all pages
+  title: " | OpenMC Wiki"     # Appended to the <title> element on all pages
 
 # -----------------------------------------------------------------------------
 
@@ -192,6 +192,9 @@ serve:
 
 # -----------------------------------------------------------------------------
 
+start:
+  open: false                 # Do not automatically open web browser on start
+
 # -----------------------------------------------------------------------------
 
 snippets:                     # Custom code snippets configuration
@@ -209,6 +212,3 @@ templating:
                               # GitBook style of component configuration
 
 locale: de
-
-start:
-  pro: true

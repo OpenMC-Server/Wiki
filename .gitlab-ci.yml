@@ -9,7 +9,7 @@ stages:
 pages:
   stage: deploy
   script:
-  - retype build --password 8k64MtD5ry6t --pro --output public
+  - retype build --password 8k64MtD5ry6t --output public
   artifacts:
     paths:
     - public/
