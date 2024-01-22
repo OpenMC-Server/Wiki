@@ -22,7 +22,7 @@ icon: log
 **1.3** Beleidigende, rassistische, radikale und pornographische Namen, Skins, Inhalte und Bauwerke sind verboten.\
 **1.4** Die Verwendung von Zweitaccounts („Alts“) ist untersagt.\
 **1.5** Wir vertrauen euch, dass ihr Konfigurationsfehler im Server nicht ausnutzt („Bugusing“), sondern uns diese baldmöglich meldet. Auch gefühlt ungewöhnlich schnelles Leveln bei Plugins wie Jobs oder mcMMO zählt dazu.\
-**1.6** Es ist nicht erlaubt, [!badge variant="ghost" text="/pweather"] für den Dreizack-Flug zu verwenden.\
+**1.6** Es ist nicht erlaubt, `/pweather"` für den Dreizack-Flug zu verwenden.\
 **1.7** Verloren gegangene Items werden grundsätzlich nur erstattet, wenn nachweisbar ist, dass man als Spieler ihren Verlust nicht hätte vermeiden können.\
 **1.8** Das bewusste Ausnutzen von Grauzonen der Regeln ist nicht gestattet. Bei Unsicherheiten ist das Team zu Rate zu ziehen – und dessen Aufklärung zu respektieren.\
 **1.9** Der Server lebt von dem kontinuierlichen Austausch zwischen der Spielerschaft und dem Team. Das Einreichen von Vorschlägen ist demnach sehr erwünscht. Sollte das Team jedoch festlegen, dass ein Vorschlag aus konzeptionellen oder vergleichbaren Gründen nicht implementiert wird, ist dies zu respektieren.
