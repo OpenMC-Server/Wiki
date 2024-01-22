@@ -8,7 +8,7 @@ icon: log
 # Serverregeln
 
 **Mit dem Spielen auf unserem Server und/oder dem Beitritt auf unserem Discord akzeptierst du die Regeln.**\
-[!badge :large_green_circle: Letzte Aktualisierung: 03.07.2023]
+[!badge variant="info" text=":large_green_circle: Letzte Aktualisierung: 03.07.2023"]
 
 ## §0 Grundsätze
 **0.1** Unsere Grundsätze im Miteinander auf dem Server lauten Kommunikation und Vertrauen.\
