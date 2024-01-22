@@ -11,7 +11,7 @@ Auf OpenMC besteht die Möglichkeit in der Bauwelt und in der Industriewelt zu f
 Um [!badge variant="ghost" text="/fly"] nutzen zu können, benötigst du Flugzeit oder einen entsprechenden Rang.
 
 ## Flugzeit erhalten
-Beim ersten Betreten des Servers erhältst du 30min Flugzeit.
+Beim ersten Betreten des Servers erhältst du 30min Flugzeit.\
 Weitere Flugzeit kannst du durch [!badge icon="thumbsup" text="Voten"](/allgemeines/voten.md) erhalten:
 - Spieler erhalten 10min Flugzeit pro Vote,
 - Siedler erhalten 20min Flugzeit pro Vote,
