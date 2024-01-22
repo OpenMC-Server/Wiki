@@ -47,3 +47,6 @@ Blockiert alle eingehenden TPA-Anfragen.
 
 [!badge variant="ghost" text="/tpalock off"]\
 Aktiviert alle eingehenden TPA-Anfragen.
+
+## PlayerWarps
+Siehe [!badge icon="star" text="PlayerWarps"](/fortbewegung/playerwarps.md).
