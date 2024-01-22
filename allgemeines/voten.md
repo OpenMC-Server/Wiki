@@ -24,17 +24,10 @@ Dort kannst du auch deinen persönlichen Votelink kopieren und z.B. für unterwe
 Je Vote erhältst du:
 
 {.compact}
-Rang                      | VoteCoins | Flugzeit
-:---:                     | :---:     | :---:
-Spieler                   | 1         | 10min
-Spieler mit Plus-Upgrade  | 3         | 10min
-VIP                       | 1         | ∞
-VIP mit Plus-Upgrade      | 3         | ∞
-Siedler                   | 2         | 20min
-Siedler mit Plus-Upgrade  | 3         | 20min
-VIS                       | 2         | ∞
-VIS mit Plus-Upgrade      | 3         | ∞
-Champion                  | 4         | ∞
+Feature                     | Spieler | Siedler | VIP   | VIS   | + Upgrade | Champion
+:---:                       | :---:   | :---:   | :---: | :---: | :---:     | :---:
+VoteCoins (pro Vote)        | 1       | 2       | 1     | 2     | 3         | 4
+Flugzeit (in Min, pro Vote) | 10      | 20      | ∞     | ∞     |           | ∞
 
 ## VoteStreak
 Mit der VoteStreak wird tägliches Voten belohnt! Mit jedem Tag, an dem du auf mindestens einer Seite gevotet hast, steigt die VoteStreak um 1 an. Je länger du also am Stück votest, desto höhere, bessere und einzigartigere Belohnungen bekommst du! Die erste Belohnung erhältst du an Tag 4, anschließend folgen täglich neue Belohnungen.
