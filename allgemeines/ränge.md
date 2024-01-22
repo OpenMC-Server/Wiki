@@ -62,4 +62,4 @@ Partikel                    |         |         | ✓     | ✓     |           
 ¹ Auch beim Wechsel auf einen niedrigeren Rang bleiben bereits gesetzte Homes erhalten, können aber nicht mehr umgesetzt werden.\
 ² Auch beim Wechsel auf einen niedrigeren Rang bleiben bereits gespeicherte Pets erhalten, können aber nicht mehr eingelagert werden.\
 ³ Auch beim Wechsel auf einen niedrigeren Rang bleiben bereits angenommene Jobs erhalten, können aber nicht mehr gewechselt werden.\
-⁴ Auch beim Wechsel auf einen niedrigeren Rang bleiben bereits gesetzte PlayerWarps erhalten.\
+⁴ Auch beim Wechsel auf einen niedrigeren Rang bleiben bereits gesetzte PlayerWarps erhalten.
