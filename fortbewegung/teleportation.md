@@ -11,7 +11,15 @@ Damit du schneller an dein Ziel kommst, kannst du dich auf verschiedene Arten te
 
 ## Homes
 [!badge variant="ghost" text="/sethome <homename>"]\
-Setzt ein Home. Dabei wird der genaue Ort und die Blickrichtung gespeichert.
+Setzt ein Home. Dabei wird dein aktueller Ort und die Blickrichtung gespeichert.\
+Wie viele Homes du setzen kannst, kannst du der folgenden Tabelle entnehmen:
+
+{.compact}
+Feature                     | Spieler | Siedler | VIP   | VIS   | + Upgrade | Champion
+:---:                       | :---:   | :---:   | :---: | :---: | :---:     | :---:
+Homes¹                      | 10      | 30      | 50    | 50    |           | 50
+
+¹ Auch beim Wechsel auf einen niedrigeren Rang bleiben bereits gesetzte Homes erhalten.
 
 [!badge variant="ghost" text="/home <homename>"]\
 Teleportiert dich zum angegebenen Home.
@@ -47,6 +55,3 @@ Blockiert alle eingehenden TPA-Anfragen.
 
 [!badge variant="ghost" text="/tpalock off"]\
 Aktiviert alle eingehenden TPA-Anfragen.
-
-## PlayerWarps
-Siehe [!badge icon="star" text="PlayerWarps"](/fortbewegung/playerwarps.md).

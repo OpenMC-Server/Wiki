@@ -35,8 +35,6 @@ Der Champion Rang wird für 30 Tage vergeben, wenn ein Spieler das Bauevent gewi
 ### :busts_in_silhouette: Mod / Admin / Owner
 Dies sind die Ränge des Teams und beschreiben die Rollen des Moderators, Admins und Owners.
 
----
-
 ## Vorteile
 Diese Vorteile sind in den jeweiligen Rängen enthalten:
 
@@ -44,10 +42,10 @@ Feature                     | Spieler | Siedler | VIP   | VIS   | + Upgrade | Ch
 :---:                       | :---:   | :---:   | :---: | :---: | :---:     | :---:
 VoteCoins (pro Vote)        | 1       | 2       | 1     | 2     | 3         | 4
 Flugzeit (in Min, pro Vote) | 10      | 20      | ∞     | ∞     |           | ∞
-Homes                       | 10      | 30      | 50    | 50    |           | 50
-Pets                        | 5       | 20      | 30    | 30    |           | 30
-Jobs                        | 1       | 2       | 3     | 3     |           | 3
-PlayerWarps                 | 1       | 2       | 1     | 2     | 5         | 5
+Homes¹                      | 10      | 30      | 50    | 50    |           | 50
+Pets²                       | 5       | 20      | 30    | 30    |           | 30
+Jobs³                       | 1       | 2       | 3     | 3     |           | 3
+PlayerWarps⁴                | 1       | 2       | 1     | 2     | 5         | 5
 Colorcodes                  |         |         | ✓     | ✓     |           | ✓
 Links im Chat               |         | ✓       | ✓     | ✓     | ✓         | ✓
 Armorstands                 |         |         | ✓     | ✓     |           | ✓
@@ -60,3 +58,8 @@ Partikel                    |         |         | ✓     | ✓     |           
 /hat                        |         | ✓       | ✓     | ✓     |           | ✓
 /heal                       |         |         |       |       | ✓         | ✓
 /ptime & /pweather          |         |         | ✓     | ✓     |           | ✓
+
+¹ Auch beim Wechsel auf einen niedrigeren Rang bleiben bereits gesetzte Homes erhalten, können aber nicht mehr umgesetzt werden.
+² Auch beim Wechsel auf einen niedrigeren Rang bleiben bereits gespeicherte Pets erhalten, können aber nicht mehr eingelagert werden.
+³ Auch beim Wechsel auf einen niedrigeren Rang bleiben bereits angenommene Jobs erhalten, können aber nicht mehr gewechselt werden.
+⁴ Auch beim Wechsel auf einen niedrigeren Rang bleiben bereits gesetzte PlayerWarps erhalten.
