@@ -55,10 +55,10 @@ Die VoteChests, auch Votekisten genannt, sind der einzige Weg, um Votecoins ausz
 `/vc top`\
 Zeigt die Spieler, die die meisten VoteCoins besitzen.
 
-[!badge variant="ghost" text="/vc balance (spielername)"]\
+`/vc balance <spielername>`\
 Zeigt die Anzahl an VoteCoins, die diese Person besitzt. Dieser Befehl kann nur verwendet werden, wenn die Person online ist und sich auf dem gleichen Server (Bauwelt, Farmwelt, Industriewelt, Eventwelt) wie du befindet.
 
-[!badge variant="ghost" text="/vc send (spielername) (anzahl)"]\
+`/vc send <spielername> <anzahl>`\
 Mit diesem Befehl kannst du eine beliebige Anzahl an Votecoins an eine andere Person schicken. Dieser Befehl kann ebenfalls nur verwendet werden, wenn die Person online ist und sich auf dem gleichen Server (Bauwelt, Farmwelt, Industriewelt, Eventwelt) wie du befindet.
 
 ### Wahrscheinlichkeiten
