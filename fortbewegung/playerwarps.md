@@ -43,7 +43,7 @@ Entfernt den angegebenen PlayerWarp.
 [!badge variant="ghost" text="/pwarp amount"]\
 Zeigt die Anzahl an PlayerWarps an, die du noch erstellen kannst.
 
-[!badge variant="ghost" text="/pwarp reset (warpname)"]\
+[!badge variant="ghost" text="/pwarp reset <<warpname>>"]\
 Setzt den PlayerWarp an die Stelle um, an der du stehst.
 
 [!badge variant="ghost" text="/pwarp desc set <warpname> <beschreibung>"]\
