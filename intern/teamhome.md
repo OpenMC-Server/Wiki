@@ -2,7 +2,7 @@
 label: Home
 layout: default
 order: 99
-icon: house
+icon: home
 ---
 
 # Home Teambereich
