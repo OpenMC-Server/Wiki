@@ -53,5 +53,5 @@ Partikel                    |         |         | ✓     | ✓     |           
 /anvil                      |         |         | ✓     | ✓     |           | ✓
 /nick                       |         |         | ✓     | ✓     |           | ✓
 /hat                        |         | ✓       | ✓     | ✓     |           | ✓
-/heal                       |         |         |       |       |  ✓        | ✓
+/heal                       |         |         |       |       | ✓         | ✓
 /ptime & /pweather          |         |         | ✓     | ✓     |           | ✓
