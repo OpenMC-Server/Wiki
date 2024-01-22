@@ -10,7 +10,7 @@ icon: paper-airplane
 Damit du schneller an dein Ziel kommst, kannst du dich auf verschiedene Arten teleportieren.
 
 ## Homes
-[!badge variant="ghost" text="/sethome <homename>"]\
+[!badge variant="ghost" text="/sethome (homename)"]\
 Setzt ein Home. Dabei wird dein aktueller Ort und die Blickrichtung gespeichert.\
 Wie viele Homes du setzen kannst, kannst du der folgenden Tabelle entnehmen:
 
@@ -21,10 +21,10 @@ Homes¹                      | 10      | 30      | 50    | 50    |           | 5
 
 ¹ Auch beim Wechsel auf einen niedrigeren Rang bleiben bereits gesetzte Homes erhalten.
 
-[!badge variant="ghost" text="/home <homename>"]\
+[!badge variant="ghost" text="/home (homename)"]\
 Teleportiert dich zum angegebenen Home.
 
-[!badge variant="ghost" text="/delhome <homename>"]\
+[!badge variant="ghost" text="/delhome (homename)"]\
 Löscht das angegebene Home.
 
 [!badge variant="ghost" text="/homes"]\
@@ -34,14 +34,14 @@ Zeigt alle deine Homes an.
 [!badge variant="ghost" text="/warps"]\
 Zeigt alle verfügbaren Warps an.
 
-[!badge variant="ghost" text="/warp <warpname>"]\
+[!badge variant="ghost" text="/warp (warpname)"]\
 Teleportiert dich zum angegebenen Warp.
 
 ## Spielerteleportation
-[!badge variant="ghost" text="/tpa <spieler>"]\
+[!badge variant="ghost" text="/tpa (spieler)"]\
 Sendet eine Teleportationsanfrage an den angegebenen Spieler.
 
-[!badge variant="ghost" text="/tpahere <spieler>"]\
+[!badge variant="ghost" text="/tpahere (spieler)"]\
 Sendet eine Anfrage an den angegebenen Spieler, sich zu dir zu teleportieren.
 
 [!badge variant="ghost" text="/tpaccept"]\
