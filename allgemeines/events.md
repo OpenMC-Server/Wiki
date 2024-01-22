@@ -124,6 +124,7 @@ Um die Belohnungen zu erhalten, muss ein Slot im Inventar freigehalten werden.
 Es wird ein Gutschein, der alle Belohnungen enthält (kann per Rechtsklick eingelöst werden) vergeben.\
 Die ersten drei Plätze erhalten nach dem Event eine einzigartige Trophäe, die den Sieg des Events würdigt.
 
+---
 
 ## Kit-Mobevent
 !!!danger Aktuell nicht verfügbar.
@@ -140,6 +141,7 @@ Sowohl die Teilnahmebedingungen, als auch die Belohnungen des Kit-Mobevents sind
 ### Nutzung von Fähigkeiten
 Deine Fähigkeiten im Kit-Mobevent liegen üblicherweise immer auf dem zweiten und dritten Slot deiner Hotbar. Um sie zu verwenden, solltest du abhängig von den Fähigkeiten die Taste 2 oder 3 auf der Tastatur betätigen. Während des ganzen Events wird das Inventar den Spieler bewusst von diesen zwei Slots wieder zu seinem Ursprungsslot führen, somit sind hier wirklich nur die Fähigkeiten ausführbar. Du hast eine Fähigkeit erfolgreich verwendet, wenn das Fähigkeits-Icon beginnt einen Cooldown im Inventar runterzuzählen.
 
+---
 
 ## End-Reset
 
@@ -158,11 +160,17 @@ Der genaue Zeitpunkt wird einige Tage vor dem End-Reset im Discord verkündet.
 - Weitere Mobs unterstützen den Enderdrachen in seinem Kampf.
 - Ein Teleport-Delay ist aktiv und bestimmte Funktionen sind nicht verfügbar.
 
+---
+
 ## Spleef
 todo
 
+---
+
 ## Paintball
 todo
+
+---
 
 ## Schach
 ### Über das Spiel

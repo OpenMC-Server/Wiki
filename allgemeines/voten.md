@@ -36,7 +36,6 @@ VIS                       | 2         | ∞
 VIS mit Plus-Upgrade      | 3         | ∞
 Champion                  | 4         | ∞
 
-
 ## VoteStreak
 Mit der VoteStreak wird tägliches Voten belohnt! Mit jedem Tag, an dem du auf mindestens einer Seite gevotet hast, steigt die VoteStreak um 1 an. Je länger du also am Stück votest, desto höhere, bessere und einzigartigere Belohnungen bekommst du! Die erste Belohnung erhältst du an Tag 4, anschließend folgen täglich neue Belohnungen.
 
@@ -48,7 +47,6 @@ Nutze [!badge variant="ghost" text="/vote"] und bewege die Maus über deinen Kop
 - Votes, welche von den Voteseiten nicht erfolgreich registriert wurden sowie Votes ohne oder mit falschem Namen können von uns leider nicht berücksichtigt werden.
 - Bei vollem Inventar droppen Votebelohnungen auf den Boden.
 - Die VoteStreak-Belohnungen können vorab nicht eingesehen werden.
-
 
 ## VoteChests/VoteCoins
 Die VoteChests, auch Votekisten genannt, sind der einzige Weg, um Votecoins auszugeben. Mit [!badge variant="ghost" text="/vote"] kommst du in das Menü, in dem du Keys (Schlüssel) für die VoteChests kaufen kannst. Diese stehen am Spawn ([!badge variant="ghost" text="/spawn"]  oder [!badge variant="ghost" text="/warp vote"]). Durch Rechtsklick mit einem Key auf die zugehörige VoteChest wird diese geöffnet. Die Wahrscheinlichkeiten der einzelnen Gewinne aus den VoteChests sind unten aufgelistet. Du kannst diese Wahrscheinlichkeiten ebenfalls in der VoteChest selbst ansehen, indem du auf diese linksklickst.

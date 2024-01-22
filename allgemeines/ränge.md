@@ -35,6 +35,8 @@ Der Champion Rang wird für 30 Tage vergeben, wenn ein Spieler das Bauevent gewi
 ### :busts_in_silhouette: Mod / Admin / Owner
 Dies sind die Ränge des Teams und beschreiben die Rollen des Moderators, Admins und Owners.
 
+---
+
 ## Vorteile
 Diese Vorteile sind in den jeweiligen Rängen enthalten:
 
