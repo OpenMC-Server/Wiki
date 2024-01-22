@@ -24,4 +24,4 @@ Des Weiteren muss folgendes zutreffen:
 
 In jedem Fall wird das Team entscheiden, ob ein AdminClaims vergeben wird oder nicht. Selbst wenn alle Kriterien erfüllt sind bedeutet das nicht automatisch, dass wir auch einen AdminClaim vergeben.
 
-Des Weiteren behalten wir uns vor, jederzeit AdminClaims aufzuheben, sollten wir über einen längeren Zeitraum keinen erkennbaren Fortschritt an dem Projekt sehen.
+Wir behalten uns vor, jederzeit AdminClaims aufzuheben, sollten wir über einen längeren Zeitraum keinen erkennbaren Fortschritt an dem Projekt sehen.
