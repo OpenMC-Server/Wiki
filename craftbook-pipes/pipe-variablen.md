@@ -1032,165 +1032,165 @@ Um nach Kategorien zu suchen, kannst du die Suchfunktion der Seite oder das Inha
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
 | ---                                               | ---                                       | ---                   | ---           |
-| Fackel                              | torch                                 | %torch%            | 50            |
-| Seelenfackel                        | soul\_torch                           | %soul\_torch%      | %iq%          |
-| Laterne                             | lantern                               | %lantern%          | %ir%          |
-| Seelenlaterne                       | soul\_lantern                         | %soul\_lantern%    | %is%          |
-| Redstone-Lampe                      | redstone\_lamp                        | %redstlamp%        | 123           |
-| Seelaterne                          | sea\_lantern                          | %sealantern%       | 169           |
-| Glowstone-Staub                     | glowstone\_dust                       | %glowstone\_dst%   | 348           |
-| Glowstone                           | glowstone                             | %glowstone%        | 89            |
-| Pilzlicht                           | shroomlight                           | %shroomlight%      | %it%          |
-| Endstab                             | end\_rod                              | %endrod%           | 198           |
-| Ockernes Froschlicht           			| ochre_froglight                    		| %froglight_och%  	 | %e7% 				 |
-| Junggrünes Froschlicht 							| verdant_froglight                     | %froglight_ver% 	 | %f5% 				 |
-| Perlmutternes Froschlicht 					| pearlescent_froglight                 | %froglight_pea%  	 | %f1% 				 |
+| Fackel                                            | torch                                     | %torch%               | 50            |
+| Seelenfackel                                      | soul\_torch                               | %soul\_torch%         | %iq%          |
+| Laterne                                           | lantern                                   | %lantern%             | %ir%          |
+| Seelenlaterne                                     | soul\_lantern                             | %soul\_lantern%       | %is%          |
+| Redstone-Lampe                                    | redstone\_lamp                            | %redstlamp%           | 123           |
+| Seelaterne                                        | sea\_lantern                              | %sealantern%          | 169           |
+| Glowstone-Staub                                   | glowstone\_dust                           | %glowstone\_dst%      | 348           |
+| Glowstone                                         | glowstone                                 | %glowstone%           | 89            |
+| Pilzlicht                                         | shroomlight                               | %shroomlight%         | %it%          |
+| Endstab                                           | end\_rod                                  | %endrod%              | 198           |
+| Ockernes Froschlicht           			        | ochre_froglight                    		| %froglight_och%  	    | %e7% 			|
+| Junggrünes Froschlicht 							| verdant_froglight                         | %froglight_ver% 	    | %f5% 			|
+| Perlmutternes Froschlicht 					    | pearlescent_froglight                     | %froglight_pea%  	    | %f1% 			|
 
 ### Gras und Vergleichbares
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
 | ---                                               | ---                                       | ---                   | ---           |
-| Gras                                | grass                                 | %grassplant%       | 31:1          |
-| Hohes Gras                          | tall\_grass                           | %t\_grassplant%    | %iu%          |
-| Farn                                | fern                                  | %fern%             | 31:2          |
-| Großer Farn                         | large\_fern                           | %t\_fern%          | %iv%          |
-| Toter Busch                         | dead\_bush                            | %deadbush%         | 32            |
-| Seerosenblatt                       | lily\_pad                             | %lilypad%          | 111           |
-| Seegras                             | seagrass                              | %seagrass%         | %iw%          |
-| Nethersprossen                      | nether\_sprouts                       | %nsprouts%         | %iy%          |
-| Karmesinwurzeln                     | crimson\_roots                        | %crimsonroots%     | %iz%          |
-| Wirrwurzeln                         | warped\_roots                         | %warpedroots%      | %jg%          |
-| Großes Tropfblatt 									| big_dripleaf 													| %big_dripl% 			 | %qp% 				 |
-| Kleines Tropfblatt 									| small_dripleaf 												| %small_dripl% 		 | %qq% 				 |
-| Sporenblüte 												| spore_blossom 												| %spore_bl% 				 | %rc% 				 |
-| Rosa Blütenblätter									| pink_petals														| %pnk_petals%			 | %ach%				 |
+| Gras                                              | grass                                     | %grassplant%          | 31:1          |
+| Hohes Gras                                        | tall\_grass                               | %t\_grassplant%       | %iu%          |
+| Farn                                              | fern                                      | %fern%                | 31:2          |
+| Großer Farn                                       | large\_fern                               | %t\_fern%             | %iv%          |
+| Toter Busch                                       | dead\_bush                                | %deadbush%            | 32            |
+| Seerosenblatt                                     | lily\_pad                                 | %lilypad%             | 111           |
+| Seegras                                           | seagrass                                  | %seagrass%            | %iw%          |
+| Nethersprossen                                    | nether\_sprouts                           | %nsprouts%            | %iy%          |
+| Karmesinwurzeln                                   | crimson\_roots                            | %crimsonroots%        | %iz%          |
+| Wirrwurzeln                                       | warped\_roots                             | %warpedroots%         | %jg%          |
+| Großes Tropfblatt 								| big_dripleaf 								| %big_dripl% 			| %qp% 			|
+| Kleines Tropfblatt 								| small_dripleaf 							| %small_dripl% 		| %qq% 			|
+| Sporenblüte 										| spore_blossom 							| %spore_bl% 			| %rc% 			|
+| Rosa Blütenblätter							    | pink_petals								| %pnk_petals%			| %ach%			|
 
 ### Blumen
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
 | ---                                               | ---                                       | ---                   | ---           |
-| Löwenzahn                           | dandelion                             | %dandelion%        | 37            |
-| Mohn                                | poppy                                 | %poppy%            | 38            |
-| Blaue Orchidee                      | blue\_orchid                          | %blueorchid%       | 38:1          |
-| Sternlauch                          | allium                                | %allium%           | 38:2          |
-| Porzellansternchen                  | azure\_bluet                          | %azurebluet%       | 38:3          |
-| Rote Tulpe                          | red\_tulip                            | %tulip\_red%       | 38:4          |
-| Orange Tulpe                        | orange\_tulip                         | %tulip\_ora%       | 38:5          |
-| Weiße Tulpe                         | white\_tulip                          | %tulip\_whi%       | 38:6          |
-| Rosa Tulpe                          | pink\_tulip                           | %tulip\_pnk%       | 38:7          |
-| Margerite                           | oxeye\_daisy                          | %oxeyedaisy%       | 38:8          |
-| Kornblume                           | cornflower                            | %cornflower%       | %jh%          |
-| Maiglöckchen                        | lily\_of\_the\_valley                 | %lilyofvalley%     | %ji%          |
-| Witherrose                          | wither\_rose                          | %witherrose%       | %jj%          |
-| Sonnenblume                         | sunflower                             | %sunflower%        | %jk%          |
-| Flieder                             | lilac                                 | %lilac%            | %jl%          |
-| Rosenstrauch                        | rose\_bush                            | %rosebush%         | %jm%          |
-| Pfingstrose                         | peony                                 | %peony%            | %jn%          |
+| Löwenzahn                                         | dandelion                                 | %dandelion%           | 37            |
+| Mohn                                              | poppy                                     | %poppy%               | 38            |
+| Blaue Orchidee                                    | blue\_orchid                              | %blueorchid%          | 38:1          |
+| Sternlauch                                        | allium                                    | %allium%              | 38:2          |
+| Porzellansternchen                                | azure\_bluet                              | %azurebluet%          | 38:3          |
+| Rote Tulpe                                        | red\_tulip                                | %tulip\_red%          | 38:4          |
+| Orange Tulpe                                      | orange\_tulip                             | %tulip\_ora%          | 38:5          |
+| Weiße Tulpe                                       | white\_tulip                              | %tulip\_whi%          | 38:6          |
+| Rosa Tulpe                                        | pink\_tulip                               | %tulip\_pnk%          | 38:7          |
+| Margerite                                         | oxeye\_daisy                              | %oxeyedaisy%          | 38:8          |
+| Kornblume                                         | cornflower                                | %cornflower%          | %jh%          |
+| Maiglöckchen                                      | lily\_of\_the\_valley                     | %lilyofvalley%        | %ji%          |
+| Witherrose                                        | wither\_rose                              | %witherrose%          | %jj%          |
+| Sonnenblume                                       | sunflower                                 | %sunflower%           | %jk%          |
+| Flieder                                           | lilac                                     | %lilac%               | %jl%          |
+| Rosenstrauch                                      | rose\_bush                                | %rosebush%            | %jm%          |
+| Pfingstrose                                       | peony                                     | %peony%               | %jn%          |
 
 ### Bienen
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
 | ---                                               | ---                                       | ---                   | ---           |
-| Bienennest                          | bee\_nest                             | %beenest%          | %jo%          |
-| Bienenstock                         | beehive                               | %beehive%          | %jp%          |
-| Honigblock                          | honey\_block                          | %honey\_bl%        | %jq%          |
-| Honigwabe                           | honeycomb                             | %honeycomb%        | %jr%          |
-| Honigwabenblock                     | honeycomb\_block                      | %honeycomb\_bl%    | %js%          |
+| Bienennest                                        | bee\_nest                                 | %beenest%             | %jo%          |
+| Bienenstock                                       | beehive                                   | %beehive%             | %jp%          |
+| Honigblock                                        | honey\_block                              | %honey\_bl%           | %jq%          |
+| Honigwabe                                         | honeycomb                                 | %honeycomb%           | %jr%          |
+| Honigwabenblock                                   | honeycomb\_block                          | %honeycomb\_bl%       | %js%          |
 
 ### Essbare Pflanzen
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
 | ---                                               | ---                                       | ---                   | ---           |
-| Apfel                               | apple                                 | %apple%            | 260           |
-| Goldener Apfel                      | golden\_apple                         | %gold\_apple%      | 322           |
-| Goldener Apfel (verzaubert)         | enchanted\_golden\_apple              | %notch\_apple%     | %n%           |
-| Kartoffel                           | potato                                | %potatp%           | 392           |
-| Ofenkartoffel                       | baked\_potato                         | %baked\_potato%    | 393           |
-| Vergiftete Kartoffel                | poisonous\_potato                     | %poison\_potato%   | 394           |
-| Karotte                             | carrot                                | %carrot%           | 391           |
-| Karottenrute                        | carrot\_on\_a\_stick                  | %carrot\_sti%      | 398           |
-| Goldene Karotte                     | golden\_carrot                        | %gold\_carrot%     | 396           |
-| Rote Bete                           | beetroot                              | %beetroot%         | 434           |
-| Rote-Bete-Samen                     | beetroot\_seeds                       | %beetroot\_seed%   | 435           |
-| Borschtsch                          | beetroot\_soup                        | %soup\_beetroot%   | 436           |
-| Weizen                              | wheat                                 | %wheat%            | 296           |
-| Weizensamen                         | wheat\_seeds                          | %wheat\_seed%      | 295           |
-| Strohballen                         | hay\_block                            | %wheat\_bl%        | 170           |
-| Brot                                | bread                                 | %bread%            | 297           |
-| Melone                              | melon                                 | %melon\_bl%        | 103           |
-| Melonenscheibe                      | melon\_slice                          | %melon%            | 360           |
-| Melonensamen                        | melon\_seeds                          | %melon\_seed%      | 362           |
-| Glitzernde Melonenscheibe           | glistering\_melon\_slice              | %gold\_melon%      | 382           |
-| Kürbis                              | pumpkin                               | %pumpkin%          | %nz%          |
-| Geschnitzter Kürbis                 | carved\_pumpkin                       | %carv\_pumpkin%    | 86            |
-| Kürbissamen                         | pumpkin\_seeds                        | %pumpkin\_seed%    | 361           |
-| Kürbiskuchen                        | pumpkin\_pie                          | %pumpkin\_pie%     | 400           |
-| Jack-O-Laterne                      | jack\_o\_lantern                      | %lit\_pumpkin%     | 91            |
-| Kakaobohnen                         | cocoa\_beans                          | %cocoabeans%       | %k%           |
-| Keks                                | cookie                                | %cookie%           | 357           |
-| Süßbeeren                           | sweet\_berries                        | %berries%          | %jt%          |
-| Leuchtbeeren 												| glow_berries 													| %gl_berries% 			 | %ri% 				 |
-| Seetang                             | kelp                                  | %kelp%             | %ju%          |
-| Getrockneter Seetang                | dried\_kelp                           | %dried\_kelp%      | %jv%          |
-| Getrockneter Seetangblock           | dried\_kelp\_block                    | %dried\_kelp\_bl%  | %jw%          |
-| Chorusblüte                         | chorus\_flower                        | %chorus\_flower%   | 200           |
-| Chorusfrucht                        | chorus\_fruit                         | %chorus\_frt%      | 432           |
-| Geplatzte Chorusfrucht              | popped\_chorus\_fruit                 | %pp\_chorus\_frt%  | 433           |
-| Kannenpflanze												| pitcher_plant													| %pitcherplant%		 | %aci% 				 |
-| Kannenpflanzenkapsel							  | pitcher_pod														| %pitcherpod%			 | %aco% 				 |
-| Fackellilie													| torchflower														| %torchflower%			 | %acm% 				 |
-| Fackelliliensamen										| torchflower_seeds											| %tflower_seed%		 | %acp% 				 |
+| Apfel                                             | apple                                     | %apple%               | 260           |
+| Goldener Apfel                                    | golden\_apple                             | %gold\_apple%         | 322           |
+| Goldener Apfel (verzaubert)                       | enchanted\_golden\_apple                  | %notch\_apple%        | %n%           |
+| Kartoffel                                         | potato                                    | %potatp%              | 392           |
+| Ofenkartoffel                                     | baked\_potato                             | %baked\_potato%       | 393           |
+| Vergiftete Kartoffel                              | poisonous\_potato                         | %poison\_potato%      | 394           |
+| Karotte                                           | carrot                                    | %carrot%              | 391           |
+| Karottenrute                                      | carrot\_on\_a\_stick                      | %carrot\_sti%         | 398           |
+| Goldene Karotte                                   | golden\_carrot                            | %gold\_carrot%        | 396           |
+| Rote Bete                                         | beetroot                                  | %beetroot%            | 434           |
+| Rote-Bete-Samen                                   | beetroot\_seeds                           | %beetroot\_seed%      | 435           |
+| Borschtsch                                        | beetroot\_soup                            | %soup\_beetroot%      | 436           |
+| Weizen                                            | wheat                                     | %wheat%               | 296           |
+| Weizensamen                                       | wheat\_seeds                              | %wheat\_seed%         | 295           |
+| Strohballen                                       | hay\_block                                | %wheat\_bl%           | 170           |
+| Brot                                              | bread                                     | %bread%               | 297           |
+| Melone                                            | melon                                     | %melon\_bl%           | 103           |
+| Melonenscheibe                                    | melon\_slice                              | %melon%               | 360           |
+| Melonensamen                                      | melon\_seeds                              | %melon\_seed%         | 362           |
+| Glitzernde Melonenscheibe                         | glistering\_melon\_slice                  | %gold\_melon%         | 382           |
+| Kürbis                                            | pumpkin                                   | %pumpkin%             | %nz%          |
+| Geschnitzter Kürbis                               | carved\_pumpkin                           | %carv\_pumpkin%       | 86            |
+| Kürbissamen                                       | pumpkin\_seeds                            | %pumpkin\_seed%       | 361           |
+| Kürbiskuchen                                      | pumpkin\_pie                              | %pumpkin\_pie%        | 400           |
+| Jack-O-Laterne                                    | jack\_o\_lantern                          | %lit\_pumpkin%        | 91            |
+| Kakaobohnen                                       | cocoa\_beans                              | %cocoabeans%          | %k%           |
+| Keks                                              | cookie                                    | %cookie%              | 357           |
+| Süßbeeren                                         | sweet\_berries                            | %berries%             | %jt%          |
+| Leuchtbeeren 										| glow_berries 								| %gl_berries% 			| %ri% 			|
+| Seetang                                           | kelp                                      | %kelp%                | %ju%          |
+| Getrockneter Seetang                              | dried\_kelp                               | %dried\_kelp%         | %jv%          |
+| Getrockneter Seetangblock                         | dried\_kelp\_block                        | %dried\_kelp\_bl%     | %jw%          |
+| Chorusblüte                                       | chorus\_flower                            | %chorus\_flower%      | 200           |
+| Chorusfrucht                                      | chorus\_fruit                             | %chorus\_frt%         | 432           |
+| Geplatzte Chorusfrucht                            | popped\_chorus\_fruit                     | %pp\_chorus\_frt%     | 433           |
+| Kannenpflanze										| pitcher_plant								| %pitcherplant%		| %aci% 	    |
+| Kannenpflanzenkapsel							    | pitcher_pod								| %pitcherpod%			| %aco% 		|
+| Fackellilie										| torchflower								| %torchflower%			| %acm% 		|
+| Fackelliliensamen									| torchflower_seeds							| %tflower_seed%		| %acp% 		|
 
 ### Fleisch und Kuchen
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
 | ---                                               | ---                                       | ---                   | ---           |
-| Rohes Rindfleisch                   | beef                                  | %beef%             | 363           |
-| Gebratenes Rindfleisch              | cooked\_beef                          | %ck\_beef%         | 364           |
-| Rohes Hühnchen                      | chicken                               | %chicken%          | 365           |
-| Gebratenes Hühnchen                 | cooked\_chicken                       | %ck\_chicken%      | 366           |
-| Rohes Schweinefleisch               | porkchop                              | %porkchop%         | 319           |
-| Gebratenes Schweinefleisch          | cooked\_porkchop                      | %ck\_porkchop%     | 320           |
-| Rohes Hammelfleisch                 | mutton                                | %mutton%           | 423           |
-| Gebratenes Hammelfleisch            | cooked\_mutton                        | %ck\_mutton%       | 424           |
-| Rohes Kaninchen                     | rabbit                                | %rabbit%           | 411           |
-| Gebratenes Kaninchen                | cooked\_rabbit                        | %ck\_rabbit%       | 412           |
-| Roher Kabeljau                      | cod                                   | %cod%              | 349           |
-| Gebratener Kabeljau                 | cooked\_cod                           | %ck\_cod%          | 350           |
-| Roher Lachs                         | salmon                                | %salmon%           | %l%           |
-| Gebratener Lachs                    | cooked\_salmon                        | %ck\_salmon%       | %i%           |
-| Kugelfisch                          | pufferfish                            | %pufferfish%       | %x%           |
-| Tropenfisch                         | tropical\_fish                        | %tropicalfish%     | %w%           |
-| Ei                                  | egg                                   | %egg%              | 344           |
-| Kuchen                              | cake                                  | %cake%             | 354           |
+| Rohes Rindfleisch                                 | beef                                      | %beef%                | 363           |
+| Gebratenes Rindfleisch                            | cooked\_beef                              | %ck\_beef%            | 364           |
+| Rohes Hühnchen                                    | chicken                                   | %chicken%             | 365           |
+| Gebratenes Hühnchen                               | cooked\_chicken                           | %ck\_chicken%         | 366           |
+| Rohes Schweinefleisch                             | porkchop                                  | %porkchop%            | 319           |
+| Gebratenes Schweinefleisch                        | cooked\_porkchop                          | %ck\_porkchop%        | 320           |
+| Rohes Hammelfleisch                               | mutton                                    | %mutton%              | 423           |
+| Gebratenes Hammelfleisch                          | cooked\_mutton                            | %ck\_mutton%          | 424           |
+| Rohes Kaninchen                                   | rabbit                                    | %rabbit%              | 411           |
+| Gebratenes Kaninchen                              | cooked\_rabbit                            | %ck\_rabbit%          | 412           |
+| Roher Kabeljau                                    | cod                                       | %cod%                 | 349           |
+| Gebratener Kabeljau                               | cooked\_cod                               | %ck\_cod%             | 350           |
+| Roher Lachs                                       | salmon                                    | %salmon%              | %l%           |
+| Gebratener Lachs                                  | cooked\_salmon                            | %ck\_salmon%          | %i%           |
+| Kugelfisch                                        | pufferfish                                | %pufferfish%          | %x%           |
+| Tropenfisch                                       | tropical\_fish                            | %tropicalfish%        | %w%           |
+| Ei                                                | egg                                       | %egg%                 | 344           |
+| Kuchen                                            | cake                                      | %cake%                | 354           |
 
 ### Nicht essbare Pflanzen
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
 | ---                                               | ---                                       | ---                   | ---           |
-| Zuckerrohr                          | sugar\_cane                           | %sugarcane%        | 338           |
-| Zucker                              | sugar                                 | %sugar%            | 353           |
-| Bambus                              | bamboo                                | %bamboo%           | %jx%          |
-| Kaktus                              | cactus                                | %cactus%           | 81            |
-| Meeresgurke                         | sea\_pickle                           | %seapickle%        | %jy%          |
-| Ranken                              | vine                                  | %vine%             | 106           |
-| Zwirbelranken                       | twisting\_vines                       | %twist\_vine%      | %jz%          |
-| Trauerranken                        | weeping\_vines                        | %weep\_vine%       | %kg%          |
-| Leuchtflechte 											| glow_lichen 													| %gl_lichen% 			 | %qu% 				 |
-| Hängewurzeln 												| hanging_roots 												| %hang_roots% 			 | %qv% 				 |
-| Netherwarze                         | nether\_wart                          | %netwart%          | 372           |
-| Roter Pilz                          | red\_mushroom                         | %shroom\_red%      | 40            |
-| Brauner Pilz                        | brown\_mushroom                       | %shroom\_bro%      | 39            |
-| Roter Pilzblock                     | red\_mushroom\_block                  | %shroom\_red\_bl%  | 100           |
-| Brauner Pilzblock                   | brown\_mushroom\_block                | %shroom\_bro\_bl%  | 99            |
-| Pilzstiel                           | mushroom\_stem                        | %shroom\_stem%     | %kh%          |
-| Karmesinpilz                        | crimson\_fungus                       | %crimson\_fu%      | %ki%          |
-| Wirrpilz                            | warped\_fungus                        | %warped\_fu%       | %kj%          |
-| Wirrpilzrute                        | warped\_fungus\_on\_a\_stick          | %warped\_fg\_sti%  | %kk%          |
-| Azalee 															| azalea 																| %azalea% 					 | %gc% 				 |
-| Blühende Azalee 										| flowering_azalea 											| %fl_azalea% 			 | %gd% 				 |
-| Mangrovenwurzeln 										| mangrove_roots                        | %mangrove_rts% 	 	 | %vb% 				 |
-| Schlammige Mangrovenwurzeln 				| muddy_mangrove_roots              		| %mud_mangrove_rts% | %f2% 				 |
+| Zuckerrohr                                        | sugar\_cane                               | %sugarcane%           | 338           |
+| Zucker                                            | sugar                                     | %sugar%               | 353           |
+| Bambus                                            | bamboo                                    | %bamboo%              | %jx%          |
+| Kaktus                                            | cactus                                    | %cactus%              | 81            |
+| Meeresgurke                                       | sea\_pickle                               | %seapickle%           | %jy%          |
+| Ranken                                            | vine                                      | %vine%                | 106           |
+| Zwirbelranken                                     | twisting\_vines                           | %twist\_vine%         | %jz%          |
+| Trauerranken                                      | weeping\_vines                            | %weep\_vine%          | %kg%          |
+| Leuchtflechte 								    | glow_lichen 								| %gl_lichen% 			| %qu% 			|
+| Hängewurzeln 										| hanging_roots 							| %hang_roots% 			| %qv% 			|
+| Netherwarze                                       | nether\_wart                              | %netwart%             | 372           |
+| Roter Pilz                                        | red\_mushroom                             | %shroom\_red%         | 40            |
+| Brauner Pilz                                      | brown\_mushroom                           | %shroom\_bro%         | 39            |
+| Roter Pilzblock                                   | red\_mushroom\_block                      | %shroom\_red\_bl%     | 100           |
+| Brauner Pilzblock                                 | brown\_mushroom\_block                    | %shroom\_bro\_bl%     | 99            |
+| Pilzstiel                                         | mushroom\_stem                            | %shroom\_stem%        | %kh%          |
+| Karmesinpilz                                      | crimson\_fungus                           | %crimson\_fu%         | %ki%          |
+| Wirrpilz                                          | warped\_fungus                            | %warped\_fu%          | %kj%          |
+| Wirrpilzrute                                      | warped\_fungus\_on\_a\_stick              | %warped\_fg\_sti%     | %kk%          |
+| Azalee 											| azalea 									| %azalea% 				| %gc% 			|
+| Blühende Azalee 								    | flowering_azalea 							| %fl_azalea% 			| %gd% 			|
+| Mangrovenwurzeln 									| mangrove_roots                            | %mangrove_rts% 	 	| %vb% 			|
+| Schlammige Mangrovenwurzeln 				        | muddy_mangrove_roots              		| %mud_mangrove_rts%    | %f2% 			|
 
 ### Korallen
 {.compact}
