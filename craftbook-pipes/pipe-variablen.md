@@ -14,7 +14,7 @@ Pipe-Variablen ermöglichen es dir, mit besonders kurzen Schreibweisen mehrere I
 
 ### Baumstämme
 {.compact}
-| Deutscher Item-Name                               | Minecraft-ID                              | Abkürzung             | Kurzform      |
+| Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
 | ---                                               | ---                                       | ---                   | ---           |
 | Eichenstamm                                       | oak\_log                                  | %oak%                 | 17            |
 | Fichtenstamm                                      | spruce\_log                               | %spruce%              | %s%           |
@@ -30,7 +30,7 @@ Pipe-Variablen ermöglichen es dir, mit besonders kurzen Schreibweisen mehrere I
 
 ### Entrindete Baumstämme
 {.compact}
-| Deutscher Item-Name                               | Minecraft-ID                              | Abkürzung             | Kurzform      |
+| Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
 | ---                                               | ---                                       | ---                   | ---           |
 | Entrindeter Eichenstamm                           | stripped\_oak\_log                        | %s\_oak%              | %ai%          |
 | Entrindeter Fichtenstamm                          | stripped\_spruce\_log                     | %s\_spruce%           | %aj%          |
@@ -44,73 +44,93 @@ Pipe-Variablen ermöglichen es dir, mit besonders kurzen Schreibweisen mehrere I
 | Entrindeter Kirschstamm							| stripped\_cherry\_log						| %s\_cherry%		    | %abm%		    |
 | Entrindeter Bambusblock                           | stripped\_bamboo\_block    				| %s\_bamboo%           | %aay%		    |				
 
-### Solide Holzblöcke
+### Holzblöcke
 {.compact}
-| Deutscher Item-Name                               | Minecraft-ID                              | Abkürzung             | Kurzform      |
+| Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
 | ---                                               | ---                                       | ---                   | ---           |
-| Eichenholz                          | oak\_wood                             | %oak\_wd%          | %aq%          |
-| Fichtenholz                         | spruce\_wood                          | %spruce\_wd%       | %ar%          |
-| Birkenholz                          | birch\_wood                           | %birch\_wd%        | %as%          |
-| Tropenholz                          | jungle\_wood                          | %jungle\_wd%       | %at%          |
-| Akazienholz                         | acacia\_wood                          | %acacia\_wd%       | %au%          |
-| Schwarzeichenholz                   | dark\_oak\_wood                       | %darkoak\_wd%      | %av%          |
-| Karmesinhyphen                      | crimson\_hyphae                       | %crimson\_hy%      | %aw%          |
-| Wirrhyphen                          | warped\_hyphae                        | %warped\_hy%       | %ax%          |
-| Mangrovenholz                       | mangrove\_wood                        | %mangrove\_wd%     | %xi%					 |
-| Kirschholz	 												| cherry\_wood													| %cherry\_wd%			 | %abn% 				 |
-|                                     | **Entrindete Holzblöcke**             |
-| Entrindetes Eichenholz              | stripped\_oak\_wood                   | %s\_oak\_wd%       | %ay%          |
-| Entrindetes Fichtenholz             | stripped\_spruce\_wood                | %s\_spruce\_wd%    | %az%          |
-| Entrindetes Birkenholz              | stripped\_birch\_wood                 | %s\_birch\_wd%     | %bg%          |
-| Entrindetes Tropenholz              | stripped\_jungle\_wood                | %s\_jungle\_wd%    | %bh%          |
-| Entrindetes Akazienholz             | stripped\_acacia\_wood                | %s\_acacia\_wd%    | %bi%          |
-| Entrindetes Schwarzeichenholz       | stripped\_dark\_oak\_wood             | %s\_darkoak\_wd%   | %bj%          |
-| Geschälte Karmesinhyphen            | stripped\_crimson\_hyphae             | %s\_crimson\_hy%   | %bk%          |
-| Geschälte Wirrhyphen                | stripped\_warped\_hyphae              | %s\_warped\_hy%    | %bl%          |
-| Entrindetes Mangrovenholz           | stripped\_mangrove_wood               | %s\_mangrove\_wd%  | %xf%					 |
-| Entrindetes Kirschholz							| stripped\_cherry_wood									| %s\_cherry\_wd%		 | %abo%				 |
-|                                     | **Holzbretter und Stöcke**            |
-| Eichenholzbretter                   | oak\_planks                           | %oak\_pl%          | 5             |
-| Fichtenholzbretter                  | spruce\_planks                        | %spruce\_pl%       | 5:1           |
-| Birkenholzbretter                   | birch\_planks                         | %birch\_pl%        | 5:2           |
-| Tropenholzbretter                   | jungle\_planks                        | %jungle\_pl%       | 5:3           |
-| Akazienholzbretter                  | acacia\_planks                        | %acacia\_pl%       | 5:4           |
-| Schwarzeichenholzbretter            | dark\_oak\_planks                     | %darkoak\_pl%      | 5:5           |
-| Karmesinbretter                     | crimson\_planks                       | %crimson\_pl%      | %bn%          |
-| Wirrbretter                         | warped\_planks                        | %warped\_pl%       | %bo%          |
-| Mangrovenholzbretter                | mangrove\_planks                      | %mangrove_pl%      | %xo%				   |
-| Kirschholzbretter                 	| cherry\_planks                       	| %cherry\_pl%       | %abb%		 	   |
-| Bambusbretter                 			| bamboo\_planks                       	| %bamboo\_pl%       | %aal%			   |
-| Bambusmosaik                 				| bamboo\_mosaic                       	| %bamboo\_mo%     	 | %aak%				 |
-| Stock                               | stick                                 | %stick%            | 280           |
-|                                     | **Holzstufen**                        |
-| Eichenholzstufe                     | oak\_slab                             | %oak\_sl%          | 126           |
-| Fichtenholzstufe                    | spruce\_slab                          | %spruce\_sl%       | %v%           |
-| Birkenholzstufe                     | birch\_slab                           | %birch\_sl%        | %e%           |
-| Tropenholzstufe                     | jungle\_slab                          | %jungle\_sl%       | %nx%          |
-| Akazienholzstufe                    | acacia\_slab                          | %acacia\_sl%       | %ny%          |
-| Schwarzeichenholzstufe              | dark\_oak\_slab                       | %darkoak\_sl%      | %y%           |
-| Karmesinstufe                       | crimson\_slab                         | %crimson\_sl%      | %bp%          |
-| Wirrstufe                           | warped\_slab                          | %warped\_sl%       | %bq%          |
-| Mangrovenholzstufe                  | mangrove\_slab                        | %mangrove_sl%      | %xl%					 |
-| Kirschholztufe											| cherry\_slab													| %cherry\_sl%			 | %abd% 				 |
-| Bambusstufe                  				| bamboo\_slab                          | %bamboo\_sl%       | %aap%				 |
-| Bambusmosaikstufe                  	| bamboo\_mosaic\_slab                  | %bamboo\_mo\_sl%   | %aao%				 |
-| Versteinerte Eichenholzstufe        | petrified\_oak\_slab                  | %p\_oak\_sl%       | %a5%					 |
-|                                     | **Holztreppen**                       |
-| Eichenholztreppe                    | oak\_stairs                           | %oak\_st%          | 53            |
-| Fichtenholztreppe                   | spruce\_stairs                        | %spruce\_st%       | 134           |
-| Birkenholztreppe                    | birch\_stairs                         | %birch\_st%        | 135           |
-| Tropenholztreppe                    | jungle\_stairs                        | %jungle\_st%       | 136           |
-| Akazienholztreppe                   | acacia\_stairs                        | %acacia\_st%       | 163           |
-| Schwarzeichenholztreppe             | dark\_oak\_stairs                     | %darkoak\_st%      | 164           |
-| Karmesintreppe                      | crimson\_stairs                       | %crimson\_st%      | %br%          |
-| Wirrtreppe                          | warped\_stairs                        | %warped\_st%       | %bs%          |
-| Mangrovenholztreppe                 | mangrove\_stairs          						| %mangrove\_st%     | %xk%				   |
-| Kirschholztreppe										| cherry\_stairs												| %cherry\_st%			 | %abc%				 |
-| Bambustreppe                 				| bamboo\_stairs          							| %bamboo\_st%       | %aan%				 |
-| Bambusmosaiktreppe                  | bamboo\_mosaic_stairs          				| %bamboo\_mo\_st%   | %aam%				 |
-|                                     | **Zäune**                             |
+| Eichenholz                                        | oak\_wood                                 | %oak\_wd%             | %aq%          |
+| Fichtenholz                                       | spruce\_wood                              | %spruce\_wd%          | %ar%          |
+| Birkenholz                                        | birch\_wood                               | %birch\_wd%           | %as%          |
+| Tropenholz                                        | jungle\_wood                              | %jungle\_wd%          | %at%          |
+| Akazienholz                                       | acacia\_wood                              | %acacia\_wd%          | %au%          |
+| Schwarzeichenholz                                 | dark\_oak\_wood                           | %darkoak\_wd%         | %av%          |
+| Karmesinhyphen                                    | crimson\_hyphae                           | %crimson\_hy%         | %aw%          |
+| Wirrhyphen                                        | warped\_hyphae                            | %warped\_hy%          | %ax%          |
+| Mangrovenholz                                     | mangrove\_wood                            | %mangrove\_wd%        | %xi%			|
+| Kirschholz	 									| cherry\_wood								| %cherry\_wd%			| %abn% 		|
+
+### Entrindete Holzblöcke
+{.compact}
+| Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
+| ---                                               | ---                                       | ---                   | ---           |
+| Entrindetes Eichenholz                            | stripped\_oak\_wood                       | %s\_oak\_wd%          | %ay%          |
+| Entrindetes Fichtenholz                           | stripped\_spruce\_wood                    | %s\_spruce\_wd%       | %az%          |
+| Entrindetes Birkenholz                            | stripped\_birch\_wood                     | %s\_birch\_wd%        | %bg%          |
+| Entrindetes Tropenholz                            | stripped\_jungle\_wood                    | %s\_jungle\_wd%       | %bh%          |
+| Entrindetes Akazienholz                           | stripped\_acacia\_wood                    | %s\_acacia\_wd%       | %bi%          |
+| Entrindetes Schwarzeichenholz                     | stripped\_dark\_oak\_wood                 | %s\_darkoak\_wd%      | %bj%          |
+| Geschälte Karmesinhyphen                          | stripped\_crimson\_hyphae                 | %s\_crimson\_hy%      | %bk%          |
+| Geschälte Wirrhyphen                              | stripped\_warped\_hyphae                  | %s\_warped\_hy%       | %bl%          |
+| Entrindetes Mangrovenholz                         | stripped\_mangrove_wood                   | %s\_mangrove\_wd%     | %xf%			|
+| Entrindetes Kirschholz							| stripped\_cherry_wood					    | %s\_cherry\_wd%		| %abo%			|
+
+### Holzbretter und Stöcke
+{.compact}
+| Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
+| ---                                               | ---                                       | ---                   | ---           |
+| Eichenholzbretter                                 | oak\_planks                               | %oak\_pl%             | 5             |
+| Fichtenholzbretter                                | spruce\_planks                            | %spruce\_pl%          | 5:1           |
+| Birkenholzbretter                                 | birch\_planks                             | %birch\_pl%           | 5:2           |
+| Tropenholzbretter                                 | jungle\_planks                            | %jungle\_pl%          | 5:3           |
+| Akazienholzbretter                                | acacia\_planks                            | %acacia\_pl%          | 5:4           |
+| Schwarzeichenholzbretter                          | dark\_oak\_planks                         | %darkoak\_pl%         | 5:5           |
+| Karmesinbretter                                   | crimson\_planks                           | %crimson\_pl%         | %bn%          |
+| Wirrbretter                                       | warped\_planks                            | %warped\_pl%          | %bo%          |
+| Mangrovenholzbretter                              | mangrove\_planks                          | %mangrove_pl%         | %xo%			|
+| Kirschholzbretter                 	            | cherry\_planks                       	    | %cherry\_pl%          | %abb%		 	|
+| Bambusbretter                 			        | bamboo\_planks                       	    | %bamboo\_pl%          | %aal%			|
+| Bambusmosaik                 				        | bamboo\_mosaic                       	    | %bamboo\_mo%     	    | %aak%		    |
+| Stock                                             | stick                                     | %stick%               | 280           |
+
+### Holzstufen
+{.compact}
+| Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
+| ---                                               | ---                                       | ---                   | ---           |
+| Eichenholzstufe                                   | oak\_slab                                 | %oak\_sl%             | 126           |
+| Fichtenholzstufe                                  | spruce\_slab                              | %spruce\_sl%          | %v%           |
+| Birkenholzstufe                                   | birch\_slab                               | %birch\_sl%           | %e%           |
+| Tropenholzstufe                                   | jungle\_slab                              | %jungle\_sl%          | %nx%          |
+| Akazienholzstufe                                  | acacia\_slab                              | %acacia\_sl%          | %ny%          |
+| Schwarzeichenholzstufe                            | dark\_oak\_slab                           | %darkoak\_sl%         | %y%           |
+| Karmesinstufe                                     | crimson\_slab                             | %crimson\_sl%         | %bp%          |
+| Wirrstufe                                         | warped\_slab                              | %warped\_sl%          | %bq%          |
+| Mangrovenholzstufe                                | mangrove\_slab                            | %mangrove_sl%         | %xl%			|
+| Kirschholztufe									| cherry\_slab								| %cherry\_sl%			| %abd% 		|
+| Bambusstufe                  				        | bamboo\_slab                              | %bamboo\_sl%          | %aap%			|
+| Bambusmosaikstufe                  	            | bamboo\_mosaic\_slab                      | %bamboo\_mo\_sl%      | %aao%			|
+| Versteinerte Eichenholzstufe                      | petrified\_oak\_slab                      | %p\_oak\_sl%          | %a5%			|
+
+### Holztreppen
+{.compact}
+| Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
+| ---                                               | ---                                       | ---                   | ---           |
+| Eichenholztreppe                                  | oak\_stairs                               | %oak\_st%             | 53            |
+| Fichtenholztreppe                                 | spruce\_stairs                            | %spruce\_st%          | 134           |
+| Birkenholztreppe                                  | birch\_stairs                             | %birch\_st%           | 135           |
+| Tropenholztreppe                                  | jungle\_stairs                            | %jungle\_st%          | 136           |
+| Akazienholztreppe                                 | acacia\_stairs                            | %acacia\_st%          | 163           |
+| Schwarzeichenholztreppe                           | dark\_oak\_stairs                         | %darkoak\_st%         | 164           |
+| Karmesintreppe                                    | crimson\_stairs                           | %crimson\_st%         | %br%          |
+| Wirrtreppe                                        | warped\_stairs                            | %warped\_st%          | %bs%          |
+| Mangrovenholztreppe                               | mangrove\_stairs          				| %mangrove\_st%        | %xk%		    |
+| Kirschholztreppe									| cherry\_stairs							| %cherry\_st%			| %abc%		    |
+| Bambustreppe                 				        | bamboo\_stairs          					| %bamboo\_st%          | %aan%			|
+| Bambusmosaiktreppe                                | bamboo\_mosaic_stairs          			| %bamboo\_mo\_st%      | %aam%			|
+
+### Zäune
+{.compact}
+| Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
+| ---                                               | ---                                       | ---                   | ---           |
 | Eichenholzzaun                      | oak\_fence                            | %oak\_fc%          | 85            |
 | Fichtenholzzaum                     | spruce\_fence                         | %spruce\_fc%       | 188           |
 | Birkenholzzaun                      | birch\_fence                          | %birch\_fc%        | 189           |
