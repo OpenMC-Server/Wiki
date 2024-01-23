@@ -12,34 +12,42 @@ Pipe-Variablen ermöglichen es dir, mit besonders kurzen Schreibweisen mehrere I
 
 
 
+### Baumstämme
+{.compact}
+| Deutscher Item-Name                               | Minecraft-ID                              | Abkürzung             | Kurzform      |
+| ---                                               | ---                                       | ---                   | ---           |
+| Eichenstamm                                       | oak\_log                                  | %oak%                 | 17            |
+| Fichtenstamm                                      | spruce\_log                               | %spruce%              | %s%           |
+| Birkenstamm                                       | birch\_log                                | %birch%               | %b%           |
+| Tropenbaumstamm                                   | jungle\_log                               | %jungle%              | %j%           |
+| Akazienstamm                                      | acacia\_log                               | %acacia%              | 162           |
+| Schwarzeichenstamm                                | dark\_oak\_log                            | %darkoak%             | %g%           |
+| Karmesinstiel                                     | crimson\_stem                             | %crimson%             | %ag%          |
+| Wirrstiel                                         | warped\_stem                              | %warped%              | %ah%          |
+| Mangrovenstamm                                    | mangrove\_log             				| %mangrove%            | %xh%          |
+| Kirschstamm										| cherry\_log								| %cherry%				| %abl%		    |
+| Bambusblock                                       | bamboo\_block             				| %bambooblock%         | %aax%       	|
 
-| Deutscher Item-Name                               | Minecraft-ID                          | Abkürzung          | Kurzform         |
-| ---                                               | ---                                   | ---                | ---           |
-|                                                   | **Baumstämme**                				|
-| Eichenstamm                                       | oak\_log                              | %oak%              | 17            |
-| Fichtenstamm                                      | spruce\_log                           | %spruce%           | %s%           |
-| Birkenstamm                                       | birch\_log                            | %birch%            | %b%           |
-| Tropenbaumstamm                                   | jungle\_log                           | %jungle%           | %j%           |
-| Akazienstamm                                      | acacia\_log                           | %acacia%           | 162           |
-| Schwarzeichenstamm                                | dark\_oak\_log                        | %darkoak%          | %g%           |
-| Karmesinstiel                                     | crimson\_stem                         | %crimson%          | %ag%          |
-| Wirrstiel                                         | warped\_stem                          | %warped%           | %ah%          |
-| Mangrovenstamm                                    | mangrove\_log             						| %mangrove%         | %xh%          |
-| Kirschstamm													| cherry\_log														| %cherry%					 | %abl%				 |
-| Bambusblock                         | bamboo\_block             						| %bambooblock%      | %aax%       	 |
-|                                     | **Entrindete Baumstämme**             |
-| Entrindeter Eichenstamm             | stripped\_oak\_log                    | %s\_oak%           | %ai%          |
-| Entrindeter Fichtenstamm            | stripped\_spruce\_log                 | %s\_spruce%        | %aj%          |
-| Entrindeter Birkenstamm             | stripped\_birch\_log                  | %s\_birch%         | %ak%          |
-| Entrindeter Tropenbaumstamm         | stripped\_jungle\_log                 | %s\_jungle%        | %al%          |
-| Entrindeter Akazienstamm            | stripped\_acacia\_log                 | %s\_acacia%        | %am%          |
-| Entrindeter Schwarzeichenstamm      | stripped\_dark\_oak\_log              | %s\_darkoak%       | %an%          |
-| Entrindeter Karmesinstiel           | stripped\_crimson\_stem               | %s\_crimson%       | %ao%          |
-| Entrindeter Wirrstiel               | stripped\_warped\_stem                | %s\_warped%        | %ap%          |
-| Entrindeter Mangrovenstamm          | stripped\_mangrove\_log    						| %s\_mangrove%      | %xe%					 |
-| Entrindeter Kirschstamm							| stripped\_cherry\_log									| %s\_cherry%				 | %abm%				 |
-| Entrindeter Bambusblock             | stripped\_bamboo\_block    						| %s\_bamboo%        | %aay%				 |				
-|                                     | **Solide Holzblöcke**                 |
+### Entrindete Baumstämme
+{.compact}
+| Deutscher Item-Name                               | Minecraft-ID                              | Abkürzung             | Kurzform      |
+| ---                                               | ---                                       | ---                   | ---           |
+| Entrindeter Eichenstamm                           | stripped\_oak\_log                        | %s\_oak%              | %ai%          |
+| Entrindeter Fichtenstamm                          | stripped\_spruce\_log                     | %s\_spruce%           | %aj%          |
+| Entrindeter Birkenstamm                           | stripped\_birch\_log                      | %s\_birch%            | %ak%          |
+| Entrindeter Tropenbaumstamm                       | stripped\_jungle\_log                     | %s\_jungle%           | %al%          |
+| Entrindeter Akazienstamm                          | stripped\_acacia\_log                     | %s\_acacia%           | %am%          |
+| Entrindeter Schwarzeichenstamm                    | stripped\_dark\_oak\_log                  | %s\_darkoak%          | %an%          |
+| Entrindeter Karmesinstiel                         | stripped\_crimson\_stem                   | %s\_crimson%          | %ao%          |
+| Entrindeter Wirrstiel                             | stripped\_warped\_stem                    | %s\_warped%           | %ap%          |
+| Entrindeter Mangrovenstamm                        | stripped\_mangrove\_log    				| %s\_mangrove%         | %xe%			|
+| Entrindeter Kirschstamm							| stripped\_cherry\_log						| %s\_cherry%		    | %abm%		    |
+| Entrindeter Bambusblock                           | stripped\_bamboo\_block    				| %s\_bamboo%           | %aay%		    |				
+
+### Solide Holzblöcke
+{.compact}
+| Deutscher Item-Name                               | Minecraft-ID                              | Abkürzung             | Kurzform      |
+| ---                                               | ---                                       | ---                   | ---           |
 | Eichenholz                          | oak\_wood                             | %oak\_wd%          | %aq%          |
 | Fichtenholz                         | spruce\_wood                          | %spruce\_wd%       | %ar%          |
 | Birkenholz                          | birch\_wood                           | %birch\_wd%        | %as%          |
