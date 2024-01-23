@@ -1196,414 +1196,414 @@ Um nach Kategorien zu suchen, kannst du die Suchfunktion der Seite oder das Inha
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
 | ---                                               | ---                                       | ---                   | ---           |
-| Hirnkoralle                         | brain\_coral                          | %br\_coral%        | %kl%          |
-| Hirnkorallenfächer                  | brain\_coral\_fan                     | %br\_coral\_fn%    | %km%          |
-| Hirnkorallenblock                   | brain\_coral\_block                   | %br\_coral\_bl%    | %kn%          |
-| Blasenkoralle                       | bubble\_coral                         | %bb\_coral%        | %ko%          |
-| Blasenkorallenfächer                | bubble\_coral\_fan                    | %bb\_coral\_fn%    | %kp%          |
-| Blasenkorallenblock                 | bubble\_coral\_block                  | %bb\_coral\_bl%    | %kq%          |
-| Feuerkoralle                        | fire\_coral                           | %fi\_coral%        | %kr%          |
-| Feuerkorallenfächer                 | fire\_coral\_fan                      | %fi\_coral\_fn%    | %ks%          |
-| Feuerkorallenblock                  | fire\_coral\_block                    | %fi\_coral\_bl%    | %kt%          |
-| Geweihkoralle                       | horn\_coral                           | %ho\_coral%        | %ku%          |
-| Geweihkorallenfächer                | horn\_coral\_fan                      | %ho\_coral\_fn%    | %kv%          |
-| Geweihkorallenblock                 | horn\_coral\_block                    | %ho\_coral\_bl%    | %kw%          |
-| Orgelkoralle                        | tube\_coral                           | %tu\_coral%        | %ky%          |
-| Orgelkorallenfächer                 | tube\_coral\_fan                      | %tu\_coral\_fn%    | %bm%          |
-| Orgelkorallenblock                  | tube\_coral\_block                    | %tu\_coral\_bl%    | %lg%          |
-| Abgestorbene Hirnkoralle            | dead\_brain\_coral                    | %d\_br\_coral%     | %lh%          |
-| Abgestorbener Hirnkorallenfächer    | dead\_brain\_coral\_fan               | %d\_br\_coral\_fn% | %li%          |
-| Abgestorbener Hirnkorallenblock     | dead\_brain\_coral\_block             | %d\_br\_coral\_bl% | %lj%          |
-| Abgestorbene Blasenkoralle          | dead\_bubble\_coral                   | %d\_bb\_coral%     | %lk%          |
-| Abgestorbener Blasenkorallenfächer  | dead\_bubble\_coral\_fan              | %d\_bb\_coral\_fn% | %ll%          |
-| Abgestorbener Blasenkorallenblock   | dead\_bubble\_coral\_block            | %d\_bb\_coral\_bl% | %lm%          |
-| Abgestorbene Feuerkoralle           | dead\_fire\_coral                     | %d\_fi\_coral%     | %ln%          |
-| Abgestorbener Feuerkorallenfächer   | dead\_fire\_coral\_fan                | %d\_fi\_coral\_fn% | %lo%          |
-| Abgestorbener Feuerkorallenblock    | dead\_fire\_coral\_block              | %d\_fi\_coral\_bl% | %lp%          |
-| Abgestorbene Geweihkoralle          | dead\_horn\_coral                     | %d\_ho\_coral%     | %lq%          |
-| Abgestorbener Geweihkorallenfächer  | dead\_horn\_coral\_fan                | %d\_ho\_coral\_fn% | %lr%          |
-| Abgestorbener Geweihkorallenblock   | dead\_horn\_coral\_block              | %d\_ho\_coral\_bl% | %ls%          |
-| Abgestorbene Orgelkoralle           | dead\_tube\_coral                     | %d\_tu\_coral%     | %lt%          |
-| Abgestorbener Orgelkorallenfächer   | dead\_tube\_coral\_fan                | %d\_tu\_coral\_fn% | %lu%          |
-| Abgestorbener Orgelkorallenblock    | dead\_tube\_coral\_block              | %d\_tu\_coral\_bl% | %lv%          |
+| Hirnkoralle                                       | brain\_coral                              | %br\_coral%           | %kl%          |
+| Hirnkorallenfächer                                | brain\_coral\_fan                         | %br\_coral\_fn%       | %km%          |
+| Hirnkorallenblock                                 | brain\_coral\_block                       | %br\_coral\_bl%       | %kn%          |
+| Blasenkoralle                                     | bubble\_coral                             | %bb\_coral%           | %ko%          |
+| Blasenkorallenfächer                              | bubble\_coral\_fan                        | %bb\_coral\_fn%       | %kp%          |
+| Blasenkorallenblock                               | bubble\_coral\_block                      | %bb\_coral\_bl%       | %kq%          |
+| Feuerkoralle                                      | fire\_coral                               | %fi\_coral%           | %kr%          |
+| Feuerkorallenfächer                               | fire\_coral\_fan                          | %fi\_coral\_fn%       | %ks%          |
+| Feuerkorallenblock                                | fire\_coral\_block                        | %fi\_coral\_bl%       | %kt%          |
+| Geweihkoralle                                     | horn\_coral                               | %ho\_coral%           | %ku%          |
+| Geweihkorallenfächer                              | horn\_coral\_fan                          | %ho\_coral\_fn%       | %kv%          |
+| Geweihkorallenblock                               | horn\_coral\_block                        | %ho\_coral\_bl%       | %kw%          |
+| Orgelkoralle                                      | tube\_coral                               | %tu\_coral%           | %ky%          |
+| Orgelkorallenfächer                               | tube\_coral\_fan                          | %tu\_coral\_fn%       | %bm%          |
+| Orgelkorallenblock                                | tube\_coral\_block                        | %tu\_coral\_bl%       | %lg%          |
+| Abgestorbene Hirnkoralle                          | dead\_brain\_coral                        | %d\_br\_coral%        | %lh%          |
+| Abgestorbener Hirnkorallenfächer                  | dead\_brain\_coral\_fan                   | %d\_br\_coral\_fn%    | %li%          |
+| Abgestorbener Hirnkorallenblock                   | dead\_brain\_coral\_block                 | %d\_br\_coral\_bl%    | %lj%          |
+| Abgestorbene Blasenkoralle                        | dead\_bubble\_coral                       | %d\_bb\_coral%        | %lk%          |
+| Abgestorbener Blasenkorallenfächer                | dead\_bubble\_coral\_fan                  | %d\_bb\_coral\_fn%    | %ll%          |
+| Abgestorbener Blasenkorallenblock                 | dead\_bubble\_coral\_block                | %d\_bb\_coral\_bl%    | %lm%          |
+| Abgestorbene Feuerkoralle                         | dead\_fire\_coral                         | %d\_fi\_coral%        | %ln%          |
+| Abgestorbener Feuerkorallenfächer                 | dead\_fire\_coral\_fan                    | %d\_fi\_coral\_fn%    | %lo%          |
+| Abgestorbener Feuerkorallenblock                  | dead\_fire\_coral\_block                  | %d\_fi\_coral\_bl%    | %lp%          |
+| Abgestorbene Geweihkoralle                        | dead\_horn\_coral                         | %d\_ho\_coral%        | %lq%          |
+| Abgestorbener Geweihkorallenfächer                | dead\_horn\_coral\_fan                    | %d\_ho\_coral\_fn%    | %lr%          |
+| Abgestorbener Geweihkorallenblock                 | dead\_horn\_coral\_block                  | %d\_ho\_coral\_bl%    | %ls%          |
+| Abgestorbene Orgelkoralle                         | dead\_tube\_coral                         | %d\_tu\_coral%        | %lt%          |
+| Abgestorbener Orgelkorallenfächer                 | dead\_tube\_coral\_fan                    | %d\_tu\_coral\_fn%    | %lu%          |
+| Abgestorbener Orgelkorallenblock                  | dead\_tube\_coral\_block                  | %d\_tu\_coral\_bl%    | %lv%          |
 
 ### Mobdrops
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
 | ---                                               | ---                                       | ---                   | ---           |
-| Feder                               | feather                               | %feather%          | 288           |
-| Leder                               | leather                               | %leather%          | 334           |
-| Kaninchenfell                       | rabbit\_hide                          | %rabbithide%       | 415           |
-| Hasenpfote                          | rabbit\_foot                          | %rabbitfoot%       | 414           |
-| Hornschild                          | scute                                 | %scute%            | %lw%          |
-| Schildkrötenei                      | turtle\_egg                           | %turtleegg%        | %lx%          |
-| Schnüffler-Ei												| sniffer_egg														| %snifferegg%			 | %acj% 				 |
-| Tintenbeutel                        | ink\_sac                              | %inksac%           | 351           |
-| Leuchttintenbeutel 									| glow_ink_sac 													| %gl_inksac% 			 | %rj% 				 |
-| Bockshorn                         	| goat_horn                          		| %goathorn% 				 | %e6%					 |
-| Verrottetes Fleisch                 | rotten\_flesh                         | %rottenflesh%      | 367           |
-| Pfeil                               | arrow                                 | %arrow%            | 262           |
-| Spektralpfeil                       | spectral\_arrow                       | %spec\_arrow%      | 439           |
-| Getränkter Pfeil                    | tipped\_arrow                         | %tipped\_arrow%    | 440           |
-| Knochen                             | bone                                  | %bone%             | 352           |
-| Knochenmehl                         | bone\_meal                            | %bone\_meal%       | %ly%          |
-| Knochenblock                        | bone\_block                           | %bone\_bl%         | 216           |
-| Spinnenauge                         | spider\_eye                           | %spidereye%        | 375           |
-| Fermentiertes Spinnenauge           | fermented\_spider\_eye                | %fer\_spidereye%   | 376           |
-| Faden                               | string                                | %string%           | 287           |
-| Schwarzpulver                       | gunpowder                             | %gunpowder%        | 289           |
-| Enderperle                          | ender\_pearl                          | %enderpearl%       | 368           |
-| Schleimball                         | slime\_ball                           | %slime%            | 341           |
-| Schleimblock                        | slime\_block                          | %slime\_bl%        | 165           |
-| Phantomhaut                         | phantom\_membrane                     | %phantommembr%     | %lz%          |
-| Lohenrute                           | blaze\_rod                            | %blazerod%         | 369           |
-| Lohenstaub                          | blaze\_powder                         | %blazerod\_pow%    | 377           |
-| Enderauge                           | ender\_eye                            | %endereye%         | 381           |
-| Feuerkugel                          | fire\_charge                          | %firecharge%       | 385           |
-| Feuerwerksrakete                    | firework\_rocket                      | %firework\_rock%   | 401           |
-| Feuerwerksstern                     | firework\_star                        | %firework\_star%   | 402           |
-| Ghastträne                          | ghast\_tear                           | %ghasttear%        | 370           |
-| Magmacreme                          | magma\_cream                          | %magma\_cream%     | 378           |
-| Totem der Unsterblichkeit           | totem\_of\_undying                    | %totem%            | 449           |
-| Nautilusschale                      | nautilus\_shell                       | %nautilus%         | %mg%          |
-| Herz des Meeres                     | heart\_of\_the\_sea                   | %heartofsea%       | %mh%          |
-| Netherstern                         | nether\_star                          | %netstar%          | 399           |
-| Shulkerschale                       | shulker\_shell                        | %shulkshell%       | 450           |
-| Echoscherbe                 			  | echo_shard                            |  %echoshard%       | %uk% 				 |
+| Feder                                             | feather                                   | %feather%             | 288           |
+| Leder                                             | leather                                   | %leather%             | 334           |
+| Kaninchenfell                                     | rabbit\_hide                              | %rabbithide%          | 415           |
+| Hasenpfote                                        | rabbit\_foot                              | %rabbitfoot%          | 414           |
+| Hornschild                                        | scute                                     | %scute%               | %lw%          |
+| Schildkrötenei                                    | turtle\_egg                               | %turtleegg%           | %lx%          |
+| Schnüffler-Ei										| sniffer_egg								| %snifferegg%			| %acj% 		|
+| Tintenbeutel                                      | ink\_sac                                  | %inksac%              | 351           |
+| Leuchttintenbeutel 							    | glow_ink_sac 								| %gl_inksac% 			| %rj% 			|
+| Bockshorn                         	            | goat_horn                          		| %goathorn% 		    | %e6%			|
+| Verrottetes Fleisch                               | rotten\_flesh                             | %rottenflesh%         | 367           |
+| Pfeil                                             | arrow                                     | %arrow%               | 262           |
+| Spektralpfeil                                     | spectral\_arrow                           | %spec\_arrow%         | 439           |
+| Getränkter Pfeil                                  | tipped\_arrow                             | %tipped\_arrow%       | 440           |
+| Knochen                                           | bone                                      | %bone%                | 352           |
+| Knochenmehl                                       | bone\_meal                                | %bone\_meal%          | %ly%          |
+| Knochenblock                                      | bone\_block                               | %bone\_bl%            | 216           |
+| Spinnenauge                                       | spider\_eye                               | %spidereye%           | 375           |
+| Fermentiertes Spinnenauge                         | fermented\_spider\_eye                    | %fer\_spidereye%      | 376           |
+| Faden                                             | string                                    | %string%              | 287           |
+| Schwarzpulver                                     | gunpowder                                 | %gunpowder%           | 289           |
+| Enderperle                                        | ender\_pearl                              | %enderpearl%          | 368           |
+| Schleimball                                       | slime\_ball                               | %slime%               | 341           |
+| Schleimblock                                      | slime\_block                              | %slime\_bl%           | 165           |
+| Phantomhaut                                       | phantom\_membrane                         | %phantommembr%        | %lz%          |
+| Lohenrute                                         | blaze\_rod                                | %blazerod%            | 369           |
+| Lohenstaub                                        | blaze\_powder                             | %blazerod\_pow%       | 377           |
+| Enderauge                                         | ender\_eye                                | %endereye%            | 381           |
+| Feuerkugel                                        | fire\_charge                              | %firecharge%          | 385           |
+| Feuerwerksrakete                                  | firework\_rocket                          | %firework\_rock%      | 401           |
+| Feuerwerksstern                                   | firework\_star                            | %firework\_star%      | 402           |
+| Ghastträne                                        | ghast\_tear                               | %ghasttear%           | 370           |
+| Magmacreme                                        | magma\_cream                              | %magma\_cream%        | 378           |
+| Totem der Unsterblichkeit                         | totem\_of\_undying                        | %totem%               | 449           |
+| Nautilusschale                                    | nautilus\_shell                           | %nautilus%            | %mg%          |
+| Herz des Meeres                                   | heart\_of\_the\_sea                       | %heartofsea%          | %mh%          |
+| Netherstern                                       | nether\_star                              | %netstar%             | 399           |
+| Shulkerschale                                     | shulker\_shell                            | %shulkshell%          | 450           |
+| Echoscherbe                 			            | echo_shard                                | %echoshard%           | %uk% 			|
 
 ### Farbstoffe
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
 | ---                                               | ---                                       | ---                   | ---           |
-| Weißer Farbstoff                    | white\_dye                            | %dye\_whi%         | %y0%          |
-| Hellgrauer Farbstoff                | light\_gray\_dye                      | %dye\_lgr%         | %y8%          |
-| Grauer Farbstoff                    | gray\_dye                             | %dye\_gry%         | %y7%          |
-| Schwarzer Farbstoff                 | black\_dye                            | %dye\_blk%         | %yf%          |
-| Gelber Farbstoff                    | yellow\_dye                           | %dye\_yel%         | %y4%          |
-| Oranger Farbstoff                   | orange\_dye                           | %dye\_ora%         | %y1%          |
-| Roter Farbstoff                     | red\_dye                              | %dye\_red%         | %ye%          |
-| Rosa Farbstoff                      | pink\_dye                             | %dye\_pnk%         | %y6%          |
-| Magenta Farbstoff                   | magenta\_dye                          | %dye\_mag%         | %y2%          |
-| Violetter Farbstoff                 | purple\_dye                           | %dye\_pur%         | %ya%          |
-| Blauer Farbstoff                    | blue\_dye                             | %dye\_blu%         | %yb%          |
-| Türkiser Farbstoff                  | cyan\_dye                             | %dye\_cya%         | %y9%          |
-| Grüner Farbstoff                    | green\_dye                            | %dye\_grn%         | %yd%          |
-| Hellgrüner Farbstoff                | lime\_dye                             | %dye\_lim%         | %y5%          |
-| Hellblauer Farbstoff                | light\_blue\_dye                      | %dye\_lbl%         | %y3%          |
-| Brauner Farbstoff                   | brown\_dye                            | %dye\_bro%         | %yc%          |
+| Weißer Farbstoff                                  | white\_dye                                | %dye\_whi%            | %y0%          |
+| Hellgrauer Farbstoff                              | light\_gray\_dye                          | %dye\_lgr%            | %y8%          |
+| Grauer Farbstoff                                  | gray\_dye                                 | %dye\_gry%            | %y7%          |
+| Schwarzer Farbstoff                               | black\_dye                                | %dye\_blk%            | %yf%          |
+| Gelber Farbstoff                                  | yellow\_dye                               | %dye\_yel%            | %y4%          |
+| Oranger Farbstoff                                 | orange\_dye                               | %dye\_ora%            | %y1%          |
+| Roter Farbstoff                                   | red\_dye                                  | %dye\_red%            | %ye%          |
+| Rosa Farbstoff                                    | pink\_dye                                 | %dye\_pnk%            | %y6%          |
+| Magenta Farbstoff                                 | magenta\_dye                              | %dye\_mag%            | %y2%          |
+| Violetter Farbstoff                               | purple\_dye                               | %dye\_pur%            | %ya%          |
+| Blauer Farbstoff                                  | blue\_dye                                 | %dye\_blu%            | %yb%          |
+| Türkiser Farbstoff                                | cyan\_dye                                 | %dye\_cya%            | %y9%          |
+| Grüner Farbstoff                                  | green\_dye                                | %dye\_grn%            | %yd%          |
+| Hellgrüner Farbstoff                              | lime\_dye                                 | %dye\_lim%            | %y5%          |
+| Hellblauer Farbstoff                              | light\_blue\_dye                          | %dye\_lbl%            | %y3%          |
+| Brauner Farbstoff                                 | brown\_dye                                | %dye\_bro%            | %yc%          |
 
 ### Banner
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
 | ---                                               | ---                                       | ---                   | ---           |
-| Weißes Banner                       | white\_banner                         | %banner\_whi%      | %n0%          |
-| Hellgraues Banner                   | light\_gray\_banner                   | %banner\_lgr%      | %n8%          |
-| Graues Banner                       | gray\_banner                          | %banner\_gry%      | %n7%          |
-| Schwarzes Banner                    | black\_banner                         | %banner\_blk%      | %nf%          |
-| Gelbes Banner                       | yellow\_banner                        | %banner\_yel%      | %n4%          |
-| Oranges Banner                      | orange\_banner                        | %banner\_ora%      | %n1%          |
-| Rotes Banner                        | red\_banner                           | %banner\_red%      | %ne%          |
-| Rosa Banner                         | pink\_banner                          | %banner\_pnk%      | %n6%          |
-| Magenta Banner                      | magenta\_banner                       | %banner\_mag%      | %n2%          |
-| Violettes Banner                    | purple\_banner                        | %banner\_pur%      | %na%          |
-| Blaues Banner                       | blue\_banner                          | %banner\_blu%      | %nb%          |
-| Türkises Banner                     | cyan\_banner                          | %banner\_cya%      | %n9%          |
-| Grünes Banner                       | green\_banner                         | %banner\_grn%      | %nd%          |
-| Hellgrünes Banner                   | lime\_banner                          | %banner\_lim%      | %n5%          |
-| Hellblaues Banner                   | light\_blue\_banner                   | %banner\_lbl%      | %n3%          |
-| Braunes Banner                      | brown\_banner                         | %banner\_bro%      | %nc%          |
-| Bannervorlage Blume                 | flower\_banner\_pattern               | %banpat\_flower%   | %mi%          |
-| Bannervorlage Creeper               | creeper\_banner\_pattern              | %banpat\_creepr%   | %mj%          |
-| Bannervorlage Schädel               | skull\_banner\_pattern                | %banpat\_skull%    | %mk%          |
-| Bannervorlage Mojang-Logo           | mojang\_banner\_pattern               | %banpat\_mojang%   | %ml%          |
-| Bannervorlage Globus                | globe\_banner\_pattern                | %banpat\_globe%    | %mm%          |
-| Bannervorlage Piglin                | piglin\_banner\_pattern               | %banpat\_piglin%   | %mn%          |
+| Weißes Banner                                     | white\_banner                             | %banner\_whi%         | %n0%          |
+| Hellgraues Banner                                 | light\_gray\_banner                       | %banner\_lgr%         | %n8%          |
+| Graues Banner                                     | gray\_banner                              | %banner\_gry%         | %n7%          |
+| Schwarzes Banner                                  | black\_banner                             | %banner\_blk%         | %nf%          |
+| Gelbes Banner                                     | yellow\_banner                            | %banner\_yel%         | %n4%          |
+| Oranges Banner                                    | orange\_banner                            | %banner\_ora%         | %n1%          |
+| Rotes Banner                                      | red\_banner                               | %banner\_red%         | %ne%          |
+| Rosa Banner                                       | pink\_banner                              | %banner\_pnk%         | %n6%          |
+| Magenta Banner                                    | magenta\_banner                           | %banner\_mag%         | %n2%          |
+| Violettes Banner                                  | purple\_banner                            | %banner\_pur%         | %na%          |
+| Blaues Banner                                     | blue\_banner                              | %banner\_blu%         | %nb%          |
+| Türkises Banner                                   | cyan\_banner                              | %banner\_cya%         | %n9%          |
+| Grünes Banner                                     | green\_banner                             | %banner\_grn%         | %nd%          |
+| Hellgrünes Banner                                 | lime\_banner                              | %banner\_lim%         | %n5%          |
+| Hellblaues Banner                                 | light\_blue\_banner                       | %banner\_lbl%         | %n3%          |
+| Braunes Banner                                    | brown\_banner                             | %banner\_bro%         | %nc%          |
+| Bannervorlage Blume                               | flower\_banner\_pattern                   | %banpat\_flower%      | %mi%          |
+| Bannervorlage Creeper                             | creeper\_banner\_pattern                  | %banpat\_creepr%      | %mj%          |
+| Bannervorlage Schädel                             | skull\_banner\_pattern                    | %banpat\_skull%       | %mk%          |
+| Bannervorlage Mojang-Logo                         | mojang\_banner\_pattern                   | %banpat\_mojang%      | %ml%          |
+| Bannervorlage Globus                              | globe\_banner\_pattern                    | %banpat\_globe%       | %mm%          |
+| Bannervorlage Piglin                              | piglin\_banner\_pattern                   | %banpat\_piglin%      | %mn%          |
 
 ### Betten
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
 | ---                                               | ---                                       | ---                   | ---           |
-| Weißes Bett                         | white\_bed                            | %bed\_whi%         | 355           |
-| Hellgraues Bett                     | light\_gray\_bed                      | %bed\_lgr%         | %d8%          |
-| Graues Bett                         | gray\_bed                             | %bed\_gry%         | %d7%          |
-| Schwarzes Bett                      | black\_bed                            | %bed\_blk%         | %df%          |
-| Gelbes Bett                         | yellow\_bed                           | %bed\_yel%         | %d4%          |
-| Oranges Bett                        | orange\_bed                           | %bed\_ora%         | %d1%          |
-| Rotes Bett                          | red\_bed                              | %bed\_red%         | %de%          |
-| Rosa Bett                           | pink\_bed                             | %bed\_pnk%         | %d6%          |
-| Magenta Bett                        | magenta\_bed                          | %bed\_mag%         | %d2%          |
-| Violettes Bett                      | purple\_bed                           | %bed\_pur%         | %da%          |
-| Blaues Bett                         | blue\_bed                             | %bed\_blu%         | %db%          |
-| Türkises Bett                       | cyan\_bed                             | %bed\_cya%         | %d9%          |
-| Grünes Bett                         | green\_bed                            | %bed\_grn%         | %dd%          |
-| Hellgrünes Bett                     | lime\_bed                             | %bed\_lim%         | %d5%          |
-| Hellblaues Bett                     | light\_blue\_bed                      | %bed\_lbl%         | %d3%          |
-| Braunes Bett                        | brown\_bed                            | %bed\_bro%         | %dc%          |
+| Weißes Bett                                       | white\_bed                                | %bed\_whi%            | 355           |
+| Hellgraues Bett                                   | light\_gray\_bed                          | %bed\_lgr%            | %d8%          |
+| Graues Bett                                       | gray\_bed                                 | %bed\_gry%            | %d7%          |
+| Schwarzes Bett                                    | black\_bed                                | %bed\_blk%            | %df%          |
+| Gelbes Bett                                       | yellow\_bed                               | %bed\_yel%            | %d4%          |
+| Oranges Bett                                      | orange\_bed                               | %bed\_ora%            | %d1%          |
+| Rotes Bett                                        | red\_bed                                  | %bed\_red%            | %de%          |
+| Rosa Bett                                         | pink\_bed                                 | %bed\_pnk%            | %d6%          |
+| Magenta Bett                                      | magenta\_bed                              | %bed\_mag%            | %d2%          |
+| Violettes Bett                                    | purple\_bed                               | %bed\_pur%            | %da%          |
+| Blaues Bett                                       | blue\_bed                                 | %bed\_blu%            | %db%          |
+| Türkises Bett                                     | cyan\_bed                                 | %bed\_cya%            | %d9%          |
+| Grünes Bett                                       | green\_bed                                | %bed\_grn%            | %dd%          |
+| Hellgrünes Bett                                   | lime\_bed                                 | %bed\_lim%            | %d5%          |
+| Hellblaues Bett                                   | light\_blue\_bed                          | %bed\_lbl%            | %d3%          |
+| Braunes Bett                                      | brown\_bed                                | %bed\_bro%            | %dc%          |
 
 ### Kerzen
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
 | ---                                               | ---                                       | ---                   | ---           |
-| Kerze 															| candle 																| %candle% 		 			 | %oi% 				 |
-| Weiße Kerze 												| white_candle 													| %candle_whi% 			 | %oj% 				 |
-| Hellgraue Kerze 										| light_gray_candle 										| %candle_lgr% 			 | %os% 				 |
-| Graue Kerze 												| gray_candle 													| %candle_gry% 			 | %or% 				 |
-| Schwarze Kerze 											| black_candle 													| %candle_blk% 			 | %oz% 				 |
-| Gelbe Kerze 												| yellow_candle 												| %candle_yel% 			 | %on% 				 |
-| Orange Kerze 												| orange_candle 												| %candle_ora% 			 | %ok% 				 |
-| Rote Kerze 													| red_candle 														| %candle_red% 			 | %oy% 				 |
-| Rosa Kerze 													| pink_candle 													| %candle_pnk% 			 | %oq% 				 |
-| Magenta Kerze 											| magenta_candle 												| %candle_mag% 			 | %ol% 				 |
-| Violette Kerze 											| purple_candle 												| %candle_pur% 			 | %ou% 				 |
-| Blaue Kerze 												| blue_candle 													| %candle_blu% 			 | %ov% 				 |
-| Türkise Kerze 											| cyan_candle 													| %candle_cya% 			 | %ot% 				 |
-| Grüne Kerze 												| green_candle 													| %candle_grn% 			 | %ox% 				 |
-| Hellgrüne Kerze 										| lime_candle 													| %candle_lim% 			 | %oo% 				 |
-| Hellblaue Kerze 										| light_blue_candle 										| %candle_lbl% 			 | %om% 				 |
-| Braune Kerze 												| brown_candle 													| %candle_bro% 			 | %ow% 				 |
+| Kerze 											| candle 									| %candle% 		 		| %oi% 			|
+| Weiße Kerze 										| white_candle 								| %candle_whi% 			| %oj% 			|
+| Hellgraue Kerze 									| light_gray_candle 						| %candle_lgr% 			| %os% 			|
+| Graue Kerze 										| gray_candle 								| %candle_gry% 			| %or% 			|
+| Schwarze Kerze 									| black_candle 								| %candle_blk% 			| %oz% 			|
+| Gelbe Kerze 										| yellow_candle 							| %candle_yel% 			| %on% 			|
+| Orange Kerze 										| orange_candle 							| %candle_ora% 			| %ok% 			|
+| Rote Kerze 										| red_candle 								| %candle_red% 			| %oy% 			|
+| Rosa Kerze 										| pink_candle 								| %candle_pnk% 			| %oq% 			|
+| Magenta Kerze 									| magenta_candle 							| %candle_mag% 			| %ol% 			|
+| Violette Kerze 									| purple_candle 							| %candle_pur% 			| %ou% 			|
+| Blaue Kerze 										| blue_candle 								| %candle_blu% 			| %ov% 			|
+| Türkise Kerze 									| cyan_candle 								| %candle_cya% 			| %ot% 			|
+| Grüne Kerze 										| green_candle 								| %candle_grn% 			| %ox% 			|
+| Hellgrüne Kerze 									| lime_candle 								| %candle_lim% 			| %oo% 			|
+| Hellblaue Kerze 									| light_blue_candle 						| %candle_lbl% 			| %om% 			|
+| Braune Kerze 										| brown_candle 								| %candle_bro% 			| %ow% 			|
 
 ### Köpfe
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
 | ---                                               | ---                                       | ---                   | ---           |
-| Spielerkopf                         | player\_head                          | %head\_player%     | 397:3         |
-| Zombiekopf                          | zombie\_head                          | %head\_zombie%     | 397:2         |
-| Skelettschädel                      | skeleton\_skull                       | %head\_skel%       | 397           |
-| Creeperkopf                         | creeper\_head                         | %head\_creepr%     | 397:4         |
-| Witherskelettschädel                | wither\_skeleton\_skull               | %head\_witskel%    | 397:1         |
-| Drachenköpfe                        | dragon\_head                          | %head\_dragon%     | 397:5         |
+| Spielerkopf                                       | player\_head                              | %head\_player%        | 397:3         |
+| Zombiekopf                                        | zombie\_head                              | %head\_zombie%        | 397:2         |
+| Skelettschädel                                    | skeleton\_skull                           | %head\_skel%          | 397           |
+| Creeperkopf                                       | creeper\_head                             | %head\_creepr%        | 397:4         |
+| Witherskelettschädel                              | wither\_skeleton\_skull                   | %head\_witskel%       | 397:1         |
+| Drachenköpfe                                      | dragon\_head                              | %head\_dragon%        | 397:5         |
 
 ### Sonstige Dekoration
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
 | ---                                               | ---                                       | ---                   | ---           |
-| Rüstungsständer                     | armor\_stand                          | %armorstand%       | 416           |
-| Gerüst                              | scaffolding                           | %scaffolding%      | %mo%          |
-| Schwamm                             | sponge                                | %sponge%           | 19            |
-| Nasser Schwamm                      | wet\_sponge                           | %wet\_sponge%      | 19:1          |
-| Gemälde                             | painting                              | %painting%         | 321           |
-| Rahmen                              | item\_frame                           | %itemframe%        | 389           |
-| Leuchtrahmen 												| glow_item_frame 											| %gl_itemframe% 		 | %qt% 				 |
-| Glocke                              | bell                                  | %bell%             | %mp%          |
-| Kette                               | chain                                 | %chain%            | %mq%          |
-| Lagerfeuer                          | campfire                              | %campfire%         | %mr%          |
-| Seelenlagerfeuer                    | soul\_campfire                        | %soul\_campfire%   | %ms%          |
-| Spinnennetz                         | cobweb                                | %cobweb%           | 30            |
-| Drachenei                           | dragon\_egg                           | %dragonegg%        | 122           |
-| Sattel                              | saddle                                | %saddle%           | 329           |
-| Leine                               | lead                                  | %lead%             | 420           |
-| Namensschild                        | name\_tag                             | %nametag%          | 421           |
+| Rüstungsständer                                   | armor\_stand                              | %armorstand%          | 416           |
+| Gerüst                                            | scaffolding                               | %scaffolding%         | %mo%          |
+| Schwamm                                           | sponge                                    | %sponge%              | 19            |
+| Nasser Schwamm                                    | wet\_sponge                               | %wet\_sponge%         | 19:1          |
+| Gemälde                                           | painting                                  | %painting%            | 321           |
+| Rahmen                                            | item\_frame                               | %itemframe%           | 389           |
+| Leuchtrahmen 									    | glow_item_frame 							| %gl_itemframe% 		| %qt% 			|
+| Glocke                                            | bell                                      | %bell%                | %mp%          |
+| Kette                                             | chain                                     | %chain%               | %mq%          |
+| Lagerfeuer                                        | campfire                                  | %campfire%            | %mr%          |
+| Seelenlagerfeuer                                  | soul\_campfire                            | %soul\_campfire%      | %ms%          |
+| Spinnennetz                                       | cobweb                                    | %cobweb%              | 30            |
+| Drachenei                                         | dragon\_egg                               | %dragonegg%           | 122           |
+| Sattel                                            | saddle                                    | %saddle%              | 329           |
+| Leine                                             | lead                                      | %lead%                | 420           |
+| Namensschild                                      | name\_tag                                 | %nametag%             | 421           |
 
 ### Behälter
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
 | ---                                               | ---                                       | ---                   | ---           |
-| Schüssel                            | bowl                                  | %bowl%             | 281           |
-| Pilzsuppe                           | mushroom\_stew                        | %shroom\_stew%     | 282           |
-| Kaninchenragout                     | rabbit\_stew                          | %rabbit\_stew%     | 413           |
-| Seltsame Suppe                      | suspicious\_stew                      | %suspic\_stew%     | %mt%          |
-| Kessel                              | cauldron                              | %cauldron%         | 380           |
-| Komposter                           | composter                             | %composter%        | %mu%          |
-| Eimer                               | bucket                                | %bucket%           | 325           |
-| Wassereimer                         | water\_bucket                         | %watr\_bucket%     | 326           |
-| Lavaeimer                           | lava\_bucket                          | %lava\_bucket%     | 327           |
-| Milcheimer                          | milk\_bucket                          | %milk\_bucket%     | 335           |
-| Pulverschneeeimer 									| powder_snow_bucket 										| %pwd_sn_bucket% 	 | %rk% 				 |
-| Kabeljaueimer                       | cod\_bucket                           | %cod\_bucket%      | %mv%          |
-| Lachseimer                          | salmon\_bucket                        | %salmon\_bucket%   | %mw%          |
-| Kugelfischeimer                     | pufferfish\_bucket                    | %puffer\_bucket%   | %mx%          |
-| Tropenfischeimer                    | tropical\_fish\_bucket                | %tropic\_bucket%   | %my%          |
-| Axolotleimer 												| axolotl_bucket 												| %axol_bucket% 		 | %rg% 				 |
-| Kaulquappeneimer                		| tadpole_bucket                        | %tpole_bucket% 		 | %xd%					 |
-| Blumentopf                          | flower\_pot                           | %flowerpot%        | 390           |
-| Verzierter Krug						| decorated_pot							| %deco_pot%	     | %abv%		 |
-| Glasflasche                           | glass\_bottle                         | %bottle%           | 374           |
-| Honigflasche                          | honey\_bottle                         | %honey\_bottle%    | %mz%          |
-| Erfahrungsfläschchen                  | experience\_bottle                    | %exp\_bottle%      | 384           |
-| Trank                                 | potion                                | %potion%           | 373           |
-| Wurftrank                             | splash\_potion                        | %spl\_potion%      | 438           |
-| Verweiltrank                          | lingering\_potion                     | %lin\_potion%      | 441           |
-| Drachenatem                           | dragon\_breath                        | %dragonbreath%     | 437           |
+| Schüssel                                          | bowl                                      | %bowl%                | 281           |
+| Pilzsuppe                                         | mushroom\_stew                            | %shroom\_stew%        | 282           |
+| Kaninchenragout                                   | rabbit\_stew                              | %rabbit\_stew%        | 413           |
+| Seltsame Suppe                                    | suspicious\_stew                          | %suspic\_stew%        | %mt%          |
+| Kessel                                            | cauldron                                  | %cauldron%            | 380           |
+| Komposter                                         | composter                                 | %composter%           | %mu%          |
+| Eimer                                             | bucket                                    | %bucket%              | 325           |
+| Wassereimer                                       | water\_bucket                             | %watr\_bucket%        | 326           |
+| Lavaeimer                                         | lava\_bucket                              | %lava\_bucket%        | 327           |
+| Milcheimer                                        | milk\_bucket                              | %milk\_bucket%        | 335           |
+| Pulverschneeeimer 								| powder_snow_bucket 						| %pwd_sn_bucket% 	    | %rk% 			|
+| Kabeljaueimer                                     | cod\_bucket                               | %cod\_bucket%         | %mv%          |
+| Lachseimer                                        | salmon\_bucket                            | %salmon\_bucket%      | %mw%          |
+| Kugelfischeimer                                   | pufferfish\_bucket                        | %puffer\_bucket%      | %mx%          |
+| Tropenfischeimer                                  | tropical\_fish\_bucket                    | %tropic\_bucket%      | %my%          |
+| Axolotleimer 										| axolotl_bucket 							| %axol_bucket% 		| %rg% 			|
+| Kaulquappeneimer                		            | tadpole_bucket                            | %tpole_bucket% 		| %xd%			|
+| Blumentopf                                        | flower\_pot                               | %flowerpot%           | 390           |
+| Verzierter Krug						            | decorated_pot							    | %deco_pot%	        | %abv%		    |
+| Glasflasche                                       | glass\_bottle                             | %bottle%              | 374           |
+| Honigflasche                                      | honey\_bottle                             | %honey\_bottle%       | %mz%          |
+| Erfahrungsfläschchen                              | experience\_bottle                        | %exp\_bottle%         | 384           |
+| Trank                                             | potion                                    | %potion%              | 373           |
+| Wurftrank                                         | splash\_potion                            | %spl\_potion%         | 438           |
+| Verweiltrank                                      | lingering\_potion                         | %lin\_potion%         | 441           |
+| Drachenatem                                       | dragon\_breath                            | %dragonbreath%        | 437           |
 
 ### Orientierungshilfen
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
 | ---                                               | ---                                       | ---                   | ---           |
-| Uhr                                   | clock                                 | %clock%            | 347           |
-| Kompass                               | compass                               | %compass%          | 345           |
-| Leere Karte                           | map                                   | %map%              | 395           |
-| Karte                                 | filled\_map                           | %filled\_map%      | 358           |
-| Fernrohr 							    | spyglass 															| %spyglass% 				 | %ro% 				 |
-| Bergungskompass 										| recovery_compass                      | %rec_compass% 		 | %e2% 				 |
+| Uhr                                               | clock                                     | %clock%               | 347           |
+| Kompass                                           | compass                                   | %compass%             | 345           |
+| Leere Karte                                       | map                                       | %map%                 | 395           |
+| Karte                                             | filled\_map                               | %filled\_map%         | 358           |
+| Fernrohr 							                | spyglass 									| %spyglass% 		    | %ro% 		    |
+| Bergungskompass 									| recovery_compass                          | %rec_compass% 		| %e2% 			|
 
 ### Waffen
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
 | ---                                               | ---                                       | ---                   | ---           |
-| Holzschwert                         | wooden\_sword                         | %wd\_sword%        | 268           |
-| Steinschwert                        | stone\_sword                          | %st\_sword%        | 272           |
-| Eisenschwert                        | iron\_sword                           | %ir\_sword%        | 267           |
-| Goldschwert                         | golden\_sword                         | %go\_sword%        | 283           |
-| Diamantschwert                      | diamond\_sword                        | %di\_sword%        | 276           |
-| Netheritschwert                     | netherite\_sword                      | %nt\_sword%        | %ng%          |
-| Bogen                               | bow                                   | %bow%              | 261           |
-| Armbrust                            | crossbow                              | %crossbow%         | %nh%          |
-| Dreizack                            | trident                               | %trident%          | %ni%          |
-| Angel                               | fishing\_rod                          | %fishingrod%       | 346           |
-| Feuerzeug                           | flint\_and\_steel                     | %flintandsteel%    | 259           |
-| Schere                              | shears                                | %shears%           | 359           |
-| Schild (Kampf)                      | shield                                | %shield%           | 442           |
+| Holzschwert                                       | wooden\_sword                             | %wd\_sword%           | 268           |
+| Steinschwert                                      | stone\_sword                              | %st\_sword%           | 272           |
+| Eisenschwert                                      | iron\_sword                               | %ir\_sword%           | 267           |
+| Goldschwert                                       | golden\_sword                             | %go\_sword%           | 283           |
+| Diamantschwert                                    | diamond\_sword                            | %di\_sword%           | 276           |
+| Netheritschwert                                   | netherite\_sword                          | %nt\_sword%           | %ng%          |
+| Bogen                                             | bow                                       | %bow%                 | 261           |
+| Armbrust                                          | crossbow                                  | %crossbow%            | %nh%          |
+| Dreizack                                          | trident                                   | %trident%             | %ni%          |
+| Angel                                             | fishing\_rod                              | %fishingrod%          | 346           |
+| Feuerzeug                                         | flint\_and\_steel                         | %flintandsteel%       | 259           |
+| Schere                                            | shears                                    | %shears%              | 359           |
+| Schild (Kampf)                                    | shield                                    | %shield%              | 442           |
 
 ### Spitzhacken
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
 | ---                                               | ---                                       | ---                   | ---           |
-| Holzspitzhacke                      | wooden\_pickaxe                       | %wd\_pickaxe%      | 270           |
-| Steinspitzhacke                     | stone\_pickaxe                        | %st\_pickaxe%      | 274           |
-| Eisenspitzhacke                     | iron\_pickaxe                         | %ir\_pickaxe%      | 257           |
-| Goldspitzhacke                      | golden\_pickaxe                       | %go\_pickaxe%      | 285           |
-| Diamantspitzhacke                   | diamond\_pickaxe                      | %di\_pickaxe%      | 278           |
-| Netheritspitzhacke                  | netherite\_pickaxe                    | %nt\_pickaxe%      | %nj%          |
+| Holzspitzhacke                                    | wooden\_pickaxe                           | %wd\_pickaxe%         | 270           |
+| Steinspitzhacke                                   | stone\_pickaxe                            | %st\_pickaxe%         | 274           |
+| Eisenspitzhacke                                   | iron\_pickaxe                             | %ir\_pickaxe%         | 257           |
+| Goldspitzhacke                                    | golden\_pickaxe                           | %go\_pickaxe%         | 285           |
+| Diamantspitzhacke                                 | diamond\_pickaxe                          | %di\_pickaxe%         | 278           |
+| Netheritspitzhacke                                | netherite\_pickaxe                        | %nt\_pickaxe%         | %nj%          |
 
 ### Schaufeln
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
 | ---                                               | ---                                       | ---                   | ---           |
-| Holzschaufel                        | wooden\_shovel                        | %wd\_shovel%       | 269           |
-| Steinschaufel                       | stone\_shovel                         | %st\_shovel%       | 273           |
-| Eisenschaufel                       | iron\_shovel                          | %ir\_shovel%       | 256           |
-| Goldschaufel                        | golden\_shovel                        | %go\_shovel%       | 284           |
-| Diamantschaufel                     | diamond\_shovel                       | %di\_shovel%       | 277           |
-| Netheritschaufel                    | netherite\_shovel                     | %nt\_shovel%       | %nk%          |
+| Holzschaufel                                      | wooden\_shovel                            | %wd\_shovel%          | 269           |
+| Steinschaufel                                     | stone\_shovel                             | %st\_shovel%          | 273           |
+| Eisenschaufel                                     | iron\_shovel                              | %ir\_shovel%          | 256           |
+| Goldschaufel                                      | golden\_shovel                            | %go\_shovel%          | 284           |
+| Diamantschaufel                                   | diamond\_shovel                           | %di\_shovel%          | 277           |
+| Netheritschaufel                                  | netherite\_shovel                         | %nt\_shovel%          | %nk%          |
 
 ### Äxte
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
 | ---                                               | ---                                       | ---                   | ---           |
-| Holzaxt                             | wooden\_axe                           | %wd\_axe%          | 271           |
-| Steinaxt                            | stone\_axe                            | %st\_axe%          | 275           |
-| Eisenaxt                            | iron\_axe                             | %ir\_axe%          | 258           |
-| Goldaxt                             | golden\_axe                           | %go\_axe%          | 286           |
-| Diamantaxt                          | diamond\_axe                          | %di\_axe%          | 279           |
-| Netheritaxt                         | netherite\_axe                        | %nt\_axe%          | %nl%          |
+| Holzaxt                                           | wooden\_axe                               | %wd\_axe%             | 271           |
+| Steinaxt                                          | stone\_axe                                | %st\_axe%             | 275           |
+| Eisenaxt                                          | iron\_axe                                 | %ir\_axe%             | 258           |
+| Goldaxt                                           | golden\_axe                               | %go\_axe%             | 286           |
+| Diamantaxt                                        | diamond\_axe                              | %di\_axe%             | 279           |
+| Netheritaxt                                       | netherite\_axe                            | %nt\_axe%             | %nl%          |
 
 ### Hacken
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
 | ---                                               | ---                                       | ---                   | ---           |
-| Holzhacke                           | wooden\_hoe                           | %wd\_hoe%          | 290           |
-| Steinhacke                          | stone\_hoe                            | %st\_hoe%          | 291           |
-| Eisenhacke                          | iron\_hoe                             | %ir\_hoe%          | 292           |
-| Goldhacke                           | golden\_hoe                           | %go\_hoe%          | 294           |
-| Diamanthacke                        | diamond\_hoe                          | %di\_hoe%          | 293           |
-| Netherithacke                       | netherite\_hoe                        | %nt\_hoe%          | %nm%          |
+| Holzhacke                                         | wooden\_hoe                               | %wd\_hoe%             | 290           |
+| Steinhacke                                        | stone\_hoe                                | %st\_hoe%             | 291           |
+| Eisenhacke                                        | iron\_hoe                                 | %ir\_hoe%             | 292           |
+| Goldhacke                                         | golden\_hoe                               | %go\_hoe%             | 294           |
+| Diamanthacke                                      | diamond\_hoe                              | %di\_hoe%             | 293           |
+| Netherithacke                                     | netherite\_hoe                            | %nt\_hoe%             | %nm%          |
 
 ### Rüstung
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
 | ---                                               | ---                                       | ---                   | ---           |
-| Lederkappe                          | leather\_helmet                       | %lt\_helmet%       | 298           |
-| Lederjacke                          | leather\_chestplate                   | %lt\_chestplate%   | 299           |
-| Lederhose                           | leather\_leggings                     | %lt\_leggings%     | 300           |
-| Lederstiefel                        | leather\_boots                        | %lt\_boots%        | 301           |
-| Kettenhaube                         | chainmail\_helmet                     | %ch\_helmet%       | 302           |
-| Kettenhemd                          | chainmail\_chestplate                 | %ch\_chestplate%   | 303           |
-| Kettenhose                          | chainmail\_leggings                   | %ch\_leggings%     | 304           |
-| Kettenstiefel                       | chainmail\_boots                      | %ch\_boots%        | 305           |
-| Eisenhelm                           | iron\_helmet                          | %ir\_helmet%       | 306           |
-| Eisenharnisch                       | iron\_chestplate                      | %ir\_chestplate%   | 307           |
-| Eisenbeinschutz                     | iron\_leggings                        | %ir\_leggings%     | 308           |
-| Eisenstiefel                        | iron\_boots                           | %ir\_boots%        | 309           |
-| Goldhelm                            | golden\_helmet                        | %go\_helmet%       | 314           |
-| Goldharnisch                        | golden\_chestplate                    | %go\_chestplate%   | 315           |
-| Goldbeinschutz                      | golden\_leggings                      | %go\_leggings%     | 316           |
-| Goldstiefel                         | golden\_boots                         | %go\_boots%        | 317           |
-| Diamanthelm                         | diamond\_helmet                       | %di\_helmet%       | 310           |
-| Diamantharnisch                     | diamond\_chestplate                   | %di\_chestplate%   | 311           |
-| Diamantbeinschutz                   | diamond\_leggings                     | %di\_leggings%     | 312           |
-| Diamantstiefel                      | diamond\_boots                        | %di\_boots%        | 313           |
-| Netherithelm                        | netherite\_helmet                     | %nt\_helmet%       | %nn%          |
-| Netheritharnisch                    | netherite\_chestplate                 | %nt\_chestplate%   | %no%          |
-| Netheritbeinschutz                  | netherite\_leggings                   | %nt\_leggings%     | %np%          |
-| Netheritstiefel                     | netherite\_boots                      | %nt\_boots%        | %nq%          |
-| Schildkrötenpanzer                  | turtle\_helmet                        | %turtleshell%      | %nr%          |
-| Elytra                              | elytra                                | %elytra%           | 443           |
-| Lederner Rossharnisch               | leather\_horse\_armor                 | %lt\_horsearmor%   | %nt%          |
-| Eiserner Rossharnisch               | iron\_horse\_armor                    | %ir\_horsearmor%   | 417           |
-| Goldener Rossharnisch               | golden\_horse\_armor                  | %go\_horsearmor%   | 418           |
-| Diamantener Rossharnisch            | diamond\_horse\_armor                 | %di\_horsearmor%   | 419           |
+| Lederkappe                                        | leather\_helmet                           | %lt\_helmet%          | 298           |
+| Lederjacke                                        | leather\_chestplate                       | %lt\_chestplate%      | 299           |
+| Lederhose                                         | leather\_leggings                         | %lt\_leggings%        | 300           |
+| Lederstiefel                                      | leather\_boots                            | %lt\_boots%           | 301           |
+| Kettenhaube                                       | chainmail\_helmet                         | %ch\_helmet%          | 302           |
+| Kettenhemd                                        | chainmail\_chestplate                     | %ch\_chestplate%      | 303           |
+| Kettenhose                                        | chainmail\_leggings                       | %ch\_leggings%        | 304           |
+| Kettenstiefel                                     | chainmail\_boots                          | %ch\_boots%           | 305           |
+| Eisenhelm                                         | iron\_helmet                              | %ir\_helmet%          | 306           |
+| Eisenharnisch                                     | iron\_chestplate                          | %ir\_chestplate%      | 307           |
+| Eisenbeinschutz                                   | iron\_leggings                            | %ir\_leggings%        | 308           |
+| Eisenstiefel                                      | iron\_boots                               | %ir\_boots%           | 309           |
+| Goldhelm                                          | golden\_helmet                            | %go\_helmet%          | 314           |
+| Goldharnisch                                      | golden\_chestplate                        | %go\_chestplate%      | 315           |
+| Goldbeinschutz                                    | golden\_leggings                          | %go\_leggings%        | 316           |
+| Goldstiefel                                       | golden\_boots                             | %go\_boots%           | 317           |
+| Diamanthelm                                       | diamond\_helmet                           | %di\_helmet%          | 310           |
+| Diamantharnisch                                   | diamond\_chestplate                       | %di\_chestplate%      | 311           |
+| Diamantbeinschutz                                 | diamond\_leggings                         | %di\_leggings%        | 312           |
+| Diamantstiefel                                    | diamond\_boots                            | %di\_boots%           | 313           |
+| Netherithelm                                      | netherite\_helmet                         | %nt\_helmet%          | %nn%          |
+| Netheritharnisch                                  | netherite\_chestplate                     | %nt\_chestplate%      | %no%          |
+| Netheritbeinschutz                                | netherite\_leggings                       | %nt\_leggings%        | %np%          |
+| Netheritstiefel                                   | netherite\_boots                          | %nt\_boots%           | %nq%          |
+| Schildkrötenpanzer                                | turtle\_helmet                            | %turtleshell%         | %nr%          |
+| Elytra                                            | elytra                                    | %elytra%              | 443           |
+| Lederner Rossharnisch                             | leather\_horse\_armor                     | %lt\_horsearmor%      | %nt%          |
+| Eiserner Rossharnisch                             | iron\_horse\_armor                        | %ir\_horsearmor%      | 417           |
+| Goldener Rossharnisch                             | golden\_horse\_armor                      | %go\_horsearmor%      | 418           |
+| Diamantener Rossharnisch                          | diamond\_horse\_armor                     | %di\_horsearmor%      | 419           |
 
 ### Schallplatten
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
 | ---                                               | ---                                       | ---                   | ---           |
-| Schallplatte 11                     | music\_disc\_11                       | %disc\_11%         | 2266          |
-| Schallplatte 13                     | music\_disc\_13                       | %disc\_13          | 2256          |
-| Schallplatte Blocks                 | music\_disc\_blocks                   | %disc\_blocks%     | 2258          |
-| Schallplatte Cat                    | music\_disc\_cat                      | %disc\_cat%        | 2257          |
-| Schallplatte Chirp                  | music\_disc\_chirp                    | %disc\_chirp%      | 2259          |
-| Schallplatte Far                    | music\_disc\_far                      | %disc\_far%        | 2260          |
-| Schallplatte Mall                   | music\_disc\_mall                     | %disc\_mall%       | 2261          |
-| Schallplatte Mellohi                | music\_disc\_mellohi                  | %disc\_mellohi%    | 2262          |
-| Schallplatte Stal                   | music\_disc\_stal                     | %disc\_stal%       | 2263          |
-| Schallplatte Strad                  | music\_disc\_strad                    | %disc\_strad%      | 2264          |
-| Schallplatte Wait                   | music\_disc\_wait                     | %disc\_wait%       | 2267          |
-| Schallplatte Ward                   | music\_disc\_ward                     | %disc\_ward%       | 2265          |
-| Schallplatte Pigstep                | music\_disc\_pigstep                  | %disc\_pigstep%    | %nu%          |
-| Schallplatte Otherside          		| music_disc_otherside              		| %disc_otherside% 	 | %e3% 				 |
-| Schallplatte 5 											| music_disc_5                          | %disc_5% 				 	 | %e4% 				 | 
-| Plattenbruchstück - 5 							| disc_fragment_5                       | %disc_frag_5% 		 | %e5% 				 |
-| Schallplatte Relic								  | music_disc_relic											| %disc_relic%			 | %aek% 				 |
+| Schallplatte 11                                   | music\_disc\_11                           | %disc\_11%            | 2266          |
+| Schallplatte 13                                   | music\_disc\_13                           | %disc\_13             | 2256          |
+| Schallplatte Blocks                               | music\_disc\_blocks                       | %disc\_blocks%        | 2258          |
+| Schallplatte Cat                                  | music\_disc\_cat                          | %disc\_cat%           | 2257          |
+| Schallplatte Chirp                                | music\_disc\_chirp                        | %disc\_chirp%         | 2259          |
+| Schallplatte Far                                  | music\_disc\_far                          | %disc\_far%           | 2260          |
+| Schallplatte Mall                                 | music\_disc\_mall                         | %disc\_mall%          | 2261          |
+| Schallplatte Mellohi                              | music\_disc\_mellohi                      | %disc\_mellohi%       | 2262          |
+| Schallplatte Stal                                 | music\_disc\_stal                         | %disc\_stal%          | 2263          |
+| Schallplatte Strad                                | music\_disc\_strad                        | %disc\_strad%         | 2264          |
+| Schallplatte Wait                                 | music\_disc\_wait                         | %disc\_wait%          | 2267          |
+| Schallplatte Ward                                 | music\_disc\_ward                         | %disc\_ward%          | 2265          |
+| Schallplatte Pigstep                              | music\_disc\_pigstep                      | %disc\_pigstep%       | %nu%          |
+| Schallplatte Otherside          		            | music_disc_otherside              		| %disc_otherside% 	    | %e3% 			|
+| Schallplatte 5 								    | music_disc_5                              | %disc_5% 				| %e4% 			| 
+| Plattenbruchstück - 5 							| disc_fragment_5                           | %disc_frag_5% 		| %e5% 			|
+| Schallplatte Relic								| music_disc_relic						    | %disc_relic%			| %aek% 		|
 
 ### Töpferscherben
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
 | ---                                               | ---                                       | ---                   | ---           |
-| Angler-Töpferscherbe								| angler_pottery_sherd									| %angler_pshd%			 | %acq%				 | 
-| Bergarbeiter-Töpferscherbe					| miner_pottery_sherd										| %miner_pshd%			 | %acr%				 | 
-| Brauer-Töpferscherbe								| brewer_pottery_sherd									| %brewer_pshd%			 | %acs%				 | 
-| Entdecker-Töpferscherbe							| explorer_pottery_sherd								| %explorer_pshd% 	 | %act%				 | 
-| Flammen-Töpferscherbe								| burn_pottery_sherd										| %burn_pshd%			 	 | %acu%				 | 
-| Freundes-Töpferscherbe							| friend_pottery_sherd									| %friend_pshd%			 | %acv%				 | 
-| Garben-Töpferscherbe								| sheaf_pottery_sherd										| %sheaf_pshd%			 | %acw%				 | 
-| Gebärden-Töpferscherbe							| arms_up_pottery_sherd									| %armsup_pshd%			 | %acx%				 | 
-| Gefahren-Töpferscherbe							| danger_pottery_sherd									| %danger_pshd%			 | %acy%				 | 
-| Geheul-Töpferscherbe								| howl_pottery_sherd										| %howl_pshd%				 | %acz%				 | 
-| Herz-Töpferscherbe									| heart_pottery_sherd 									| %heart_pshd%			 | %ada%				 | 
-| Herzschmerz-Töpferscherbe						| heartbreak_pottery_sherd							| %heartbreak_pshd%	 | %adb%				 | 
-| Juwelen-Töpferscherbe								| prize_pottery_sherd										| %prize_pshd%			 | %adc%				 | 
-| Klingen-Töpferscherbe								| blade_pottery_sherd										| %blade_pshd%			 | %add%				 | 
-| Reichtums-Töpferscherbe							| plenty_pottery_shrd										| %plenty_pshd%			 | %ade%				 | 
-| Schnaub-Töpferscherbe								| snort_pottery_sherd										| %snort_pshd%			 | %adf%				 | 
-| Schützen-Töpferscherbe							| archer_pottery_shrd										| %archer_pshd%			 | %adg%				 | 
-| Totenkopf-Töpferscherbe							| skull_pottery_sherd										| %skull_potsherd%	 | %adh%				 | 
-| Wimmerer-Töpferscherbe							| mourner_pottery_sherd									| %mourner_potsherd% | %adi%				 | 
-| Zufluchts-Töpferscherbe							| shelter_pottery_sherd									| %shelter_potsherd% | %adj%				 | 
+| Angler-Töpferscherbe								| angler_pottery_sherd						| %angler_pshd%			| %acq%			| 
+| Bergarbeiter-Töpferscherbe					    | miner_pottery_sherd						| %miner_pshd%			| %acr%			| 
+| Brauer-Töpferscherbe								| brewer_pottery_sherd					    | %brewer_pshd%			| %acs%			| 
+| Entdecker-Töpferscherbe							| explorer_pottery_sherd					| %explorer_pshd% 	    | %act%			| 
+| Flammen-Töpferscherbe								| burn_pottery_sherd						| %burn_pshd%			| %acu%			| 
+| Freundes-Töpferscherbe							| friend_pottery_sherd						| %friend_pshd%			| %acv%		    | 
+| Garben-Töpferscherbe								| sheaf_pottery_sherd						| %sheaf_pshd%			| %acw%			| 
+| Gebärden-Töpferscherbe							| arms_up_pottery_sherd					    | %armsup_pshd%			| %acx%			| 
+| Gefahren-Töpferscherbe							| danger_pottery_sherd						| %danger_pshd%			| %acy%			| 
+| Geheul-Töpferscherbe								| howl_pottery_sherd						| %howl_pshd%			| %acz%			| 
+| Herz-Töpferscherbe								| heart_pottery_sherd 						| %heart_pshd%			| %ada%			| 
+| Herzschmerz-Töpferscherbe						    | heartbreak_pottery_sherd					| %heartbreak_pshd%	    | %adb%			| 
+| Juwelen-Töpferscherbe								| prize_pottery_sherd						| %prize_pshd%			| %adc%			| 
+| Klingen-Töpferscherbe								| blade_pottery_sherd						| %blade_pshd%			| %add%			| 
+| Reichtums-Töpferscherbe							| plenty_pottery_shrd						| %plenty_pshd%			| %ade%			| 
+| Schnaub-Töpferscherbe								| snort_pottery_sherd						| %snort_pshd%			| %adf%			| 
+| Schützen-Töpferscherbe							| archer_pottery_shrd						| %archer_pshd%			| %adg%			| 
+| Totenkopf-Töpferscherbe							| skull_pottery_sherd						| %skull_potsherd%	    | %adh%			| 
+| Wimmerer-Töpferscherbe							| mourner_pottery_sherd						| %mourner_potsherd%    | %adi%			| 
+| Zufluchts-Töpferscherbe							| shelter_pottery_sherd						| %shelter_potsherd%    | %adj%			| 
 
 ### Schmiedevorlagen
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
 | ---                                               | ---                                       | ---                   | ---           |
-| Schmiedevorlage Netheritaufwertung	| netherite_upgrade_smithing_template		| %neth_upg_stmp%		 | %adk%
-| Schmiedevorlage Wachen							| sentry_armor_trim_smithing_template		| %sentry_t_stmp%		 | %adl%
-| Schmiedevorlage Plagegeist					| vex_armor_trim_smithing_template			| %vex_t_stmp%			 | %adm%
-| Schmiedevorlage Wildnis							| wild_armor_trim_smithing_template			| %wild_t_stmp%			 | %adn%
-| Schmiedevorlage Küsten							| coast_armor_trim_smithing_template		| %coast_t_stmp%		 | %ado%
-| Schmiedevorlage Dünen								| dune_armor_trim_smithing_template			| %dune_t_stmp%			 | %adp%
-| Schmiedevorlage Wegfinder						| wayfinder_armor_trim_smithing_template| %wfinder_t_stmp%	 | %adq%
-| Schmiedevorlage Aufzieher						| raiser_armor_trim_smithing_template		| %raiser_t_stmp% 	 |	%adr%
-| Schmiedevorlage Gestalter						| shaper_armor_trim_smithing_template		| %shaper_t_stmp%		 | %ads%
-| Schmiedevorlage Gastwirts						| host_armor_trim_smithing_template			| %host_t_stmp%			 | %adt%
-| Schmiedevorlage Warthof							| ward_armor_trim_smithing_template			| %ward_t_stmp%			 | %adu%
-| Schmiedevorlage Stille							| silence_armor_trim_smithing_template	| %silence_t_stmp%	 | %adv%
-| Schmiedevorlage Gezeiten						| tide_armor_trim_smithing_template			| %tide_t_stmp% 		 |	%adw%
-| Schmiedevorlage Schnauzen						| snout_armor_trim_smithing_template		| %snout_t_stmp%		 | %adx%
-| Schmiedevorlage Rippen							| rib_armor_trim_smithing_template			| %rib_t_stmp%			 | %ady%
-| Schmiedevorlage Augen								| eye_armor_trim_smithing_template			| %eye_t_stmp%			 | %adz%
-| Schmiedevorlage Turmspitzen					| spire_armor_trim_smithing_template		| %spire_t_stmp%		 | %aea%
+| Schmiedevorlage Netheritaufwertung	            | netherite_upgrade_smithing_template		| %neth_upg_stmp%		| %adk%         |
+| Schmiedevorlage Wachen							| sentry_armor_trim_smithing_template		| %sentry_t_stmp%		| %adl%         |
+| Schmiedevorlage Plagegeist					    | vex_armor_trim_smithing_template			| %vex_t_stmp%			| %adm%         |
+| Schmiedevorlage Wildnis							| wild_armor_trim_smithing_template			| %wild_t_stmp%			| %adn%         |
+| Schmiedevorlage Küsten							| coast_armor_trim_smithing_template		| %coast_t_stmp%		| %ado%         |
+| Schmiedevorlage Dünen								| dune_armor_trim_smithing_template			| %dune_t_stmp%			| %adp%         |
+| Schmiedevorlage Wegfinder						    | wayfinder_armor_trim_smithing_template    | %wfinder_t_stmp%	    | %adq%         |
+| Schmiedevorlage Aufzieher						    | raiser_armor_trim_smithing_template		| %raiser_t_stmp% 	    | %adr%         |
+| Schmiedevorlage Gestalter						    | shaper_armor_trim_smithing_template		| %shaper_t_stmp%	    | %ads%         |
+| Schmiedevorlage Gastwirts						    | host_armor_trim_smithing_template			| %host_t_stmp%			| %adt%         |
+| Schmiedevorlage Warthof							| ward_armor_trim_smithing_template			| %ward_t_stmp%			| %adu%         |
+| Schmiedevorlage Stille							| silence_armor_trim_smithing_template	    | %silence_t_stmp%	    | %adv%         |
+| Schmiedevorlage Gezeiten						    | tide_armor_trim_smithing_template			| %tide_t_stmp% 		| %adw%         |
+| Schmiedevorlage Schnauzen						    | snout_armor_trim_smithing_template		| %snout_t_stmp%		| %adx%         |
+| Schmiedevorlage Rippen							| rib_armor_trim_smithing_template			| %rib_t_stmp%			| %ady%         |
+| Schmiedevorlage Augen								| eye_armor_trim_smithing_template			| %eye_t_stmp%			| %adz%         |
+| Schmiedevorlage Turmspitzen					    | spire_armor_trim_smithing_template		| %spire_t_stmp%		| %aea%         |
 
 ### Bedrock
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
 | ---                                               | ---                                       | ---                   | ---           |
-| Grundgestein                        | bedrock                               | %bedrock%          | 7             |
+| Grundgestein                                      | bedrock                                   | %bedrock%             | 7             |
