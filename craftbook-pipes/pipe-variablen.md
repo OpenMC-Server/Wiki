@@ -293,40 +293,40 @@ Um nach Kategorien zu suchen, kannst du die Suchfunktion der Seite oder das Inha
 ### Steinziegel
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
-| Steinziegel                         | stone\_bricks                         | %stbrick%          | 98            |
-| Steinziegelstufe                    | stone\_brick\_slab                    | %stbrick\_sl%      | %q%           |
-| Steinziegeltreppe                   | stone\_brick\_stairs                  | %stbrick\_st%      | 109           |
-| Steinziegelmauer                    | stone\_brick\_wall                    | %stbrick\_wl%      | %dl%          |
-| Bemooste Steinziegel                | mossy\_stone\_bricks                  | %m\_stbrick%       | 98:1          |
-| Bemooste Steinziegelstufe           | mossy\_stone\_brick\_slab             | %m\_stbrick\_sl%   | %dm%          |
-| Bemooste Steinziegeltreppe          | mossy\_stone\_brick\_stairs           | %m\_stbrick\_st%   | %dn%          |
-| Bemooste Steinziegelmauer           | mossy\_stone\_brick\_wall             | %m\_stbrick\_wl%   | %do%          |
-| Rissige Steinziegel                 | cracked\_stone\_bricks                | %cr\_stbrick%      | 98:2          |
-| Gemeißelte Steinziegel              | chiseled\_stone\_bricks               | %ch\_stbrick%      | 98:3          |
+| Steinziegel                                       | stone\_bricks                             | %stbrick%             | 98            |
+| Steinziegelstufe                                  | stone\_brick\_slab                        | %stbrick\_sl%         | %q%           |
+| Steinziegeltreppe                                 | stone\_brick\_stairs                      | %stbrick\_st%         | 109           |
+| Steinziegelmauer                                  | stone\_brick\_wall                        | %stbrick\_wl%         | %dl%          |
+| Bemooste Steinziegel                              | mossy\_stone\_bricks                      | %m\_stbrick%          | 98:1          |
+| Bemooste Steinziegelstufe                         | mossy\_stone\_brick\_slab                 | %m\_stbrick\_sl%      | %dm%          |
+| Bemooste Steinziegeltreppe                        | mossy\_stone\_brick\_stairs               | %m\_stbrick\_st%      | %dn%          |
+| Bemooste Steinziegelmauer                         | mossy\_stone\_brick\_wall                 | %m\_stbrick\_wl%      | %do%          |
+| Rissige Steinziegel                               | cracked\_stone\_bricks                    | %cr\_stbrick%         | 98:2          |
+| Gemeißelte Steinziegel                            | chiseled\_stone\_bricks                   | %ch\_stbrick%         | 98:3          |
 
 ### Tiefenschiefer
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
-| Tiefenschiefer 					  | deepslate 														| %deepsl% 					 | %ph% 				 |
-| Polierter Tiefenschiefer 			   | polished\_deepslate 									| %p\_deepsl% 			 | %pi% 				 |
-| Polierte Tiefenschieferstufe 				| polished\_deepslate\_slab 						| %p\_deepsl\_sl% 	 | %pj% 				 |
-| Polierte Tiefenschiefertreppe 			| polished\_deepslate\_stairs 					| %p\_deepsl\_st% 	 | %pk% 				 |
-| Polierte Tiefenschiefermauer 				| polished\_deepslate\_wall 						| %p\_deepsl\_wl% 	 | %pl% 				 |
-| Gemeißelter Tiefenschiefer 					| chiseled\_deepslate 									| %ch\_deepsl% 		   | %ue% 				 |
-| Tiefenschieferziegel 								| deepslate\_bricks 										| %deepsl\_br% 		   | %pm% 				 |
-| Rissige Tiefenschieferziegel 				| cracked\_deepslate\_bricks 						| %cr\_deepsl\_br% 	 | %pn% 				 |
-| Tiefenschieferziegelstufe 					| deepslate\_brick_slab 								| %deepsl\_br\_sl% 	 | %po% 				 |
-| Tiefenschieferziegeltreppe 					| deepslate\_brick_stairs 							| %deepsl\_br\_st% 	 | %pp% 				 |
-| Tiefenschieferziegelmauer 					|	deepslate\_brick_wall 								| %deepsl\_br\_wl% 	 | %pq% 				 |
-| Tiefenschieferfliesen 							| deepslate\_tiles 											| %deepsl\_t% 			 | %pr% 				 |
-| Rissige Tiefenschieferfliesen 			| cracked\_deepslate\_tiles 						| %cr\_deepsl\_t% 	 | %ps% 				 |
-| Tieferschiefenfliesenstufe 					| deepslate\_tile\_slab 								| %deepsl\_t\_sl% 	 | %pt% 				 |
-| Tieferschiefenfliesentreppe 				| deepslate\_tile\_stairs 							| %deepsl\_t\_st% 	 | %pu% 				 |
-| Tieferschiefenfliesenmauer 					| deepslate\_tile\_wall 								| %deepsl\_t\_wl% 	 | %pv% 				 |
-| Bruchtiefenschiefer 								| cobbled\_deepslate 										| %co\_deepsl% 			 | %px% 				 |
-| Bruchtiefenschieferstufe 						| cobbled\_deepslate\_slab 							| %co\_deepsl\_sl%	 | %uf% 				 |
-| Bruchtiefenschiefertreppe 					| cobbled\_deepslate\_stairs 						| %co\_deepsl\_st%	 | %ug% 				 |
-| Bruchtiefenschiefermauer 						| cobbled\_deepslate\_wall 							| %co\_deepsl\_wl%	 | %qg% 				 |
+| Tiefenschiefer 					                | deepslate 								| %deepsl% 				| %ph% 			|
+| Polierter Tiefenschiefer 			                | polished\_deepslate 						| %p\_deepsl% 			| %pi% 			|
+| Polierte Tiefenschieferstufe 				        | polished\_deepslate\_slab 				| %p\_deepsl\_sl% 	    | %pj% 			|
+| Polierte Tiefenschiefertreppe 			        | polished\_deepslate\_stairs 				| %p\_deepsl\_st% 	    | %pk% 			|
+| Polierte Tiefenschiefermauer 				        | polished\_deepslate\_wall 				| %p\_deepsl\_wl% 	    | %pl% 			|
+| Gemeißelter Tiefenschiefer 					    | chiseled\_deepslate 						| %ch\_deepsl% 		    | %ue% 			|
+| Tiefenschieferziegel 								| deepslate\_bricks 						| %deepsl\_br% 		    | %pm% 			|
+| Rissige Tiefenschieferziegel 				        | cracked\_deepslate\_bricks 				| %cr\_deepsl\_br% 	    | %pn% 			|
+| Tiefenschieferziegelstufe 					    | deepslate\_brick_slab 					| %deepsl\_br\_sl% 	    | %po% 			|
+| Tiefenschieferziegeltreppe 					    | deepslate\_brick_stairs 					| %deepsl\_br\_st% 	    | %pp% 			|
+| Tiefenschieferziegelmauer 					    |	deepslate\_brick_wall 					| %deepsl\_br\_wl% 	    | %pq% 			|
+| Tiefenschieferfliesen 							| deepslate\_tiles 							| %deepsl\_t% 			| %pr% 			|
+| Rissige Tiefenschieferfliesen 			        | cracked\_deepslate\_tiles 				| %cr\_deepsl\_t% 	    | %ps% 			|
+| Tieferschiefenfliesenstufe 					    | deepslate\_tile\_slab 					| %deepsl\_t\_sl% 	    | %pt% 			|
+| Tieferschiefenfliesentreppe 				        | deepslate\_tile\_stairs 					| %deepsl\_t\_st% 	    | %pu% 			|
+| Tieferschiefenfliesenmauer 					    | deepslate\_tile\_wall 					| %deepsl\_t\_wl% 	    | %pv% 			|
+| Bruchtiefenschiefer 								| cobbled\_deepslate 						| %co\_deepsl% 			| %px% 			|
+| Bruchtiefenschieferstufe 						    | cobbled\_deepslate\_slab 					| %co\_deepsl\_sl%	    | %uf% 			|
+| Bruchtiefenschiefertreppe 					    | cobbled\_deepslate\_stairs 				| %co\_deepsl\_st%	    | %ug% 			|
+| Bruchtiefenschiefermauer 						    | cobbled\_deepslate\_wall 					| %co\_deepsl\_wl%	    | %qg% 			|
 
 ### Lehmziegel
 {.compact}
