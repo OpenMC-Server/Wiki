@@ -635,398 +635,398 @@ Um nach Kategorien zu suchen, kannst du die Suchfunktion der Seite oder das Inha
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
 | ---                                               | ---                                       | ---                   | ---           |
-| Kies                                              | gravel                                | %gravel%           | 13            |
-| Seltsamer Kies									| suspicious_gravel											| %sus_gravel%			 | %ack% 				 |
-| Feuerstein                                        | flint                                 | %flint%            | 318           |
-| Sand                                              | sand                                  | %sand%             | 12            |
-| Seltsamer Sand									| suspicious_sand												| %sus_sand%				 | %acl%				 |
-| Roter Sand                                        | red\_sand                             | %rsand%            | %r%           |
+| Kies                                              | gravel                                    | %gravel%              | 13            |
+| Seltsamer Kies									| suspicious_gravel							| %sus_gravel%			| %ack% 		|
+| Feuerstein                                        | flint                                     | %flint%               | 318           |
+| Sand                                              | sand                                      | %sand%                | 12            |
+| Seltsamer Sand									| suspicious_sand							| %sus_sand%			| %acl%			|
+| Roter Sand                                        | red\_sand                                 | %rsand%               | %r%           |
 
 ### Schnee und Eis
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
 | ---                                               | ---                                       | ---                   | ---           |
-| Schneeball                          | snowball                              | %snow\_ball%       | 332           |
-| Schnee                              | snow                                  | %snow\_cover%      | 78            |
-| Schneeblock                         | snow\_block                           | %snow%             | 80            |
-| Eis                                 | ice                                   | %ice%              | 79            |
-| Packeis                             | packed\_ice                           | %packedice%        | 174           |
-| Blaueis                             | blue\_ice                             | %blueice%          | %gm%          |
+| Schneeball                                        | snowball                                  | %snow\_ball%          | 332           |
+| Schnee                                            | snow                                      | %snow\_cover%         | 78            |
+| Schneeblock                                       | snow\_block                               | %snow%                | 80            |
+| Eis                                               | ice                                       | %ice%                 | 79            |
+| Packeis                                           | packed\_ice                               | %packedice%           | 174           |
+| Blaueis                                           | blue\_ice                                 | %blueice%             | %gm%          |
 
 ### Glas
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
 | ---                                               | ---                                       | ---                   | ---           |
-| Glas                                | glass                                 | %glass%            | 20            |
-| Weißes Glas                         | white\_stained\_glass                 | %glass\_whi%       | 95            |
-| Hellgraues Glas                     | light\_gray\_stained\_glass           | %glass\_lgr%       | 95:8          |
-| Graues Glas                         | gray\_stained\_glass                  | %glass\_gry%       | 95:7          |
-| Schwarzes Glas                      | black\_stained\_glass                 | %glass\_blk%       | %sf%          |
-| Gelbes Glas                         | yellow\_stained\_glass                | %glass\_yel%       | 95:4          |
-| Oranges Glas                        | orange\_stained\_glass                | %glass\_org%       | 95:1          |
-| Rotes Glas                          | red\_stained\_glass                   | %glass\_red%       | %se%          |
-| Rosa Glas                           | pink\_stained\_glass                  | %glass\_pnk%       | 95:6          |
-| Magenta Glas                        | magenta\_stained\_glass               | %glass\_mag%       | 95:2          |
-| Violettes Glas                      | purple\_stained\_glass                | %glass\_ppl%       | %sa%          |
-| Blaues Glas                         | blue\_stained\_glass                  | %glass\_blu%       | %sb%          |
-| Türkises Glas                       | cyan\_stained\_glass                  | %glass\_cya%       | 95:9          |
-| Grünes Glas                         | green\_stained\_glass                 | %glass\_grn%       | %sd%          |
-| Hellgrünes Glas                     | lime\_stained\_glass                  | %glass\_lim%       | 95:5          |
-| Hellblaues Glas                     | light\_blue\_stained\_glass           | %glass\_lbl%       | 95:3          |
-| Braunes Glas                        | brown\_stained\_glass                 | %glass\_bro%       | %sc%          |
-| Getöntes Glas 											| tinted_glass 													| %tint_glass% 			 | %rd% 				 |
+| Glas                                              | glass                                     | %glass%               | 20            |
+| Weißes Glas                                       | white\_stained\_glass                     | %glass\_whi%          | 95            |
+| Hellgraues Glas                                   | light\_gray\_stained\_glass               | %glass\_lgr%          | 95:8          |
+| Graues Glas                                       | gray\_stained\_glass                      | %glass\_gry%          | 95:7          |
+| Schwarzes Glas                                    | black\_stained\_glass                     | %glass\_blk%          | %sf%          |
+| Gelbes Glas                                       | yellow\_stained\_glass                    | %glass\_yel%          | 95:4          |
+| Oranges Glas                                      | orange\_stained\_glass                    | %glass\_org%          | 95:1          |
+| Rotes Glas                                        | red\_stained\_glass                       | %glass\_red%          | %se%          |
+| Rosa Glas                                         | pink\_stained\_glass                      | %glass\_pnk%          | 95:6          |
+| Magenta Glas                                      | magenta\_stained\_glass                   | %glass\_mag%          | 95:2          |
+| Violettes Glas                                    | purple\_stained\_glass                    | %glass\_ppl%          | %sa%          |
+| Blaues Glas                                       | blue\_stained\_glass                      | %glass\_blu%          | %sb%          |
+| Türkises Glas                                     | cyan\_stained\_glass                      | %glass\_cya%          | 95:9          |
+| Grünes Glas                                       | green\_stained\_glass                     | %glass\_grn%          | %sd%          |
+| Hellgrünes Glas                                   | lime\_stained\_glass                      | %glass\_lim%          | 95:5          |
+| Hellblaues Glas                                   | light\_blue\_stained\_glass               | %glass\_lbl%          | 95:3          |
+| Braunes Glas                                      | brown\_stained\_glass                     | %glass\_bro%          | %sc%          |
+| Getöntes Glas 									| tinted_glass 								| %tint_glass% 			| %rd% 		    |
 
 ### Glasscheiben
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
 | ---                                               | ---                                       | ---                   | ---           |
-| Glasscheibe                         | glass\_pane                           | %glasspane%        | 102           |
-| Weiße Glasscheibe                   | white\_stained\_glass\_pane           | %glasspane\_whi%   | 160           |
-| Hellgraue Glasscheibe               | light\_gray\_stained\_glass\_pane     | %glasspane\_lgr%   | %p8%          |
-| Graue Glasscheibe                   | gray\_stained\_glass\_pane            | %glasspane\_gry%   | %p7%          |
-| Schwarze Glasscheibe                | black\_stained\_glass\_pane           | %glasspane\_blk%   | %pf%          |
-| Gelbe Glasscheibe                   | yellow\_stained\_glass\_pane          | %glasspane\_yel%   | %p4%          |
-| Orange Glasscheibe                  | orange\_stained\_glass\_pane          | %glasspane\_ora%   | %p1%          |
-| Rote Glasscheibe                    | red\_stained\_glass\_pane             | %glasspane\_red%   | %pe%          |
-| Rosa Glasscheibe                    | pink\_stained\_glass\_pane            | %glasspane\_pnk%   | %p6%          |
-| Magenta Glasscheibe                 | magenta\_stained\_glass\_pane         | %glasspane\_mag%   | %p2%          |
-| Violette Glasscheibe                | purple\_stained\_glass\_pane          | %glasspane\_pur%   | %pa%          |
-| Blaue Glasscheibe                   | blue\_stained\_glass\_pane            | %glasspane\_blu%   | %pb%          |
-| Türkise Glasscheibe                 | cyan\_stained\_glass\_pane            | %glasspane\_cya%   | %p9%          |
-| Grüne Glasscheibe                   | green\_stained\_glass\_pane           | %glasspane\_grn%   | %pd%          |
-| Hellgrüne Glasscheibe               | lime\_stained\_glass\_pane            | %glasspane\_lim%   | %p5%          |
-| Hellblaue Glasscheibe               | light\_blue\_stained\_glass\_pane     | %glasspane\_lbl%   | %p3%          |
-| Braune Glasscheibe                  | brown\_stained\_glass\_pane           | %glasspane\_bro%   | %pc%          |
+| Glasscheibe                                       | glass\_pane                               | %glasspane%           | 102           |
+| Weiße Glasscheibe                                 | white\_stained\_glass\_pane               | %glasspane\_whi%      | 160           |
+| Hellgraue Glasscheibe                             | light\_gray\_stained\_glass\_pane         | %glasspane\_lgr%      | %p8%          |
+| Graue Glasscheibe                                 | gray\_stained\_glass\_pane                | %glasspane\_gry%      | %p7%          |
+| Schwarze Glasscheibe                              | black\_stained\_glass\_pane               | %glasspane\_blk%      | %pf%          |
+| Gelbe Glasscheibe                                 | yellow\_stained\_glass\_pane              | %glasspane\_yel%      | %p4%          |
+| Orange Glasscheibe                                | orange\_stained\_glass\_pane              | %glasspane\_ora%      | %p1%          |
+| Rote Glasscheibe                                  | red\_stained\_glass\_pane                 | %glasspane\_red%      | %pe%          |
+| Rosa Glasscheibe                                  | pink\_stained\_glass\_pane                | %glasspane\_pnk%      | %p6%          |
+| Magenta Glasscheibe                               | magenta\_stained\_glass\_pane             | %glasspane\_mag%      | %p2%          |
+| Violette Glasscheibe                              | purple\_stained\_glass\_pane              | %glasspane\_pur%      | %pa%          |
+| Blaue Glasscheibe                                 | blue\_stained\_glass\_pane                | %glasspane\_blu%      | %pb%          |
+| Türkise Glasscheibe                               | cyan\_stained\_glass\_pane                | %glasspane\_cya%      | %p9%          |
+| Grüne Glasscheibe                                 | green\_stained\_glass\_pane               | %glasspane\_grn%      | %pd%          |
+| Hellgrüne Glasscheibe                             | lime\_stained\_glass\_pane                | %glasspane\_lim%      | %p5%          |
+| Hellblaue Glasscheibe                             | light\_blue\_stained\_glass\_pane         | %glasspane\_lbl%      | %p3%          |
+| Braune Glasscheibe                                | brown\_stained\_glass\_pane               | %glasspane\_bro%      | %pc%          |
 
 ### Wolle
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
 | ---                                               | ---                                       | ---                   | ---           |
-| Weiße Wolle                         | white\_wool                           | %wool\_whi%        | 35            |
-| Hellgraue Wolle                     | light\_gray\_wool                     | %wool\_lgr%        | 35:8          |
-| Graue Wolle                         | gray\_wool                            | %wool\_gry%        | 35:7          |
-| Schwarze Wolle                      | black\_wool                           | %wool\_blk%        | %wf%          |
-| Gelbe Wolle                         | yellow\_wool                          | %wool\_yel%        | 35:4          |
-| Orange Wolle                        | orange\_wool                          | %wool\_ora%        | 35:1          |
-| Rote Wolle                          | red\_wool                             | %wool\_red%        | %we%          |
-| Rosa Wolle                          | pink\_wool                            | %wool\_pnk%        | 35:6          |
-| Magenta Wolle                       | magenta\_wool                         | %wool\_mag%        | 35:2          |
-| Violette Wolle                      | purple\_wool                          | %wool\_pur%        | %wa%          |
-| Blaue Wolle                         | blue\_wool                            | %wool\_blu%        | %wb%          |
-| Türkise Wolle                       | cyan\_wool                            | %wool\_cya%        | 35:9          |
-| Grüne Wolle                         | green\_wool                           | %wool\_grn%        | %wd%          |
-| Hellgrüne Wolle                     | lime\_wool                            | %wool\_lim%        | 35:5          |
-| Hellblaue Wolle                     | light\_blue\_wool                     | %wool\_lbl%        | 35:3          |
-| Braune Wolle                        | brown\_wool                           | %wool\_bro%        | %wc%          |
+| Weiße Wolle                                       | white\_wool                               | %wool\_whi%           | 35            |
+| Hellgraue Wolle                                   | light\_gray\_wool                         | %wool\_lgr%           | 35:8          |
+| Graue Wolle                                       | gray\_wool                                | %wool\_gry%           | 35:7          |
+| Schwarze Wolle                                    | black\_wool                               | %wool\_blk%           | %wf%          |
+| Gelbe Wolle                                       | yellow\_wool                              | %wool\_yel%           | 35:4          |
+| Orange Wolle                                      | orange\_wool                              | %wool\_ora%           | 35:1          |
+| Rote Wolle                                        | red\_wool                                 | %wool\_red%           | %we%          |
+| Rosa Wolle                                        | pink\_wool                                | %wool\_pnk%           | 35:6          |
+| Magenta Wolle                                     | magenta\_wool                             | %wool\_mag%           | 35:2          |
+| Violette Wolle                                    | purple\_wool                              | %wool\_pur%           | %wa%          |
+| Blaue Wolle                                       | blue\_wool                                | %wool\_blu%           | %wb%          |
+| Türkise Wolle                                     | cyan\_wool                                | %wool\_cya%           | 35:9          |
+| Grüne Wolle                                       | green\_wool                               | %wool\_grn%           | %wd%          |
+| Hellgrüne Wolle                                   | lime\_wool                                | %wool\_lim%           | 35:5          |
+| Hellblaue Wolle                                   | light\_blue\_wool                         | %wool\_lbl%           | 35:3          |
+| Braune Wolle                                      | brown\_wool                               | %wool\_bro%           | %wc%          |
 
 ### Teppich
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
 | ---                                               | ---                                       | ---                   | ---           |
-| Weißer Teppich                      | white\_carpet                         | %carpet\_whi%      | 171           |
-| Hellgrauer Teppich                  | light\_gray\_carpet                   | %carpet\_lgr%      | %c8%          |
-| Grauer Teppich                      | gray\_carpet                          | %carpet\_gry%      | %c7%          |
-| Schwarzer Teppich                   | black\_carpet                         | %carpet\_blk%      | %cf%          |
-| Gelber Teppich                      | yellow\_carpet                        | %carpet\_yel%      | %c4%          |
-| Oranger Teppich                     | orange\_carpet                        | %carpet\_ora%      | %c1%          |
-| Roter Teppich                       | red\_carpet                           | %carpet\_red%      | %ce%          |
-| Rosa Teppich                        | pink\_carpet                          | %carpet\_pnk%      | %c6%          |
-| Magenta Teppich                     | magenta\_carpet                       | %carpet\_mag%      | %c2%          |
-| Violetter Teppich                   | purple\_carpet                        | %carpet\_pur%      | %ca%          |
-| Blauer Teppich                      | blue\_carpet                          | %carpet\_blu%      | %cb%          |
-| Türkiser Teppich                    | cyan\_carpet                          | %carpet\_cya%      | %c9%          |
-| Grüner Teppich                      | green\_carpet                         | %carpet\_grn%      | %cd%          |
-| Hellgrüner Teppich                  | lime\_carpet                          | %carpet\_lim%      | %c5%          |
-| Hellblauer Teppich                  | light\_blue\_carpet                   | %carpet\_lbl%      | %c3%          |
-| Brauner Teppich                     | brown\_carpet                         | %carpet\_bro%      | %cc%          |
+| Weißer Teppich                                    | white\_carpet                             | %carpet\_whi%         | 171           |
+| Hellgrauer Teppich                                | light\_gray\_carpet                       | %carpet\_lgr%         | %c8%          |
+| Grauer Teppich                                    | gray\_carpet                              | %carpet\_gry%         | %c7%          |
+| Schwarzer Teppich                                 | black\_carpet                             | %carpet\_blk%         | %cf%          |
+| Gelber Teppich                                    | yellow\_carpet                            | %carpet\_yel%         | %c4%          |
+| Oranger Teppich                                   | orange\_carpet                            | %carpet\_ora%         | %c1%          |
+| Roter Teppich                                     | red\_carpet                               | %carpet\_red%         | %ce%          |
+| Rosa Teppich                                      | pink\_carpet                              | %carpet\_pnk%         | %c6%          |
+| Magenta Teppich                                   | magenta\_carpet                           | %carpet\_mag%         | %c2%          |
+| Violetter Teppich                                 | purple\_carpet                            | %carpet\_pur%         | %ca%          |
+| Blauer Teppich                                    | blue\_carpet                              | %carpet\_blu%         | %cb%          |
+| Türkiser Teppich                                  | cyan\_carpet                              | %carpet\_cya%         | %c9%          |
+| Grüner Teppich                                    | green\_carpet                             | %carpet\_grn%         | %cd%          |
+| Hellgrüner Teppich                                | lime\_carpet                              | %carpet\_lim%         | %c5%          |
+| Hellblauer Teppich                                | light\_blue\_carpet                       | %carpet\_lbl%         | %c3%          |
+| Brauner Teppich                                   | brown\_carpet                             | %carpet\_bro%         | %cc%          |
 
 ### Keramik
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
 | ---                                               | ---                                       | ---                   | ---           |
-| Keramik                             | terracotta                            | %terrac%           | 172           |
-| Weiße Keramik                       | white\_terracotta                     | %terrac\_whi%      | 159           |
-| Hellgraue Keramik                   | light\_gray\_terracotta               | %terrac\_lgr%      | %t8%          |
-| Graue Keramik                       | gray\_terracotta                      | %terrac\_gry%      | %t7%          |
-| Schwarze Keramik                    | black\_terracotta                     | %terrac\_blk%      | %tf%          |
-| Gelbe Keramik                       | yellow\_terracotta                    | %terrac\_yel%      | %t4%          |
-| Orange Keramik                      | orange\_terracotta                    | %terrac\_ora%      | %t1%          |
-| Rote Keramik                        | red\_terracotta                       | %terrac\_red%      | %te%          |
-| Pinke Keramik                       | pink\_terracotta                      | %terrac\_pnk%      | %t6%          |
-| Magenta Keramik                     | magenta\_terracotta                   | %terrac\_mag%      | %t2%          |
-| Violette Keramik                    | purple\_terracotta                    | %terrac\_pur%      | %ta%          |
-| Blaue Keramik                       | blue\_terracotta                      | %terrac\_blu%      | %tb%          |
-| Türkise Keramik                     | cyan\_terracotta                      | %terrac\_cya%      | %t9%          |
-| Grüne Keramik                       | green\_terracotta                     | %terrac\_grn%      | %td%          |
-| Hellgrüne Keramik                   | lime\_terracotta                      | %terrac\_lim%      | %t5%          |
-| Hellblaue Keramik                   | light\_blue\_terracotta               | %terrac\_lbl%      | %t3%          |
-| Braune Keramik                      | brown\_terracotta                     | %terrac\_bro%      | %tc%          |
+| Keramik                                           | terracotta                                | %terrac%              | 172           |
+| Weiße Keramik                                     | white\_terracotta                         | %terrac\_whi%         | 159           |
+| Hellgraue Keramik                                 | light\_gray\_terracotta                   | %terrac\_lgr%         | %t8%          |
+| Graue Keramik                                     | gray\_terracotta                          | %terrac\_gry%         | %t7%          |
+| Schwarze Keramik                                  | black\_terracotta                         | %terrac\_blk%         | %tf%          |
+| Gelbe Keramik                                     | yellow\_terracotta                        | %terrac\_yel%         | %t4%          |
+| Orange Keramik                                    | orange\_terracotta                        | %terrac\_ora%         | %t1%          |
+| Rote Keramik                                      | red\_terracotta                           | %terrac\_red%         | %te%          |
+| Pinke Keramik                                     | pink\_terracotta                          | %terrac\_pnk%         | %t6%          |
+| Magenta Keramik                                   | magenta\_terracotta                       | %terrac\_mag%         | %t2%          |
+| Violette Keramik                                  | purple\_terracotta                        | %terrac\_pur%         | %ta%          |
+| Blaue Keramik                                     | blue\_terracotta                          | %terrac\_blu%         | %tb%          |
+| Türkise Keramik                                   | cyan\_terracotta                          | %terrac\_cya%         | %t9%          |
+| Grüne Keramik                                     | green\_terracotta                         | %terrac\_grn%         | %td%          |
+| Hellgrüne Keramik                                 | lime\_terracotta                          | %terrac\_lim%         | %t5%          |
+| Hellblaue Keramik                                 | light\_blue\_terracotta                   | %terrac\_lbl%         | %t3%          |
+| Braune Keramik                                    | brown\_terracotta                         | %terrac\_bro%         | %tc%          |
 
 ### Glasierte Keramik
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
 | ---                                               | ---                                       | ---                   | ---           |
-| Weiße glasierte Keramik             | white\_glazed\_terracotta             | %gl\_terrac\_whi%  | 235           |
-| Hellgraue glasierte Keramik         | light\_gray\_glazed\_terracotta       | %gl\_terrac\_lgr%  | 243           |
-| Graue glasierte Keramik             | gray\_glazed\_terracotta              | %gl\_terrac\_gry%  | 242           |
-| Schwarze glasierte Keramik          | black\_glazed\_terracotta             | %gl\_terrac\_blk%  | 250           |
-| Gelbe glasierte Keramik             | yellow\_glazed\_terracotta            | %gl\_terrac\_yel%  | 239           |
-| Orange glasierte Keramik            | orange\_glazed\_terracotta            | %gl\_terrac\_ora%  | 236           |
-| Rote glasierte Keramik              | red\_glazed\_terracotta               | %gl\_terrac\_red%  | 249           |
-| Rosa glasierte Keramik              | pink\_glazed\_terracotta              | %gl\_terrac\_pnk%  | 241           |
-| Magenta glasierte Keramik           | magenta\_glazed\_terracotta           | %gl\_terrac\_mag%  | 237           |
-| Violette glasierte Keramik          | purple\_glazed\_terracotta            | %gl\_terrac\_pur%  | 245           |
-| Blaue glasierte Keramik             | blue\_glazed\_terracotta              | %gl\_terrac\_blu%  | 246           |
-| Türkise glasierte Keramik           | cyan\_glazed\_terracotta              | %gl\_terrac\_cya%  | 244           |
-| Grüne glasierte Keramik             | green\_glazed\_terracotta             | %gl\_terrac\_grn%  | 248           |
-| Hellgrüne glasierte Keramik         | lime\_glazed\_terracotta              | %gl\_terrac\_lim%  | 240           |
-| Hellblaue glasierte Keramik         | light\_blue\_glazed\_terracotta       | %gl\_terrac\_lbl%  | 238           |
-| Braune glasierte Keramik            | brown\_glazed\_terracotta             | %gl\_terrac\_bro%  | 247           |
+| Weiße glasierte Keramik                           | white\_glazed\_terracotta                 | %gl\_terrac\_whi%     | 235           |
+| Hellgraue glasierte Keramik                       | light\_gray\_glazed\_terracotta           | %gl\_terrac\_lgr%     | 243           |
+| Graue glasierte Keramik                           | gray\_glazed\_terracotta                  | %gl\_terrac\_gry%     | 242           |
+| Schwarze glasierte Keramik                        | black\_glazed\_terracotta                 | %gl\_terrac\_blk%     | 250           |
+| Gelbe glasierte Keramik                           | yellow\_glazed\_terracotta                | %gl\_terrac\_yel%     | 239           |
+| Orange glasierte Keramik                          | orange\_glazed\_terracotta                | %gl\_terrac\_ora%     | 236           |
+| Rote glasierte Keramik                            | red\_glazed\_terracotta                   | %gl\_terrac\_red%     | 249           |
+| Rosa glasierte Keramik                            | pink\_glazed\_terracotta                  | %gl\_terrac\_pnk%     | 241           |
+| Magenta glasierte Keramik                         | magenta\_glazed\_terracotta               | %gl\_terrac\_mag%     | 237           |
+| Violette glasierte Keramik                        | purple\_glazed\_terracotta                | %gl\_terrac\_pur%     | 245           |
+| Blaue glasierte Keramik                           | blue\_glazed\_terracotta                  | %gl\_terrac\_blu%     | 246           |
+| Türkise glasierte Keramik                         | cyan\_glazed\_terracotta                  | %gl\_terrac\_cya%     | 244           |
+| Grüne glasierte Keramik                           | green\_glazed\_terracotta                 | %gl\_terrac\_grn%     | 248           |
+| Hellgrüne glasierte Keramik                       | lime\_glazed\_terracotta                  | %gl\_terrac\_lim%     | 240           |
+| Hellblaue glasierte Keramik                       | light\_blue\_glazed\_terracotta           | %gl\_terrac\_lbl%     | 238           |
+| Braune glasierte Keramik                          | brown\_glazed\_terracotta                 | %gl\_terrac\_bro%     | 247           |
 
 ### Trockenbeton
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
 | ---                                               | ---                                       | ---                   | ---           |
-| Weißer Trockenbeton                 | white\_concrete\_powder               | %concrpow\_whi%    | 252           |
-| Hellgrauer Trockenbeton             | light\_gray\_concrete\_powder         | %concrpow\_lgr%    | %q8%          |
-| Grauer Trockenbeton                 | gray\_concrete\_powder                | %concrpow\_gry%    | %q7%          |
-| Schwarzer Trockenbeton              | black\_concrete\_powder               | %concrpow\_blk%    | %qf%          |
-| Gelber Trockenbeton                 | yellow\_concrete\_powder              | %concrpow\_yel%    | %q4%          |
-| Oranger Trockenbeton                | orange\_concrete\_powder              | %concrpow\_ora%    | %q1%          |
-| Roter Trockenbeton                  | red\_concrete\_powder                 | %concrpow\_red%    | %qe%          |
-| Rosa Trockenbeton                   | pink\_concrete\_powder                | %concrpow\_pnk%    | %q6%          |
-| Magenta Trockenbeton                | magenta\_concrete\_powder             | %concrpow\_mag%    | %q2%          |
-| Violetter Trockenbeton              | purple\_concrete\_powder              | %concrpow\_pur%    | %qa%          |
-| Blauer Trockenbeton                 | blue\_concrete\_powder                | %concrpow\_blu%    | %qb%          |
-| Türkiser Trockenbeton               | cyan\_concrete\_powder                | %concrpow\_cya%    | %q9%          |
-| Grüner Trockenbeton                 | green\_concrete\_powder               | %concrpow\_grn%    | %qd%          |
-| Hellgrüner Trockenbeton             | lime\_concrete\_powder                | %concrpow\_lim%    | %q5%          |
-| Hellblauer Trockenbeton             | light\_blue\_concrete\_powder         | %concrpow\_lbl%    | %q3%          |
-| Brauner Trockenbeton                | brown\_concrete\_powder               | %concrpow\_bro%    | %qc%          |
+| Weißer Trockenbeton                               | white\_concrete\_powder                   | %concrpow\_whi%       | 252           |
+| Hellgrauer Trockenbeton                           | light\_gray\_concrete\_powder             | %concrpow\_lgr%       | %q8%          |
+| Grauer Trockenbeton                               | gray\_concrete\_powder                    | %concrpow\_gry%       | %q7%          |
+| Schwarzer Trockenbeton                            | black\_concrete\_powder                   | %concrpow\_blk%       | %qf%          |
+| Gelber Trockenbeton                               | yellow\_concrete\_powder                  | %concrpow\_yel%       | %q4%          |
+| Oranger Trockenbeton                              | orange\_concrete\_powder                  | %concrpow\_ora%       | %q1%          |
+| Roter Trockenbeton                                | red\_concrete\_powder                     | %concrpow\_red%       | %qe%          |
+| Rosa Trockenbeton                                 | pink\_concrete\_powder                    | %concrpow\_pnk%       | %q6%          |
+| Magenta Trockenbeton                              | magenta\_concrete\_powder                 | %concrpow\_mag%       | %q2%          |
+| Violetter Trockenbeton                            | purple\_concrete\_powder                  | %concrpow\_pur%       | %qa%          |
+| Blauer Trockenbeton                               | blue\_concrete\_powder                    | %concrpow\_blu%       | %qb%          |
+| Türkiser Trockenbeton                             | cyan\_concrete\_powder                    | %concrpow\_cya%       | %q9%          |
+| Grüner Trockenbeton                               | green\_concrete\_powder                   | %concrpow\_grn%       | %qd%          |
+| Hellgrüner Trockenbeton                           | lime\_concrete\_powder                    | %concrpow\_lim%       | %q5%          |
+| Hellblauer Trockenbeton                           | light\_blue\_concrete\_powder             | %concrpow\_lbl%       | %q3%          |
+| Brauner Trockenbeton                              | brown\_concrete\_powder                   | %concrpow\_bro%       | %qc%          |
 
 ### Beton
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
 | ---                                               | ---                                       | ---                   | ---           |
-| Weißer Beton                        | white\_concrete                       | %concr\_whi%       | 251           |
-| Hellgrauer Beton                    | light\_gray\_concrete                 | %concr\_lgr%       | %b8%          |
-| Grauer Beton                        | gray\_concrete                        | %concr\_gry%       | %b7%          |
-| Schwarzer Beton                     | black\_concrete                       | %concr\_blk%       | %bf%          |
-| Gelber Beton                        | yellow\_concrete                      | %concr\_yel%       | %b4%          |
-| Oranger Beton                       | orange\_concrete                      | %concr\_ora%       | %b1%          |
-| Roter Beton                         | red\_concrete                         | %concr\_red%       | %be%          |
-| Rosa Beton                          | pink\_concrete                        | %concr\_pnk%       | %b6%          |
-| Magenta Beton                       | magenta\_concrete                     | %concr\_mag%       | %b2%          |
-| Violetter Beton                     | purple\_concrete                      | %concr\_pur%       | %ba%          |
-| Blauer Beton                        | blue\_concrete                        | %concr\_blu%       | %bb%          |
-| Türkiser Beton                      | cyan\_concrete                        | %concr\_cya%       | %b9%          |
-| Grüner Beton                        | green\_concrete                       | %concr\_grn%       | %bd%          |
-| Hellgrüner Beton                    | lime\_concrete                        | %concr\_lim%       | %b5%          |
-| Hellblauer Beton                    | light\_blue\_concrete                 | %concr\_lbl%       | %b3%          |
-| Brauner Beton                       | brown\_concrete                       | %concr\_bro%       | %bc%          |
+| Weißer Beton                                      | white\_concrete                           | %concr\_whi%          | 251           |
+| Hellgrauer Beton                                  | light\_gray\_concrete                     | %concr\_lgr%          | %b8%          |
+| Grauer Beton                                      | gray\_concrete                            | %concr\_gry%          | %b7%          |
+| Schwarzer Beton                                   | black\_concrete                           | %concr\_blk%          | %bf%          |
+| Gelber Beton                                      | yellow\_concrete                          | %concr\_yel%          | %b4%          |
+| Oranger Beton                                     | orange\_concrete                          | %concr\_ora%          | %b1%          |
+| Roter Beton                                       | red\_concrete                             | %concr\_red%          | %be%          |
+| Rosa Beton                                        | pink\_concrete                            | %concr\_pnk%          | %b6%          |
+| Magenta Beton                                     | magenta\_concrete                         | %concr\_mag%          | %b2%          |
+| Violetter Beton                                   | purple\_concrete                          | %concr\_pur%          | %ba%          |
+| Blauer Beton                                      | blue\_concrete                            | %concr\_blu%          | %bb%          |
+| Türkiser Beton                                    | cyan\_concrete                            | %concr\_cya%          | %b9%          |
+| Grüner Beton                                      | green\_concrete                           | %concr\_grn%          | %bd%          |
+| Hellgrüner Beton                                  | lime\_concrete                            | %concr\_lim%          | %b5%          |
+| Hellblauer Beton                                  | light\_blue\_concrete                     | %concr\_lbl%          | %b3%          |
+| Brauner Beton                                     | brown\_concrete                           | %concr\_bro%          | %bc%          |
 
 ### Türen
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
 | ---                                               | ---                                       | ---                   | ---           |
-| Eichenholztür                       | oak\_door                             | %oak\_door%        | 324           |
-| Fichtenholztür                      | spruce\_door                          | %spruce\_door%     | 427           |
-| Birkenholztür                       | birch\_door                           | %birch\_door%      | 428           |
-| Tropenholztür                       | jungle\_door                          | %jungle\_door%     | 429           |
-| Akazienholztür                      | acacia\_door                          | %acacia\_door%     | 430           |
-| Schwarzeichenholztür                | dark\_oak\_door                       | %darkoak\_door%    | 431           |
-| Karmesintür                         | crimson\_door                         | %crimson\_door%    | %gn%          |
-| Wirrtür                             | warped\_door                          | %warped\_door%     | %go%          |
-| Eisentür                            | iron\_door                            | %iron\_door%       | 330           |
-| Mangrovenholztür          					| mangrove_door                         | %mangrove_door% 	 | %xs%					 |
-| Kirschholztür												| cherry_door														| %cherry_door%			 | %abf%				 | 
-| Bambustür														| bamboo_door														| %bamboo_door%			 | %aar%				 | 
+| Eichenholztür                                     | oak\_door                                 | %oak\_door%           | 324           |
+| Fichtenholztür                                    | spruce\_door                              | %spruce\_door%        | 427           |
+| Birkenholztür                                     | birch\_door                               | %birch\_door%         | 428           |
+| Tropenholztür                                     | jungle\_door                              | %jungle\_door%        | 429           |
+| Akazienholztür                                    | acacia\_door                              | %acacia\_door%        | 430           |
+| Schwarzeichenholztür                              | dark\_oak\_door                           | %darkoak\_door%       | 431           |
+| Karmesintür                                       | crimson\_door                             | %crimson\_door%       | %gn%          |
+| Wirrtür                                           | warped\_door                              | %warped\_door%        | %go%          |
+| Eisentür                                          | iron\_door                                | %iron\_door%          | 330           |
+| Mangrovenholztür          					    | mangrove_door                             | %mangrove_door% 	    | %xs%			|
+| Kirschholztür									    | cherry_door								| %cherry_door%			| %abf%			| 
+| Bambustür										    | bamboo_door							    | %bamboo_door%			| %aar%			| 
 
 ### Falltüren
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
 | ---                                               | ---                                       | ---                   | ---           |
-| Eichenholzfalltür                   | oak\_trapdoor                         | %oak\_trap%        | 96            |
-| Fichtenholzfalltür                  | spruce\_trapdoor                      | %spruce\_trap%     | %gp%          |
-| Birkenholzfalltür                   | birch\_trapdoor                       | %birch\_trap%      | %gq%          |
-| Tropenholzfalltür                   | jungle\_trapdoor                      | %jungle\_trap%     | %gr%          |
-| Akazienholzfalltür                  | acacia\_trapdoor                      | %acacia\_trap%     | %gs%          |
-| Schwarzeichenholzfalltür            | dark\_oak\_trapdoor                   | %darkoak\_trap%    | %gt%          |
-| Karmesinfalltür                     | crimson\_trapdoor                     | %crimson\_trap%    | %gu%          |
-| Wirrfalltür                         | warped\_trapdoor                      | %warped\_trap%     | %gv%          |
-| Eisenfalltür                        | iron\_trapdoor                        | %iron\_trap%       | 167           |
-| Mangrovenholzfalltür 								| mangrove_trapdoor                     | %mangrove_trap 		 | %xj%					 |
-|	Kirschholzfalltür										| cherry_trapdoor												| %cherry_trap%			 | %abk% 				 |
-| Bambusfalltür												| bamboo_trapdoor												| %bamboo_trap%			 | %aaw% 				 |
+| Eichenholzfalltür                                 | oak\_trapdoor                             | %oak\_trap%           | 96            |
+| Fichtenholzfalltür                                | spruce\_trapdoor                          | %spruce\_trap%        | %gp%          |
+| Birkenholzfalltür                                 | birch\_trapdoor                           | %birch\_trap%         | %gq%          |
+| Tropenholzfalltür                                 | jungle\_trapdoor                          | %jungle\_trap%        | %gr%          |
+| Akazienholzfalltür                                | acacia\_trapdoor                          | %acacia\_trap%        | %gs%          |
+| Schwarzeichenholzfalltür                          | dark\_oak\_trapdoor                       | %darkoak\_trap%       | %gt%          |
+| Karmesinfalltür                                   | crimson\_trapdoor                         | %crimson\_trap%       | %gu%          |
+| Wirrfalltür                                       | warped\_trapdoor                          | %warped\_trap%        | %gv%          |
+| Eisenfalltür                                      | iron\_trapdoor                            | %iron\_trap%          | 167           |
+| Mangrovenholzfalltür 								| mangrove_trapdoor                         | %mangrove_trap 		| %xj%			|
+| Kirschholzfalltür								    | cherry_trapdoor							| %cherry_trap%			| %abk% 		|
+| Bambusfalltür										| bamboo_trapdoor					        | %bamboo_trap%			| %aaw% 		|
 
 ### Knöpfe
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
 | ---                                               | ---                                       | ---                   | ---           |
-| Eichenholzknopf                     | oak\_button                           | %oak\_btn%         | 143           |
-| Fichtenholzknopf                    | spruce\_button                        | %spruce\_btn%      | %gw%          |
-| Birkenholzknopf                     | birch\_button                         | %birch\_btn%       | %gx%          |
-| Tropenholzknopf                     | jungle\_button                        | %jungle\_btn%      | %gy%          |
-| Akazienholzknopf                    | acacia\_button                        | %acacia\_btn%      | %gz%          |
-| Schwarzeichenholzknopf              | dark\_oak\_button                     | %darkoak\_btn%     | %hg%          |
-| Karmesinknopf                       | crimson\_button                       | %crimson\_btn%     | %nv%          |
-| Wirrknopf                           | warped\_button                        | %warped\_btn%      | %hi%          |
-| Steinknopf                          | stone\_button                         | %stone\_btn%       | 77            |
-| Polierter Schwarzsteinknopf         | polished\_blackstone\_button          | %p\_blkst\_btn%    | %nw%          |
-| Mangrovenholzknopf                  | mangrove_button                       | %mangrove_btn% 		 | %xt%					 |
-| Kirschholznopf										  | cherry_button												  | %cherry_btn%			 | %abe%				 |
-| Bambusknopf												  | bamboo_button													| %bamboo_btn%			 | %aaq%				 |
+| Eichenholzknopf                                   | oak\_button                               | %oak\_btn%            | 143           |
+| Fichtenholzknopf                                  | spruce\_button                            | %spruce\_btn%         | %gw%          |
+| Birkenholzknopf                                   | birch\_button                             | %birch\_btn%          | %gx%          |
+| Tropenholzknopf                                   | jungle\_button                            | %jungle\_btn%         | %gy%          |
+| Akazienholzknopf                                  | acacia\_button                            | %acacia\_btn%         | %gz%          |
+| Schwarzeichenholzknopf                            | dark\_oak\_button                         | %darkoak\_btn%        | %hg%          |
+| Karmesinknopf                                     | crimson\_button                           | %crimson\_btn%        | %nv%          |
+| Wirrknopf                                         | warped\_button                            | %warped\_btn%         | %hi%          |
+| Steinknopf                                        | stone\_button                             | %stone\_btn%          | 77            |
+| Polierter Schwarzsteinknopf                       | polished\_blackstone\_button              | %p\_blkst\_btn%       | %nw%          |
+| Mangrovenholzknopf                                | mangrove_button                           | %mangrove_btn% 	    | %xt%			|
+| Kirschholznopf									| cherry_button								| %cherry_btn%			| %abe%			|
+| Bambusknopf										| bamboo_button								| %bamboo_btn%			| %aaq%			|
 
 ### Druckplatten
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
 | ---                                               | ---                                       | ---                   | ---           |
-| Eichenholzdruckplatte               | oak\_pressure\_plate                  | %oak\_prpl%        | 72            |
-| Fichtenholzdruckplatte              | spruce\_pressure\_plate               | %spruce\_prpl%     | %hk%          |
-| Birkenholzdruckplatte               | birch\_pressure\_plate                | %birch\_prpl%      | %hl%          |
-| Tropenholzdruckplatte               | jungle\_pressure\_plate               | %jungle\_prpl%     | %hm%          |
-| Akazienholzdruckplatte              | acacia\_pressure\_plate               | %acacia\_prpl%     | %hn%          |
-| Schwarzeichenholzdruckplatte        | dark\_oak\_pressure\_plate            | %darkoak\_prpl%    | %ho%          |
-| Karmesindruckplatte                 | crimson\_pressure\_plate              | %crimson\_prpl%    | %hp%          |
-| Wirrdruckplatte                     | warped\_pressure\_plate               | %warped\_prpl%     | %hq%          |
-| Steindruckplatte                    | stone\_pressure\_plate                | %stone\_prpl%      | 70            |
-| Polierte Schwarzsteindruckplatte    | polished\_blackstone\_pressure\_plate | %p\_blkst\_prpl%   | %hr%          |
-| Feinwägeplatte                      | light\_weighted\_pressure\_plate      | %gold\_prpl%       | 147           |
-| Grobwägeplatte                      | heavy\_weighted\_pressure\_plate      | %iron\_prpl%       | 148           |
-| Mangrovenholzdruckplatte 						| mangrove_pressure_plate               | %mangrove_prpl%    | %xn% 				 |
-| Kirschholzdruckplatte								| cherry_pressure_plate 								| %cherry_prpl%			 | %abi%				 |
-| Bambusdruckplatte										| bamboo_pressure_plate									| %bamboo_prpl%			 | %aau%				 |
+| Eichenholzdruckplatte                             | oak\_pressure\_plate                      | %oak\_prpl%           | 72            |
+| Fichtenholzdruckplatte                            | spruce\_pressure\_plate                   | %spruce\_prpl%        | %hk%          |
+| Birkenholzdruckplatte                             | birch\_pressure\_plate                    | %birch\_prpl%         | %hl%          |
+| Tropenholzdruckplatte                             | jungle\_pressure\_plate                   | %jungle\_prpl%        | %hm%          |
+| Akazienholzdruckplatte                            | acacia\_pressure\_plate                   | %acacia\_prpl%        | %hn%          |
+| Schwarzeichenholzdruckplatte                      | dark\_oak\_pressure\_plate                | %darkoak\_prpl%       | %ho%          |
+| Karmesindruckplatte                               | crimson\_pressure\_plate                  | %crimson\_prpl%       | %hp%          |
+| Wirrdruckplatte                                   | warped\_pressure\_plate                   | %warped\_prpl%        | %hq%          |
+| Steindruckplatte                                  | stone\_pressure\_plate                    | %stone\_prpl%         | 70            |
+| Polierte Schwarzsteindruckplatte                  | polished\_blackstone\_pressure\_plate     | %p\_blkst\_prpl%      | %hr%          |
+| Feinwägeplatte                                    | light\_weighted\_pressure\_plate          | %gold\_prpl%          | 147           |
+| Grobwägeplatte                                    | heavy\_weighted\_pressure\_plate          | %iron\_prpl%          | 148           |
+| Mangrovenholzdruckplatte 						    | mangrove_pressure_plate                   | %mangrove_prpl%       | %xn% 			|
+| Kirschholzdruckplatte								| cherry_pressure_plate 					| %cherry_prpl%			| %abi%			|
+| Bambusdruckplatte									| bamboo_pressure_plate						| %bamboo_prpl%			| %aau%			|
 
 ### Boote und Minecarts
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
 | ---                                               | ---                                       | ---                   | ---           |
-| Eichenholzboot                      | oak\_boat                             | %oak\_boat%        | 333           |
-| Fichtenholzboot                     | spruce\_boat                          | %spruce\_boat%     | 444           |
-| Birkenholzboot                      | birch\_boat                           | %birch\_boat%      | 445           |
-| Tropenholzboot                      | jungle\_boat                          | %jungle\_boat%     | 446           |
-| Akazienholzboot                     | acacia\_boat                          | %acacia\_boat%     | 447           |
-| Schwarzeichenholzboot               | dark\_oak\_boat                				| %darkoak_boat%     | 448           |
-| Mangrovenholzboot                  	| mangrove_boat                					| %mangrove_boat%  	 | %xu%					 |
-| Kirschholzboot											| cherrye_boat													| %cherry_boat% 		 | %abq% 				 |
-| Bambusfloß													| bamboo_raft														| %bamboo_raft%			 | %aaz% 				 |
-| Eichenholztruhenboot            		| oak_chest_boat                        | %oak_c_boat%       | %yl%   			 | 
-| Fichtenholztruhenboot          			| spruce_chest_boat                     | %spruce_c_boat%    | %ym%   			 | 
-| Birkenholztruhenboot          			| birch_chest_boat                      | %birch_c_boat%     | %zj%  				 | 
-| Tropenholztruhenboot                | jungle_chest_boat               			| %jungle_c_boat%    | %a1%  				 | 
-| Akazienholztruhenboot              	| acacia_chest_boat                   	| %acacia_c_boat%    | %a2% 				 | 
-| Mangrovenholztruhenboot            	| mangrove_chest_boat                 	| %mangrove_c_boat%  | %a3%   			 | 
-| Schwarzeichenholztruhenboot      		| dark_oak_chest_boat                   | %darkoak_c_boat%   | %a4%   			 |
-| Kirschholztruhenboot								| cherry_chest_boat											| %cherry_c_boat%		 | %abr% 				 |
-| Bambus-Truhenfloß										| bamboo_chest_raft											| %bamboo_c_boat%		 | %aba% 				 |
-| Lore                                | minecart                              | %minecart%         | 328           |
-| Güterlore                           | chest\_minecart                       | %minecart\_che%    | 342           |
-| Antriebslore                        | furnace\_minecart                     | %minecart\_fur%    | 343           |
-| Trichterlore                        | hopper\_minecart                      | %minecart\_hop%    | 408           |
-| TNT-Lore                            | tnt\_minecart                         | %minecart\_tnt%    | 407           |
+| Eichenholzboot                                    | oak\_boat                                 | %oak\_boat%           | 333           |
+| Fichtenholzboot                                   | spruce\_boat                              | %spruce\_boat%        | 444           |
+| Birkenholzboot                                    | birch\_boat                               | %birch\_boat%         | 445           |
+| Tropenholzboot                                    | jungle\_boat                              | %jungle\_boat%        | 446           |
+| Akazienholzboot                                   | acacia\_boat                              | %acacia\_boat%        | 447           |
+| Schwarzeichenholzboot                             | dark\_oak\_boat                			| %darkoak_boat%        | 448           |
+| Mangrovenholzboot                  	            | mangrove_boat                				| %mangrove_boat%  	    | %xu%			|
+| Kirschholzboot								    | cherrye_boat								| %cherry_boat% 	    | %abq% 		|
+| Bambusfloß										| bamboo_raft								| %bamboo_raft%			| %aaz% 		|
+| Eichenholztruhenboot            		            | oak_chest_boat                            | %oak_c_boat%          | %yl%   		| 
+| Fichtenholztruhenboot          			        | spruce_chest_boat                         | %spruce_c_boat%       | %ym%   		| 
+| Birkenholztruhenboot          			        | birch_chest_boat                          | %birch_c_boat%        | %zj%  	    | 
+| Tropenholztruhenboot                              | jungle_chest_boat               			| %jungle_c_boat%       | %a1%  		| 
+| Akazienholztruhenboot              	            | acacia_chest_boat                   	    | %acacia_c_boat%       | %a2% 			| 
+| Mangrovenholztruhenboot            	            | mangrove_chest_boat                 	    | %mangrove_c_boat%     | %a3%   		| 
+| Schwarzeichenholztruhenboot      		            | dark_oak_chest_boat                       | %darkoak_c_boat%      | %a4%   		|
+| Kirschholztruhenboot								| cherry_chest_boat							| %cherry_c_boat%		| %abr% 		|
+| Bambus-Truhenfloß									| bamboo_chest_raft							| %bamboo_c_boat%		| %aba% 		|
+| Lore                                              | minecart                                  | %minecart%            | 328           |
+| Güterlore                                         | chest\_minecart                           | %minecart\_che%       | 342           |
+| Antriebslore                                      | furnace\_minecart                         | %minecart\_fur%       | 343           |
+| Trichterlore                                      | hopper\_minecart                          | %minecart\_hop%       | 408           |
+| TNT-Lore                                          | tnt\_minecart                             | %minecart\_tnt%       | 407           |
 
 ### Shulkerkisten
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
 | ---                                               | ---                                       | ---                   | ---           |
-| Shulkerkiste                        | shulker\_box                          | %shulkbox%         | %hs%          |
-| Weiße Shulkerkiste                  | white\_shulker\_box                   | %shulkbox\_whi%    | 219           |
-| Hellgraue Shulkerkiste              | light\_gray\_shulker\_box             | %shulkbox\_lgr%    | 227           |
-| Graue Shulkerkiste                  | gray\_shulker\_box                    | %shulkbox\_gry%    | 226           |
-| Schwarze Shulkerkiste               | black\_shulker\_box                   | %shulkbox\_blk%    | 234           |
-| Gelbe Shulkerkiste                  | yellow\_shulker\_box                  | %shulkbox\_yel%    | 223           |
-| Orange Shulkerkiste                 | orange\_shulker\_box                  | %shulkbox\_ora%    | 220           |
-| Rote Shulkerkiste                   | red\_shulker\_box                     | %shulkbox\_red%    | 233           |
-| Rosa Shulkerkiste                   | pink\_shulker\_box                    | %shulkbox\_pnk%    | 225           |
-| Magenta Shulkerkiste                | magenta\_shulker\_box                 | %shulkbox\_mag%    | 221           |
-| Violette Shulkerkiste               | purple\_shulker\_box                  | %shulkbox\_pur%    | 229           |
-| Blaue Shulkerkiste                  | blue\_shulker\_box                    | %shulkbox\_blu%    | 230           |
-| Türkise Shulkerkiste                | cyan\_shulker\_box                    | %shulkbox\_cya%    | 228           |
-| Grüne Shulkerkiste                  | green\_shulker\_box                   | %shulkbox\_grn%    | 232           |
-| Hellgrüne Shulkerkiste              | lime\_shulker\_box                    | %shulkbox\_lim%    | 224           |
-| Hellblaue Shulkerkiste              | light\_blue\_shulker\_box             | %shulkbox\_lbl%    | 222           |
-| Braune Shulkerkiste                 | brown\_shulker\_box                   | %shulkbox\_bro%    | 231           |
+| Shulkerkiste                                      | shulker\_box                              | %shulkbox%            | %hs%          |
+| Weiße Shulkerkiste                                | white\_shulker\_box                       | %shulkbox\_whi%       | 219           |
+| Hellgraue Shulkerkiste                            | light\_gray\_shulker\_box                 | %shulkbox\_lgr%       | 227           |
+| Graue Shulkerkiste                                | gray\_shulker\_box                        | %shulkbox\_gry%       | 226           |
+| Schwarze Shulkerkiste                             | black\_shulker\_box                       | %shulkbox\_blk%       | 234           |
+| Gelbe Shulkerkiste                                | yellow\_shulker\_box                      | %shulkbox\_yel%       | 223           |
+| Orange Shulkerkiste                               | orange\_shulker\_box                      | %shulkbox\_ora%       | 220           |
+| Rote Shulkerkiste                                 | red\_shulker\_box                         | %shulkbox\_red%       | 233           |
+| Rosa Shulkerkiste                                 | pink\_shulker\_box                        | %shulkbox\_pnk%       | 225           |
+| Magenta Shulkerkiste                              | magenta\_shulker\_box                     | %shulkbox\_mag%       | 221           |
+| Violette Shulkerkiste                             | purple\_shulker\_box                      | %shulkbox\_pur%       | 229           |
+| Blaue Shulkerkiste                                | blue\_shulker\_box                        | %shulkbox\_blu%       | 230           |
+| Türkise Shulkerkiste                              | cyan\_shulker\_box                        | %shulkbox\_cya%       | 228           |
+| Grüne Shulkerkiste                                | green\_shulker\_box                       | %shulkbox\_grn%       | 232           |
+| Hellgrüne Shulkerkiste                            | lime\_shulker\_box                        | %shulkbox\_lim%       | 224           |
+| Hellblaue Shulkerkiste                            | light\_blue\_shulker\_box                 | %shulkbox\_lbl%       | 222           |
+| Braune Shulkerkiste                               | brown\_shulker\_box                       | %shulkbox\_bro%       | 231           |
 
 ### Andere Funktionsblöcke
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
 | ---                                               | ---                                       | ---                   | ---           |
-| Werkbank                            | crafting\_table                       | %crafttable%       | 58            |
-| Leiter                              | ladder                                | %ladder%           | 65            |
-| Truhe                               | chest                                 | %chest%            | 54            |
-| Redstone-Truhe                      | trapped\_chest                        | %trap\_chest%      | 146           |
-| Fass                                | barrel                                | %barrel%           | %ht%          |
-| Endertruhe                          | ender\_chest                          | %end\_chest%       | 130           |
-| Ofen                                | furnace                               | %furnace%          | 61            |
-| Schmelzofen                         | blast\_furnace                        | %blast\_furnace%   | %hu%          |
-| Räucherofen                         | smoker                                | %smoker%           | %hv%          |
-| Trichter                            | hopper                                | %hopper%           | 154           |
-| Zaubertisch                         | enchanting\_table                     | %enchtable%        | 116           |
-| Amboss                              | anvil                                 | %anvil\_good%      | %hw%          |
-| Angeschlagener Amboss               | chipped\_anvil                        | %anvil\_medium%    | %hx%          |
-| Beschädigter Amboss                 | damaged\_anvil                        | %anvil\_bad%       | %hy%          |
-| Braustand                           | brewing\_stand                        | %brewingstand%     | 379           |
-| Schleifstein                        | grindstone                            | %grindstone%       | %hz%          |
-| Kartentisch                         | cartography\_table                    | %cartotable%       | %ig%          |
-| Bognertisch                         | fletching\_table                      | %fletchtable%      | %ih%          |
-| Schmiedetisch                       | smithing\_table                       | %smithtable%       | %ii%          |
-| Webstuhl                            | loom                                  | %loom%             | %ij%          |
-| Lesepult                            | lectern                               | %lectern%          | %ik%          |
-| Steinsäge                           | stonecutter                           | %stonecutter%      | %il%          |
-| Plattenspieler                      | jukebox                               | %jukebox%          | 84            |
-| Notenblock                          | note\_block                           | %noteblock%        | 25            |
-| Leitstein                           | lodestone                             | %lodestone%        | %im%          |
-| Seelenanker                         | respawn\_anchor                       | %respawnanchor%    | %in%          |
-| Aquisator                           | conduit                               | %conduit%          | %io%          |
-| Leuchtfeuer                         | beacon                                | %beacon%           | 138           |
-| Enderkristall                       | end\_crystal                          | %endcrystal%       | 426           |
-| Blitzableiter 											| lightning_rod 												| %light_rod% 			 | %qw% 				 |
+| Werkbank                                          | crafting\_table                           | %crafttable%          | 58            |
+| Leiter                                            | ladder                                    | %ladder%              | 65            |
+| Truhe                                             | chest                                     | %chest%               | 54            |
+| Redstone-Truhe                                    | trapped\_chest                            | %trap\_chest%         | 146           |
+| Fass                                              | barrel                                    | %barrel%              | %ht%          |
+| Endertruhe                                        | ender\_chest                              | %end\_chest%          | 130           |
+| Ofen                                              | furnace                                   | %furnace%             | 61            |
+| Schmelzofen                                       | blast\_furnace                            | %blast\_furnace%      | %hu%          |
+| Räucherofen                                       | smoker                                    | %smoker%              | %hv%          |
+| Trichter                                          | hopper                                    | %hopper%              | 154           |
+| Zaubertisch                                       | enchanting\_table                         | %enchtable%           | 116           |
+| Amboss                                            | anvil                                     | %anvil\_good%         | %hw%          |
+| Angeschlagener Amboss                             | chipped\_anvil                            | %anvil\_medium%       | %hx%          |
+| Beschädigter Amboss                               | damaged\_anvil                            | %anvil\_bad%          | %hy%          |
+| Braustand                                         | brewing\_stand                            | %brewingstand%        | 379           |
+| Schleifstein                                      | grindstone                                | %grindstone%          | %hz%          |
+| Kartentisch                                       | cartography\_table                        | %cartotable%          | %ig%          |
+| Bognertisch                                       | fletching\_table                          | %fletchtable%         | %ih%          |
+| Schmiedetisch                                     | smithing\_table                           | %smithtable%          | %ii%          |
+| Webstuhl                                          | loom                                      | %loom%                | %ij%          |
+| Lesepult                                          | lectern                                   | %lectern%             | %ik%          |
+| Steinsäge                                         | stonecutter                               | %stonecutter%         | %il%          |
+| Plattenspieler                                    | jukebox                                   | %jukebox%             | 84            |
+| Notenblock                                        | note\_block                               | %noteblock%           | 25            |
+| Leitstein                                         | lodestone                                 | %lodestone%           | %im%          |
+| Seelenanker                                       | respawn\_anchor                           | %respawnanchor%       | %in%          |
+| Aquisator                                         | conduit                                   | %conduit%             | %io%          |
+| Leuchtfeuer                                       | beacon                                    | %beacon%              | 138           |
+| Enderkristall                                     | end\_crystal                              | %endcrystal%          | 426           |
+| Blitzableiter 									| lightning_rod 							| %light_rod% 			| %qw% 		    |
 
 ### TNT
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
 | ---                                               | ---                                       | ---                   | ---           |
-| TNT                                 | tnt                                   | %tnt%              | 46            |
+| TNT                                               | tnt                                       | %tnt%                 | 46            |
 
 ### Bücher
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
 | ---                                               | ---                                       | ---                   | ---           |
-| Papier                              | paper                                 | %paper%            | 339           |
-| Buch                                | book                                  | %book%             | 340           |
-| Verzaubertes Buch                   | enchanted\_book                       | %enchbook%         | 403           |
-| Buch und Feder                      | writable\_book                        | %book\_towrite%    | 386           |
-| Beschriebenes Buch                  | written\_book                         | %book\_written%    | 387           |
-| Bücherregal                         | bookshelf                             | %bookshelf%        | 47            |
-| Gearbeitetes Bücherregal						| chiseled_bookshelf										| %ch_bookshelf%			| %abu%
+| Papier                                            | paper                                     | %paper%               | 339           |
+| Buch                                              | book                                      | %book%                | 340           |
+| Verzaubertes Buch                                 | enchanted\_book                           | %enchbook%            | 403           |
+| Buch und Feder                                    | writable\_book                            | %book\_towrite%       | 386           |
+| Beschriebenes Buch                                | written\_book                             | %book\_written%       | 387           |
+| Bücherregal                                       | bookshelf                                 | %bookshelf%           | 47            |
+| Gearbeitetes Bücherregal						    | chiseled_bookshelf						| %ch_bookshelf%		| %abu%         |
 
 ### Schienen
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
 | ---                                               | ---                                       | ---                   | ---           |
-| Schiene                             | rail                                  | %rail%             | 66            |
-| Antriebsschiene                     | powered\_rail                         | %power\_rail%      | 27            |
-| Sensorschiene                       | detector\_rail                        | %detect\_rail%     | 28            |
-| Aktivierungsschiene                 | activator\_rail                       | %activ\_rail%      | 157           |
+| Schiene                                           | rail                                      | %rail%                | 66            |
+| Antriebsschiene                                   | powered\_rail                             | %power\_rail%         | 27            |
+| Sensorschiene                                     | detector\_rail                            | %detect\_rail%        | 28            |
+| Aktivierungsschiene                               | activator\_rail                           | %activ\_rail%         | 157           |
 
 ### Redstone
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
 | ---                                               | ---                                       | ---                   | ---           |
-| Redstonefackel                      | redstone\_torch                       | %redsttorch%       | 76            |
-| Hebel                               | lever                                 | %lever%            | 69            |
-| Redstone-Verstärker                 | repeater                              | %repeater%         | 356           |
-| Redstone-Komparator                 | comparator                            | %comparator%       | 404           |
-| Werfer                              | dispenser                             | %dispenser%        | 23            |
-| Spender                             | dropper                               | %dropper%          | 158           |
-| Beobachter                          | observer                              | %observer%         | 218           |
-| Tageslichtsensor                    | daylight\_detector                    | %daylightsens%     | 151           |
-| Kolben                              | piston                                | %piston%           | 33            |
-| Klebriger Kolben                    | sticky\_piston                        | %stick\_piston%    | 29            |
-| Haken                               | tripwire\_hook                        | %tripwirehook%     | 131           |
-| Zielblock                           | target                                | %target%           | %ip%          |
-| Sculk-Sensor 												| sculk_sensor 													| %sculksensor% 		 |	%ra% 				 |
-| Kalibrierter Sculk-Sensor						| calibrated_sculk_sensor								| %ca_sculksensor%	 | %abt% 				 |
+| Redstonefackel                                    | redstone\_torch                           | %redsttorch%          | 76            |
+| Hebel                                             | lever                                     | %lever%               | 69            |
+| Redstone-Verstärker                               | repeater                                  | %repeater%            | 356           |
+| Redstone-Komparator                               | comparator                                | %comparator%          | 404           |
+| Werfer                                            | dispenser                                 | %dispenser%           | 23            |
+| Spender                                           | dropper                                   | %dropper%             | 158           |
+| Beobachter                                        | observer                                  | %observer%            | 218           |
+| Tageslichtsensor                                  | daylight\_detector                        | %daylightsens%        | 151           |
+| Kolben                                            | piston                                    | %piston%              | 33            |
+| Klebriger Kolben                                  | sticky\_piston                            | %stick\_piston%       | 29            |
+| Haken                                             | tripwire\_hook                            | %tripwirehook%        | 131           |
+| Zielblock                                         | target                                    | %target%              | %ip%          |
+| Sculk-Sensor 										| sculk_sensor 								| %sculksensor% 		| %ra% 			|
+| Kalibrierter Sculk-Sensor						    | calibrated_sculk_sensor					| %ca_sculksensor%	    | %abt% 		|
 
 ### Beleuchtung
 {.compact}
