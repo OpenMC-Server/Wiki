@@ -7,14 +7,26 @@ icon: number
 
 # Pipe-Variablen
 
-Pipe-Variablen ermöglichen es dir, mit besonders kurzen Schreibweisen mehrere Items auf ein Pipe-Schild zu schreiben.
+Pipe-Variablen ermöglichen es dir, mit besonders kurzen Schreibweisen mehrere Items auf ein Pipe-Schild zu schreiben.\
+Auf dieser Seite findest du die Variablen für einzelne Items. Möchtest du stattdessen mehrere Items mit einer Variable zusammenfassen, sieh dir die Seite [!badge icon="list-ordered" text="Pipe-Sammelvariablen"](/craftbook-pipes/pipe-sammelvariablen.md) an.
 
+## Variablen im Spiel abrufen
+Es ist möglich, alle Variablen und Sammelvariablen auch in Minecraft abzurufen. Folgende Befehle stehen dafür zur Verfügung:
+
+`/pipeid`\
+Zeigt alle möglichen Variablen für ein Item im Chat an. Dazu muss das Item bei der Eingabe des Befehls in der Hand gehalten werden. Die Variablen können sowohl durch Anklicken in die Zwischenablage kopiert werden, als auch durch Klick auf “Schild erstellen” ein entsprechendes Schild erstellt werden. Zum Platzieren muss anschließend der Schildbearbeitungsmodus mit `/sign` aktiviert werden.
+
+`/pipeid <suchbegriff>`\
+Zeigt die Variablen für ein spezifisches Item an, welches sich nicht im Inventar befinden muss. Es werden sowohl englische als auch deutsche Itemnamen akzeptiert. Achtung: Bei englischen Namen muss dieser in Form der “Minecraft-ID” eingeben werden. Beispielsweise führt “melon_slice” zu einem Ergebnis, aber “melon slice” nicht. Bei den deutschen Namen dürfen keine Unterstriche verwendet werden. Wenn sich das Fenster nach der Suche öffnet, einfach das gewünschte Item anklicken und die Variablen werden wie oben im Chat angezeigt.
+
+`/pipesign <item>`\
+Erstellt direkt ein Schild mit der passenden Pipe-ID, welches im Schildbearbeitungsmodus (`/sign`) an einer Pipe platziert werden kann.
 
 ## Liste der Variablen
 Nachfolgend findest du eine Auflistung aller Variablen auf OpenMC. Je nach Bedarf kannst du die verschiedenen Variablenlängen verwenden.
 
 !!! Nach Variablen suchen
-Wenn du nach einer spezifischen Variable suchst, kannst du statt der Suchfunktion der Seite auch die Suche deines Browsers (`STRG + F`) verwenden.\
+Um nach einer spezifischen Variable zu suchen, kannst du die Suche deines Browsers (`STRG + F`) verwenden.\
 Um nach Kategorien zu suchen, kannst du die Suchfunktion der Seite oder das Inhaltsverzeichnis auf der rechten Seite nutzen.
 !!!
 
