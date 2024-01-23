@@ -328,7 +328,7 @@ Um nach Kategorien zu suchen, kannst du die Suchfunktion der Seite oder das Inha
 | Rissige Tiefenschieferziegel 				        | cracked\_deepslate\_bricks 				| %cr\_deepsl\_br% 	    | %pn% 			|
 | Tiefenschieferziegelstufe 					    | deepslate\_brick_slab 					| %deepsl\_br\_sl% 	    | %po% 			|
 | Tiefenschieferziegeltreppe 					    | deepslate\_brick_stairs 					| %deepsl\_br\_st% 	    | %pp% 			|
-| Tiefenschieferziegelmauer 					    |	deepslate\_brick_wall 					| %deepsl\_br\_wl% 	    | %pq% 			|
+| Tiefenschieferziegelmauer 					    | deepslate\_brick_wall 					| %deepsl\_br\_wl% 	    | %pq% 			|
 | Tiefenschieferfliesen 							| deepslate\_tiles 							| %deepsl\_t% 			| %pr% 			|
 | Rissige Tiefenschieferfliesen 			        | cracked\_deepslate\_tiles 				| %cr\_deepsl\_t% 	    | %ps% 			|
 | Tieferschiefenfliesenstufe 					    | deepslate\_tile\_slab 					| %deepsl\_t\_sl% 	    | %pt% 			|
@@ -343,304 +343,304 @@ Um nach Kategorien zu suchen, kannst du die Suchfunktion der Seite oder das Inha
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
 | ---                                               | ---                                       | ---                   | ---           |
-| Ton                                 | clay                                  | %clay%             | 82            |
-| Tonklumpen                          | clay\_ball                            | %clay\_ball%       | 337           |
-| Ziegel                              | brick                                 | %brick\_in%        | 336           |
-| Ziegelsteine                        | bricks                                | %brick%            | 45            |
-| Ziegelsteinstufe                    | brick\_slab                           | %brick\_sl%        | 44:4          |
-| Ziegelsteintreppe                   | brick\_stairs                         | %brick\_st%        | 108           |
-| Ziegelsteinmauer                    | brick\_wall                           | %brick\_wl%        | %dp%          |
+| Ton                                               | clay                                      | %clay%                | 82            |
+| Tonklumpen                                        | clay\_ball                                | %clay\_ball%          | 337           |
+| Ziegel                                            | brick                                     | %brick\_in%           | 336           |
+| Ziegelsteine                                      | bricks                                    | %brick%               | 45            |
+| Ziegelsteinstufe                                  | brick\_slab                               | %brick\_sl%           | 44:4          |
+| Ziegelsteintreppe                                 | brick\_stairs                             | %brick\_st%           | 108           |
+| Ziegelsteinmauer                                  | brick\_wall                               | %brick\_wl%           | %dp%          |
 
 ### Schlamm
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
 | ---                                               | ---                                       | ---                   | ---           |
-| Schlamm 														| mud                                   | %mud% 						 | %xg% 				 |
-| Fester Schlamm  										| packed\_mud                           | %p\_mud% 					 | %a7%					 |
-| Schlammziegel 											| mud\_bricks                           | %mudbr% 					 | %a8%					 |
-| Schlammziegelstufe 								  | mud\_brick\_slab                      | %mud\_br\_s% 			 | %a6%					 |
-| Schlammziegeltreppe 								| mud\_brick\_stairs                    | %m\_br\_st% 			 | %e1%					 |
-| Schlammziegelmauer 									| mud\_brick\_wall                      | %mud\_br\_wl% 		 | %f4%					 |
+| Schlamm 											| mud                                       | %mud% 			    | %xg% 			|
+| Fester Schlamm  									| packed\_mud                               | %p\_mud% 				| %a7%			|
+| Schlammziegel 									| mud\_bricks                               | %mudbr% 				| %a8%			|
+| Schlammziegelstufe 								| mud\_brick\_slab                          | %mud\_br\_s% 			| %a6%			|
+| Schlammziegeltreppe 								| mud\_brick\_stairs                        | %m\_br\_st% 			| %e1%			|
+| Schlammziegelmauer 							    | mud\_brick\_wall                          | %mud\_br\_wl% 		| %f4%			|
 
 ### Sandstein
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
 | ---                                               | ---                                       | ---                   | ---           |
-| Sandstein                           | sandstone                             | %sandst%           | 24            |
-| Sandsteinstufe                      | sandstone\_slab                       | %sandst\_sl%       | 44:1          |
-| Sandsteintreppe                     | sandstone\_stairs                     | %sandst\_st%       | 128           |
-| Sandsteinmauer                      | sandstone\_wall                       | %sandst\_wl%       | %dq%          |
-| Glatter Sandstein                   | smooth\_sandstone                     | %sm\_sandst%       | %og%          |
-| Glatte Sandsteinstufe               | smooth\_sandstone\_slab               | %sm\_sandst\_sl%   | %dr%          |
-| Glatte Sandsteintreppe              | smooth\_sandstone\_stairs             | %sm\_sandst\_st%   | %ds%          |
-| Geschnittener Sandstein             | cut\_sandstone                        | %ct\_sandst%       | %dt%          |
-| Geschnittene Sandsteinstufe         | cut\_sandstone\_slab                  | %ct\_sandst\_sl%   | %du%          |
-| Gemeißelter Sandstein				        | chiseled\_sandstone                   | %ch\_sandst%       | 24:1          |
-| Roter Sandstein                     | red\_sandstone                        | %rsandst%          | 179           |
-| Rote Sandsteinstufe                 | red\_sandstone\_slab                  | %rsandst\_sl%      | 182           |
-| Rote Sandsteintreppe                | red\_sandstone\_stairs                | %rsandst\_st%      | 180           |
-| Rote Sandsteinmauer                 | red\_sandstone\_wall                  | %rsandst\_wl%      | %dv%          |
-| Glatter roter Sandstein             | smooth\_red\_sandstone                | %sm\_rsandst%      | %d%           |
-| Glatte rote Sandsteinstufe          | smooth\_red\_sandstone\_slab          | %sm\_rsandst\_sl%  | %dw%          |
-| Glatte rote Sandsteintreppe         | smooth\_red\_sandstone\_stairs        | %sm\_rsandst\_st%  | %dx%          |
-| Geschnittener roter Sandstein       | cut\_red\_sandstone                   | %ct\_rsandst%      | %dy%          |
-| Geschnittene rote Sandsteinstufe    | cut\_red\_sandstone\_slab             | %ct\_rsandst\_sl%  | %dz%          |
-| Gemeißelter roter Sandstein         | chiseled\_red\_sandstone              | %ch\_rsandst%      | %z%           |
+| Sandstein                                         | sandstone                                 | %sandst%              | 24            |
+| Sandsteinstufe                                    | sandstone\_slab                           | %sandst\_sl%          | 44:1          |
+| Sandsteintreppe                                   | sandstone\_stairs                         | %sandst\_st%          | 128           |
+| Sandsteinmauer                                    | sandstone\_wall                           | %sandst\_wl%          | %dq%          |
+| Glatter Sandstein                                 | smooth\_sandstone                         | %sm\_sandst%          | %og%          |
+| Glatte Sandsteinstufe                             | smooth\_sandstone\_slab                   | %sm\_sandst\_sl%      | %dr%          |
+| Glatte Sandsteintreppe                            | smooth\_sandstone\_stairs                 | %sm\_sandst\_st%      | %ds%          |
+| Geschnittener Sandstein                           | cut\_sandstone                            | %ct\_sandst%          | %dt%          |
+| Geschnittene Sandsteinstufe                       | cut\_sandstone\_slab                      | %ct\_sandst\_sl%      | %du%          |
+| Gemeißelter Sandstein				                | chiseled\_sandstone                       | %ch\_sandst%          | 24:1          |
+| Roter Sandstein                                   | red\_sandstone                            | %rsandst%             | 179           |
+| Rote Sandsteinstufe                               | red\_sandstone\_slab                      | %rsandst\_sl%         | 182           |
+| Rote Sandsteintreppe                              | red\_sandstone\_stairs                    | %rsandst\_st%         | 180           |
+| Rote Sandsteinmauer                               | red\_sandstone\_wall                      | %rsandst\_wl%         | %dv%          |
+| Glatter roter Sandstein                           | smooth\_red\_sandstone                    | %sm\_rsandst%         | %d%           |
+| Glatte rote Sandsteinstufe                        | smooth\_red\_sandstone\_slab              | %sm\_rsandst\_sl%     | %dw%          |
+| Glatte rote Sandsteintreppe                       | smooth\_red\_sandstone\_stairs            | %sm\_rsandst\_st%     | %dx%          |
+| Geschnittener roter Sandstein                     | cut\_red\_sandstone                       | %ct\_rsandst%         | %dy%          |
+| Geschnittene rote Sandsteinstufe                  | cut\_red\_sandstone\_slab                 | %ct\_rsandst\_sl%     | %dz%          |
+| Gemeißelter roter Sandstein                       | chiseled\_red\_sandstone                  | %ch\_rsandst%         | %z%           |
 
 ### Netherboden
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
 | ---                                               | ---                                       | ---                   | ---           |
-| Netherrack                          | netherrack                            | %netrack%          | 87            |
-| Seelensand                          | soul\_sand                            | %soulsand%         | 88            |
-| Seelenerde                          | soul\_soil                            | %soulsoil%         | %eg%          |
-| Magmablock                          | magma\_block                          | %magma\_bl%        | 213           |
-| Karmesin-Nezel                      | crimson\_nylium                       | %crimson\_nyl%     | %eh%          |
-| Wirr-Nezel                          | warped\_nylium                        | %warped\_nyl%      | %ei%          |
-| Basalt                              | basalt                                | %basalt%           | %ej%          |
-| Polierter Basalt                    | polished\_basalt                      | %p\_basalt%        | %ek%          |
+| Netherrack                                        | netherrack                                | %netrack%             | 87            |
+| Seelensand                                        | soul\_sand                                | %soulsand%            | 88            |
+| Seelenerde                                        | soul\_soil                                | %soulsoil%            | %eg%          |
+| Magmablock                                        | magma\_block                              | %magma\_bl%           | 213           |
+| Karmesin-Nezel                                    | crimson\_nylium                           | %crimson\_nyl%        | %eh%          |
+| Wirr-Nezel                                        | warped\_nylium                            | %warped\_nyl%         | %ei%          |
+| Basalt                                            | basalt                                    | %basalt%              | %ej%          |
+| Polierter Basalt                                  | polished\_basalt                          | %p\_basalt%           | %ek%          |
 
 ### Schwarzstein
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
 | ---                                               | ---                                       | ---                   | ---           |
-| Schwarzstein                        | blackstone                            | %blkst%            | %el%          |
-| Schwarzsteinstufe                   | blackstone\_slab                      | %blkst\_sl%        | %em%          |
-| Schwarzsteintreppe                  | blackstone\_stairs                    | %blkst\_st%        | %en%          |
-| Schwarzsteinmauer                   | blackstone\_wall                      | %blkst\_wl%        | %eo%          |
-| Polierter Schwarzstein              | polished\_blackstone                  | %p\_blkst%         | %ep%          |
-| Polierte Schwarzsteinstufe          | polished\_blackstone\_slab            | %p\_blkst\_sl%     | %eq%          |
-| Polierte Schwarzsteintreppe         | polished\_blackstone\_stairs          | %p\_blkst\_st%     | %er%          |
-| Polierte Schwarzsteinmauer          | polished\_blackstone\_wall            | %p\_blkst\_wl%     | %es%          |
-| Polierte Schwarzsteinziegel         | polished\_blackstone\_bricks          | %p\_blkst\_br%     | %et%          |
-| Polierte Schwarzsteinziegelstufe    | polished\_blackstone\_brick\_slab     | %p\_blkst\_br\_sl% | %eu%          |
-| Polierte Schwarzsteinziegeltreppe   | polished\_blackstone\_brick\_stairs   | %p\_blkst\_br\_st% | %ev%          |
-| Polierte Schwarzsteinziegelmauer    | polished\_blackstone\_brick\_wall     | %p\_blkst\_br\_wl% | %ew%          |
-| Rissige polierte Schwarzsteinziegel | cracked\_polished\_blackstone\_bricks | %cr\_p\_blkst\_br% | %ex%          |
-| Gemeißelter polierter Schwarzstein  | chiseled\_polished\_blackstone        | %ch\_p\_blkst%     | %ey%          |
+| Schwarzstein                                      | blackstone                                | %blkst%               | %el%          |
+| Schwarzsteinstufe                                 | blackstone\_slab                          | %blkst\_sl%           | %em%          |
+| Schwarzsteintreppe                                | blackstone\_stairs                        | %blkst\_st%           | %en%          |
+| Schwarzsteinmauer                                 | blackstone\_wall                          | %blkst\_wl%           | %eo%          |
+| Polierter Schwarzstein                            | polished\_blackstone                      | %p\_blkst%            | %ep%          |
+| Polierte Schwarzsteinstufe                        | polished\_blackstone\_slab                | %p\_blkst\_sl%        | %eq%          |
+| Polierte Schwarzsteintreppe                       | polished\_blackstone\_stairs              | %p\_blkst\_st%        | %er%          |
+| Polierte Schwarzsteinmauer                        | polished\_blackstone\_wall                | %p\_blkst\_wl%        | %es%          |
+| Polierte Schwarzsteinziegel                       | polished\_blackstone\_bricks              | %p\_blkst\_br%        | %et%          |
+| Polierte Schwarzsteinziegelstufe                  | polished\_blackstone\_brick\_slab         | %p\_blkst\_br\_sl%    | %eu%          |
+| Polierte Schwarzsteinziegeltreppe                 | polished\_blackstone\_brick\_stairs       | %p\_blkst\_br\_st%    | %ev%          |
+| Polierte Schwarzsteinziegelmauer                  | polished\_blackstone\_brick\_wall         | %p\_blkst\_br\_wl%    | %ew%          |
+| Rissige polierte Schwarzsteinziegel               | cracked\_polished\_blackstone\_bricks     | %cr\_p\_blkst\_br%    | %ex%          |
+| Gemeißelter polierter Schwarzstein                | chiseled\_polished\_blackstone            | %ch\_p\_blkst%        | %ey%          |
 
 ### Netherziegel
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
 | ---                                               | ---                                       | ---                   | ---           |
-| Netherziegel (Item)                 | nether\_brick                         | %nbrick\_in%       | 405           |
-| Netherziegel (Block)                | nether\_bricks                        | %nbrick%           | 112           |
-| Netherziegelstufe                   | nether\_brick\_slab                   | %nbrick\_sl%       | 44:6          |
-| Netherziegeltreppe                  | nether\_brick\_stairs                 | %nbrick\_st%       | 114           |
-| Netherziegelmauer                   | nether\_brick\_wall                   | %nbrick\_wl%       | %ez%          |
-| Netherziegelzaun                    | nether\_brick\_fence                  | %nbrick\_fc%       | 113           |
-| Rote Netherziegel                   | red\_nether\_bricks                   | %rnbrick%          | 215           |
-| Rote Netherziegelstufe              | red\_nether\_brick\_slab              | %rnbrick\_sl%      | %fg%          |
-| Rote Netherziegeltreppe             | red\_nether\_brick\_stairs            | %rnbrick\_st%      | %fh%          |
-| Rote Netherziegelmauer              | red\_nether\_brick\_wall              | %rnbrick\_wl%      | %fi%          |
-| Rissige Netherziegel                | cracked\_nether\_bricks               | %cr\_nbrick%       | %fj%          |
-| Gemeißelte Netherziegel             | chiseled\_nether\_bricks              | %ch\_nbrick%       | %fk%          |
+| Netherziegel (Item)                               | nether\_brick                             | %nbrick\_in%          | 405           |
+| Netherziegel (Block)                              | nether\_bricks                            | %nbrick%              | 112           |
+| Netherziegelstufe                                 | nether\_brick\_slab                       | %nbrick\_sl%          | 44:6          |
+| Netherziegeltreppe                                | nether\_brick\_stairs                     | %nbrick\_st%          | 114           |
+| Netherziegelmauer                                 | nether\_brick\_wall                       | %nbrick\_wl%          | %ez%          |
+| Netherziegelzaun                                  | nether\_brick\_fence                      | %nbrick\_fc%          | 113           |
+| Rote Netherziegel                                 | red\_nether\_bricks                       | %rnbrick%             | 215           |
+| Rote Netherziegelstufe                            | red\_nether\_brick\_slab                  | %rnbrick\_sl%         | %fg%          |
+| Rote Netherziegeltreppe                           | red\_nether\_brick\_stairs                | %rnbrick\_st%         | %fh%          |
+| Rote Netherziegelmauer                            | red\_nether\_brick\_wall                  | %rnbrick\_wl%         | %fi%          |
+| Rissige Netherziegel                              | cracked\_nether\_bricks                   | %cr\_nbrick%          | %fj%          |
+| Gemeißelte Netherziegel                           | chiseled\_nether\_bricks                  | %ch\_nbrick%          | %fk%          |
 
 ### Quarzblöcke
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
 | ---                                               | ---                                       | ---                   | ---           |
-| Quarzblock                          | quartz\_block                         | %quartz%           | 155           |
-| Quarzstufe                          | quartz\_slab                          | %quartz\_sl%       | 44:7          |
-| Quarztreppe                         | quartz\_stairs                        | %quartz\_st%       | 156           |
-| Glatter Quarzblock                  | smooth\_quartz                        | %sm\_quartz%       | %fl%          |
-| Glatte Quarzstufe                   | smooth\_quartz\_slab                  | %sm\_quartz\_sl%   | %fm%          |
-| Glatte Quarztreppe                  | smooth\_quartz\_stairs                | %sm\_quartz\_st%   | %fn%          |
-| Gemeißelter Quarzblock              | chiseled\_quartz\_block               | %ch\_quartz%       | %u%           |
-| Quarzsäule                          | quartz\_pillar                        | %quartz\_pi%       | %p%           |
-| Quarzziegel                         | quartz\_bricks                        | %quartz\_br%       | %fo%          |
+| Quarzblock                                        | quartz\_block                             | %quartz%              | 155           |
+| Quarzstufe                                        | quartz\_slab                              | %quartz\_sl%          | 44:7          |
+| Quarztreppe                                       | quartz\_stairs                            | %quartz\_st%          | 156           |
+| Glatter Quarzblock                                | smooth\_quartz                            | %sm\_quartz%          | %fl%          |
+| Glatte Quarzstufe                                 | smooth\_quartz\_slab                      | %sm\_quartz\_sl%      | %fm%          |
+| Glatte Quarztreppe                                | smooth\_quartz\_stairs                    | %sm\_quartz\_st%      | %fn%          |
+| Gemeißelter Quarzblock                            | chiseled\_quartz\_block                   | %ch\_quartz%          | %u%           |
+| Quarzsäule                                        | quartz\_pillar                            | %quartz\_pi%          | %p%           |
+| Quarzziegel                                       | quartz\_bricks                            | %quartz\_br%          | %fo%          |
 
 ### Endstein
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
 | ---                                               | ---                                       | ---                   | ---           |
-| Endstein                            | end\_stone                            | %endst%            | 121           |
-| Endsteinziegel                      | end\_stone\_bricks                    | %endst\_br%        | 206           |
-| Endsteinziegelstufe                 | end\_stone\_brick\_slab               | %endst\_br\_sl%    | %fp%          |
-| Endsteinziegeltreppe                | end\_stone\_brick\_stairs             | %endst\_br\_st%    | %fq%          |
-| Endsteinziegelmauer                 | end\_stone\_brick\_wall               | %endst\_br\_wl%    | %fr%          |
+| Endstein                                          | end\_stone                                | %endst%               | 121           |
+| Endsteinziegel                                    | end\_stone\_bricks                        | %endst\_br%           | 206           |
+| Endsteinziegelstufe                               | end\_stone\_brick\_slab                   | %endst\_br\_sl%       | %fp%          |
+| Endsteinziegeltreppe                              | end\_stone\_brick\_stairs                 | %endst\_br\_st%       | %fq%          |
+| Endsteinziegelmauer                               | end\_stone\_brick\_wall                   | %endst\_br\_wl%       | %fr%          |
 
 ### Purpur
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
 | ---                                               | ---                                       | ---                   | ---           |
-| Purpurblock                         | purpur\_block                         | %purpur%           | 201           |
-| Purpurstufe                         | purpur\_slab                          | %purpur\_sl%       | 205           |
-| Purpurtreppe                        | purpur\_stairs                        | %purpur\_st%       | 203           |
-| Purpursäule                         | purpur\_pillar                        | %purpur\_pi%       | 202           |
+| Purpurblock                                       | purpur\_block                             | %purpur%              | 201           |
+| Purpurstufe                                       | purpur\_slab                              | %purpur\_sl%          | 205           |
+| Purpurtreppe                                      | purpur\_stairs                            | %purpur\_st%          | 203           |
+| Purpursäule                                       | purpur\_pillar                            | %purpur\_pi%          | 202           |
 
 ### Prismarin
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
 | ---                                               | ---                                       | ---                   | ---           |
-| Prismarinscherbe                    | prismarine\_shard                     | %prism\_shard%     | 409           |
-| Prismarinkristalle                  | prismarine\_crystals                  | %prism\_cryst%     | 410           |
-| Prismarin                           | prismarine                            | %prism%            | 168           |
-| Prismarinstufe                      | prismarine\_slab                      | %prism\_sl%        | %fs%          |
-| Prismarintreppe                     | prismarine\_stairs                    | %prism\_st%        | %ft%          |
-| Prismarinmauer                      | prismarine\_wall                      | %prism\_wl%        | %fu%          |
-| Prismarinziegel                     | prismarine\_bricks                    | %prism\_br%        | %a%           |
-| Prismarinziegelstufe                | prismarine\_brick\_slab               | %prism\_br\_sl%    | %fv%          |
-| Prismarinziegeltreppe               | prismarine\_brick\_stairs             | %prism\_br\_st%    | %fw%          |
-| Dunkler Prismarin                   | dark\_prismarine                      | %dk\_prism%        | %t%           |
-| Dunkle Prismarinstufe               | dark\_prismarine\_slab                | %dk\_prism\_sl%    | %fx%          |
-| Dunkle Prismarintreppe              | dark\_prismarine\_stairs              | %dk\_prism\_st%    | %fy%          |
+| Prismarinscherbe                                  | prismarine\_shard                         | %prism\_shard%        | 409           |
+| Prismarinkristalle                                | prismarine\_crystals                      | %prism\_cryst%        | 410           |
+| Prismarin                                         | prismarine                                | %prism%               | 168           |
+| Prismarinstufe                                    | prismarine\_slab                          | %prism\_sl%           | %fs%          |
+| Prismarintreppe                                   | prismarine\_stairs                        | %prism\_st%           | %ft%          |
+| Prismarinmauer                                    | prismarine\_wall                          | %prism\_wl%           | %fu%          |
+| Prismarinziegel                                   | prismarine\_bricks                        | %prism\_br%           | %a%           |
+| Prismarinziegelstufe                              | prismarine\_brick\_slab                   | %prism\_br\_sl%       | %fv%          |
+| Prismarinziegeltreppe                             | prismarine\_brick\_stairs                 | %prism\_br\_st%       | %fw%          |
+| Dunkler Prismarin                                 | dark\_prismarine                          | %dk\_prism%           | %t%           |
+| Dunkle Prismarinstufe                             | dark\_prismarine\_slab                    | %dk\_prism\_sl%       | %fx%          |
+| Dunkle Prismarintreppe                            | dark\_prismarine\_stairs                  | %dk\_prism\_st%       | %fy%          |
 
 ### Obsidian
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
 | ---                                               | ---                                       | ---                   | ---           |
-| Obsidian                            | obsidian                              | %obsidian%         | 49            |
-| Weinender Obsidian                  | crying\_obsidian                      | %cry\_obsidian%    | %fz%          |
+| Obsidian                                          | obsidian                                  | %obsidian%            | 49            |
+| Weinender Obsidian                                | crying\_obsidian                          | %cry\_obsidian%       | %fz%          |
 
 ### Sculk
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
 | ---                                               | ---                                       | ---                   | ---           |
-| Sculk                               | sculk                   							| %sculk% 					 | %ix%					 |
-| Sculk-Ader 													| sculk\_vein                           | %sculkvein% 			 | %a9%					 |
-| Sculk-Katalysator 									| sculk\_catalyst                       | %sculk\_calst% 		 | %e8%					 |
-| Sculk-Kreischer 										| sculk\_shrieker                       | %sculk\_shkr% 		 | %e9%					 |
+| Sculk                                             | sculk                   					| %sculk% 				| %ix%			|
+| Sculk-Ader 										| sculk\_vein                               | %sculkvein% 			| %a9%			|
+| Sculk-Katalysator 								| sculk\_catalyst                           | %sculk\_calst% 		| %e8%			|
+| Sculk-Kreischer 									| sculk\_shrieker                           | %sculk\_shkr% 		| %e9%			|
 
 ### Erze
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
 | ---                                               | ---                                       | ---                   | ---           |
-| Steinkohle                          | coal\_ore                             | %coal\_ore%        | 16            |
-| Eisenerz                            | iron\_ore                             | %iron\_ore%        | 15            |
-| Kupfererz 													| copper\_ore 													| %copper\_ore% 		 | %ob% 				 |
-| Golderz                             | gold\_ore                             | %gold\_ore%        | 14            |
-| Redstone-Erz                        | redstone\_ore                         | %redstone\_ore%    | 73            |
-| Smaragderz                          | emerald\_ore                          | %emerald\_ore%     | 129           |
-| Lapislazulierz                      | lapis\_ore                            | %lapis\_ore%       | 21            |
-| Diamanterz                          | diamond\_ore                          | %diamond\_ore%     | 56            |
-| Netherquarzerz                      | nether\_quartz\_ore                   | %quartz\_ore%      | 153           |
-| Nethergolderz                       | nether\_gold\_ore                     | %nth\_gold\_ore%   | %gg%          |
-| Golddurchzogener Schwarzstein       | gilded\_blackstone                    | %blk\_gold\_ore%   | %gh%          |
-| Antiker Schrott                     | ancient\_debris                       | %netherite\_ore%   | %gi%          |
-| Tiefenschiefer-Steinkohle 					| deepslate\_coal\_ore 									| %dpsl\_coal\_o% 	 | %qh% 				 |
-| Tiefenschiefer-Eisenerz 						| deepslate\_iron\_ore 									| %dpsl\_iron\_o% 	 | %qi% 				 |
-| Tiefenschiefer-Kupfererz 						| deepslate\_copper\_ore 								| %dpsl\_copper\_o%  | %qj% 				 |
-| Tiefenschiefer-Golderz 							| deepslate\_gold\_ore 									| %dpsl\_gold\_o% 	 | %qk% 				 |
-| Tiefenschiefer-Redstone-Erz 				| deepslate\_redstone\_ore 							| %dpsl\_redst\_o% 	 | %ql% 				 |
-| Tiefenschiefer-Smaragderz 					| deepslate\_emerald\_ore 							| %dpsl\_emerld\_o%  | %qm% 				 |
-| Tiefenschiefer-Lapislazulierz 			| deepslate\_lapis\_ore 								| %dpsl\_lapis\_o% 	 | %qn% 				 |
-| Tiefenschiefer-Diamanterz 					| deepslate\_diamond\_ore 							| %dpsl\_dia\_o% 		 | %qo% 				 |
+| Steinkohle                                        | coal\_ore                                 | %coal\_ore%           | 16            |
+| Eisenerz                                          | iron\_ore                                 | %iron\_ore%           | 15            |
+| Kupfererz 										| copper\_ore 								| %copper\_ore% 		| %ob% 			|
+| Golderz                                           | gold\_ore                                 | %gold\_ore%           | 14            |
+| Redstone-Erz                                      | redstone\_ore                             | %redstone\_ore%       | 73            |
+| Smaragderz                                        | emerald\_ore                              | %emerald\_ore%        | 129           |
+| Lapislazulierz                                    | lapis\_ore                                | %lapis\_ore%          | 21            |
+| Diamanterz                                        | diamond\_ore                              | %diamond\_ore%        | 56            |
+| Netherquarzerz                                    | nether\_quartz\_ore                       | %quartz\_ore%         | 153           |
+| Nethergolderz                                     | nether\_gold\_ore                         | %nth\_gold\_ore%      | %gg%          |
+| Golddurchzogener Schwarzstein                     | gilded\_blackstone                        | %blk\_gold\_ore%      | %gh%          |
+| Antiker Schrott                                   | ancient\_debris                           | %netherite\_ore%      | %gi%          |
+| Tiefenschiefer-Steinkohle 					    | deepslate\_coal\_ore 						| %dpsl\_coal\_o% 	    | %qh% 			|
+| Tiefenschiefer-Eisenerz 						    | deepslate\_iron\_ore 						| %dpsl\_iron\_o% 	    | %qi% 			|
+| Tiefenschiefer-Kupfererz 						    | deepslate\_copper\_ore 					| %dpsl\_copper\_o%     | %qj% 			|
+| Tiefenschiefer-Golderz 							| deepslate\_gold\_ore 						| %dpsl\_gold\_o% 	    | %qk% 			|
+| Tiefenschiefer-Redstone-Erz 				        | deepslate\_redstone\_ore 					| %dpsl\_redst\_o% 	    | %ql% 			|
+| Tiefenschiefer-Smaragderz 					    | deepslate\_emerald\_ore 					| %dpsl\_emerld\_o%     | %qm% 			|
+| Tiefenschiefer-Lapislazulierz 			        | deepslate\_lapis\_ore 					| %dpsl\_lapis\_o% 	    | %qn% 			|
+| Tiefenschiefer-Diamanterz 					    | deepslate\_diamond\_ore 					| %dpsl\_dia\_o% 		| %qo% 			|
 
 ### Mineralien
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
 | ---                                               | ---                                       | ---                   | ---           |
-| Kohle                               | coal                                  | %coal\_in%         | 263           |
-| Holzkohle                           | charcoal                              | %charcoal%         | %o%           |
-| Eisenklumpen                        | iron\_nugget                          | %iron\_ng%         | 452           |
-| Eisenbarren                         | iron\_ingot                           | %iron\_in%         | 265           |
-| Kupferbarren 												| copper\_ingot 												| %copper\_in% 			 | %rh% 				 |
-| Goldklumpen                         | gold\_nugget                          | %gold\_ng%         | 371           |
-| Goldbarren                          | gold\_ingot                           | %gold\_in%         | 266           |
-| Redstone                            | redstone                              | %redstone\_in%     | 331           |
-| Smaragd                             | emerald                               | %emerald\_in%      | 388           |
-| Lapislazuli                         | lapis\_lazuli                         | %lapis\_in%        | %h%           |
-| Diamant                             | diamond                               | %diamond\_in%      | 264           |
-| Quarz                               | quartz                                | %quartz\_in%       | 406           |
-| Netheritplatten                     | netherite\_scrap                      | %netherite\_scr%   | %gj%          |
-| Netheritbarren                      | netherite\_ingot                      | %netherite\_in%    | %gk%          |
-| Roheisen 														| raw\_iron  														| %raw\_iron% 			 | %rn% 				 |
-| Rohkupfer 													| raw\_copper 													| %raw\_copper% 		 | %rl% 				 |
-| Rohgold 														| raw\_gold 														| %raw\_gold% 			 | %rm% 				 |
+| Kohle                                             | coal                                      | %coal\_in%            | 263           |
+| Holzkohle                                         | charcoal                                  | %charcoal%            | %o%           |
+| Eisenklumpen                                      | iron\_nugget                              | %iron\_ng%            | 452           |
+| Eisenbarren                                       | iron\_ingot                               | %iron\_in%            | 265           |
+| Kupferbarren 						                | copper\_ingot 						    | %copper\_in% 	        | %rh% 			|
+| Goldklumpen                                       | gold\_nugget                              | %gold\_ng%            | 371           |
+| Goldbarren                                        | gold\_ingot                               | %gold\_in%            | 266           |
+| Redstone                                          | redstone                                  | %redstone\_in%        | 331           |
+| Smaragd                                           | emerald                                   | %emerald\_in%         | 388           |
+| Lapislazuli                                       | lapis\_lazuli                             | %lapis\_in%           | %h%           |
+| Diamant                                           | diamond                                   | %diamond\_in%         | 264           |
+| Quarz                                             | quartz                                    | %quartz\_in%          | 406           |
+| Netheritplatten                                   | netherite\_scrap                          | %netherite\_scr%      | %gj%          |
+| Netheritbarren                                    | netherite\_ingot                          | %netherite\_in%       | %gk%          |
+| Roheisen 											| raw\_iron  								| %raw\_iron% 			| %rn% 			|
+| Rohkupfer 										| raw\_copper 								| %raw\_copper% 		| %rl% 			|
+| Rohgold 											| raw\_gold 								| %raw\_gold% 			| %rm% 			|
 
 ### Mineralblöcke
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
 | ---                                               | ---                                       | ---                   | ---           |
-| Kohleblock                          | coal\_block                           | %coal%             | 173           |
-| Eisenblock                          | iron\_block                           | %iron%             | 42            |
-| Kupferblock 												| copper\_block 												| %copper% 					 | %ha% 				 |
-| Goldblock                           | gold\_block                           | %gold%             | 41            |
-| Redstoneblock                       | redstone\_block                       | %redstone%         | 152           |
-| Smaragdblock                        | emerald\_block                        | %emerald%          | 133           |
-| Lapislazuliblock                    | lapis\_block                          | %lapis%            | 22            |
-| Diamantblock                        | diamond\_block                        | %diamond%          | 57            |
-| Netheritblock                       | netherite\_block                      | %netherite%        | %gl%          |
-| Roheisenblock 											| raw\_iron\_block 											| %raw\_iron\_bl% 	 | %oe% 				 |
-| Rohkupferblock 											| raw\_copper\_block 										| %raw\_copper\_bl%  | %oc% 				 |
-| Rohgoldblock 												| raw\_gold\_block 											| %raw\_gold\_bl% 	 | %od% 				 |
+| Kohleblock                                        | coal\_block                               | %coal%                | 173           |
+| Eisenblock                                        | iron\_block                               | %iron%                | 42            |
+| Kupferblock 										| copper\_block 						    | %copper% 				| %ha% 			|
+| Goldblock                                         | gold\_block                               | %gold%                | 41            |
+| Redstoneblock                                     | redstone\_block                           | %redstone%            | 152           |
+| Smaragdblock                                      | emerald\_block                            | %emerald%             | 133           |
+| Lapislazuliblock                                  | lapis\_block                              | %lapis%               | 22            |
+| Diamantblock                                      | diamond\_block                            | %diamond%             | 57            |
+| Netheritblock                                     | netherite\_block                          | %netherite%           | %gl%          |
+| Roheisenblock 									| raw\_iron\_block 							| %raw\_iron\_bl% 	    | %oe% 			|
+| Rohkupferblock 								    | raw\_copper\_block 						| %raw\_copper\_bl%     | %oc% 			|
+| Rohgoldblock 										| raw\_gold\_block 							| %raw\_gold\_bl% 	    | %od% 			|
 
 ### Amethyst
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
 | ---                                               | ---                                       | ---                   | ---           |
-| Amethystblock 											| amethyst_block 												| %amethyst_bl% 		 | %fd% 				 |
-| Kleine Amethystknospe 							| small_amethyst_bud 										| %small_am_bud% 		 | %fe% 				 |
-| Mittlere Amethystknospe 						| medium_amethyst_bud 									| %med_am_bud% 			 | %ff% 				 |
-| Große Amethystknospe 								| large_amethyst_bud 										| %large_am_bud% 		 | %ga% 				 |
-| Amethysthaufen 											| amethyst_cluster 											| %amethyst_cl% 		 | %gb% 				 |
-| Amethystscherbe 										| amethyst_shard 												| %amethyst% 				 | %rf% 				 |
+| Amethystblock 									| amethyst_block 							| %amethyst_bl% 		| %fd% 			|
+| Kleine Amethystknospe 							| small_amethyst_bud 						| %small_am_bud% 		| %fe% 			|
+| Mittlere Amethystknospe 						    | medium_amethyst_bud 						| %med_am_bud% 			| %ff% 			|
+| Große Amethystknospe 								| large_amethyst_bud 						| %large_am_bud% 		| %ga% 			|
+| Amethysthaufen 									| amethyst_cluster 							| %amethyst_cl% 		| %gb% 			|
+| Amethystscherbe 								    | amethyst_shard 							| %amethyst% 		    | %rf% 			|
 
 ### Kupferblöcke
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
 | ---                                               | ---                                       | ---                   | ---           |
-| Angelaufener Kupferblock 						| exposed_copper 												| %e_cpr% 					 | %hb% 				 |
-| Verwitterter Kupferblock 						| weathered_copper 											| %w_cpr% 					 | %hc% 				 |
-| Oxidierter Kupferblock 							| oxidized_copper 											| %o_cpr% 					 | %hd% 				 |
-| Geschnittener Kupferblock 					| cut_copper 														| %c_cpr% 					 | %he% 				 |
-| Angelaufener geschnittener Kupferblock| exposed_cut_copper 									| %e_c_cpr% 				 | %hf% 				 |
-| Verwitterter geschnittener Kupferblock| weathered_cut_copper 								| %w_c_cpr% 				 | %ua% 				 |
-| Oxidierter geschnittener Kupferblock| oxidized_cut_copper 									| %o_c_cpr% 				 | %uc% 				 |
-| Gewachster Kupferblock 							| waxed_copper_block 										| %wa_cpr% 					 | %ia% 				 |
-| Gewachster angelaufener Kupferblock	| waxed_exposed_copper 									| %wa_e_cpr% 				 | %ib% 				 |
-| Gewachster verwitterter Kupferblock | waxed_weathered_copper 								| %wa_w_cpr% 				 | %ic% 				 |
-| Gewachster oxidierter Kupferblock 	| waxed_oxidized_copper 								| %wa_o_cpr% 				 | %id% 				 |
-| Gewachster geschnittener Kupferblock| waxed_cut_copper 											| %wa_c_cpr% 				 | %ie% 				 |
-| Gewachster angelaufener geschnittener Kupferblock| waxed_exposed_cut_copper | %wa_e_c_cpr% 			 | %if% 				 |
-| Gewachster verwitterter geschnittener Kupferblock| waxed_weathered_cut_copper| %wa_w_c_cpr% 		 | %ja% 				 |
-| Gewachster oxidierter geschnittener Kupferblock | waxed_oxidized_cut_copper | %wa_o_c_cpr% 			 | %jb% 				 |
+| Angelaufener Kupferblock 						    | exposed_copper 						    | %e_cpr% 				| %hb% 			|
+| Verwitterter Kupferblock 						    | weathered_copper 							| %w_cpr% 				| %hc% 			|
+| Oxidierter Kupferblock 							| oxidized_copper 							| %o_cpr% 				| %hd% 			|
+| Geschnittener Kupferblock 					    | cut_copper 								| %c_cpr% 				| %he% 			|
+| Angelaufener geschnittener Kupferblock            | exposed_cut_copper 						| %e_c_cpr% 		    | %hf% 			|
+| Verwitterter geschnittener Kupferblock            | weathered_cut_copper 						| %w_c_cpr% 			| %ua% 			|
+| Oxidierter geschnittener Kupferblock              | oxidized_cut_copper 						| %o_c_cpr% 			| %uc% 			|
+| Gewachster Kupferblock 							| waxed_copper_block 						| %wa_cpr% 				| %ia% 			|
+| Gewachster angelaufener Kupferblock	            | waxed_exposed_copper 						| %wa_e_cpr% 			| %ib% 			|
+| Gewachster verwitterter Kupferblock               | waxed_weathered_copper 					| %wa_w_cpr% 			| %ic% 			|
+| Gewachster oxidierter Kupferblock 	            | waxed_oxidized_copper 					| %wa_o_cpr% 			| %id% 			|
+| Gewachster geschnittener Kupferblock              | waxed_cut_copper 							| %wa_c_cpr% 			| %ie% 			|
+| Gewachster angelaufener geschnittener Kupferblock | waxed_exposed_cut_copper                  | %wa_e_c_cpr% 	        | %if% 			|
+| Gewachster verwitterter geschnittener Kupferblock | waxed_weathered_cut_copper                | %wa_w_c_cpr% 	        | %ja% 		    |
+| Gewachster oxidierter geschnittener Kupferblock   | waxed_oxidized_cut_copper                 | %wa_o_c_cpr% 	        | %jb% 			|
 
 ### Kupferblockerzeugnisse
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
 | ---                                               | ---                                       | ---                   | ---           |
-| Geschnittene Kupferstufe 						| cut_copper_slab 											| %c_cpr_sl% 				 | %jc% 				 |
-| Angelaufene geschnittene Kupferstufe| exposed_cut_copper_slab 							| %e_c_cpr_sl% 			 | %jd% 				 |
-| Verwitterte geschnittene Kupferstufe| weathered_cut_copper_slab 						| %w_c_cpr_sl% 			 | %je% 				 |
-| Oxidierte geschnittene Kupferstufe 	| oxidized_cut_copper_slab 							| %o_c_cpr_sl% 			 | %jf% 				 |
-| Geschnittene Kupfertreppe 					| cut_copper_stairs 										| %c_cpr_st% 				 | %kx% 				 |
-| Angelaufene geschnittene Kupfertreppe| exposed_cut_copper_stairs 						| %e_c_cpr_st% 			 | %ub% 				 |
-| Verwitterte geschnittene Kupfertreppe| weathered_cut_copper_stairs 					| %w_c_cpr_st% 			 | %la% 				 |
-| Oxidierte geschnittene Kupfertreppe | oxidized_cut_copper_stairs 						| %o_c_cpr_st% 			 | %le% 				 |
-| Gewachste geschnittene Kupferstufe	| waxed_cut_copper_slab 								| %wa_c_cpr_sl% 		 | %ma% 				 |
-| Gewachste angelaufene geschnittene Kupferstufe| waxed_exposed_cut_copper_slab| %wa_e_c_cpr_sl% 	 | %mb% 				 |
-| Gewachste verwitterte geschnittene Kupferstufe| waxed_weathered_cut_copper_slab| %wa_w_c_cpr_sl% | %mc% 				 |
-| Gewachste oxidierte geschnittene Kupferstufe| waxed_oxidized_cut_copper_slab| %wa_o_c_cpr_sl% 	 | %md% 				 |
-| Gewachste geschnittene Kupfertreppe | waxed_cut_copper_stairs 							| %wa_c_cpr_st%			 | %me% 				 |
-| Gewachste angelaufene geschnittene Kupfertreppe| waxed_exposed_cut_copper_stairs| %wa_e_c_cpr_st%| %mf% 				 |
-| Gewachste verwitterte geschnittene Kupfertreppe| waxed_weathered_cut_copper_stairs| %wa_w_c_cpr_st%| %ud% 			 |
-| Gewachste oxidierte geschnittene Kupfertreppe| waxed_oxidized_cut_copper_stairs| %wa_o_c_cpr_st% | %oa% 				 |
+| Geschnittene Kupferstufe 						    | cut_copper_slab 							| %c_cpr_sl% 			| %jc% 			|
+| Angelaufene geschnittene Kupferstufe              | exposed_cut_copper_slab 					| %e_c_cpr_sl% 			| %jd% 			|
+| Verwitterte geschnittene Kupferstufe              | weathered_cut_copper_slab 				| %w_c_cpr_sl% 			| %je% 			|
+| Oxidierte geschnittene Kupferstufe 	            | oxidized_cut_copper_slab 					| %o_c_cpr_sl% 			| %jf% 			|
+| Geschnittene Kupfertreppe 					    | cut_copper_stairs 						| %c_cpr_st% 			| %kx% 			|
+| Angelaufene geschnittene Kupfertreppe             | exposed_cut_copper_stairs 				| %e_c_cpr_st% 			| %ub% 			|
+| Verwitterte geschnittene Kupfertreppe             | weathered_cut_copper_stairs 			    | %w_c_cpr_st% 			| %la% 			|
+| Oxidierte geschnittene Kupfertreppe               | oxidized_cut_copper_stairs 				| %o_c_cpr_st% 			| %le% 			|
+| Gewachste geschnittene Kupferstufe	            | waxed_cut_copper_slab 					| %wa_c_cpr_sl% 		| %ma% 			|
+| Gewachste angelaufene geschnittene Kupferstufe    | waxed_exposed_cut_copper_slab             | %wa_e_c_cpr_sl% 	    | %mb% 			|
+| Gewachste verwitterte geschnittene Kupferstufe    | waxed_weathered_cut_copper_slab           | %wa_w_c_cpr_sl%       | %mc% 			|
+| Gewachste oxidierte geschnittene Kupferstufe      | waxed_oxidized_cut_copper_slab            | %wa_o_c_cpr_sl% 	    | %md% 			|
+| Gewachste geschnittene Kupfertreppe               | waxed_cut_copper_stairs 					| %wa_c_cpr_st%			| %me% 			|
+| Gewachste angelaufene geschnittene Kupfertreppe   | waxed_exposed_cut_copper_stairs           | %wa_e_c_cpr_st%       | %mf% 			|
+| Gewachste verwitterte geschnittene Kupfertreppe   | waxed_weathered_cut_copper_stairs         | %wa_w_c_cpr_st%       | %ud% 			|
+| Gewachste oxidierte geschnittene Kupfertreppe     | waxed_oxidized_cut_copper_stairs          | %wa_o_c_cpr_st%       | %oa% 			|
 
 ### Fruchtbarer Boden
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
 | ---                                               | ---                                       | ---                   | ---           |
-| Erde                                | dirt                                  | %dirt%             | 3             |
-| Grobe Erde                          | coarse\_dirt                          | %coarsedirt%       | 3:1           |
-| Grasblock                           | grass\_block                          | %grass%            | 2             |
-| Podsol                              | podzol                                | %podzol%           | 3:2           |
-| Myzel                               | mycelium                              | %mycelium%         | 110           |
-| Moosblock 													| moss_block 														| %moss_bl% 			   | %qx% 				 |
-| Mossteppich 												| moss_carpet 													| %moss_carpet% 	   | %qy% 				 |
-| Wurzelerde 													| rooted_dirt 													| %ro_dirt% 			   | %qz% 				 |
+| Erde                                              | dirt                                      | %dirt%                | 3             |
+| Grobe Erde                                        | coarse\_dirt                              | %coarsedirt%          | 3:1           |
+| Grasblock                                         | grass\_block                              | %grass%               | 2             |
+| Podsol                                            | podzol                                    | %podzol%              | 3:2           |
+| Myzel                                             | mycelium                                  | %mycelium%            | 110           |
+| Moosblock 										| moss_block 								| %moss_bl% 			| %qx% 		    |
+| Mossteppich 									    | moss_carpet 								| %moss_carpet% 	    | %qy% 			|
+| Wurzelerde 										| rooted_dirt 								| %ro_dirt% 			| %qz% 			|
 
 ### Sand und Kies
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
 | ---                                               | ---                                       | ---                   | ---           |
-| Kies                                | gravel                                | %gravel%           | 13            |
-| Seltsamer Kies											| suspicious_gravel											| %sus_gravel%			 | %ack% 				 |
-| Feuerstein                          | flint                                 | %flint%            | 318           |
-| Sand                                | sand                                  | %sand%             | 12            |
-| Seltsamer Sand											| suspicious_sand												| %sus_sand%				 | %acl%				 |
-| Roter Sand                          | red\_sand                             | %rsand%            | %r%           |
+| Kies                                              | gravel                                | %gravel%           | 13            |
+| Seltsamer Kies									| suspicious_gravel											| %sus_gravel%			 | %ack% 				 |
+| Feuerstein                                        | flint                                 | %flint%            | 318           |
+| Sand                                              | sand                                  | %sand%             | 12            |
+| Seltsamer Sand									| suspicious_sand												| %sus_sand%				 | %acl%				 |
+| Roter Sand                                        | red\_sand                             | %rsand%            | %r%           |
 
 ### Schnee und Eis
 {.compact}
