@@ -149,120 +149,150 @@ Um nach Kategorien zu suchen, kannst du die Suchfunktion der Seite oder das Inha
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
 | ---                                               | ---                                       | ---                   | ---           |
-| Eichenholzzaun                      | oak\_fence                            | %oak\_fc%          | 85            |
-| Fichtenholzzaum                     | spruce\_fence                         | %spruce\_fc%       | 188           |
-| Birkenholzzaun                      | birch\_fence                          | %birch\_fc%        | 189           |
-| Tropenholzzaun                      | jungle\_fence                         | %jungle\_fc%       | 190           |
-| Akazienholzzaun                     | acacia\_fence                         | %acacia\_fc%       | 192           |
-| Schwarzeichenholzzaun               | dark\_oak\_fence                      | %darkoak\_fc%      | 191           |
-| Karmesinzaun                        | crimson\_fence                        | %crimson\_fc%      | %bt%          |
-| Wirrzaun                            | warped\_fence                         | %warped\_fc%       | %bu%          |
-| Eisengitter                         | iron\_bars                            | %ironbars%         | 101           |
-| Mangrovenholzzaun                   | mangrove\_fence                       | %mangrove\_fc%     | %xr%					 |
-| Kirschholzzaun											| cherry\_fence													| %cherry\_fc%			 | %abg% 				 |
-| Bambuszaun													| bamboo\_fence													| %bamboo\_fc%			 | %aas% 				 |
-|                                     | **Zauntore**                          |
-| Eichenholzzauntor                   | oak\_fence\_gate                      | %oak\_fg%          | 107           |
-| Fichtenholzzauntor                  | spruce\_fence\_gate                   | %spruce\_fg%       | 183           |
-| Birkenholzzauntor                   | birch\_fence\_gate                    | %birch\_fg%        | 184           |
-| Tropenholzzauntor                   | jungle\_fence\_gate                   | %jungle\_fg%       | 185           |
-| Akazienholzzauntor                  | acacia\_fence\_gate                   | %acacia\_fg%       | 187           |
-| Schwarzeichenholzzauntor            | dark\_oak\_fence\_gate                | %darkoak\_fg%      | 186           |
-| Karmesinzauntor                     | crimson\_fence\_gate                  | %crimson\_fg%      | %bv%          |
-| Wirrzauntor                         | warped\_fence\_gate                   | %warped\_fg%       | %bw%          |
-| Mangrovenholzzauntor                | mangrove\_fence\_gate                 | %mangrove\_fg%     | %xq%					 |
-| Kirschholzzauntor										| cherry\_fence\_gate										| %cherry\_fg%			 | %abh% 				 |
-| Bambuszauntor												| bamboo\_fence\_gate										| %bamboo\_fg%			 | %aat% 				 |
-|                                     | **Laub**                              |
-| Eichenlaub                          | oak\_leaves                           | %oak\_lv%          | 18            |
-| Fichtenlaub                         | spruce\_leaves                        | %spruce\_lv%       | 18:1          |
-| Birkenlaub                          | birch\_leaves                         | %birch\_lv%        | 18:2          |
-| Tropenbaumlaub                      | jungle\_leaves                        | %jungle\_lv%       | 18:3          |
-| Akazienlaub                         | acacia\_leaves                        | %acacia\_lv%       | 161           |
-| Schwarzeichenlaub                   | dark\_oak\_leaves                     | %darkoak\_lv%      | %f%           |
-| Netherwarzenblock                   | nether\_wart\_block                   | %netwart\_bl%      | 214           |
-| Wirrwarzenblock                     | warped\_wart\_block                   | %warwart\_bl%      | %bx%          |
-| Azaleenlaub 												| azalea\_leaves 												| %azalea\_lv% 			 | %ge% 				 |
-| Blühendes Azaleenlaub 							| flowering\_azalea\_leaves 						| %fl\_azalea\_lv% 	 | %gf% 				 |
-| Mangrovenlaub                       | mangrove\_leaves                      | %mangrove\_lv%     | %xp%					 |
-| Kirschlaub													| cherry\_leaves												| %cherry\_lv%			 | %abp% 				 |
-|                                     | **Setzlinge**                         |
-| Eichensetzling                      | oak\_sapling                          | %oak\_sp%          | 6             |
-| Fichtensetzling                     | spruce\_sapling                       | %spruce\_sp%       | 6:1           |
-| Birkensetzling                      | birch\_sapling                        | %birch\_sp%        | 6:2           |
-| Tropenbaumsetzling                  | jungle\_sapling                       | %jungle\_sp%       | 6:3           |
-| Akaziensetzling                     | acacia\_sapling                       | %acacia\_sp%       | 6:4           |
-| Schwarzeichensetzling               | dark\_oak\_sapling                    | %darkoak\_sp%      | 6:5           |
-| Mangroven-Keimling                  | mangrove\_propagule                   | %mangrove\_pp%     | %xv%					 |
-| Kirschsetzling											| cherry\_sapling												| %cherry\_sp%			 | %abs% 				 |
-|                                     | **Schilder (Schrift)**                |
-| Eichenholzschild                    | oak\_sign                             | %oak\_si%          | 323           |
-| Fichtenholzschild                   | spruce\_sign                          | %spruce\_si%       | %by%          |
-| Birkenholzschild                    | birch\_sign                           | %birch\_si%        | %bz%          |
-| Tropenholzschild                    | jungle\_sign                          | %jungle\_si%       | %cg%          |
-| Akazienholzschild                   | acacia\_sign                          | %acacia\_si%       | %ch%          |
-| Schwarzeichenholzschild             | dark\_oak\_sign                       | %darkoak\_si%      | %ci%          |
-| Karmesinschild                      | crimson\_sign                         | %crimson\_si%      | %cj%          |
-| Wirrschild                          | warped\_sign                          | %warped\_si%       | %ck%          |
-| Mangrovenholzschild                 | mangrove\_sign                        | %mangrove\_si%     | %xm%					 |
-| Kirschholzschild										| cherry\_sign													| %cherry\_si%			 | %abj%				 |
-| Bambusschild												| bamboo\_sign													| %bamboo\_si%			 | %aav%				 |
-|                                     | **Hängeschilder**             				|
-| Eichenholzhängeschild								| oak\_hanging\_sign										| %oak\_hg\_si%			 | %abw% 				 |
-| Fichtenholzhängeschild							| spruce\_hanging_sign									| %spruce\_hg\_si%	 | %abx% 				 |
-| Birkenholzhängeschild								| birch\_hanging\_sign									| %birch\_hg\_si%		 | %aby%				 |
-| Jungleholzhängeschild								| jungle\_hanging\_sign 								| %jungle\_hg\_si%	 | %abz% 				 |
-| Akazienholzhängeschild							| acacia\_hanging\_sign									| %acacia\_hg\_si%	 | %aca%				 |
-| Schwarzeichenholzhängeschild				| dark\_oak\_hanging\_sign							| %darkoak\_hg\_si%  | %acb%				 |
-| Karmesinholzhängeschild							| crimson\_hanging\_sign								| %crimson\_hg\_si%	 | %acf%				 |
-| Wirrholzhängeschild									| warped\_hanging\_sign									| %warped\_hg\_si%	 | %acg%				 |
-| Magrovenholzhängeschild							| mangrove\_hanging\_sign								| %mangrove\_hg\_si% | %acc%				 |
-| Kirschholzhängeschild								| cherry\_hanging\_sign									| %cherry\_hg\_si%	 | %acd%				 |
-| Bambushängeschild										| bamboo\_hanging\_sign									| %bamboo\_hg\_si%	 | %ace%				 |
-|                                     | **Bruchstein**                        |
-| Bruchstein                          | cobblestone                           | %cobble%           | 4             |
-| Bruchsteinstufe                     | cobblestone\_slab                     | %cobble\_sl%       | %c%           |
-| Bruchsteintreppe                    | cobblestone\_stairs                   | %cobble\_st%       | 67            |
-| Bruchsteinmauer                     | cobblestone\_wall                     | %cobble\_wl%       | 139           |
-| Bemooster Bruchstein                | mossy\_cobblestone                    | %m\_cobble%        | 48            |
-| Bemooste Bruchsteinstufe            | mossy\_cobblestone\_slab              | %m\_cobble\_sl%    | %cl%          |
-| Bemooste Bruchsteintreppe           | mossy\_cobblestone\_stairs            | %m\_cobble\_st%    | %cm%          |
-| Bemooste Bruchsteinmauer            | mossy\_cobblestone\_wall              | %m\_cobble\_wl%    | %m%           |
-|                                     | **Stein**                             |
-| Stein                               | stone                                 | %stone%            | 1             |
-| Steinstufe                          | stone\_slab                           | %stone\_sl%        | %cn%          |
-| Steintreppe                         | stone\_stairs                         | %stone\_st%        | %co%          |
-| Glatter Stein                       | smooth\_stone                         | %sm\_stone%        | %cp%          |
-| Glatte Steinstufe                   | smooth\_stone\_slab                   | %sm\_stone\_sl%    | %oh%          |
-|                                     | **Andesit, Diorit, Granit**           |
-| Andesit                             | andesite                              | %andest%           | 1:5           |
-| Andesitstufe                        | andesite\_slab                        | %andest\_sl%       | %cq%          |
-| Andesittreppe                       | andesite\_stairs                      | %andest\_st%       | %cr%          |
-| Andesitmauer                        | andesite\_wall                        | %andest\_wl%       | %cs%          |
-| Polierter Andesit                   | polished\_andesite                    | %p\_andest%        | 1:6           |
-| Polierte Andesitstufe               | polished\_andesite\_slab              | %p\_andest\_sl%    | %ct%          |
-| Polierte Andesittreppe              | polished\_andesite\_stairs            | %p\_andest\_st%    | %cu%          |
-| Diorit                              | diorite                               | %diorite%          | 1:3           |
-| Dioritstufe                         | diorite\_slab                         | %diorite\_sl%      | %cv%          |
-| Diorittreppe                        | diorite\_stairs                       | %diorite\_st%      | %cw%          |
-| Dioritmauer                         | diorite\_wall                         | %diorite\_wl%      | %cx%          |
-| Polierter Diorit                    | polished\_diorite                     | %p\_diorite%       | 1:4           |
-| Polierte Dioritstufe                | polished\_diorite\_slab               | %p\_diorite\_sl%   | %cy%          |
-| Polierte Diorittreppe               | polished\_diorite\_stairs             | %p\_diorite\_st%   | %cz%          |
-| Granit                              | granite                               | %granite%          | 1:1           |
-| Granitstufe                         | granite\_slab                         | %granite\_sl%      | %dg%          |
-| Granittreppe                        | granite\_stairs                       | %granite\_st%      | %dh%          |
-| Granitmauer                         | granite\_wall                         | %granite\_wl%      | %di%          |
-| Polierter Granit                    | polished\_granite                     | %p\_granite%       | 1:2           |
-| Polierte Granitstufe                | polished\_granite\_slab               | %p\_granite\_sl%   | %dj%          |
-| Polierte Granittreppe               | polished\_granite\_stairs             | %p\_granite\_st%   | %dk%          |
-|                                     | **1.17 Steinarten**                   |
-| Kalzit 															| calcite 															| %calcite% 				 | %of% 				 |
-| Tuffstein 													| tuff 																	| %tuff% 						 | %re% |
-| Tropfsteinblock 										| dripstone_block 											| %dripst_bl% 			 | %qr% |
-| Spitzer Tropfstein 									| pointed_dripstone 										| %point_dripst% 		 | %qs% |
-| Glatter Basalt 											| smooth_basalt 												| %sm_basalt% 			 | %rb% |
-|                                     | **Steinziegel**                       |
+| Eichenholzzaun                                    | oak\_fence                                | %oak\_fc%             | 85            |
+| Fichtenholzzaum                                   | spruce\_fence                             | %spruce\_fc%          | 188           |
+| Birkenholzzaun                                    | birch\_fence                              | %birch\_fc%           | 189           |
+| Tropenholzzaun                                    | jungle\_fence                             | %jungle\_fc%          | 190           |
+| Akazienholzzaun                                   | acacia\_fence                             | %acacia\_fc%          | 192           |
+| Schwarzeichenholzzaun                             | dark\_oak\_fence                          | %darkoak\_fc%         | 191           |
+| Karmesinzaun                                      | crimson\_fence                            | %crimson\_fc%         | %bt%          |
+| Wirrzaun                                          | warped\_fence                             | %warped\_fc%          | %bu%          |
+| Eisengitter                                       | iron\_bars                                | %ironbars%            | 101           |
+| Mangrovenholzzaun                                 | mangrove\_fence                           | %mangrove\_fc%        | %xr%			|
+| Kirschholzzaun								    | cherry\_fence								| %cherry\_fc%			| %abg% 		|
+| Bambuszaun										| bamboo\_fence								| %bamboo\_fc%			| %aas% 		|
+
+### Zauntore
+{.compact}
+| Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
+| Eichenholzzauntor                                 | oak\_fence\_gate                          | %oak\_fg%             | 107           |
+| Fichtenholzzauntor                                | spruce\_fence\_gate                       | %spruce\_fg%          | 183           |
+| Birkenholzzauntor                                 | birch\_fence\_gate                        | %birch\_fg%           | 184           |
+| Tropenholzzauntor                                 | jungle\_fence\_gate                       | %jungle\_fg%          | 185           |
+| Akazienholzzauntor                                | acacia\_fence\_gate                       | %acacia\_fg%          | 187           |
+| Schwarzeichenholzzauntor                          | dark\_oak\_fence\_gate                    | %darkoak\_fg%         | 186           |
+| Karmesinzauntor                                   | crimson\_fence\_gate                      | %crimson\_fg%         | %bv%          |
+| Wirrzauntor                                       | warped\_fence\_gate                       | %warped\_fg%          | %bw%          |
+| Mangrovenholzzauntor                              | mangrove\_fence\_gate                     | %mangrove\_fg%        | %xq%			|
+| Kirschholzzauntor								    | cherry\_fence\_gate						| %cherry\_fg%			| %abh% 		|
+| Bambuszauntor										| bamboo\_fence\_gate						| %bamboo\_fg%			| %aat% 		|
+
+### Laub
+{.compact}
+| Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
+| Eichenlaub                                        | oak\_leaves                               | %oak\_lv%             | 18            |
+| Fichtenlaub                                       | spruce\_leaves                            | %spruce\_lv%          | 18:1          |
+| Birkenlaub                                        | birch\_leaves                             | %birch\_lv%           | 18:2          |
+| Tropenbaumlaub                                    | jungle\_leaves                            | %jungle\_lv%          | 18:3          |
+| Akazienlaub                                       | acacia\_leaves                            | %acacia\_lv%          | 161           |
+| Schwarzeichenlaub                                 | dark\_oak\_leaves                         | %darkoak\_lv%         | %f%           |
+| Netherwarzenblock                                 | nether\_wart\_block                       | %netwart\_bl%         | 214           |
+| Wirrwarzenblock                                   | warped\_wart\_block                       | %warwart\_bl%         | %bx%          |
+| Azaleenlaub 										| azalea\_leaves 						    | %azalea\_lv% 	        | %ge% 			|
+| Blühendes Azaleenlaub 							| flowering\_azalea\_leaves 				| %fl\_azalea\_lv% 	    | %gf% 			|
+| Mangrovenlaub                                     | mangrove\_leaves                          | %mangrove\_lv%        | %xp%			|
+| Kirschlaub										| cherry\_leaves							| %cherry\_lv%			| %abp% 		|
+
+### Setzlinge
+{.compact}
+| Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
+| Eichensetzling                                    | oak\_sapling                              | %oak\_sp%             | 6             |
+| Fichtensetzling                                   | spruce\_sapling                           | %spruce\_sp%          | 6:1           |
+| Birkensetzling                                    | birch\_sapling                            | %birch\_sp%           | 6:2           |
+| Tropenbaumsetzling                                | jungle\_sapling                           | %jungle\_sp%          | 6:3           |
+| Akaziensetzling                                   | acacia\_sapling                           | %acacia\_sp%          | 6:4           |
+| Schwarzeichensetzling                             | dark\_oak\_sapling                        | %darkoak\_sp%         | 6:5           |
+| Mangroven-Keimling                                | mangrove\_propagule                       | %mangrove\_pp%        | %xv%			|
+| Kirschsetzling								    | cherry\_sapling							| %cherry\_sp%			| %abs% 		|
+
+### Schilder (Schrift)
+{.compact}
+| Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
+| Eichenholzschild                                  | oak\_sign                                 | %oak\_si%             | 323           |
+| Fichtenholzschild                                 | spruce\_sign                              | %spruce\_si%          | %by%          |
+| Birkenholzschild                                  | birch\_sign                               | %birch\_si%           | %bz%          |
+| Tropenholzschild                                  | jungle\_sign                              | %jungle\_si%          | %cg%          |
+| Akazienholzschild                                 | acacia\_sign                              | %acacia\_si%          | %ch%          |
+| Schwarzeichenholzschild                           | dark\_oak\_sign                           | %darkoak\_si%         | %ci%          |
+| Karmesinschild                                    | crimson\_sign                             | %crimson\_si%         | %cj%          |
+| Wirrschild                                        | warped\_sign                              | %warped\_si%          | %ck%          |
+| Mangrovenholzschild                               | mangrove\_sign                            | %mangrove\_si%        | %xm%			|
+| Kirschholzschild									| cherry\_sign								| %cherry\_si%			| %abj%			|
+| Bambusschild										| bamboo\_sign								| %bamboo\_si%			| %aav%			|
+
+### Hängeschilder
+{.compact}
+| Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
+| Eichenholzhängeschild								| oak\_hanging\_sign						| %oak\_hg\_si%			| %abw% 		|
+| Fichtenholzhängeschild							| spruce\_hanging_sign						| %spruce\_hg\_si%	    | %abx% 	    |
+| Birkenholzhängeschild								| birch\_hanging\_sign						| %birch\_hg\_si%		| %aby%		    |
+| Jungleholzhängeschild								| jungle\_hanging\_sign 					| %jungle\_hg\_si%	    | %abz% 		|
+| Akazienholzhängeschild							| acacia\_hanging\_sign						| %acacia\_hg\_si%	    | %aca%			|
+| Schwarzeichenholzhängeschild				        | dark\_oak\_hanging\_sign					| %darkoak\_hg\_si%     | %acb%			|
+| Karmesinholzhängeschild							| crimson\_hanging\_sign					| %crimson\_hg\_si%	    | %acf%			|
+| Wirrholzhängeschild								| warped\_hanging\_sign					    | %warped\_hg\_si%	    | %acg%			|
+| Magrovenholzhängeschild							| mangrove\_hanging\_sign					| %mangrove\_hg\_si%    | %acc%			|
+| Kirschholzhängeschild								| cherry\_hanging\_sign						| %cherry\_hg\_si%	    | %acd%			|
+| Bambushängeschild									| bamboo\_hanging\_sign						| %bamboo\_hg\_si%	    | %ace%			|
+
+### Bruchstein
+{.compact}
+| Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
+| Bruchstein                                        | cobblestone                               | %cobble%              | 4             |
+| Bruchsteinstufe                                   | cobblestone\_slab                         | %cobble\_sl%          | %c%           |
+| Bruchsteintreppe                                  | cobblestone\_stairs                       | %cobble\_st%          | 67            |
+| Bruchsteinmauer                                   | cobblestone\_wall                         | %cobble\_wl%          | 139           |
+| Bemooster Bruchstein                              | mossy\_cobblestone                        | %m\_cobble%           | 48            |
+| Bemooste Bruchsteinstufe                          | mossy\_cobblestone\_slab                  | %m\_cobble\_sl%       | %cl%          |
+| Bemooste Bruchsteintreppe                         | mossy\_cobblestone\_stairs                | %m\_cobble\_st%       | %cm%          |
+| Bemooste Bruchsteinmauer                          | mossy\_cobblestone\_wall                  | %m\_cobble\_wl%       | %m%           |
+
+### Stein
+{.compact}
+| Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
+| Stein                                             | stone                                     | %stone%               | 1             |
+| Steinstufe                                        | stone\_slab                               | %stone\_sl%           | %cn%          |
+| Steintreppe                                       | stone\_stairs                             | %stone\_st%           | %co%          |
+| Glatter Stein                                     | smooth\_stone                             | %sm\_stone%           | %cp%          |
+| Glatte Steinstufe                                 | smooth\_stone\_slab                       | %sm\_stone\_sl%       | %oh%          |
+
+### Andesit, Diorit, Granit
+{.compact}
+| Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
+| Andesit                                           | andesite                                  | %andest%              | 1:5           |
+| Andesitstufe                                      | andesite\_slab                            | %andest\_sl%          | %cq%          |
+| Andesittreppe                                     | andesite\_stairs                          | %andest\_st%          | %cr%          |
+| Andesitmauer                                      | andesite\_wall                            | %andest\_wl%          | %cs%          |
+| Polierter Andesit                                 | polished\_andesite                        | %p\_andest%           | 1:6           |
+| Polierte Andesitstufe                             | polished\_andesite\_slab                  | %p\_andest\_sl%       | %ct%          |
+| Polierte Andesittreppe                            | polished\_andesite\_stairs                | %p\_andest\_st%       | %cu%          |
+| Diorit                                            | diorite                                   | %diorite%             | 1:3           |
+| Dioritstufe                                       | diorite\_slab                             | %diorite\_sl%         | %cv%          |
+| Diorittreppe                                      | diorite\_stairs                           | %diorite\_st%         | %cw%          |
+| Dioritmauer                                       | diorite\_wall                             | %diorite\_wl%         | %cx%          |
+| Polierter Diorit                                  | polished\_diorite                         | %p\_diorite%          | 1:4           |
+| Polierte Dioritstufe                              | polished\_diorite\_slab                   | %p\_diorite\_sl%      | %cy%          |
+| Polierte Diorittreppe                             | polished\_diorite\_stairs                 | %p\_diorite\_st%      | %cz%          |
+| Granit                                            | granite                                   | %granite%             | 1:1           |
+| Granitstufe                                       | granite\_slab                             | %granite\_sl%         | %dg%          |
+| Granittreppe                                      | granite\_stairs                           | %granite\_st%         | %dh%          |
+| Granitmauer                                       | granite\_wall                             | %granite\_wl%         | %di%          |
+| Polierter Granit                                  | polished\_granite                         | %p\_granite%          | 1:2           |
+| Polierte Granitstufe                              | polished\_granite\_slab                   | %p\_granite\_sl%      | %dj%          |
+| Polierte Granittreppe                             | polished\_granite\_stairs                 | %p\_granite\_st%      | %dk%          |
+
+### Höhlensteine
+{.compact}
+| Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
+| Kalzit 											| calcite 									| %calcite% 			| %of% 			|
+| Tuffstein 										| tuff 										| %tuff% 				| %re%          |
+| Tropfsteinblock 								    | dripstone_block 							| %dripst_bl% 			| %qr%          |
+| Spitzer Tropfstein 								| pointed_dripstone 					    | %point_dripst% 		| %qs%          |
+| Glatter Basalt 									| smooth_basalt 							| %sm_basalt% 			| %rb%          |
+
+### Steinziegel
+{.compact}
+| Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
 | Steinziegel                         | stone\_bricks                         | %stbrick%          | 98            |
 | Steinziegelstufe                    | stone\_brick\_slab                    | %stbrick\_sl%      | %q%           |
 | Steinziegeltreppe                   | stone\_brick\_stairs                  | %stbrick\_st%      | 109           |
@@ -273,9 +303,12 @@ Um nach Kategorien zu suchen, kannst du die Suchfunktion der Seite oder das Inha
 | Bemooste Steinziegelmauer           | mossy\_stone\_brick\_wall             | %m\_stbrick\_wl%   | %do%          |
 | Rissige Steinziegel                 | cracked\_stone\_bricks                | %cr\_stbrick%      | 98:2          |
 | Gemeißelte Steinziegel              | chiseled\_stone\_bricks               | %ch\_stbrick%      | 98:3          |
-|                                     | **Tiefenschiefer**                    |
-| Tiefenschiefer 											| deepslate 														| %deepsl% 					 | %ph% 				 |
-| Polierter Tiefenschiefer 						| polished\_deepslate 									| %p\_deepsl% 			 | %pi% 				 |
+
+### Tiefenschiefer
+{.compact}
+| Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
+| Tiefenschiefer 					  | deepslate 														| %deepsl% 					 | %ph% 				 |
+| Polierter Tiefenschiefer 			   | polished\_deepslate 									| %p\_deepsl% 			 | %pi% 				 |
 | Polierte Tiefenschieferstufe 				| polished\_deepslate\_slab 						| %p\_deepsl\_sl% 	 | %pj% 				 |
 | Polierte Tiefenschiefertreppe 			| polished\_deepslate\_stairs 					| %p\_deepsl\_st% 	 | %pk% 				 |
 | Polierte Tiefenschiefermauer 				| polished\_deepslate\_wall 						| %p\_deepsl\_wl% 	 | %pl% 				 |
@@ -294,7 +327,10 @@ Um nach Kategorien zu suchen, kannst du die Suchfunktion der Seite oder das Inha
 | Bruchtiefenschieferstufe 						| cobbled\_deepslate\_slab 							| %co\_deepsl\_sl%	 | %uf% 				 |
 | Bruchtiefenschiefertreppe 					| cobbled\_deepslate\_stairs 						| %co\_deepsl\_st%	 | %ug% 				 |
 | Bruchtiefenschiefermauer 						| cobbled\_deepslate\_wall 							| %co\_deepsl\_wl%	 | %qg% 				 |
-|                                     | **Lehmziegel**                        |
+
+### Lemziegel
+{.compact}
+| Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
 | Ton                                 | clay                                  | %clay%             | 82            |
 | Tonklumpen                          | clay\_ball                            | %clay\_ball%       | 337           |
 | Ziegel                              | brick                                 | %brick\_in%        | 336           |
