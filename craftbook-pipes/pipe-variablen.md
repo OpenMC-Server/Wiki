@@ -10,7 +10,13 @@ icon: number
 Pipe-Variablen ermöglichen es dir, mit besonders kurzen Schreibweisen mehrere Items auf ein Pipe-Schild zu schreiben.
 
 
+## Liste der Variablen
+Nachfolgend findest du eine Auflistung aller Variablen auf OpenMC. Je nach Bedarf kannst du die verschiedenen Variablenlängen verwenden.
 
+!!! Nach Variablen suchen
+Wenn du nach einer spezifischen Variable suchst, kannst du statt der Suchfunktion der Seite auch die Suche deines Browsers (`STRG + F`) verwenden.\
+Um nach Kategorien zu suchen, kannst du die Suchfunktion der Seite oder das Inhaltsverzeichnis auf der rechten Seite nutzen.
+!!!
 
 ### Baumstämme
 {.compact}
