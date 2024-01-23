@@ -165,6 +165,7 @@ Um nach Kategorien zu suchen, kannst du die Suchfunktion der Seite oder das Inha
 ### Zauntore
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
+| ---                                               | ---                                       | ---                   | ---           |
 | Eichenholzzauntor                                 | oak\_fence\_gate                          | %oak\_fg%             | 107           |
 | Fichtenholzzauntor                                | spruce\_fence\_gate                       | %spruce\_fg%          | 183           |
 | Birkenholzzauntor                                 | birch\_fence\_gate                        | %birch\_fg%           | 184           |
@@ -180,6 +181,7 @@ Um nach Kategorien zu suchen, kannst du die Suchfunktion der Seite oder das Inha
 ### Laub
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
+| ---                                               | ---                                       | ---                   | ---           |
 | Eichenlaub                                        | oak\_leaves                               | %oak\_lv%             | 18            |
 | Fichtenlaub                                       | spruce\_leaves                            | %spruce\_lv%          | 18:1          |
 | Birkenlaub                                        | birch\_leaves                             | %birch\_lv%           | 18:2          |
@@ -196,6 +198,7 @@ Um nach Kategorien zu suchen, kannst du die Suchfunktion der Seite oder das Inha
 ### Setzlinge
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
+| ---                                               | ---                                       | ---                   | ---           |
 | Eichensetzling                                    | oak\_sapling                              | %oak\_sp%             | 6             |
 | Fichtensetzling                                   | spruce\_sapling                           | %spruce\_sp%          | 6:1           |
 | Birkensetzling                                    | birch\_sapling                            | %birch\_sp%           | 6:2           |
@@ -208,6 +211,7 @@ Um nach Kategorien zu suchen, kannst du die Suchfunktion der Seite oder das Inha
 ### Schilder (Schrift)
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
+| ---                                               | ---                                       | ---                   | ---           |
 | Eichenholzschild                                  | oak\_sign                                 | %oak\_si%             | 323           |
 | Fichtenholzschild                                 | spruce\_sign                              | %spruce\_si%          | %by%          |
 | Birkenholzschild                                  | birch\_sign                               | %birch\_si%           | %bz%          |
@@ -223,6 +227,7 @@ Um nach Kategorien zu suchen, kannst du die Suchfunktion der Seite oder das Inha
 ### Hängeschilder
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
+| ---                                               | ---                                       | ---                   | ---           |
 | Eichenholzhängeschild								| oak\_hanging\_sign						| %oak\_hg\_si%			| %abw% 		|
 | Fichtenholzhängeschild							| spruce\_hanging_sign						| %spruce\_hg\_si%	    | %abx% 	    |
 | Birkenholzhängeschild								| birch\_hanging\_sign						| %birch\_hg\_si%		| %aby%		    |
@@ -238,6 +243,7 @@ Um nach Kategorien zu suchen, kannst du die Suchfunktion der Seite oder das Inha
 ### Bruchstein
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
+| ---                                               | ---                                       | ---                   | ---           |
 | Bruchstein                                        | cobblestone                               | %cobble%              | 4             |
 | Bruchsteinstufe                                   | cobblestone\_slab                         | %cobble\_sl%          | %c%           |
 | Bruchsteintreppe                                  | cobblestone\_stairs                       | %cobble\_st%          | 67            |
@@ -250,6 +256,7 @@ Um nach Kategorien zu suchen, kannst du die Suchfunktion der Seite oder das Inha
 ### Stein
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
+| ---                                               | ---                                       | ---                   | ---           |
 | Stein                                             | stone                                     | %stone%               | 1             |
 | Steinstufe                                        | stone\_slab                               | %stone\_sl%           | %cn%          |
 | Steintreppe                                       | stone\_stairs                             | %stone\_st%           | %co%          |
@@ -259,6 +266,7 @@ Um nach Kategorien zu suchen, kannst du die Suchfunktion der Seite oder das Inha
 ### Andesit, Diorit, Granit
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
+| ---                                               | ---                                       | ---                   | ---           |
 | Andesit                                           | andesite                                  | %andest%              | 1:5           |
 | Andesitstufe                                      | andesite\_slab                            | %andest\_sl%          | %cq%          |
 | Andesittreppe                                     | andesite\_stairs                          | %andest\_st%          | %cr%          |
@@ -284,6 +292,7 @@ Um nach Kategorien zu suchen, kannst du die Suchfunktion der Seite oder das Inha
 ### Höhlensteine
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
+| ---                                               | ---                                       | ---                   | ---           |
 | Kalzit 											| calcite 									| %calcite% 			| %of% 			|
 | Tuffstein 										| tuff 										| %tuff% 				| %re%          |
 | Tropfsteinblock 								    | dripstone_block 							| %dripst_bl% 			| %qr%          |
@@ -293,6 +302,7 @@ Um nach Kategorien zu suchen, kannst du die Suchfunktion der Seite oder das Inha
 ### Steinziegel
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
+| ---                                               | ---                                       | ---                   | ---           |
 | Steinziegel                                       | stone\_bricks                             | %stbrick%             | 98            |
 | Steinziegelstufe                                  | stone\_brick\_slab                        | %stbrick\_sl%         | %q%           |
 | Steinziegeltreppe                                 | stone\_brick\_stairs                      | %stbrick\_st%         | 109           |
@@ -307,6 +317,7 @@ Um nach Kategorien zu suchen, kannst du die Suchfunktion der Seite oder das Inha
 ### Tiefenschiefer
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
+| ---                                               | ---                                       | ---                   | ---           |
 | Tiefenschiefer 					                | deepslate 								| %deepsl% 				| %ph% 			|
 | Polierter Tiefenschiefer 			                | polished\_deepslate 						| %p\_deepsl% 			| %pi% 			|
 | Polierte Tiefenschieferstufe 				        | polished\_deepslate\_slab 				| %p\_deepsl\_sl% 	    | %pj% 			|
@@ -331,6 +342,7 @@ Um nach Kategorien zu suchen, kannst du die Suchfunktion der Seite oder das Inha
 ### Lehmziegel
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
+| ---                                               | ---                                       | ---                   | ---           |
 | Ton                                 | clay                                  | %clay%             | 82            |
 | Tonklumpen                          | clay\_ball                            | %clay\_ball%       | 337           |
 | Ziegel                              | brick                                 | %brick\_in%        | 336           |
@@ -342,6 +354,7 @@ Um nach Kategorien zu suchen, kannst du die Suchfunktion der Seite oder das Inha
 ### Schlamm
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
+| ---                                               | ---                                       | ---                   | ---           |
 | Schlamm 														| mud                                   | %mud% 						 | %xg% 				 |
 | Fester Schlamm  										| packed\_mud                           | %p\_mud% 					 | %a7%					 |
 | Schlammziegel 											| mud\_bricks                           | %mudbr% 					 | %a8%					 |
@@ -352,6 +365,7 @@ Um nach Kategorien zu suchen, kannst du die Suchfunktion der Seite oder das Inha
 ### Sandstein
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
+| ---                                               | ---                                       | ---                   | ---           |
 | Sandstein                           | sandstone                             | %sandst%           | 24            |
 | Sandsteinstufe                      | sandstone\_slab                       | %sandst\_sl%       | 44:1          |
 | Sandsteintreppe                     | sandstone\_stairs                     | %sandst\_st%       | 128           |
@@ -376,6 +390,7 @@ Um nach Kategorien zu suchen, kannst du die Suchfunktion der Seite oder das Inha
 ### Netherboden
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
+| ---                                               | ---                                       | ---                   | ---           |
 | Netherrack                          | netherrack                            | %netrack%          | 87            |
 | Seelensand                          | soul\_sand                            | %soulsand%         | 88            |
 | Seelenerde                          | soul\_soil                            | %soulsoil%         | %eg%          |
@@ -388,6 +403,7 @@ Um nach Kategorien zu suchen, kannst du die Suchfunktion der Seite oder das Inha
 ### Schwarzstein
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
+| ---                                               | ---                                       | ---                   | ---           |
 | Schwarzstein                        | blackstone                            | %blkst%            | %el%          |
 | Schwarzsteinstufe                   | blackstone\_slab                      | %blkst\_sl%        | %em%          |
 | Schwarzsteintreppe                  | blackstone\_stairs                    | %blkst\_st%        | %en%          |
@@ -406,6 +422,7 @@ Um nach Kategorien zu suchen, kannst du die Suchfunktion der Seite oder das Inha
 ### Netherziegel
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
+| ---                                               | ---                                       | ---                   | ---           |
 | Netherziegel (Item)                 | nether\_brick                         | %nbrick\_in%       | 405           |
 | Netherziegel (Block)                | nether\_bricks                        | %nbrick%           | 112           |
 | Netherziegelstufe                   | nether\_brick\_slab                   | %nbrick\_sl%       | 44:6          |
@@ -422,6 +439,7 @@ Um nach Kategorien zu suchen, kannst du die Suchfunktion der Seite oder das Inha
 ### Quarzblöcke
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
+| ---                                               | ---                                       | ---                   | ---           |
 | Quarzblock                          | quartz\_block                         | %quartz%           | 155           |
 | Quarzstufe                          | quartz\_slab                          | %quartz\_sl%       | 44:7          |
 | Quarztreppe                         | quartz\_stairs                        | %quartz\_st%       | 156           |
@@ -435,6 +453,7 @@ Um nach Kategorien zu suchen, kannst du die Suchfunktion der Seite oder das Inha
 ### Endstein
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
+| ---                                               | ---                                       | ---                   | ---           |
 | Endstein                            | end\_stone                            | %endst%            | 121           |
 | Endsteinziegel                      | end\_stone\_bricks                    | %endst\_br%        | 206           |
 | Endsteinziegelstufe                 | end\_stone\_brick\_slab               | %endst\_br\_sl%    | %fp%          |
@@ -444,6 +463,7 @@ Um nach Kategorien zu suchen, kannst du die Suchfunktion der Seite oder das Inha
 ### Purpur
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
+| ---                                               | ---                                       | ---                   | ---           |
 | Purpurblock                         | purpur\_block                         | %purpur%           | 201           |
 | Purpurstufe                         | purpur\_slab                          | %purpur\_sl%       | 205           |
 | Purpurtreppe                        | purpur\_stairs                        | %purpur\_st%       | 203           |
@@ -452,6 +472,7 @@ Um nach Kategorien zu suchen, kannst du die Suchfunktion der Seite oder das Inha
 ### Prismarin
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
+| ---                                               | ---                                       | ---                   | ---           |
 | Prismarinscherbe                    | prismarine\_shard                     | %prism\_shard%     | 409           |
 | Prismarinkristalle                  | prismarine\_crystals                  | %prism\_cryst%     | 410           |
 | Prismarin                           | prismarine                            | %prism%            | 168           |
@@ -468,12 +489,14 @@ Um nach Kategorien zu suchen, kannst du die Suchfunktion der Seite oder das Inha
 ### Obsidian
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
+| ---                                               | ---                                       | ---                   | ---           |
 | Obsidian                            | obsidian                              | %obsidian%         | 49            |
 | Weinender Obsidian                  | crying\_obsidian                      | %cry\_obsidian%    | %fz%          |
 
 ### Sculk
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
+| ---                                               | ---                                       | ---                   | ---           |
 | Sculk                               | sculk                   							| %sculk% 					 | %ix%					 |
 | Sculk-Ader 													| sculk\_vein                           | %sculkvein% 			 | %a9%					 |
 | Sculk-Katalysator 									| sculk\_catalyst                       | %sculk\_calst% 		 | %e8%					 |
@@ -482,6 +505,7 @@ Um nach Kategorien zu suchen, kannst du die Suchfunktion der Seite oder das Inha
 ### Erze
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
+| ---                                               | ---                                       | ---                   | ---           |
 | Steinkohle                          | coal\_ore                             | %coal\_ore%        | 16            |
 | Eisenerz                            | iron\_ore                             | %iron\_ore%        | 15            |
 | Kupfererz 													| copper\_ore 													| %copper\_ore% 		 | %ob% 				 |
@@ -506,6 +530,7 @@ Um nach Kategorien zu suchen, kannst du die Suchfunktion der Seite oder das Inha
 ### Mineralien
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
+| ---                                               | ---                                       | ---                   | ---           |
 | Kohle                               | coal                                  | %coal\_in%         | 263           |
 | Holzkohle                           | charcoal                              | %charcoal%         | %o%           |
 | Eisenklumpen                        | iron\_nugget                          | %iron\_ng%         | 452           |
@@ -527,6 +552,7 @@ Um nach Kategorien zu suchen, kannst du die Suchfunktion der Seite oder das Inha
 ### Mineralblöcke
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
+| ---                                               | ---                                       | ---                   | ---           |
 | Kohleblock                          | coal\_block                           | %coal%             | 173           |
 | Eisenblock                          | iron\_block                           | %iron%             | 42            |
 | Kupferblock 												| copper\_block 												| %copper% 					 | %ha% 				 |
@@ -543,6 +569,7 @@ Um nach Kategorien zu suchen, kannst du die Suchfunktion der Seite oder das Inha
 ### Amethyst
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
+| ---                                               | ---                                       | ---                   | ---           |
 | Amethystblock 											| amethyst_block 												| %amethyst_bl% 		 | %fd% 				 |
 | Kleine Amethystknospe 							| small_amethyst_bud 										| %small_am_bud% 		 | %fe% 				 |
 | Mittlere Amethystknospe 						| medium_amethyst_bud 									| %med_am_bud% 			 | %ff% 				 |
@@ -553,6 +580,7 @@ Um nach Kategorien zu suchen, kannst du die Suchfunktion der Seite oder das Inha
 ### Kupferblöcke
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
+| ---                                               | ---                                       | ---                   | ---           |
 | Angelaufener Kupferblock 						| exposed_copper 												| %e_cpr% 					 | %hb% 				 |
 | Verwitterter Kupferblock 						| weathered_copper 											| %w_cpr% 					 | %hc% 				 |
 | Oxidierter Kupferblock 							| oxidized_copper 											| %o_cpr% 					 | %hd% 				 |
@@ -572,6 +600,7 @@ Um nach Kategorien zu suchen, kannst du die Suchfunktion der Seite oder das Inha
 ### Kupferblockerzeugnisse
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
+| ---                                               | ---                                       | ---                   | ---           |
 | Geschnittene Kupferstufe 						| cut_copper_slab 											| %c_cpr_sl% 				 | %jc% 				 |
 | Angelaufene geschnittene Kupferstufe| exposed_cut_copper_slab 							| %e_c_cpr_sl% 			 | %jd% 				 |
 | Verwitterte geschnittene Kupferstufe| weathered_cut_copper_slab 						| %w_c_cpr_sl% 			 | %je% 				 |
@@ -592,6 +621,7 @@ Um nach Kategorien zu suchen, kannst du die Suchfunktion der Seite oder das Inha
 ### Fruchtbarer Boden
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
+| ---                                               | ---                                       | ---                   | ---           |
 | Erde                                | dirt                                  | %dirt%             | 3             |
 | Grobe Erde                          | coarse\_dirt                          | %coarsedirt%       | 3:1           |
 | Grasblock                           | grass\_block                          | %grass%            | 2             |
@@ -604,6 +634,7 @@ Um nach Kategorien zu suchen, kannst du die Suchfunktion der Seite oder das Inha
 ### Sand und Kies
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
+| ---                                               | ---                                       | ---                   | ---           |
 | Kies                                | gravel                                | %gravel%           | 13            |
 | Seltsamer Kies											| suspicious_gravel											| %sus_gravel%			 | %ack% 				 |
 | Feuerstein                          | flint                                 | %flint%            | 318           |
@@ -614,6 +645,7 @@ Um nach Kategorien zu suchen, kannst du die Suchfunktion der Seite oder das Inha
 ### Schnee und Eis
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
+| ---                                               | ---                                       | ---                   | ---           |
 | Schneeball                          | snowball                              | %snow\_ball%       | 332           |
 | Schnee                              | snow                                  | %snow\_cover%      | 78            |
 | Schneeblock                         | snow\_block                           | %snow%             | 80            |
@@ -624,6 +656,7 @@ Um nach Kategorien zu suchen, kannst du die Suchfunktion der Seite oder das Inha
 ### Glas
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
+| ---                                               | ---                                       | ---                   | ---           |
 | Glas                                | glass                                 | %glass%            | 20            |
 | Weißes Glas                         | white\_stained\_glass                 | %glass\_whi%       | 95            |
 | Hellgraues Glas                     | light\_gray\_stained\_glass           | %glass\_lgr%       | 95:8          |
@@ -646,6 +679,7 @@ Um nach Kategorien zu suchen, kannst du die Suchfunktion der Seite oder das Inha
 ### Glasscheiben
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
+| ---                                               | ---                                       | ---                   | ---           |
 | Glasscheibe                         | glass\_pane                           | %glasspane%        | 102           |
 | Weiße Glasscheibe                   | white\_stained\_glass\_pane           | %glasspane\_whi%   | 160           |
 | Hellgraue Glasscheibe               | light\_gray\_stained\_glass\_pane     | %glasspane\_lgr%   | %p8%          |
@@ -667,6 +701,7 @@ Um nach Kategorien zu suchen, kannst du die Suchfunktion der Seite oder das Inha
 ### Wolle
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
+| ---                                               | ---                                       | ---                   | ---           |
 | Weiße Wolle                         | white\_wool                           | %wool\_whi%        | 35            |
 | Hellgraue Wolle                     | light\_gray\_wool                     | %wool\_lgr%        | 35:8          |
 | Graue Wolle                         | gray\_wool                            | %wool\_gry%        | 35:7          |
@@ -687,6 +722,7 @@ Um nach Kategorien zu suchen, kannst du die Suchfunktion der Seite oder das Inha
 ### Teppich
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
+| ---                                               | ---                                       | ---                   | ---           |
 | Weißer Teppich                      | white\_carpet                         | %carpet\_whi%      | 171           |
 | Hellgrauer Teppich                  | light\_gray\_carpet                   | %carpet\_lgr%      | %c8%          |
 | Grauer Teppich                      | gray\_carpet                          | %carpet\_gry%      | %c7%          |
@@ -707,6 +743,7 @@ Um nach Kategorien zu suchen, kannst du die Suchfunktion der Seite oder das Inha
 ### Keramik
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
+| ---                                               | ---                                       | ---                   | ---           |
 | Keramik                             | terracotta                            | %terrac%           | 172           |
 | Weiße Keramik                       | white\_terracotta                     | %terrac\_whi%      | 159           |
 | Hellgraue Keramik                   | light\_gray\_terracotta               | %terrac\_lgr%      | %t8%          |
@@ -728,6 +765,7 @@ Um nach Kategorien zu suchen, kannst du die Suchfunktion der Seite oder das Inha
 ### Glasierte Keramik
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
+| ---                                               | ---                                       | ---                   | ---           |
 | Weiße glasierte Keramik             | white\_glazed\_terracotta             | %gl\_terrac\_whi%  | 235           |
 | Hellgraue glasierte Keramik         | light\_gray\_glazed\_terracotta       | %gl\_terrac\_lgr%  | 243           |
 | Graue glasierte Keramik             | gray\_glazed\_terracotta              | %gl\_terrac\_gry%  | 242           |
@@ -748,6 +786,7 @@ Um nach Kategorien zu suchen, kannst du die Suchfunktion der Seite oder das Inha
 ### Trockenbeton
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
+| ---                                               | ---                                       | ---                   | ---           |
 | Weißer Trockenbeton                 | white\_concrete\_powder               | %concrpow\_whi%    | 252           |
 | Hellgrauer Trockenbeton             | light\_gray\_concrete\_powder         | %concrpow\_lgr%    | %q8%          |
 | Grauer Trockenbeton                 | gray\_concrete\_powder                | %concrpow\_gry%    | %q7%          |
@@ -768,6 +807,7 @@ Um nach Kategorien zu suchen, kannst du die Suchfunktion der Seite oder das Inha
 ### Beton
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
+| ---                                               | ---                                       | ---                   | ---           |
 | Weißer Beton                        | white\_concrete                       | %concr\_whi%       | 251           |
 | Hellgrauer Beton                    | light\_gray\_concrete                 | %concr\_lgr%       | %b8%          |
 | Grauer Beton                        | gray\_concrete                        | %concr\_gry%       | %b7%          |
@@ -788,6 +828,7 @@ Um nach Kategorien zu suchen, kannst du die Suchfunktion der Seite oder das Inha
 ### Türen
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
+| ---                                               | ---                                       | ---                   | ---           |
 | Eichenholztür                       | oak\_door                             | %oak\_door%        | 324           |
 | Fichtenholztür                      | spruce\_door                          | %spruce\_door%     | 427           |
 | Birkenholztür                       | birch\_door                           | %birch\_door%      | 428           |
@@ -804,6 +845,7 @@ Um nach Kategorien zu suchen, kannst du die Suchfunktion der Seite oder das Inha
 ### Falltüren
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
+| ---                                               | ---                                       | ---                   | ---           |
 | Eichenholzfalltür                   | oak\_trapdoor                         | %oak\_trap%        | 96            |
 | Fichtenholzfalltür                  | spruce\_trapdoor                      | %spruce\_trap%     | %gp%          |
 | Birkenholzfalltür                   | birch\_trapdoor                       | %birch\_trap%      | %gq%          |
@@ -820,6 +862,7 @@ Um nach Kategorien zu suchen, kannst du die Suchfunktion der Seite oder das Inha
 ### Knöpfe
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
+| ---                                               | ---                                       | ---                   | ---           |
 | Eichenholzknopf                     | oak\_button                           | %oak\_btn%         | 143           |
 | Fichtenholzknopf                    | spruce\_button                        | %spruce\_btn%      | %gw%          |
 | Birkenholzknopf                     | birch\_button                         | %birch\_btn%       | %gx%          |
@@ -837,6 +880,7 @@ Um nach Kategorien zu suchen, kannst du die Suchfunktion der Seite oder das Inha
 ### Druckplatten
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
+| ---                                               | ---                                       | ---                   | ---           |
 | Eichenholzdruckplatte               | oak\_pressure\_plate                  | %oak\_prpl%        | 72            |
 | Fichtenholzdruckplatte              | spruce\_pressure\_plate               | %spruce\_prpl%     | %hk%          |
 | Birkenholzdruckplatte               | birch\_pressure\_plate                | %birch\_prpl%      | %hl%          |
@@ -856,6 +900,7 @@ Um nach Kategorien zu suchen, kannst du die Suchfunktion der Seite oder das Inha
 ### Boote und Minecarts
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
+| ---                                               | ---                                       | ---                   | ---           |
 | Eichenholzboot                      | oak\_boat                             | %oak\_boat%        | 333           |
 | Fichtenholzboot                     | spruce\_boat                          | %spruce\_boat%     | 444           |
 | Birkenholzboot                      | birch\_boat                           | %birch\_boat%      | 445           |
@@ -883,6 +928,7 @@ Um nach Kategorien zu suchen, kannst du die Suchfunktion der Seite oder das Inha
 ### Shulkerkisten
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
+| ---                                               | ---                                       | ---                   | ---           |
 | Shulkerkiste                        | shulker\_box                          | %shulkbox%         | %hs%          |
 | Weiße Shulkerkiste                  | white\_shulker\_box                   | %shulkbox\_whi%    | 219           |
 | Hellgraue Shulkerkiste              | light\_gray\_shulker\_box             | %shulkbox\_lgr%    | 227           |
@@ -904,6 +950,7 @@ Um nach Kategorien zu suchen, kannst du die Suchfunktion der Seite oder das Inha
 ### Andere Funktionsblöcke
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
+| ---                                               | ---                                       | ---                   | ---           |
 | Werkbank                            | crafting\_table                       | %crafttable%       | 58            |
 | Leiter                              | ladder                                | %ladder%           | 65            |
 | Truhe                               | chest                                 | %chest%            | 54            |
@@ -938,11 +985,13 @@ Um nach Kategorien zu suchen, kannst du die Suchfunktion der Seite oder das Inha
 ### TNT
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
+| ---                                               | ---                                       | ---                   | ---           |
 | TNT                                 | tnt                                   | %tnt%              | 46            |
 
 ### Bücher
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
+| ---                                               | ---                                       | ---                   | ---           |
 | Papier                              | paper                                 | %paper%            | 339           |
 | Buch                                | book                                  | %book%             | 340           |
 | Verzaubertes Buch                   | enchanted\_book                       | %enchbook%         | 403           |
@@ -954,6 +1003,7 @@ Um nach Kategorien zu suchen, kannst du die Suchfunktion der Seite oder das Inha
 ### Schienen
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
+| ---                                               | ---                                       | ---                   | ---           |
 | Schiene                             | rail                                  | %rail%             | 66            |
 | Antriebsschiene                     | powered\_rail                         | %power\_rail%      | 27            |
 | Sensorschiene                       | detector\_rail                        | %detect\_rail%     | 28            |
@@ -962,6 +1012,7 @@ Um nach Kategorien zu suchen, kannst du die Suchfunktion der Seite oder das Inha
 ### Redstone
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
+| ---                                               | ---                                       | ---                   | ---           |
 | Redstonefackel                      | redstone\_torch                       | %redsttorch%       | 76            |
 | Hebel                               | lever                                 | %lever%            | 69            |
 | Redstone-Verstärker                 | repeater                              | %repeater%         | 356           |
@@ -980,6 +1031,7 @@ Um nach Kategorien zu suchen, kannst du die Suchfunktion der Seite oder das Inha
 ### Beleuchtung
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
+| ---                                               | ---                                       | ---                   | ---           |
 | Fackel                              | torch                                 | %torch%            | 50            |
 | Seelenfackel                        | soul\_torch                           | %soul\_torch%      | %iq%          |
 | Laterne                             | lantern                               | %lantern%          | %ir%          |
@@ -997,6 +1049,7 @@ Um nach Kategorien zu suchen, kannst du die Suchfunktion der Seite oder das Inha
 ### Gras und Vergleichbares
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
+| ---                                               | ---                                       | ---                   | ---           |
 | Gras                                | grass                                 | %grassplant%       | 31:1          |
 | Hohes Gras                          | tall\_grass                           | %t\_grassplant%    | %iu%          |
 | Farn                                | fern                                  | %fern%             | 31:2          |
@@ -1015,6 +1068,7 @@ Um nach Kategorien zu suchen, kannst du die Suchfunktion der Seite oder das Inha
 ### Blumen
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
+| ---                                               | ---                                       | ---                   | ---           |
 | Löwenzahn                           | dandelion                             | %dandelion%        | 37            |
 | Mohn                                | poppy                                 | %poppy%            | 38            |
 | Blaue Orchidee                      | blue\_orchid                          | %blueorchid%       | 38:1          |
@@ -1036,6 +1090,7 @@ Um nach Kategorien zu suchen, kannst du die Suchfunktion der Seite oder das Inha
 ### Bienen
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
+| ---                                               | ---                                       | ---                   | ---           |
 | Bienennest                          | bee\_nest                             | %beenest%          | %jo%          |
 | Bienenstock                         | beehive                               | %beehive%          | %jp%          |
 | Honigblock                          | honey\_block                          | %honey\_bl%        | %jq%          |
@@ -1045,6 +1100,7 @@ Um nach Kategorien zu suchen, kannst du die Suchfunktion der Seite oder das Inha
 ### Essbare Pflanzen
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
+| ---                                               | ---                                       | ---                   | ---           |
 | Apfel                               | apple                                 | %apple%            | 260           |
 | Goldener Apfel                      | golden\_apple                         | %gold\_apple%      | 322           |
 | Goldener Apfel (verzaubert)         | enchanted\_golden\_apple              | %notch\_apple%     | %n%           |
@@ -1088,6 +1144,7 @@ Um nach Kategorien zu suchen, kannst du die Suchfunktion der Seite oder das Inha
 ### Fleisch und Kuchen
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
+| ---                                               | ---                                       | ---                   | ---           |
 | Rohes Rindfleisch                   | beef                                  | %beef%             | 363           |
 | Gebratenes Rindfleisch              | cooked\_beef                          | %ck\_beef%         | 364           |
 | Rohes Hühnchen                      | chicken                               | %chicken%          | 365           |
@@ -1110,6 +1167,7 @@ Um nach Kategorien zu suchen, kannst du die Suchfunktion der Seite oder das Inha
 ### Nicht essbare Pflanzen
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
+| ---                                               | ---                                       | ---                   | ---           |
 | Zuckerrohr                          | sugar\_cane                           | %sugarcane%        | 338           |
 | Zucker                              | sugar                                 | %sugar%            | 353           |
 | Bambus                              | bamboo                                | %bamboo%           | %jx%          |
@@ -1137,6 +1195,7 @@ Um nach Kategorien zu suchen, kannst du die Suchfunktion der Seite oder das Inha
 ### Korallen
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
+| ---                                               | ---                                       | ---                   | ---           |
 | Hirnkoralle                         | brain\_coral                          | %br\_coral%        | %kl%          |
 | Hirnkorallenfächer                  | brain\_coral\_fan                     | %br\_coral\_fn%    | %km%          |
 | Hirnkorallenblock                   | brain\_coral\_block                   | %br\_coral\_bl%    | %kn%          |
@@ -1171,6 +1230,7 @@ Um nach Kategorien zu suchen, kannst du die Suchfunktion der Seite oder das Inha
 ### Mobdrops
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
+| ---                                               | ---                                       | ---                   | ---           |
 | Feder                               | feather                               | %feather%          | 288           |
 | Leder                               | leather                               | %leather%          | 334           |
 | Kaninchenfell                       | rabbit\_hide                          | %rabbithide%       | 415           |
@@ -1214,6 +1274,7 @@ Um nach Kategorien zu suchen, kannst du die Suchfunktion der Seite oder das Inha
 ### Farbstoffe
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
+| ---                                               | ---                                       | ---                   | ---           |
 | Weißer Farbstoff                    | white\_dye                            | %dye\_whi%         | %y0%          |
 | Hellgrauer Farbstoff                | light\_gray\_dye                      | %dye\_lgr%         | %y8%          |
 | Grauer Farbstoff                    | gray\_dye                             | %dye\_gry%         | %y7%          |
@@ -1234,6 +1295,7 @@ Um nach Kategorien zu suchen, kannst du die Suchfunktion der Seite oder das Inha
 ### Banner
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
+| ---                                               | ---                                       | ---                   | ---           |
 | Weißes Banner                       | white\_banner                         | %banner\_whi%      | %n0%          |
 | Hellgraues Banner                   | light\_gray\_banner                   | %banner\_lgr%      | %n8%          |
 | Graues Banner                       | gray\_banner                          | %banner\_gry%      | %n7%          |
@@ -1260,6 +1322,7 @@ Um nach Kategorien zu suchen, kannst du die Suchfunktion der Seite oder das Inha
 ### Betten
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
+| ---                                               | ---                                       | ---                   | ---           |
 | Weißes Bett                         | white\_bed                            | %bed\_whi%         | 355           |
 | Hellgraues Bett                     | light\_gray\_bed                      | %bed\_lgr%         | %d8%          |
 | Graues Bett                         | gray\_bed                             | %bed\_gry%         | %d7%          |
@@ -1280,6 +1343,7 @@ Um nach Kategorien zu suchen, kannst du die Suchfunktion der Seite oder das Inha
 ### Kerzen
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
+| ---                                               | ---                                       | ---                   | ---           |
 | Kerze 															| candle 																| %candle% 		 			 | %oi% 				 |
 | Weiße Kerze 												| white_candle 													| %candle_whi% 			 | %oj% 				 |
 | Hellgraue Kerze 										| light_gray_candle 										| %candle_lgr% 			 | %os% 				 |
@@ -1301,6 +1365,7 @@ Um nach Kategorien zu suchen, kannst du die Suchfunktion der Seite oder das Inha
 ### Köpfe
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
+| ---                                               | ---                                       | ---                   | ---           |
 | Spielerkopf                         | player\_head                          | %head\_player%     | 397:3         |
 | Zombiekopf                          | zombie\_head                          | %head\_zombie%     | 397:2         |
 | Skelettschädel                      | skeleton\_skull                       | %head\_skel%       | 397           |
@@ -1311,6 +1376,7 @@ Um nach Kategorien zu suchen, kannst du die Suchfunktion der Seite oder das Inha
 ### Sonstige Dekoration
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
+| ---                                               | ---                                       | ---                   | ---           |
 | Rüstungsständer                     | armor\_stand                          | %armorstand%       | 416           |
 | Gerüst                              | scaffolding                           | %scaffolding%      | %mo%          |
 | Schwamm                             | sponge                                | %sponge%           | 19            |
@@ -1331,6 +1397,7 @@ Um nach Kategorien zu suchen, kannst du die Suchfunktion der Seite oder das Inha
 ### Behälter
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
+| ---                                               | ---                                       | ---                   | ---           |
 | Schüssel                            | bowl                                  | %bowl%             | 281           |
 | Pilzsuppe                           | mushroom\_stew                        | %shroom\_stew%     | 282           |
 | Kaninchenragout                     | rabbit\_stew                          | %rabbit\_stew%     | 413           |
@@ -1361,6 +1428,7 @@ Um nach Kategorien zu suchen, kannst du die Suchfunktion der Seite oder das Inha
 ### Orientierungshilfen
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
+| ---                                               | ---                                       | ---                   | ---           |
 | Uhr                                   | clock                                 | %clock%            | 347           |
 | Kompass                               | compass                               | %compass%          | 345           |
 | Leere Karte                           | map                                   | %map%              | 395           |
@@ -1371,6 +1439,7 @@ Um nach Kategorien zu suchen, kannst du die Suchfunktion der Seite oder das Inha
 ### Waffen
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
+| ---                                               | ---                                       | ---                   | ---           |
 | Holzschwert                         | wooden\_sword                         | %wd\_sword%        | 268           |
 | Steinschwert                        | stone\_sword                          | %st\_sword%        | 272           |
 | Eisenschwert                        | iron\_sword                           | %ir\_sword%        | 267           |
@@ -1388,6 +1457,7 @@ Um nach Kategorien zu suchen, kannst du die Suchfunktion der Seite oder das Inha
 ### Spitzhacken
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
+| ---                                               | ---                                       | ---                   | ---           |
 | Holzspitzhacke                      | wooden\_pickaxe                       | %wd\_pickaxe%      | 270           |
 | Steinspitzhacke                     | stone\_pickaxe                        | %st\_pickaxe%      | 274           |
 | Eisenspitzhacke                     | iron\_pickaxe                         | %ir\_pickaxe%      | 257           |
@@ -1398,6 +1468,7 @@ Um nach Kategorien zu suchen, kannst du die Suchfunktion der Seite oder das Inha
 ### Schaufeln
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
+| ---                                               | ---                                       | ---                   | ---           |
 | Holzschaufel                        | wooden\_shovel                        | %wd\_shovel%       | 269           |
 | Steinschaufel                       | stone\_shovel                         | %st\_shovel%       | 273           |
 | Eisenschaufel                       | iron\_shovel                          | %ir\_shovel%       | 256           |
@@ -1408,6 +1479,7 @@ Um nach Kategorien zu suchen, kannst du die Suchfunktion der Seite oder das Inha
 ### Äxte
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
+| ---                                               | ---                                       | ---                   | ---           |
 | Holzaxt                             | wooden\_axe                           | %wd\_axe%          | 271           |
 | Steinaxt                            | stone\_axe                            | %st\_axe%          | 275           |
 | Eisenaxt                            | iron\_axe                             | %ir\_axe%          | 258           |
@@ -1418,6 +1490,7 @@ Um nach Kategorien zu suchen, kannst du die Suchfunktion der Seite oder das Inha
 ### Hacken
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
+| ---                                               | ---                                       | ---                   | ---           |
 | Holzhacke                           | wooden\_hoe                           | %wd\_hoe%          | 290           |
 | Steinhacke                          | stone\_hoe                            | %st\_hoe%          | 291           |
 | Eisenhacke                          | iron\_hoe                             | %ir\_hoe%          | 292           |
@@ -1428,6 +1501,7 @@ Um nach Kategorien zu suchen, kannst du die Suchfunktion der Seite oder das Inha
 ### Rüstung
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
+| ---                                               | ---                                       | ---                   | ---           |
 | Lederkappe                          | leather\_helmet                       | %lt\_helmet%       | 298           |
 | Lederjacke                          | leather\_chestplate                   | %lt\_chestplate%   | 299           |
 | Lederhose                           | leather\_leggings                     | %lt\_leggings%     | 300           |
@@ -1462,6 +1536,7 @@ Um nach Kategorien zu suchen, kannst du die Suchfunktion der Seite oder das Inha
 ### Schallplatten
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
+| ---                                               | ---                                       | ---                   | ---           |
 | Schallplatte 11                     | music\_disc\_11                       | %disc\_11%         | 2266          |
 | Schallplatte 13                     | music\_disc\_13                       | %disc\_13          | 2256          |
 | Schallplatte Blocks                 | music\_disc\_blocks                   | %disc\_blocks%     | 2258          |
@@ -1483,6 +1558,7 @@ Um nach Kategorien zu suchen, kannst du die Suchfunktion der Seite oder das Inha
 ### Töpferscherben
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
+| ---                                               | ---                                       | ---                   | ---           |
 | Angler-Töpferscherbe								| angler_pottery_sherd									| %angler_pshd%			 | %acq%				 | 
 | Bergarbeiter-Töpferscherbe					| miner_pottery_sherd										| %miner_pshd%			 | %acr%				 | 
 | Brauer-Töpferscherbe								| brewer_pottery_sherd									| %brewer_pshd%			 | %acs%				 | 
@@ -1507,6 +1583,7 @@ Um nach Kategorien zu suchen, kannst du die Suchfunktion der Seite oder das Inha
 ### Schmiedevorlagen
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
+| ---                                               | ---                                       | ---                   | ---           |
 | Schmiedevorlage Netheritaufwertung	| netherite_upgrade_smithing_template		| %neth_upg_stmp%		 | %adk%
 | Schmiedevorlage Wachen							| sentry_armor_trim_smithing_template		| %sentry_t_stmp%		 | %adl%
 | Schmiedevorlage Plagegeist					| vex_armor_trim_smithing_template			| %vex_t_stmp%			 | %adm%
@@ -1528,4 +1605,5 @@ Um nach Kategorien zu suchen, kannst du die Suchfunktion der Seite oder das Inha
 ### Bedrock
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
+| ---                                               | ---                                       | ---                   | ---           |
 | Grundgestein                        | bedrock                               | %bedrock%          | 7             |
