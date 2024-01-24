@@ -24,7 +24,7 @@ Um nach Kategorien zu suchen, kannst du die Suchfunktion der Seite oder das Inha
 
 ### Holz, Laub, Setzlinge
 #### Stämme + Holz (gemischte Holztypen)
-[!badge %za%] **Alle Holzstämme**\
+[!badge variant="secondary" text="%za%"] **Alle Holzstämme**\
 *oak_log,spruce_log, birch_log, jungle_log, acacia_log, dark_oak_log, crimson_stem, warped_stem, mangrove_log, cherry_log*
 
 [!badge %wx%] **Alle Hölzer**\
