@@ -142,10 +142,10 @@ Um nach Kategorien zu suchen, kannst du die Suchfunktion der Seite oder das Inha
 [!badge variant="secondary" text="**%zd%**"] **Alle Setzlinge**\
 *oak_sapling, spruce_sapling, birch_sapling, jungle_sapling, acacia_sapling, dark_oak_sapling, mangrove_propagule, cherry_sapling*
 
-[!badge variant="secondary" text="**%ze%**"] **Alle Blätter**\
+[!badge variant="secondary" text="**%ze%**"] **Alle Blätter (ohne 1.17+)**\
 *oak_leaves, dark_oak_leaves, spruce_leaves, birch_leaves, jungle_leaves, acacia_leaves, mangrove_leaves, cherry_leaves*
 
-[!badge variant="secondary" text="**%rr%**"] **Alle Blätter (1.17+)**\
+[!badge variant="secondary" text="**%rr%**"] **Alle Blätter (inkl. 1.17+)**\
 *oak_leaves, dark_oak_leaves, spruce_leaves, birch_leaves, jungle_leaves, acacia_leaves, azalea_leaves, flowering_azalea_leaves*
 
 [!badge variant="secondary" text="**%ts%**"] **Alle Holzstufen**\
@@ -190,3 +190,77 @@ Um nach Kategorien zu suchen, kannst du die Suchfunktion der Seite oder das Inha
 
 [!badge variant="secondary" text="**%vs%**"] **Alle Boote**\
 *oak_boat, spruce_boat, birch_boat, jungle_boat, acacia_boat, dark_oak_boat, cherry_boat, bamboo_raft*
+
+### Bunte Blöcke
+[!badge variant="secondary" text="**%zp%**"] **Alle Gläser (ohne 1.17+)**\
+*glass, black_stained_glass, red_stained_glass, green_stained_glass, brown_stained_glass, blue_stained_glass, purple_stained_glass, cyan_stained_glass, light_gray_stained_glass, gray_stained_glass, pink_stained_glass, lime_stained_glass, yellow_stained_glass, light_blue_stained_glass, magenta_stained_glass, orange_stained_glass, white_stained_glass*
+
+[!badge variant="secondary" text="**%sp%**"] **Alle Gläser (inkl. 1.17+)**\
+*glass, black_stained_glass, red_stained_glass, green_stained_glass, brown_stained_glass, blue_stained_glass, purple_stained_glass, cyan_stained_glass, light_gray_stained_glass, gray_stained_glass, pink_stained_glass, lime_stained_glass, yellow_stained_glass, light_blue_stained_glass, magenta_stained_glass, orange_stained_glass, white_stained_glass, tinted_glass*
+
+[!badge variant="secondary" text="**%zq%**"] **Alle Glasscheiben**\
+*white_stained_glass_pane, orange_stained_glass_pane, magenta_stained_glass_pane, light_blue_stained_glass_pane, yellow_stained_glass_pane, lime_stained_glass_pane, pink_stained_glass_pane, gray_stained_glass_pane, light_gray_stained_glass_pane, cyan_stained_glass_pane, purple_stained_glass_pane, blue_stained_glass_pane, brown_stained_glass_pane, green_stained_glass_pane, red_stained_glass_pane, black_stained_glass_pane, glass_pane*
+
+[!badge variant="secondary" text="**%zr%**"] **Alle Keramiken**\
+*terracotta, black_terracotta, blue_terracotta, brown_terracotta, cyan_terracotta, gray_terracotta, green_terracotta, light_blue_terracotta, light_gray_terracotta, lime_terracotta, magenta_terracotta, orange_terracotta, pink_terracotta, purple_terracotta, red_terracotta, white_terracotta, yellow_terracotta*
+
+[!badge variant="secondary" text="**%zs%**"] **Alle glasierten Keramiken**\
+*white_glazed_terracotta, orange_glazed_terracotta, magenta_glazed_terracotta, light_blue_glazed_terracotta, yellow_glazed_terracotta, lime_glazed_terracotta, cyan_glazed_terracotta, purple_glazed_terracotta, blue_glazed_terracotta, brown_glazed_terracotta, green_glazed_terracotta, red_glazed_terracotta, black_glazed_terracotta, light_gray_glazed_terracotta, pink_glazed_terracotta, gray_glazed_terracotta*
+
+[!badge variant="secondary" text="**%zt%**"] **Alle Betone**\
+*white_concrete, orange_concrete, magenta_concrete, light_blue_concrete, yellow_concrete, lime_concrete, pink_concrete, gray_concrete, light_gray_concrete, cyan_concrete, purple_concrete, blue_concrete, brown_concrete, green_concrete, red_concrete, black_concrete*
+
+[!badge variant="secondary" text="**%zu%**"] **Alle Trockenbetone**\
+*black_concrete_powder, blue_concrete_powder, brown_concrete_powder, cyan_concrete_powder, gray_concrete_powder, green_concrete_powder, light_blue_concrete_powder, light_gray_concrete_powder, lime_concrete_powder, magenta_concrete_powder, orange_concrete_powder, pink_concrete_powder, purple_concrete_powder, red_concrete_powder, white_concrete_powder, yellow_concrete_powder*
+
+[!badge variant="secondary" text="**%zx%**"] **Alle Shulkerboxen**\
+*shulker_box, black_shulker_box, white_shulker_box, orange_shulker_box, magenta_shulker_box, light_blue_shulker_box, pink_shulker_box, gray_shulker_box, light_gray_shulker_box, cyan_shulker_box, purple_shulker_box, blue_shulker_box, brown_shulker_box, green_shulker_box, red_shulker_box*
+
+[!badge variant="secondary" text="**%zy%**"] **Alle Wollen**\
+*black_wool, blue_wool, brown_wool, cyan_wool, gray_wool, green_wool, light_blue_wool, light_gray_wool, lime_wool, magenta_wool, orange_wool, pink_wool, purple_wool, red_wool, white_wool, yellow_wool*
+
+[!badge variant="secondary" text="**%zz%**"] **Alle Alle Teppiche**\
+*white_carpet, orange_carpet, magenta_carpet, light_blue_carpet, yellow_carpet, lime_carpet, pink_carpet, gray_carpet, light_gray_carpet, cyan_carpet, purple_carpet, blue_carpet, brown_carpet, green_carpet, red_carpet, black_carpet*
+
+[!badge variant="secondary" text="**%yg%**"] **Alle Betten**\
+*white_bed, orange_bed, magenta_bed, light_blue_bed, yellow_bed, lime_bed, pink_bed, gray_bed, light_gray_bed, cyan_bed, purple_bed, blue_bed, brown_bed, green_bed, red_bed, black_bed*
+
+[!badge variant="secondary" text="**%yh%**"] **Alle Alle Banner**\
+*black_banner, white_banner, orange_banner, magenta_banner, light_blue_banner, yellow_banner, lime_banner, pink_banner, gray_banner, light_gray_banner, red_banner, green_banner, brown_banner, blue_banner, purple_banner, cyan_banner*
+
+[!badge variant="secondary" text="**%yi%**"] **Alle Bannervorlagen**\
+*flower_banner_pattern, creeper_banner_pattern, mojang_banner_pattern, globe_banner_pattern, piglin_banner_pattern, skull_banner_pattern*
+
+[!badge variant="secondary" text="**%rz%**"] **Alle Kerzen**\
+*candle, white_candle, orange_candle, magenta_candle, light_blue_candle, yellow_candle, lime_candle, pink_candle, gray_candle, light_gray_candle, cyan_candle, purple_candle, blue_candle, brown_candle, green_candle, red_candle, black_candle*
+
+[!badge variant="secondary" text="**%tg%**"] **Alle lebenden Korallen, Korallenblöcke und Korallenfächer**\
+*tube_coral_block, tube_coral, tube_coral_fan, brain_coral_block, brain_coral, brain_coral_fan, bubble_coral_block, bubble_coral, bubble_coral_fan, fire_coral_block, fire_coral, fire_coral_fan, horn_coral_block, horn_coral, horn_coral_fan*
+
+[!badge variant="secondary" text="**%kbb%**"] **Alle toten Korallen, Korallenblöcke und Korallenfächer**\
+*dead_tube_coral_block, dead_tube_coral, dead_tube_coral_fan, dead_brain_coral_block, dead_brain_coral, dead_brain_coral_fan, dead_bubble_coral_block, dead_brain_coral, dead_brain_coral_fan, dead_fire_coral_block, dead_fire_coral, dead_fire_coral_fan, dead_horn_coral_block, dead_horn_coral, dead_horn_coral_fan*
+
+[!badge variant="secondary" text="**%ed%**"] **Alle lebenden Korallenblöcke**\
+*tube_coral_block, brain_coral_block, fire_coral_block, horn_coral_block, bubble_coral_block*
+
+[!badge variant="secondary" text="**%ee%**"] **Alle toten Korallenblöcke**\
+*dead_tube_coral_block, dead_brain_coral_block, dead_fire_coral_block, dead_horn_coral_block, dead_bubble_coral_block*
+
+[!badge variant="secondary" text="**%ef%**"] **Alle lebenden Korallen**\
+*tube_coral, brain_coral, fire_coral, horn_coral, bubble_coral*
+
+[!badge variant="secondary" text="**%fa%**"] **Alle toten Korallen**\
+*dead_tube_coral, dead_brain_coral, dead_fire_coral, dead_horn_coral, dead_bubble_coral*
+
+[!badge variant="secondary" text="**%fb%**"] **Alle lebenden Korallenfächer**\
+*tube_coral_fan, brain_coral_fan, fire_coral_fan, horn_coral_fan, bubble_coral_fan*
+
+[!badge variant="secondary" text="**%vs%**"] **Alle toten Korallenfächer**\
+*dead_tube_coral_fan, dead_brain_coral_fan, dead_fire_coral_fan, dead_horn_coral_fan, dead_bubble_coral_fan*
+
+### Blumen, Farben
+[!badge variant="secondary" text="**%yy%**"] **Alle Blumen**\
+*dandelion, poppy, blue_orchid, allium, azure_bluet, red_tulip, orange_tulip, white_tulip, pink_tulip, oxeye_daisy, cornflower, lily_of_the_valley, wither_rose, sunflower, lilac, rose_bush, peony, torchflower, pink_petals, pitcher_pod, pitcher_crop*
+
+[!badge variant="secondary" text="**%zw%**"] **Alle Farben**\
+*white_dye, orange_dye, magenta_dye, light_blue_dye, yellow_dye, lime_dye, pink_dye, gray_dye, light_gray_dye, cyan_dye, purple_dye, blue_dye, green_dye, brown_dye, red_dye, black_dye*
