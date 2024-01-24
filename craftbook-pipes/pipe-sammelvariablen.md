@@ -314,20 +314,103 @@ Um nach Kategorien zu suchen, kannst du die Suchfunktion der Seite oder das Inha
 
 ### Nether
 [!badge variant="secondary" text="**%vg%**"] **Alle Schwarzsteinerzeugnisse**\
-%vg% - Alle Schwarzsteinerzeugnisse - blackstone, blackstone_slab, blackstone_stairs, blackstone_wall
+*blackstone, blackstone_slab, blackstone_stairs, blackstone_wall*
 
 [!badge variant="secondary" text="**%vh%**"] **Alle polierten, gerissenen, gemeißelten Schwarzsteinerzeugnisse**\
-%vh% - Alle polierten, gerissenen, gemeißelten Schwarzsteinerzeugnisse - polished_blackstone, polished_blackstone_slab, polished_blackstone_stairs, polished_blackstone_wall, polished_blackstone_bricks, polished_blackstone_brick_slab, polished_blackstone_brick_stairs, polished_blackstone_brick_wall, cracked_polished_blackstone_bricks, chiseled_polished_blackstone
+*polished_blackstone, polished_blackstone_slab, polished_blackstone_stairs, polished_blackstone_wall, polished_blackstone_bricks, polished_blackstone_brick_slab, polished_blackstone_brick_stairs, polished_blackstone_brick_wall, cracked_polished_blackstone_bricks, chiseled_polished_blackstone*
 
 [!badge variant="secondary" text="**%vi%**"] **Alle Netherziegelerzeugnisse**\
-%vi% - Alle Netherziegelerzeugnisse - nether_brick, nether_bricks, nether_brick_slab, nether_brick_stairs, nether_brick_wall, nether_brick_fence, cracked_nether_bricks, chiseled_nether_bricks
+*nether_brick, nether_bricks, nether_brick_slab, nether_brick_stairs, nether_brick_wall, nether_brick_fence, cracked_nether_bricks, chiseled_nether_bricks*
 
 [!badge variant="secondary" text="**%vj%**"] **Alle roten Netherziegelerzeugnisse**\
-%vj% - Alle roten Netherziegelerzeugnisse - red_nether_bricks, red_nether_brick_slab, red_nether_brick_stairs, red_nether_brick_wall
+*red_nether_bricks, red_nether_brick_slab, red_nether_brick_stairs, red_nether_brick_wall*
 
 [!badge variant="secondary" text="**%vk%**"] **Alle Quartzerzeugnisse**\
-%vk% - Alle Quartzerzeugnisse - quartz, quartz_block, quartz_slab, quartz_stairs, smooth_quartz, smooth_quartz_slab, smooth_quartz_stairs, chiseled_quartz_block, quartz_pillar, quartz_bricks
+*quartz, quartz_block, quartz_slab, quartz_stairs, smooth_quartz, smooth_quartz_slab, smooth_quartz_stairs, chiseled_quartz_block, quartz_pillar, quartz_bricks*
 
 [!badge variant="secondary" text="**%pw%**"] **Diverse Netherpflanzen**\
-%pw% - Diverse Netherpflanzen - nether_wart_block, warped_wart_block, shroomlight, nether_wart, warped_fungus, crimson_fungus, twisting_vines, weeping_vines, warped_roots, crimson_roots
+*nether_wart_block, warped_wart_block, shroomlight, nether_wart, warped_fungus, crimson_fungus, twisting_vines, weeping_vines, warped_roots, crimson_roots*
 
+### Sandstein
+[!badge variant="secondary" text="**%vc%**"] **Alle Sandsteinerzeugnisse**\
+*sandstone, sandstone_slab, sandstone_stairs, sandstone_wall*
+
+[!badge variant="secondary" text="**%vd%**"] **Alle glatten, geschnittenen, gemeißelten Sandsteinerzeugnisse**\
+*smooth_sandstone, smooth_sandstone_slab, smooth_sandstone_stairs, cut_sandstone, cut_sandstone_slab, chiseled_sandstone*
+
+[!badge variant="secondary" text="**%ve%**"] **Alle roten Sandsteinerzeugnisse**\
+*red_sandstone, red_sandstone_slab, red_sandstone_stairs, red_sandstone_wall*
+
+[!badge variant="secondary" text="**%vf%**"] **Alle glatten, geschnittenen, gemeißelten roten Sandsteinerzeugnisse**\
+*smooth_red_sandstone, smooth_red_sandstone_slab, smooth_red_sandstone_stairs, cut_red_sandstone, cut_red_sandstone_slab, chiseled_red_sandstone*
+
+[!badge variant="secondary" text="**%ec%**"] **Alle Sandsteinerzeugnisse und roten Sandsteinerzeugnisse**\
+*sandstone, sandstone_slab, sandstone_stairs, sandstone_wall, smooth_sandstone, smooth_sandstone_slab, smooth_sandstone_stairs, cut_sandstone, cut_sandstone_slab, chiseled_sandstone, red_sandstone, red_sandstone_slab, red_sandstone_stairs, red_sandstone_wall, smooth_red_sandstone, smooth_red_sandstone_slab, smooth_red_sandstone_stairs, cut_red_sandstone, cut_red_sandstone_slab, chiseled_red_sandstone*
+
+### Pflanzen, Erde, Gras, Sand, Kies, Ziegel
+[!badge variant="secondary" text="**%yz%**"] **Diverse Pflanzen (ohne 1.17+)**\
+*seagrass, sea_pickle, kelp, lily_pad, grass, fern, dead_bush, brown_mushroom, red_mushroom, vine, weeping_vines, twisting_vines, crimson_fungus, warped_fungus, crimson_roots, warped_roots, nether_sprouts*
+
+[!badge variant="secondary" text="**%rq%**"] **Diverse Pflanzen (inkl. 1.17+)**\
+*seagrass, sea_pickle, kelp, lily_pad, grass, fern, dead_bush, brown_mushroom, red_mushroom, vine, weeping_vines, twisting_vines, crimson_fungus, warped_fungus, crimson_roots, warped_roots, nether_sprouts, azalea, flowering_azalea, big_dripleaf, small_dripleaf, glow_lichen, hanging_roots*
+
+[!badge variant="secondary" text="**%aeb%**"] **Alle Wasserpflanzen**\
+*kelp,dried_kelp,dried_kelp_block,sea_pickle,seagrass,small_dripleaf,big_dripleaf,glow_lichen*
+
+[!badge variant="secondary" text="**%vp%**"] **Erde + Variationen (ohne 1.17+)**\
+*dirt, coarse_dirt, grass_block, podzol, mycelium*
+
+[!badge variant="secondary" text="**%sn%**"] **Erde + Variationen (inkl. 1.17+)**\
+*dirt, coarse_dirt, grass_block, podzol, mycelium, moss_block, moss_carpet, rooted_dirt*
+
+[!badge variant="secondary" text="**%aaa%**"] **Alle Schlammerzeugnisse**\
+*mud,muddy_mangrove_roots,mud_brick_slab,packed_mud,mud_brick,mud_brick_stairs,mud_brick_wall*
+
+[!badge variant="secondary" text="**%vq%**"] **Kies, Sand, Roter Sand, Feuerstein**\
+*gravel, flint, sand, red_sand*
+
+[!badge variant="secondary" text="**%uu%**"] **Alle Ziegelsteine und Ziegelsteinerzeugnisse**\
+*brick, bricks, brick_slab, brick_stairs, brick_wall*
+
+[!badge variant="secondary" text="**%wg%**"] **Gras (Pflanze) + Variationen (ohne 1.17+)**\
+*grass, tall_grass, fern, large_fern, dead_bush, lily_pad, seagrass, tall_seagrass*
+
+[!badge variant="secondary" text="**%sl%**"] **Gras (Pflanze) + Variationen (inkl. 1.17+)**\
+*grass, tall_grass, fern, large_fern, dead_bush, lily_pad, seagrass, tall_seagrass, big_dripleaf, small_dripleaf, glow_lichen, hanging_roots*
+
+[!badge variant="secondary" text="**%wh%**"] **Gras (Pflanze) + Variationen mit Nether (ohne 1.17+)**\
+*grass, tall_grass, fern, large_fern, dead_bush, lily_pad, seagrass, tall_seagrass, nether_sprouts, crimson_roots, warped_roots*
+
+[!badge variant="secondary" text="**%sg%**"] **Gras (Pflanze) + Variationen mit Nether (inkl. 1.17+)**\
+*grass, tall_grass, fern, large_fern, dead_bush, lily_pad, seagrass, tall_seagrass, nether_sprouts, crimson_roots, warped_roots, big_dripleaf, small_dripleaf, glow_lichen, hanging_roots*
+
+[!badge variant="secondary" text="**%wv%**"] **Alle Azaleen-Items**\
+*azalea, flowering_azalea, azalea_leaves, flowering_azalea_leaves*
+
+[!badge variant="secondary" text="**%wn%**"] **Rote + braune Pilze**\
+*red_mushroom, brown_mushroom, red_mushroom_block, brown_mushroom_block, mushroom_stem*
+
+[!badge variant="secondary" text="**%wo%**"] **Alle + braune + Netherpilze**\
+*red_mushroom, brown_mushroom, red_mushroom_block, brown_mushroom_block, mushroom_stem, crimson_fungus, warped_fungus*
+
+[!badge variant="secondary" text="**%xa%**"] **Zuckerrohr, Kaktus, Bambus**\
+*sugar_cane, cactus, bamboo*
+
+### Redstone
+[!badge variant="secondary" text="**%vr%**"] **Alle Loren**\
+*minecart, chest_minecart, furnace_minecart, hopper_minecart, tnt_minecart*
+
+[!badge variant="secondary" text="**%vu%**"] **Alle Schienen**\
+*rail, powered_rail, detector_rail, activator_rail*
+
+[!badge variant="secondary" text="**%vy%**"] **Alle Redstone-Komponenten (ohne 1.17+)**\
+*redstone_torch, lever, repeater, comparator, dispenser, dropper, observer, daylight_detector, piston, sticky_piston, tripwire_hook, target*
+
+[!badge variant="secondary" text="**%so%**"] **Alle Redstone-Komponenten (inkl. 1.17+)**\
+*redstone_torch, lever, repeater, comparator, dispenser, dropper, observer, daylight_detector, piston, sticky_piston, tripwire_hook, target, sculk_sensor*
+
+[!badge variant="secondary" text="**%xy%**"] **Alle Redstone-Komponenten (erweitert, ohne 1.17+)**\
+*redstone_torch, lever, repeater, comparator, dispenser, dropper, observer, daylight_detector, piston, sticky_piston, tripwire_hook, target, hopper, note_block, trapped_chest*
+
+[!badge variant="secondary" text="**%sx%**"] **Alle Redstone-Komponenten (erweitert, inkl. 1.17+)**\
+*redstone_torch, lever, repeater, comparator, dispenser, dropper, observer, daylight_detector, piston, sticky_piston, tripwire_hook, target, hopper, note_block, trapped_chest, sculk_sensor*
