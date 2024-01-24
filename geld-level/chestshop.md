@@ -16,7 +16,7 @@ Ab 250 Blöcken Entfernung zum Spawn dürfen maximal 12 ChestShops je Spielerorg
 Ab 1000 Blöcken Entfernung zum Spawn dürfen ChestShops unbegrenzt erstellt werden.
 !!!
 
-1. Platziere eine Kiste oder ein Fass (Bei großen Shops empfehlen wir, Fässer anstatt Kisten zu nutzen,da diese weniger Lags bei Spielern verursachen.)
+1. Platziere eine Kiste oder ein Fass. Letztere empfehlen sich bei großen Shops, da diese weniger Lags bei Spielern verursachen.
 2. Bringe ein Schild an der Kiste/dem Fass oder neben der Kiste/dem Fass an.
 3. Beschrifte das Schild wie auf dem Bild gezeigt (Achtung: die erste Zeile muss leer bleiben!).
 4. Klicke mit dem Item auf das Schild. Fertig!
@@ -36,17 +36,9 @@ Du kannst nur einen Verkaufs- oder Ankaufspreis oder beide Preise mit einem `:` 
 `/cstoggle`
 :   Blendet die Kauf- & Verkaufsnachrichten ein bzw. aus.
 
-Term 2
-:   Definition 2
-
-Term 3
-:   Definition 3
-`/cstoggle`\
-Blendet die Kauf- & Verkaufsnachrichten ein bzw. aus.
-
-`/transactions all/<kategorie>`\
-Zeigt die Transaktionshistorie des gesamten Geldumlaufes oder einer einzelnen Kategorie an.\
-Siehe auch LINK TRANSAKTIONEN
+`/transactions all/<kategorie>`
+:   Zeigt die Transaktionshistorie des gesamten Geldumlaufes oder einer einzelnen Kategorie an.\
+    Siehe auch LINK TRANSAKTIONEN
 
 ## Shop bekannt machen
 - Erstelle dir einen [!badge icon="star" text="PlayerWarp"](/fortbewegung/playerwarps.md), über den andere Spieler deinen Shop erreichen können.
