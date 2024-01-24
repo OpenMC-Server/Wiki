@@ -46,7 +46,7 @@ Um nach Kategorien zu suchen, kannst du die Suchfunktion der Seite oder das Inha
 [!badge %ac%] **Alle Birkenstämme/hölzer**\
 *birch_log, birch_wood, stripped_birch_log, stripped_birch_wood*
 
-[!badge %ad%] **Alle Tropenholzstämme/hölzer**\
+[!badge %ad%] **Alle Tropenstämme/hölzer**\
 *jungle_log, jungle_wood, stripped_jungle_log, stripped_jungle_wood*
 
 [!badge %ae%] **Alle Akazienstämme/hölzer**\
