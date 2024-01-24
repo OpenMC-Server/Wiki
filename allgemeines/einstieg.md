@@ -31,6 +31,7 @@ Die Farmwelt ist der Ort, an dem du unbegrenzt Ressourcen farmen kannst. Alle dr
 Hast du Interesse am Betrieb von Farmen, riesigen Lagern o.ä., ist die Industriewelt die Welt, in der du solch technische Bauten konstruieren darfst. Um etwas zu bauen, muss in jedem Fall ein Claim erstellt werden. Zudem besteht eine Anmeldepflicht der Farmen, damit das Serverteam einen Überblick über alle derartigen Konstrukte behalten kann. Nicht zu vergessen ist, dass auch in dieser Welt die Performance (`/tps`) des Servers nicht fahrlässig gefährdet werden darf.
 
 ## Grundstück erstellen
+Detaillierte Infos findest du hier: [!badge icon="log" text="Grundstück erstellen"](/claims/claiming.md)\
 Sobald du ggf. mithilfe von `/fly` und der `/map` einen für dich geeigneten Bauplatz gefunden hast, solltest du mithilfe einer Goldschaufel ein Claim erstellen. Dies sichert dein Eigentum vor Fremdeinwirkungen.\
 Hast du ein Großprojekt geplant, wollen wir dich unter Erfüllung entsprechender Voraussetzungen gerne dabei unterstützen. 
 
