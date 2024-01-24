@@ -11,8 +11,8 @@ Mit einem ChestShop kannst du Items an- und verkaufen.
 
 ## Shop erstellen
 !!!warning Wichtiger Hinweis:
-Unter 250 Blöcken Entfernung zum Spawn sind ChestShops nicht erlaubt.
-Ab 250 Blöcken Entfernung zum Spawn dürfen maximal 12 ChestShops je Spielerorganisation erstellt werden.
+Unter 250 Blöcken Entfernung zum Spawn sind ChestShops nicht erlaubt.\
+Ab 250 Blöcken Entfernung zum Spawn dürfen maximal 12 ChestShops je Spielerorganisation erstellt werden.\
 Ab 1000 Blöcken Entfernung zum Spawn dürfen ChestShops unbegrenzt erstellt werden.
 !!!
 
