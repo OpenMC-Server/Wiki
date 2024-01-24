@@ -21,7 +21,12 @@ Ab 1000 Blöcken Entfernung zum Spawn dürfen ChestShops unbegrenzt erstellt wer
 3. Beschrifte das Schild wie auf dem Bild gezeigt (Achtung: die erste Zeile muss leer bleiben!).
 4. Klicke mit dem Item auf das Schild. Fertig!
 
--![1. Zeile: Freilassen\2. Zeile: Anzahl | 3. Zeile: Preis | 4. Zeile: Fragezeichen (?)](/images/shoperstellung.png)
+-![](/images/shoperstellung.png)
+
+1. Zeile: Freilassen
+2. Zeile: Anzahl
+3. Zeile: Preis
+4. Zeile: Fragezeichen (?)
 
 `B` = Item-Verkaufspreis, `S` = Item-Ankaufspreis\
 Du kannst nur einen Verkaufs- oder Ankaufspreis oder beide Preise mit einem `:` in der Mitte angeben.
