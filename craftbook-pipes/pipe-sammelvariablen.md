@@ -435,7 +435,7 @@ Um nach Kategorien zu suchen, kannst du die Suchfunktion der Seite oder das Inha
 [!badge variant="secondary" text="**%sv%**"] **Schnee + Eis (inkl. 1.17+)**\
 *snowball, snow, snow_block, ice, packed_ice, blue_ice, powder_snow_bucket*
 
-### Kupferblöcke und -erzeugnisse
+### Kupfer
 
 [!badge variant="secondary" text="**%rt%**"] **Alle Kupferblöcke und Kupferblockerzeugnisse**\
 *exposed_copper, weathered_copper, oxidized_copper, cut_copper, exposed_cut_copper, weathered_cut_copper, oxidized_cut_copper, waxed_copper_block, waxed_exposed_copper, waxed_weathered_copper, waxed_oxidized_copper, waxed_cut_copper, waxed_exposed_cut_copper, waxed_weathered_cut_copper, waxed_oxidized_cut_copper, cut_copper_slab, exposed_cut_copper_slab, weathered_cut_copper_slab, oxidized_cut_copper_slab, cut_copper_stairs, exposed_cut_copper_stairs, weathered_cut_copper_stairs, oxidized_cut_copper_stairs, waxed_cut_copper_slab, waxed_exposed_cut_copper_slab, waxed_weathered_cut_copper_slab, waxed_oxidized_cut_copper_slab, waxed_cut_copper_stairs, waxed_exposed_cut_copper_stairs, waxed_weathered_cut_copper_stairs, waxed_oxidized_cut_copper_stairs*
@@ -565,3 +565,109 @@ Um nach Kategorien zu suchen, kannst du die Suchfunktion der Seite oder das Inha
 
 [!badge variant="secondary" text="**%wt%**"] **Alle Waffen**\
 *wooden_sword, stone_sword, iron_sword, golden_sword, diamond_sword, netherite_sword, bow, crossbow, trident, flint_and_steel, shield*
+
+### Essen
+[!badge variant="secondary" text="**%wj%**"] **Alle Nutz- und essbaren Pflanzen (ohne 1.17+)**\
+*apple, potato, baked_potato, poisonous_potato, carrot, golden_carrot, beetroot, beetroot_seeds, beetroot_soup, wheat, wheat_seeds, hay_block, bread, melon, melon_slice, glistering_melon_slice, pumpkin, carved_pumpkin, pumpkin_seeds, pumpkin_pie, jack_o_lantern, cocoa_beans, cookie, sweet_berries, kelp, dried_kelp, dried_kelp_block, chorus_flower, chorus_fruit, popped_chorus_fruit*
+
+[!badge variant="secondary" text="**%su%**"] **Alle Nutz- und essbaren Pflanzen (inkl. 1.17+)**\
+*apple, potato, baked_potato, poisonous_potato, carrot, golden_carrot, beetroot, beetroot_seeds, beetroot_soup, wheat, wheat_seeds, hay_block, bread, melon, melon_slice, glistering_melon_slice, pumpkin, carved_pumpkin, pumpkin_seeds, pumpkin_pie, jack_o_lantern, cocoa_beans, cookie, sweet_berries, kelp, dried_kelp, dried_kelp_block, chorus_flower, chorus_fruit, popped_chorus_fruit, glow_berries*
+
+[!badge variant="secondary" text="**%wk%**"] **Alle rohen Fleischarten**\
+*beef, chicken, porkchop, mutton, rabbit*
+
+[!badge variant="secondary" text="**%wl%**"] **Alle gebratenen Fleischarten**\
+*cooked_beef, cooked_chicken, cooked_porkchop, cooked_mutton, cooked_rabbit*
+
+[!badge variant="secondary" text="**%wm%**"] **Alle Fischarten**\
+*cod, cooked_cod, salmon, cooked_salmon, pufferfish, tropical_fish*
+
+### Mineralien
+[!badge variant="secondary" text="**%zv%**"] **Alle Erze (ohne 1.17+)**\
+*diamond_ore, iron_ore, lapis_ore, coal_ore, gold_ore, emerald_ore, redstone_ore, nether_quartz_ore, nether_gold_ore, ancient_debris, gilded_blackstone*
+
+[!badge variant="secondary" text="**%ry%**"] **Alle Erze (ink. 1.17+)**\
+*diamond_ore, iron_ore, lapis_ore, coal_ore, gold_ore, emerald_ore, redstone_ore, nether_quartz_ore, nether_gold_ore, ancient_debris, gilded_blackstone, copper_ore, deepslate_coal_ore, deepslate_iron_ore, deepslate_copper_ore, deepslate_gold_ore, deepslate_redstone_ore, deepslate_emerald_ore, deepslate_lapis_ore, deepslate_diamond_ore*
+
+[!badge variant="secondary" text="**%sj%**"] **Alle Tiefenschiefererze**\
+*deepslate_coal_ore, deepslate_iron_ore, deepslate_copper_ore, deepslate_gold_ore, deepslate_redstone_ore, deepslate_emerald_ore, deepslate_lapis_ore, deepslate_diamond_ore*
+
+[!badge variant="secondary" text="**%ka%**"] **Alle Mineralien (ohne 1.17+)**\
+*coal, charcoal, iron_nugget, iron_ingot, lapis_lazuli, gold_nugget, gold_ingot, redstone, diamond, emerald, netherite_scrap, netherite_ingot*
+
+[!badge variant="secondary" text="**%st%**"] **Alle Mineralien (inkl. 1.17+)**\
+*coal, charcoal, iron_nugget, iron_ingot, lapis_lazuli, gold_nugget, gold_ingot, redstone, diamond, emerald, netherite_scrap, netherite_ingot, copper_ingot, raw_copper, raw_gold, raw_iron*
+
+[!badge variant="secondary" text="**%kb%**"] **Alle Mineralblöcke (ohne 1.17+)**\
+*coal_block, iron_block, lapis_block, iron_block, gold_block, redstone_block, diamond_block, emerald_block, netherite_block*
+
+[!badge variant="secondary" text="**%rs%**"] **Alle Mineralblöcke (inkl. 1.17+)**\
+*coal_block, iron_block, lapis_block, iron_block, gold_block, redstone_block, diamond_block, emerald_block, netherite_block, copper_block, raw_copper_block, raw_gold_block, raw_iron_block*
+
+[!badge variant="secondary" text="**%rp%**"] **Amethyst**\
+*amethyst_block, small_amethyst_bud, medium_amethyst_bud, large_amethyst_bud, amethyst_cluster, amethyst_shard*
+
+[!badge variant="secondary" text="**%ul%**"] **Kohle**\
+*coal_ore, coal, charcoal, coal_block, deepslate_coal_ore*
+
+[!badge variant="secondary" text="**%um%**"] **Eisen**\
+*iron_ore, iron_nugget, iron_ingot, raw_iron, iron_block, raw_iron_block, deepslate_iron_ore*
+
+[!badge variant="secondary" text="**%un%**"] **Kupfer**\
+*copper_ore, copper_ingot, raw_copper, copper_block, raw_copper_block, deepslate_copper_ore*
+
+[!badge variant="secondary" text="**%uc%**"] **Gold**\
+*gold_ore, nether_gold_ore, gold_nugget, gold_ingot, raw_gold, gold_block, raw_gold_block, deepslate_gold_ore*
+
+[!badge variant="secondary" text="**%up%**"] **Redstone**\
+*redstone_ore, redstone, redstone_block, deepslate_redstone_ore*
+
+[!badge variant="secondary" text="**%uq%**"] **Smaragd**\
+*emerald_ore, emerald, emerald_block, deepslate_emerald_ore*
+
+[!badge variant="secondary" text="**%ur%**"] **Lapislazuli**\
+*lapis_ore, lapis_lazuli, lapis_block, deepslate_lapis_ore*
+
+[!badge variant="secondary" text="**%us%**"] **Diamant**\
+*diamond_ore, diamond, diamond_block, deepslate_diamond_ore*
+
+[!badge variant="secondary" text="**%ut%**"] **Netherit**\
+*ancient_debris, netherite_scrap, netherite_ingot, netherite_block*
+
+### Mob Drops
+[!badge variant="secondary" text="**%xb%**"] **Alle Monster-Drops**\
+*rotten_flesh, gunpowder, arrow, bone, slime_ball, string, spider_eye, nautilus_shell, blaze_rod, ender_pearl, ghast_tear, totem_of_undying, magma_cream, shulker_shell, nether_star, phantom_membrane*
+
+[!badge variant="secondary" text="**%xc%**"] **Alle Tier-Drops**\
+*egg, feather, leather, ink_sac, rabbit_hide, rabbit_foot*
+
+### Andere Items
+[!badge variant="secondary" text="**%yj%**"] **Alle Eimer (ohne 1.17+)**\
+*bucket, water_bucket, lava_bucket, milk_bucket, pufferfish_bucket, salmon_bucket, cod_bucket, tropical_fish_bucket*
+
+[!badge variant="secondary" text="**%sq%**"] **Alle Eimer (inkl. 1.17+)**\
+*bucket, water_bucket, lava_bucket, milk_bucket, pufferfish_bucket, salmon_bucket, cod_bucket, tropical_fish_bucket, axolotl_bucket, powder_snow_bucket*
+
+[!badge variant="secondary" text="**%yk%**"] **Alle Schallplatten**\
+*music_disc_wait, music_disc_cat, music_disc_13, music_disc_blocks, music_disc_chirp, music_disc_far, music_disc_mall, music_disc_11, music_disc_strad, music_disc_stal, music_disc_mellohi, music_disc_pigstep, music_disc_ward, music_disc_relic*
+
+[!badge variant="secondary" text="**%ws%**"] **Uhr, Kompass, Karten**\
+*clock, compass, map, filled_map*
+
+[!badge variant="secondary" text="**%pz%**"] **Pferderüstungen + Sattel**\
+*leather_horse_armor, iron_horse_armor, diamond_horse_armor, golden_horse_armor, saddle*
+
+[!badge variant="secondary" text="**%aaf%**"] **Alle Ofenerzeugnisse**\
+*porkchop, beef, chicken, cod, salmon, potato, mutton, rabbit, kelp, raw_copper, raw_iron, raw_gold, nether_gold_ore, ancient_debris, copper_ore, diamond_ore, gold_ore, iron_ore, lapis_ore, redstone_ore, coal_ore, emerald_ore, nether_quartz_ore, iron_pickaxe, iron_shovel, iron_axe, iron_hoe, golden_pickaxe, golden_shovel, golden_axe, golden_hoe, chainmail_helmet, chainmail_chestplate, chainmail_leggings, chainmail_boots, golden_helmet, golden_chestplate, golden_leggings, golden_boots, iron_helmet, iron_chestplate, iron_leggings, iron_boots, iron_sword, golden_sword, iron_horse_armor, golden_horse_armor, sand, red_sand, cobblestone, sandstone, red_sandstone, stone, quartz_block, clay_ball, netherrack, nether_bricks, basalt, clay, stone_bricks, polished_blackstone_bricks, cobbled_deepslate, deepslate_bricks, deepslate_tiles, black_terracotta, blue_terracotta, brown_terracotta, cyan_terracotta, gray_terracotta, green_terracotta, light_blue_terracotta, light_gray_terracotta, lime_terracotta, magenta_terracotta, orange_terracotta, pink_terracotta, purple_terracotta, red_terracotta, white_terracotta, yellow_terracotta, cactus, oak_log, spruce_log, birch_log, jungle_log, acacia_log, dark_oak_log, crimson_stem, warped_stem, mangrove_log, oak_wood, spruce_wood, birch_wood, jungle_wood, acacia_wood, dark_oak_wood, mangrove_wood, crimson_hyphae, warped_hyphae, stripped_oak_log, stripped_spruce_log, stripped_birch_log, stripped_acacia_log, stripped_jungle_log, stripped_dark_oak_log, stripped_crimson_stem, stripped_warped_stem, stripped_mangrove_log, stripped_oak_wood, stripped_spruce_wood, stripped_birch_wood, stripped_acacia_wood, stripped_jungle_wood, stripped_dark_oak_wood, stripped_crimson_hyphae, stripped_warped_hyphae, stripped_mangrove_wood, chorus_fruit, wet_sponge, sea_pickle, deepslate_copper_ore, deepslate_diamond_ore, deepslate_emerald_ore, deepslate_gold_ore, deepslate_iron_ore, deepslate_lapis_ore, deepslate_redstone_ore*
+
+[!badge variant="secondary" text="**%aad%**"] **Alle Räucherofenerzeugnisse**\
+*porkchop,beef,chicken,cod,salmon,potato,mutton,rabbit,kelp*
+
+[!badge variant="secondary" text="**%aae%**"] **Alle Schmelzofenerzeugnisse**\
+*raw_copper,raw_iron_raw_gold,nether_gold_ore,ancient_debris,copper_ore, diamond_ore,gold_ore,iron_ore,lapis_ore,redstone_ore,coal_ore,emerald_ore,nether_quartz_ore,iron_pickaxe,iron_shovel,iron_axe,iron_hoe, golden_pickaxe,golden_shovel,golden_axe,golden_hoe,chainmail_helmet,chainmail_chestplate,chainmail_leggings,chainmail_boots,golden_helmet, golden_chestplate,golden_leggings,golden_boots,iron_helmet,iron_chestplate,iron_leggings,iron_boots,iron_sword,golden_sword,iron_horse_armor golden_horse_armor,deepslate_copper_ore,deepslate_diamond_ore,deepslate_emerald_ore,deepslate_gold_ore,deepslate_iron_ore,deepslate_lapis_ore, deepslate_redstone_ore*
+
+[!badge variant="secondary" text="**%aeh%**"] **Alle Schmiedevorlagen**\
+*netherite_upgrade_smithing_template, sentry_armor_trim_smithing_template, vex_armor_trim_smithing_template, wild_armor_trim_smithing_template, coast_armor_trim_smithing_template, dune_armor_trim_smithing_template, wayfinder_armor_trim_smithing_template, raiser_armor_trim_smithing_template, shaper_armor_trim_smithing_template, host_armor_trim_smithing_template , ward_armor_trim_smithing_template, silence_armor_trim_smithing_template, tide_armor_trim_smithing_template, snout_armor_trim_smithing_template, rib_armor_trim_smithing_template, eye_armor_trim_smithing_template, spire_armor_trim_smithing_template*
+
+[!badge variant="secondary" text="**%aei%**"] **Alle Töpferscherben**\
+*angler_pottery_sherd, miner_pottery_sherd, brewer_pottery_sherd, explorer_pottery_sherd, burn_pottery_sherd, friend_pottery_sherd, sheaf_pottery_sherd, arms_up_pottery_sherd, danger_pottery_sherd, howl_pottery_sherd, heart_pottery_sherd, heartbreak_pottery_sherd, prize_pottery_sherd, blade_pottery_sherd, plenty_pottery_sherd, snort_pottery_sherd, archer_pottery_sherd, skull_pottery_sherd, mourner_pottery_sherd, shelter_pottery_sherd*
