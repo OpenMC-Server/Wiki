@@ -34,9 +34,17 @@ Du kannst nur einen Verkaufs- oder Ankaufspreis oder beide Preise mit einem `:` 
 
 ## Befehle
 `/cstoggle`
+:   Blendet die Kauf- & Verkaufsnachrichten ein bzw. aus.
+
+Term 2
+:   Definition 2
+
+Term 3
+:   Definition 3
+`/cstoggle`\
 Blendet die Kauf- & Verkaufsnachrichten ein bzw. aus.
 
-`/transactions all/<kategorie>`
+`/transactions all/<kategorie>`\
 Zeigt die Transaktionshistorie des gesamten Geldumlaufes oder einer einzelnen Kategorie an.\
 Siehe auch LINK TRANSAKTIONEN
 
