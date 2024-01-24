@@ -22,15 +22,16 @@ Um nach einer spezifischen Sammelvariable zu suchen, kannst du die Suche deines 
 Um nach Kategorien zu suchen, kannst du die Suchfunktion der Seite oder das Inhaltsverzeichnis auf der rechten Seite nutzen.
 !!!
 
-### Baublöcke
-#### Holz, Laub, Setzlinge
-##### Stämme + Holz (gemischte Holztypen)
+### Holz, Laub, Setzlinge
+#### Stämme + Holz (gemischte Holztypen)
 [!badge %za%] **Alle Holzstämme**\
 *oak_log,spruce_log, birch_log, jungle_log, acacia_log, dark_oak_log, crimson_stem, warped_stem, mangrove_log, cherry_log*
 
 [!badge %wx%] **Alle Hölzer**\
 *oak_wood, spruce_wood, birch_wood, jungle_wood, acacia_wood, dark_oak_wood, mangrove_wood,crimson_hyphae, warped_hyphae, cherry_wood, bamboo_block*
 
-%zb% - Alle entrindeten Stämme - stripped_oak_log, stripped_spruce_log, stripped_birch_log, stripped_acacia_log, stripped_jungle_log, stripped_dark_oak_log, stripped_crimson_stem, stripped_warped_stem, stripped_mangrove_log, stripped_cherry_log
+[!badge %zb%] **Alle entrindeten Holzstämme**\
+*stripped_oak_log, stripped_spruce_log, stripped_birch_log, stripped_acacia_log, stripped_jungle_log, stripped_dark_oak_log, stripped_crimson_stem, stripped_warped_stem, stripped_mangrove_log, stripped_cherry_log*
 
-%ww% - Alle entrindeten Hölzer - stripped_oak_wood, stripped_spruce_wood, stripped_birch_wood, stripped_acacia_wood, stripped_jungle_wood, stripped_dark_oak_wood, stripped_crimson_hyphae, stripped_warped_hyphae, stripped_mangrove_wood, stripped_cherry_wood, stripped_bamboo_block
+[!badge %ww%] **Alle entrindeten Hölzer**\
+*stripped_oak_wood, stripped_spruce_wood, stripped_birch_wood, stripped_acacia_wood, stripped_jungle_wood, stripped_dark_oak_wood, stripped_crimson_hyphae, stripped_warped_hyphae, stripped_mangrove_wood, stripped_cherry_wood, stripped_bamboo_block*
