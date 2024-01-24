@@ -7,7 +7,7 @@ icon: cloud
 
 # Fliegen
 
-Auf OpenMC besteht die Möglichkeit, in der Bauwelt und in der Industriewelt zu fliegen. Um [!badge variant="ghost" text="/fly"] nutzen zu können, benötigst du Flugzeit oder einen entsprechenden Rang.
+Auf OpenMC besteht die Möglichkeit, in der Bauwelt und in der Industriewelt zu fliegen. Um `/fly` nutzen zu können, benötigst du Flugzeit oder einen entsprechenden Rang.
 
 ## Flugzeit erhalten
 Beim ersten Betreten des Servers erhältst du 30min Flugzeit.\
@@ -21,8 +21,8 @@ Flugzeit (in Min, pro Vote) | 10      | 20      | ∞     | ∞     |           
 ## Flugzeit anzeigen
 Deine aktuelle Flugzeit kannst du folgendermaßen einsehen:
 - Anzeige über der Hotbar (nur während dem Fliegen)
-- Mit dem Befehl [!badge variant="ghost" text="/tf time"]
-- Im [!badge variant="ghost" text="/shop"] unter "Mein Profil"
+- Mit dem Befehl `/tf time`
+- Im `/shop` unter "Mein Profil"
 
 ## Gut zu wissen
 - Flugzeit verringert sich nur während dem Fliegen in der Luft.

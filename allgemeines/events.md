@@ -46,7 +46,7 @@ Wir möchten allen Spielern die gleiche Chance geben, das Bauevent zu gewinnen. 
 - Eine Baumspende an PlanetTree
   - Das Team darf den Pflanzort selbst auswählen
   - Das Team erhält eine Urkunde mit den genauen Koordinaten der Pflanzfläche
-  - Die Urkunde wird zusammen mit einem Foto des Bauwerks hier veröffentlicht: https://openmc.net/baumevent-gewinner/
+  - Die Urkunde wird zusammen mit einem Foto des Bauwerks [hier veröffentlicht](https://openmc.net/baumevent-gewinner/).
 - 4 Wochen "Champion" Rang (VIP und +-Upgrade, 4 Votecoins pro Vote) - für jedes Teammitglied
 - 900.000 $ - Gleichmäßige Aufteilung auf alle Teammitglieder
 - 50 VoteCoins - für jedes Teammitglied
@@ -101,7 +101,7 @@ In der Woche ab dem Montag vor dem Bewertungsevent kannst du dein Bauwerk auf Di
 ## Mobevent
 
 ### Über das Mobevent
-Das Mobevent findet jeden Samstag statt, solange kein anderes Event an diesem Tag stattfindet. Welches Event an einem Samstag stattfindet, wird immer mehrere Stunden zuvor in den #news auf [Discord](https://discord.com/invite/ecqPF34) angekündigt.
+Das Mobevent findet jeden Samstag statt, solange kein anderes Event an diesem Tag stattfindet. Welches Event an einem Samstag stattfindet, wird immer mehrere Stunden zuvor in den #news auf [!badge variant="primary" target="blank" icon= "comment-discussion" text="Discord"](https://discord.com/invite/ecqPF34) angekündigt.
 
 Beim Mobevent kämpfst du zusammen mit deinen Mitspielern gegen eine Reihe an Wellen von Mobs. Dabei erhältst du mit jeder überlebten Welle weitere Belohnungen. Items können selbst beim Tod nicht verloren gehen und werden beim Wechsel (nach dem Event) in die Bauwelt automatisch zurückerstattet.
 
