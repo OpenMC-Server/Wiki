@@ -264,3 +264,34 @@ Um nach Kategorien zu suchen, kannst du die Suchfunktion der Seite oder das Inha
 
 [!badge variant="secondary" text="**%zw%**"] **Alle Farben**\
 *white_dye, orange_dye, magenta_dye, light_blue_dye, yellow_dye, lime_dye, pink_dye, gray_dye, light_gray_dye, cyan_dye, purple_dye, blue_dye, green_dye, brown_dye, red_dye, black_dye*
+
+### Stein, Steinarten
+[!badge variant="secondary" text="**%tq%**"] **Alle Bruchsteinerzeugnisse**\
+%tq% - Alle Bruchsteinerzeugnisse - cobblestone, cobblestone_slab, cobblestone_stairs, cobblestone_wall, mossy_cobblestone, mossy_cobblestone_slab, mossy_cobblestone_stairs, mossy_cobblestone_wall
+
+[!badge variant="secondary" text="**%tr%**"] **Alle Steinerzeugnisse**\
+%tr% - Alle Steinerzeugnisse - stone, stone_slab, stone_stairs, smooth_stone, smooth_stone_slab
+
+[!badge variant="secondary" text="**%tu%**"] **Alle Andesiterzeugnisse**\
+%tu% - Alle Andesiterzeugnisse - andesite, andesite_slab, andesite_stairs, andesite_wall
+
+[!badge variant="secondary" text="**%tv%**"] **Alle polierten Andesiterzeugnisse**\
+%tv% - Alle polierten Andesiterzeugnisse - polished_andesite, polished_andesite_slab, polished_andesite_stairs
+
+[!badge variant="secondary" text="**%tw%**"] **Alle Dioriterzeugnisse**\
+%tw% - Alle Dioriterzeugnisse - diorite, diorite_slab, diorite_stairs, diorite_wall
+
+[!badge variant="secondary" text="**%tx%**"] **Alle polierten Dioriterzeugnisse**\
+%tx% - Alle polierten Dioriterzeugnisse - polished_diorite, polished_diorite_slab, polished_diorite_stairs
+
+[!badge variant="secondary" text="**%op%**"] **Alle Graniterzeugnisse**\
+%op% - Alle Graniterzeugnisse - granite, granite_slab, granite_stairs, granite_wall
+
+[!badge variant="secondary" text="**%tz%**"] **Alle polierten Graniterzeugnisse**\
+%tz% - Alle polierten Graniterzeugnisse - polished_granite, polished_granite_slab, polished_granite_stairs
+
+[!badge variant="secondary" text="**%va%**"] **Alle Steinziegelerzeugnisse**\
+%va% - Alle Steinziegelerzeugnisse - stone_bricks, stone_brick_slab, stone_brick_stairs, stone_brick_wall, mossy_stone_bricks, mossy_stone_brick_slab, mossy_stone_brick_stairs, mossy_stone_brick_wall, cracked_stone_bricks, chiseled_stone_bricks
+
+[!badge variant="secondary" text="**%aac%**"] **Alle polierten Schwarzsteinerzeugnisse**\
+%aac% - Alle polierten Schwarzsteinerzeugnisse - polished_blackstone_wall,polished_blackstone_brick_wall, polished_blackstone_button,polished_blackstone_pressure_plate,polished_blackstone,polished_blackstone_slab,polished_blackstone_stairs, chiseled_polished_blackstone,polished_blackstone_bricks,polished_blackstone_brick_slabs,polished_blackstone_brick_stairs, cracked_polished_blackstone_bricks
