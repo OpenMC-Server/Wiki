@@ -414,3 +414,75 @@ Um nach Kategorien zu suchen, kannst du die Suchfunktion der Seite oder das Inha
 
 [!badge variant="secondary" text="**%sx%**"] **Alle Redstone-Komponenten (erweitert, inkl. 1.17+)**\
 *redstone_torch, lever, repeater, comparator, dispenser, dropper, observer, daylight_detector, piston, sticky_piston, tripwire_hook, target, hopper, note_block, trapped_chest, sculk_sensor*
+
+### Prismarin, Endstein, Purpur, Eis, Schnee
+
+[!badge variant="secondary" text="**%vn%**"] **Alle Prismarinerzeugnisse**\
+%vn% - Alle Prismarinerzeugnisse - prismarine, prismarine_slab, prismarine_stairs, prismarine_wall
+
+[!badge variant="secondary" text="**%vo%**"] **Alle Prismarinerzeugnisse und dunkle Prismarinerzeugnisse**\
+%vo% - Alle Prismarin- und dunkle Prismarinerzeugnisse - prismarine, prismarine_slab, prismarine_stairs, prismarine_wall, prismarine_bricks, prismarine_brick_slab, prismarine_brick_stairs, dark_prismarine, dark_prismarine_slab, dark_prismarine_stairs
+
+[!badge variant="secondary" text="**%vl%**"] **Alle Endsteinerzeugnisse**\
+%vl% - Alle Endsteinerzeugnisse - end_stone, end_stone_bricks, end_stone_brick_slab, end_stone_brick_stairs, end_stone_brick_wall
+
+[!badge variant="secondary" text="**%vm%**"] **Alle Purpurerzeugnisse**\
+%vm% - Alle Purpurerzeugnisse - purpur_block, purpur_slab, purpur_stairs, purpur_pillar
+
+[!badge variant="secondary" text="**%vr%**"] **Schnee + Eis (ohne 1.17+)**\
+%vr% - Schnee + Eis - snowball, snow, snow_block, ice, packed_ice, blue_ice
+
+[!badge variant="secondary" text="**%sv%**"] **Schnee + Eis (inkl. 1.17+)**\
+%sv% - Schnee + Eis (1.17) - snowball, snow, snow_block, ice, packed_ice, blue_ice, powder_snow_bucket
+
+### Kupferblöcke und -erzeugnisse
+
+[!badge variant="secondary" text="**%rt%**"] **Alle Kupferblöcke und Kupferblockerzeugnisse**\
+%rt% - Alle Kupferblöcke und -erzeugnisse - exposed_copper, weathered_copper, oxidized_copper, cut_copper, exposed_cut_copper, weathered_cut_copper, oxidized_cut_copper, waxed_copper_block, waxed_exposed_copper, waxed_weathered_copper, waxed_oxidized_copper, waxed_cut_copper, waxed_exposed_cut_copper, waxed_weathered_cut_copper, waxed_oxidized_cut_copper, cut_copper_slab, exposed_cut_copper_slab, weathered_cut_copper_slab, oxidized_cut_copper_slab, cut_copper_stairs, exposed_cut_copper_stairs, weathered_cut_copper_stairs, oxidized_cut_copper_stairs, waxed_cut_copper_slab, waxed_exposed_cut_copper_slab, waxed_weathered_cut_copper_slab, waxed_oxidized_cut_copper_slab, waxed_cut_copper_stairs, waxed_exposed_cut_copper_stairs, waxed_weathered_cut_copper_stairs, waxed_oxidized_cut_copper_stairs
+
+[!badge variant="secondary" text="**%uh%**"] **Alle unbearbeiteten Kupferblöcke**\
+%uh% - Alle unbearbeiteten Kupferblöcke - exposed_copper, weathered_copper, oxidized_copper
+
+[!badge variant="secondary" text="**%ru%**"] **Alle geschnittenen Kupferblöcke**\
+%ru% - Alle geschnittenen Kupferblöcke - cut_copper, exposed_cut_copper, weathered_cut_copper, oxidized_cut_copper
+
+[!badge variant="secondary" text="**%rv%**"] **Alle gewachsten Kupferblöcke**\
+%rv% - Alle gewachsten Kupferblöcke - waxed_copper_block, waxed_exposed_copper, waxed_weathered_copper, waxed_oxidized_copper, waxed_cut_copper, waxed_exposed_cut_copper, waxed_weathered_cut_copper, waxed_oxidized_cut_copper
+
+[!badge variant="secondary" text="**%ui%**"] **Alle Kupferstufen**\
+%ui% - Alle Kupferstufen - cut_copper_slab, exposed_cut_copper_slab, weathered_cut_copper_slab, oxidized_cut_copper_slab, waxed_cut_copper_slab, waxed_exposed_cut_copper_slab, waxed_weathered_cut_copper_slab, waxed_oxidized_cut_copper_slab
+
+[!badge variant="secondary" text="**%uj%**"] **Alle Kupfertreppen**\
+%uj% - Alle Kupfertreppen - cut_copper_stairs, exposed_cut_copper_stairs, weathered_cut_copper_stairs, oxidized_cut_copper_stairs, waxed_cut_copper_stairs, waxed_exposed_cut_copper_stairs, waxed_weathered_cut_copper_stairs, waxed_oxidized_cut_copper_stairs
+
+[!badge variant="secondary" text="**%rw%**"] **Alle geschnittenen Kupferblockerzeugnisse**\
+%rw% - Alle geschnittenen Kupferblockerzeugnisse - cut_copper_slab, exposed_cut_copper_slab, weathered_cut_copper_slab, oxidized_cut_copper_slab, cut_copper_stairs, exposed_cut_copper_stairs, weathered_cut_copper_stairs, oxidized_cut_copper_stairs
+
+[!badge variant="secondary" text="**%rx%**"] **Alle gewachsten, geschnittenen Kupferblockerzeugnisse**\
+%rx% - Alle gewachsten, geschnittenen Kupferblockerzeugnisse - waxed_cut_copper_slab, waxed_exposed_cut_copper_slab, waxed_weathered_cut_copper_slab, waxed_oxidized_cut_copper_slab, waxed_cut_copper_stairs, waxed_exposed_cut_copper_stairs, waxed_weathered_cut_copper_stairs, waxed_oxidized_cut_copper_stairs
+
+### Dekorationen und sonstige Baublöcke
+
+%wq% - Diverse Dekorationen - armor_stand, scaffolding, painting, item_frame, bell, chain, campfire, soul_campfire, cobweb, dragon_egg, lead, name_tag, flower_pot
+
+%sw% - Diverse Dekorationen (1.17) - armor_stand, scaffolding, painting, item_frame, bell, chain, campfire, soul_campfire, cobweb, dragon_egg, lead, name_tag, flower_pot, glow_item_frame
+
+%vv% - Alle Dorfbewohner-Arbeitsplatzblöcke - blast_furnace, cartography_table, brewing_stand, composter, barrel, fletching_table, cauldron, lectern, stonecutter, loom, smithing_table, grindstone
+
+%vw% - Diverse Nutzblöcke - crafting_table, ladder, chest, trapped_chest, ender_chest, furnace, smoker, hopper, enchanting_table, anvil, chipped_anvil, damaged_anvil, jukebox, note_block, lodestone, respawn_anchor, conduit, end_crystal, beacon
+
+%xz% - Diverse Nutzblöcke (ohne Redstone-Komponenten) - crafting_table, ladder, chest, ender_chest, furnace, smoker, enchanting_table, anvil, chipped_anvil, damaged_anvil, jukebox, lodestone, respawn_anchor, conduit, end_crystal, beacon
+
+%sm% - Diverse Nutzblöcke (1.17) - crafting_table, ladder, chest, trapped_chest, ender_chest, furnace, smoker, hopper, enchanting_table, anvil, chipped_anvil, damaged_anvil, jukebox, note_block, lodestone, respawn_anchor, conduit, end_crystal, beacon, lightning_rod
+
+%vz% - Fackeln + Laternen - torch, soul_torch, lantern, soul_lantern
+
+%aab% - Alle Lichtquellen - torch,soul_torch,lantern,soul_lantern,end_rod,glowstone,shroomlight,ochre_froglight,verdant_froglight,pearlescent_froglight
+
+%wp% - Alle Kopfvarianten - player_head, zombie_head, skeleton_skull, creeper_head, wither_skeleton_skull, dragon_head
+
+%vx% - Bücher + Bücherregale - paper, book, writable_book, written_book, bookshelf, chiseled_bookshelf
+
+%wi% - Bienennutzblöcke + Honig - bee_nest, beehive, honey_block, honeycomb, honeycomb_block, honey_bottle
+
+%aej% - Alle Sculk-Gegenstände - sculk, sculk_vein, sculk_catalyst, sculk_shrieker, sculk_sensor, calibrated_sculk_sensor
