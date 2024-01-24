@@ -13,7 +13,8 @@ Zuerst einmal freuen wir uns sehr, dass du unser Server-Wiki entdeckt hast und d
 
 Der Freebuild Server OpenMC wurde im Juli des Jahres 2019 gegründet und umfasst ein Drei-Welten-Modell. Hierbei hast du die Möglichkeit dich kreativ auszuleben – sei es beim Bauen deines Hauses oder anderer Bauwerke bis hin zu verschiedenen Großprojekten; auch technische Konstruktionen durch Redstone und Pipes, praktische Lager u.v.m. finden ihren Platz auf OpenMC.\
 Die wöchentlich stattfindenden Events sind dabei nicht zu vergessen, in welchen wir zusammen gegen Monsterwellen kämpfen, Teams gegeneinander antreten oder auch alle gegen alle spielen. Monatlich kannst du auch am Bauevent teilnehmen um dich themengesteuert kreativ zu entfalten. Zudem gibt es noch viele weitere Events.
-Bist du bereits auf den Server gejoint, kennst du schon das Einstiegsbuch, aus welchem du die ersten Informationen entnehmen konntest. Diese und weitere Inhalte werden dich hier im Wiki erwarten.\
+Bist du bereits auf den Server gejoint, kennst du schon das Einstiegsbuch, aus welchem du die ersten Informationen entnehmen konntest. Diese und weitere Inhalte werden dich hier im Wiki erwarten.
+
 Allem voran solltest du unsere Serverregeln lesen. Deren Kenntnisnahme und Akzeptanz ist notwendig, damit ein stimmiges Miteinander möglich ist. Natürlich kannst du dich bei Unklarheiten jederzeit ans Team wenden.
 
 !!!primary Tutorials
