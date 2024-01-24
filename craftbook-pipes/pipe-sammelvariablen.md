@@ -267,31 +267,67 @@ Um nach Kategorien zu suchen, kannst du die Suchfunktion der Seite oder das Inha
 
 ### Stein, Steinarten
 [!badge variant="secondary" text="**%tq%**"] **Alle Bruchsteinerzeugnisse**\
-%tq% - Alle Bruchsteinerzeugnisse - cobblestone, cobblestone_slab, cobblestone_stairs, cobblestone_wall, mossy_cobblestone, mossy_cobblestone_slab, mossy_cobblestone_stairs, mossy_cobblestone_wall
+*cobblestone, cobblestone_slab, cobblestone_stairs, cobblestone_wall, mossy_cobblestone, mossy_cobblestone_slab, mossy_cobblestone_stairs, mossy_cobblestone_wall*
 
 [!badge variant="secondary" text="**%tr%**"] **Alle Steinerzeugnisse**\
-%tr% - Alle Steinerzeugnisse - stone, stone_slab, stone_stairs, smooth_stone, smooth_stone_slab
+*stone, stone_slab, stone_stairs, smooth_stone, smooth_stone_slab*
 
 [!badge variant="secondary" text="**%tu%**"] **Alle Andesiterzeugnisse**\
-%tu% - Alle Andesiterzeugnisse - andesite, andesite_slab, andesite_stairs, andesite_wall
+*andesite, andesite_slab, andesite_stairs, andesite_wall*
 
 [!badge variant="secondary" text="**%tv%**"] **Alle polierten Andesiterzeugnisse**\
-%tv% - Alle polierten Andesiterzeugnisse - polished_andesite, polished_andesite_slab, polished_andesite_stairs
+*polished_andesite, polished_andesite_slab, polished_andesite_stairs*
 
 [!badge variant="secondary" text="**%tw%**"] **Alle Dioriterzeugnisse**\
-%tw% - Alle Dioriterzeugnisse - diorite, diorite_slab, diorite_stairs, diorite_wall
+*diorite, diorite_slab, diorite_stairs, diorite_wall*
 
 [!badge variant="secondary" text="**%tx%**"] **Alle polierten Dioriterzeugnisse**\
-%tx% - Alle polierten Dioriterzeugnisse - polished_diorite, polished_diorite_slab, polished_diorite_stairs
+*polished_diorite, polished_diorite_slab, polished_diorite_stairs*
 
 [!badge variant="secondary" text="**%op%**"] **Alle Graniterzeugnisse**\
-%op% - Alle Graniterzeugnisse - granite, granite_slab, granite_stairs, granite_wall
+*granite, granite_slab, granite_stairs, granite_wall*
 
 [!badge variant="secondary" text="**%tz%**"] **Alle polierten Graniterzeugnisse**\
-%tz% - Alle polierten Graniterzeugnisse - polished_granite, polished_granite_slab, polished_granite_stairs
+*polished_granite, polished_granite_slab, polished_granite_stairs*
 
 [!badge variant="secondary" text="**%va%**"] **Alle Steinziegelerzeugnisse**\
-%va% - Alle Steinziegelerzeugnisse - stone_bricks, stone_brick_slab, stone_brick_stairs, stone_brick_wall, mossy_stone_bricks, mossy_stone_brick_slab, mossy_stone_brick_stairs, mossy_stone_brick_wall, cracked_stone_bricks, chiseled_stone_bricks
+*stone_bricks, stone_brick_slab, stone_brick_stairs, stone_brick_wall, mossy_stone_bricks, mossy_stone_brick_slab, mossy_stone_brick_stairs, mossy_stone_brick_wall, cracked_stone_bricks, chiseled_stone_bricks*
 
 [!badge variant="secondary" text="**%aac%**"] **Alle polierten Schwarzsteinerzeugnisse**\
-%aac% - Alle polierten Schwarzsteinerzeugnisse - polished_blackstone_wall,polished_blackstone_brick_wall, polished_blackstone_button,polished_blackstone_pressure_plate,polished_blackstone,polished_blackstone_slab,polished_blackstone_stairs, chiseled_polished_blackstone,polished_blackstone_bricks,polished_blackstone_brick_slabs,polished_blackstone_brick_stairs, cracked_polished_blackstone_bricks
+*polished_blackstone_wall,polished_blackstone_brick_wall, polished_blackstone_button,polished_blackstone_pressure_plate,polished_blackstone,polished_blackstone_slab,polished_blackstone_stairs, chiseled_polished_blackstone,polished_blackstone_bricks,polished_blackstone_brick_slabs,polished_blackstone_brick_stairs, cracked_polished_blackstone_bricks*
+
+### Tiefenschiefer
+[!badge variant="secondary" text="**%sk%**"] **Alle Tiefenschiefererzeugnisse**\
+*deepslate, polished_deepslate, polished_deepslate_slab, polished_deepslate_stairs, polished_deepslate_wall, deepslate_bricks, cracked_deepslate_bricks, deepslate_brick_slab, deepslate_brick_stairs, deepslate_brick_wall, deepslate_tiles, cracked_deepslate_tiles, deepslate_tile_slab, deepslate_tile_stairs, deepslate_tile_wall, chiseled_deepslate*
+
+[!badge variant="secondary" text="**%sy%**"] **Alle Tiefenschieferartenerzeugnisse**\
+*deepslate, polished_deepslate, polished_deepslate_slab, polished_deepslate_stairs, polished_deepslate_wall*
+
+[!badge variant="secondary" text="**%sz%**"] **Alle Tiefenschieferziegelerzeugnisse**\
+*deepslate_bricks, cracked_deepslate_bricks, deepslate_brick_slab, deepslate_brick_stairs, deepslate_brick_wall*
+
+[!badge variant="secondary" text="**%ty%**"] **Alle Tiefenschieferziegelerzeugnisse**\
+*deepslate_tiles, cracked_deepslate_tiles, deepslate_tile_slab, deepslate_tile_stairs, deepslate_tile_wall*
+
+[!badge variant="secondary" text="**%si%**"] **Alle Bruchtiefernschiefererzeugnisse**\
+*cobbled_deepslate, cobbled_deepslate_slab, cobbled_deepslate_stairs, cobbled_deepslate_wall*
+
+### Nether
+[!badge variant="secondary" text="**%vg%**"] **Alle Schwarzsteinerzeugnisse**\
+%vg% - Alle Schwarzsteinerzeugnisse - blackstone, blackstone_slab, blackstone_stairs, blackstone_wall
+
+[!badge variant="secondary" text="**%vh%**"] **Alle polierten, gerissenen, gemeißelten Schwarzsteinerzeugnisse**\
+%vh% - Alle polierten, gerissenen, gemeißelten Schwarzsteinerzeugnisse - polished_blackstone, polished_blackstone_slab, polished_blackstone_stairs, polished_blackstone_wall, polished_blackstone_bricks, polished_blackstone_brick_slab, polished_blackstone_brick_stairs, polished_blackstone_brick_wall, cracked_polished_blackstone_bricks, chiseled_polished_blackstone
+
+[!badge variant="secondary" text="**%vi%**"] **Alle Netherziegelerzeugnisse**\
+%vi% - Alle Netherziegelerzeugnisse - nether_brick, nether_bricks, nether_brick_slab, nether_brick_stairs, nether_brick_wall, nether_brick_fence, cracked_nether_bricks, chiseled_nether_bricks
+
+[!badge variant="secondary" text="**%vj%**"] **Alle roten Netherziegelerzeugnisse**\
+%vj% - Alle roten Netherziegelerzeugnisse - red_nether_bricks, red_nether_brick_slab, red_nether_brick_stairs, red_nether_brick_wall
+
+[!badge variant="secondary" text="**%vk%**"] **Alle Quartzerzeugnisse**\
+%vk% - Alle Quartzerzeugnisse - quartz, quartz_block, quartz_slab, quartz_stairs, smooth_quartz, smooth_quartz_slab, smooth_quartz_stairs, chiseled_quartz_block, quartz_pillar, quartz_bricks
+
+[!badge variant="secondary" text="**%pw%**"] **Diverse Netherpflanzen**\
+%pw% - Diverse Netherpflanzen - nether_wart_block, warped_wart_block, shroomlight, nether_wart, warped_fungus, crimson_fungus, twisting_vines, weeping_vines, warped_roots, crimson_roots
+
