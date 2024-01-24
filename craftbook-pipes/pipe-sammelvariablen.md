@@ -27,7 +27,7 @@ Um nach Kategorien zu suchen, kannst du die Suchfunktion der Seite oder das Inha
 [!badge %za%] **Alle Holzstämme**\
 *oak_log,spruce_log, birch_log, jungle_log, acacia_log, dark_oak_log, crimson_stem, warped_stem, mangrove_log, cherry_log*
 
-[!badge variant="info" text="%wx%"] **Alle Hölzer**\
+[!badge variant="info" size="l" text="%wx%"] **Alle Hölzer**\
 *oak_wood, spruce_wood, birch_wood, jungle_wood, acacia_wood, dark_oak_wood, mangrove_wood,crimson_hyphae, warped_hyphae, cherry_wood, bamboo_block*
 
 [!badge %zb%] **Alle entrindeten Holzstämme**\
