@@ -16,7 +16,7 @@ Das Wiki wurde grundlegend überarbeitet. Es gibt ein neues User-Interface mit n
 **Herzlich Willkommen im OpenMC Wiki :wave:**
 
 Hier findest du umfangreiche Informationen zu den Funkionen des Servers.\
-Nutze gerne die leistungsstarke Suchfunktion [!badge variant="light" text="/"] oder das Menü auf der linken Seite.
+Nutze gerne die Suchfunktion oder das Menü auf der linken Seite.
 
 ## Schnellnavigation
 <style>
