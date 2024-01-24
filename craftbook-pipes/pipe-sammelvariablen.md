@@ -100,3 +100,56 @@ Um nach Kategorien zu suchen, kannst du die Suchfunktion der Seite oder das Inha
 
 [!badge variant="secondary" text="**%aef%**"] **Alle Bambusblöcke + Erzeugnisse**\
 *bamboo_block, stripped_bamboo_block, bamboo_planks, bamboo_slab, bamboo_stairs, bamboo_pressure_plate, bamboo_fence, bamboo_trapdoor, bamboo_fence_gate, bamboo_fence, bamboo_button, bamboo_door, bamboo_raft, bamboo_sign, bamboo_hanging_sign, bamboo_mosaic, bamboo_mosaic_stairs, bamboo_mosaic_slab*
+
+#### Alle Holzerzeugnisse (ohne Stämme, einzelne Holztypen)
+[!badge variant="secondary" text="**%kc%**"] **Alle Eichenerzeugnisse**\
+*oak_planks, oak_slab, oak_stairs, oak_pressure_plate, oak_fence, oak_trapdoor, oak_fence_gate, oak_fence, oak_button, oak_door, oak_boat, oak_sign, oak_hanging_sign*
+
+[!badge variant="secondary" text="**%kd%**"] **Alle Fichtenerzeugnisse**\
+*spruce_planks, spruce_slab, spruce_stairs, spruce_pressure_plate, spruce_fence, spruce_trapdoor, spruce_fence_gate, spruce_fence, spruce_button, spruce_door, spruce_boat, spruce_sign, spruce_hanging_sign*
+
+[!badge variant="secondary" text="**%ke%**"] **Alle Birkenerzeugnisse**\
+*birch_planks, birch_slab, birch_stairs, birch_pressure_plate, birch_fence, birch_trapdoor, birch_fence_gate, birch_fence, birch_button, birch_door, birch_boat, birch_sign, birch_hanging_sign*
+
+[!badge variant="secondary" text="**%kf%**"] **Alle Tropenbaumerzeugnisse**\
+*jungle_planks, jungle_slab, jungle_stairs, jungle_pressure_plate, jungle_fence, jungle_trapdoor, jungle_fence_gate, jungle_fence, jungle_button, jungle_door, jungle_boat, jungle_sign, jungle_hanging_sign*
+
+[!badge variant="secondary" text="**%lb%**"] **Alle Akazienerzeugnisse**\
+*acacia_planks, acacia_slab, acacia_stairs, acacia_pressure_plate, acacia_fence, acacia_trapdoor, acacia_fence_gate, acacia_fence, acacia_button, acacia_door, acacia_boat, acacia_sign, acacia_hanging_sign*
+
+[!badge variant="secondary" text="**%lc%**"] **Alle Schwarzeichenerzeugnisse**\
+*dark_oak_planks, dark_oak_slab, dark_oak_stairs, dark_oak_pressure_plate, dark_oak_fence, dark_oak_trapdoor, dark_oak_fence_gate, dark_oak_fence, dark_oak_button, dark_oak_door, dark_oak_boat, dark_oak_sign, dark_oak_hanging_sign*
+
+[!badge variant="secondary" text="**%ld%**"] **Alle Karmesinerzeugnisse**\
+*crimson_planks, crimson_slab, crimson_pressure_plate, crimson_fence, crimson_trapdoor, crimson_fence_gate, crimson_stairs, crimson_button, crimson_door, crimson_sign, crimson_hanging_sign*
+
+[!badge variant="secondary" text="**%lf%**"] **Alle Wirrstielerzeugnisse**\
+*warped_planks, warped_slab, warped_pressure_plate, warped_fence, warped_trapdoor, warped_fence_gate, warped_stairs, warped_button, warped_door, warped_sign, warped_hanging_sign*
+
+[!badge variant="secondary" text="**%wy%**"] **Alle Mangrovenerzeugnisse**\
+*mangrove_planks, mangrove_slab, mangrove_stairs, mangrove_pressure_plate, mangrove_fence, mangrove_trapdoor, mangrove_fence_gate, mangrove_fence, mangrove_button, mangrove_door, mangrove_boat, mangrove_sign*
+
+[!badge variant="secondary" text="**%aed%**"] **Alle Kirscherzeugnisse**\
+*cherry_planks, cherry_slab, cherry_stairs, cherry_pressure_plate, cherry_fence, cherry_trapdoor, cherry_fence_gate, cherry_fence, cherry_button, cherry_door, cherry_boat, cherry_sign, cherry_hanging_sign*
+
+[!badge variant="secondary" text="**%ael%**"] **Alle Bambuserzeugnisse**\
+*bamboo_block, bamboo_planks, bamboo_slab, bamboo_stairs, bamboo_pressure_plate, bamboo_fence, bamboo_trapdoor, bamboo_fence_gate, bamboo_fence, bamboo_button, bamboo_door, bamboo_raft, bamboo_sign, bamboo_hanging_sign, bamboo_mosaic, bamboo_mosaic_stairs, bamboo_mosaic_slab*
+
+#### Bretter, Setzlinge, Laub, Holzstufen und Treppen
+[!badge variant="secondary" text="**%zc%**"] **Alle Bretter**\
+*oak_planks, spruce_planks, birch_planks, jungle_planks, acacia_planks, dark_oak_planks, crimson_planks, warped_planks, mangrove_planks, cherry_planks, bamboo_planks*
+
+[!badge variant="secondary" text="**%zd%**"] **Alle Setzlinge**\
+*oak_sapling, spruce_sapling, birch_sapling, jungle_sapling, acacia_sapling, dark_oak_sapling, mangrove_propagule, cherry_sapling*
+
+[!badge variant="secondary" text="**%ze%**"] **Alle Blätter**\
+*oak_leaves, dark_oak_leaves, spruce_leaves, birch_leaves, jungle_leaves, acacia_leaves, mangrove_leaves, cherry_leaves*
+
+[!badge variant="secondary" text="**%rr%**"] **Alle Blätter (1.17+)**\
+*oak_leaves, dark_oak_leaves, spruce_leaves, birch_leaves, jungle_leaves, acacia_leaves, azalea_leaves, flowering_azalea_leaves*
+
+[!badge variant="secondary" text="**%ts%**"] **Alle Holzstufen**\
+*oak_slab, spruce_slab, birch_slab, jungle_slab, acacia_slab, dark_oak_slab, crimson_slab, warped_slab, mangrove_slab, cherry_slab, bamboo_slab, bamboo_mosaic_slab*
+
+[!badge variant="secondary" text="**%tt%**"] **Alle Holztreppen**\
+*oak_stairs, spruce_stairs, birch_stairs, jungle_stairs, acacia_stairs, dark_oak_stairs, crimson_stairs, warped_stairs, mangrove_stairs, cherry_stairs, bamboo_stairs, bamboo_mosaic_stairs*
