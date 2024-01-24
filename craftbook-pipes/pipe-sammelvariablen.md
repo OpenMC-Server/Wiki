@@ -153,3 +153,40 @@ Um nach Kategorien zu suchen, kannst du die Suchfunktion der Seite oder das Inha
 
 [!badge variant="secondary" text="**%tt%**"] **Alle Holztreppen**\
 *oak_stairs, spruce_stairs, birch_stairs, jungle_stairs, acacia_stairs, dark_oak_stairs, crimson_stairs, warped_stairs, mangrove_stairs, cherry_stairs, bamboo_stairs, bamboo_mosaic_stairs*
+
+### Schilder, Türen, etc.
+[!badge variant="secondary" text="**%zf%**"] **Alle Schilder**\
+*oak_sign, spruce_sign, birch_sign, jungle_sign, acacia_sign, dark_oak_sign, crimson_sign, warped_sign, mangrove_sign, cherry_sign, bamboo_sign*
+
+[!badge variant="secondary" text="**%aeg%**"] **Alle Hängechilder**\
+*oak_hanging_sign, spruce_hanging_sign, birch_hanging_sign, jungle_hanging_sign, acacia_hanging_sign, dark_oak_hanging_sign, mangrove_hanging_sign, crimson_hanging_sign, warped_hanging_sign, cherry_hanging_sign, bamboo_hanging_sign*
+
+[!badge variant="secondary" text="**%zh%**"] **Alle Falltüren**\
+*oak_trapdoor, spruce_trapdoor, birch_trapdoor, jungle_trapdoor, acacia_trapdoor, dark_oak_trapdoor, iron_trapdoor, crimson_trapdoor, warped_trapdoor, mangrove_trapdoor, cherry_trapdoor, bamboo_trapdoor*
+
+[!badge variant="secondary" text="**%zi%**"] **Alle Knöpfe**\
+*stone_button, dark_oak_button, acacia_button, jungle_button, birch_button, spruce_button, oak_button, crimson_button, warped_button, mangrove_button, polished_blackstone_button, cherry_button, bamboo_button*
+
+[!badge variant="secondary" text="**%py%**"] **Alle Druckplatten**\
+*light_weighted_pressure_plate, heavy_weighted_pressure_plate, stone_pressure_plate, polished_blackstone_pressure_plate, oak_pressure_plate, spruce_pressure_plate, birch_pressure_plate, jungle_pressure_plate, acacia_pressure_plate, dark_oak_pressure_plate, crimson_pressure_plate, warped_pressure_plate*
+
+[!badge variant="secondary" text="**%zg%**"] **Alle Türen**\
+*oak_door, spruce_door, birch_door, jungle_door, acacia_door, dark_oak_door, crimson_door, warped_door, iron_door, mangrove_door, cherry_door, bamboo_door*
+
+[!badge variant="secondary" text="**%zk%**"] **Alle Zäune**\
+*oak_fence, birch_fence, spruce_fence, jungle_fence, acacia_fence, dark_oak_fence, nether_brick_fence, crimson_fence, warped_fence, mangrove_fence, cherry_fence, bamboo_fence*
+
+[!badge variant="secondary" text="**%zl%**"] **Alle Zauntore**\
+*oak_fence_gate, spruce_fence_gate, birch_fence_gate, jungle_fence_gate, acacia_fence_gate, dark_oak_fence_gate, crimson_fence_gate, warped_fence_gate, mangrove_fence_gate, cherry_fence_gate, bamboo_fence_gate*
+
+[!badge variant="secondary" text="**%zm%**"] **Alle Treppen**\
+*diorite_stairs, polished_andesite_stairs, red_nether_brick_stairs, andesite_stairs, granite_stairs, smooth_quartz_stairs, stone_stairs, end_stone_brick_stairs, mossy_cobblestone_stairs, jungle_stairs, birch_stairs, spruce_stairs, polished_diorite_stairs, sandstone_stairs, smooth_sandstone_stairs, mossy_stone_brick_stairs, dark_oak_stairs, mangrove_stairs,purpur_stairs,stone_brick_stairs,brick_stairs,cobblestone_stairs,oak_stairs,smooth_red_sandstone_stairs,polished_granite_stairs, red_sandstone_stairs, dark_prismarine_stairs, prismarine_brick_stairs, prismarine_stairs, nether_brick_stairs, acacia_stairs, quartz_stairs, crimson_stairs, warped_stairs, blackstone_stairs, polished_blackstone_stairs, polished_blackstone_brick_stairs, obbled_deepslate_stairs, deepslate_brick_stairs, deepslate_tile_stairs, polished_deepslate_stairs, cherry_stairs, bamboo_stairs, bamboo_mosaic_stairs*
+
+[!badge variant="secondary" text="**%zn%**"] **Alle Stufen**\
+*smooth_stone_slab, oak_slab, spruce_slab, birch_slab, acacia_slab, jungle_slab, dark_oak_slab, mangrove_slab,stone_slab, sandstone_slab, cut_sandstone_slab, petrified_oak_slab, brick_slab, stone_brick_slab, nether_brick_slab, quartz_slab, red_sandstone_slab, cut_red_sandstone_slab, purpur_slab, prismarine_slab, prismarine_brick_slab, dark_prismarine_slab, polished_diorite_slab, smooth_red_sandstone_slab, mossy_stone_brick_slab, polished_granite_slab, mossy_cobblestone_slab, end_stone_brick_slab, smooth_sandstone_slab, smooth_quartz_slab, granite_slab, andesite_slab, red_nether_brick_slab, polished_andesite_slab, diorite_slab, cobblestone_slab, warped_slab, crimson_slab, blackstone_slab, polished_blackstone_slab, polished_blackstone_brick_slab, cobbled_deepslate_slab, deepslate_brick_slab, deepslate_tile_slab, polished_deepslate_slab, cherry_slab, bamboo_slab, bamboo_mosaic_slab*
+
+[!badge variant="secondary" text="**%zo%**"] **Alle Mauern**\
+*cobblestone_wall, mossy_cobblestone_wall, brick_wall, prismarine_wall, red_sandstone_wall, mossy_stone_brick_wall, granite_wall, stone_brick_wall, nether_brick_wall, andesite_wall, red_nether_brick_wall, sandstone_wall, end_stone_brick_wall, diorite_wall, blackstone_wall, polished_blackstone_wall, polished_blackstone_brick_wall, cobbled_deepslate_wall, deepslate_brick_wall, deepslate_tile_wall, polished_deepslate_wall*
+
+[!badge variant="secondary" text="**%vs%**"] **Alle Boote**\
+*oak_boat, spruce_boat, birch_boat, jungle_boat, acacia_boat, dark_oak_boat, cherry_boat, bamboo_raft*
