@@ -497,3 +497,71 @@ Um nach Kategorien zu suchen, kannst du die Suchfunktion der Seite oder das Inha
 
 [!badge variant="secondary" text="**%aej%**"] **Alle Sculk-Gegenstände**\
 *sculk, sculk_vein, sculk_catalyst, sculk_shrieker, sculk_sensor, calibrated_sculk_sensor*
+
+### Werkzeuge
+[!badge variant="secondary" text="**%yu%**"] **Alle Spitzhacken**\
+*wooden_pickaxe, stone_pickaxe, iron_pickaxe, golden_pickaxe, diamond_pickaxe, netherite_pickaxe*
+
+[!badge variant="secondary" text="**%yv%**"] **Alle Schaufeln**\
+*wooden_shovel, stone_shovel, iron_shovel, golden_shovel, diamond_shovel, netherite_shovel*
+
+[!badge variant="secondary" text="**%yw%**"] **Alle Äxte**\
+*wooden_axe, stone_axe, iron_axe, golden_axe, diamond_axe, netherite_axe*
+
+[!badge variant="secondary" text="**%yx%**"] **Alle Hacken**\
+*wooden_hoe, stone_hoe, iron_hoe, golden_hoe, diamond_hoe, netherite_hoe*
+
+[!badge variant="secondary" text="**%uv%**"] **Alle Holzwerkzeuge**\
+*wooden_pickaxe, wooden_shovel, wooden_axe, wooden_hoe*
+
+[!badge variant="secondary" text="**%uw%**"] **Alle Steinwerkzeuge**\
+*stone_pickaxe, stone_shovel, stone_axe, stone_hoe*
+
+[!badge variant="secondary" text="**%ux%**"] **Alle Eisenwerkzeuge**\
+*iron_pickaxe, iron_shovel, iron_axe, iron_hoe*
+
+[!badge variant="secondary" text="**%uy%**"] **Alle Goldwerkzeuge**\
+*golden_pickaxe, golden_shovel, golden_axe, golden_hoe*
+
+[!badge variant="secondary" text="**%uz%**"] **Alle Diamantwerkzeuge**\
+*diamond_pickaxe, diamond_shovel, diamond_axe, diamond_hoe*
+
+[!badge variant="secondary" text="**%wu%**"] **Alle Netheritewerkzeuge**\
+*netherite_pickaxe, netherite_shovel, netherite_axe, netherite_hoe*
+
+### Waffen, Rüstungen
+[!badge variant="secondary" text="**%yn%**"] **Alle Lederrüstungsteile**\
+*leather_helmet, leather_chestplate, leather_leggings, leather_boots*
+
+[!badge variant="secondary" text="**%yo%**"] **Alle Kettenrüstungsteile**\
+*chainmail_helmet, chainmail_chestplate, chainmail_leggings, chainmail_boots*
+
+[!badge variant="secondary" text="**%yp%**"] **Alle Goldrüstungsteile**\
+*golden_helmet, golden_chestplate, golden_leggings, golden_boots*
+
+[!badge variant="secondary" text="**%yq%**"] **Alle Eisenrüstungsteile**\
+*iron_helmet, iron_chestplate, iron_leggings, iron_boots*
+
+[!badge variant="secondary" text="**%yr%**"] **Alle Diamantrüstungsteile**\
+*diamond_helmet, diamond_chestplate, diamond_leggings, diamond_boots*
+
+[!badge variant="secondary" text="**%ys%**"] **Alle Netheriterüstungsteile**\
+*netherite_helmet, netherite_chestplate, netherite_leggings, netherite_boots*
+
+[!badge variant="secondary" text="**%aag%**"] **Alle Helme**\
+*leather_helmet,chainmail_helmet,golden_helmet,iron_helmet,diamond_helmet,netherite_helmet,turtle_helmet*
+
+[!badge variant="secondary" text="**%aah%**"] **Alle Brustplatten**\
+*leather_chestplate,chainmail_chestplate,golden_chestplate,iron_chestplate,diamond_chestplate,netherite_chestplate*
+
+[!badge variant="secondary" text="**%aai%**"] **Alle Hosen**\
+*leather_leggings,chainmail_leggings,golden_leggings,iron_leggings,diamond_leggings,netherite_leggings*
+
+[!badge variant="secondary" text="**%aaj%**"] **Alle Schuhe**\
+*leather_boots,chainmail_boots,golden_boots,iron_boots,diamond_boots,netherite_boots*
+
+[!badge variant="secondary" text="**%yt%**"] **Alle Schwerter**\
+*wooden_sword, stone_sword, iron_sword, golden_sword, diamond_sword, netherite_sword*
+
+[!badge variant="secondary" text="**%wt%**"] **Alle Waffen**\
+*wooden_sword, stone_sword, iron_sword, golden_sword, diamond_sword, netherite_sword, bow, crossbow, trident, flint_and_steel, shield*
