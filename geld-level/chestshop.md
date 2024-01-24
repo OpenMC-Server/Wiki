@@ -21,7 +21,7 @@ Mit einem ChestShop kannst du Items an- und verkaufen.
 3. Beschrifte das Schild wie auf dem Bild gezeigt (Achtung: die erste Zeile muss leer bleiben!).
 4. Klicke mit dem Item auf das Schild. Fertig!
 
-<img src="/images/shoperstellung.png" alt="1. Zeile: Freilassen | 2. Zeile: Anzahl | 3. Zeile: Preis | 4. Zeile: Fragezeichen (?)">
+![1. Zeile: Freilassen | 2. Zeile: Anzahl | 3. Zeile: Preis | 4. Zeile: Fragezeichen (?)](/images/shoperstellung.png)
 
 `B` = Item-Verkaufspreis, `S` = Item-Ankaufspreis\
 Du kannst nur einen Verkaufs- oder Ankaufspreis oder beide Preise mit einem `:` in der Mitte angeben.
