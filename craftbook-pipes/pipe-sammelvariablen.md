@@ -35,3 +35,34 @@ Um nach Kategorien zu suchen, kannst du die Suchfunktion der Seite oder das Inha
 
 [!badge %ww%] **Alle entrindeten Hölzer**\
 *stripped_oak_wood, stripped_spruce_wood, stripped_birch_wood, stripped_acacia_wood, stripped_jungle_wood, stripped_dark_oak_wood, stripped_crimson_hyphae, stripped_warped_hyphae, stripped_mangrove_wood, stripped_cherry_wood, stripped_bamboo_block*
+
+#### Stämme + Holz (einzelne Holztypen)
+[!badge %aa%] **Alle Eichenstämme/hölzer**\
+*oak_log, oak_wood, stripped_oak_log, stripped_oak_wood*
+
+[!badge %ab%] **Alle Fichtenstämme/hölzer**\
+*spruce_log, spruce_wood, stripped_spruce_log, stripped_spruce_wood*
+
+[!badge %ac%] **Alle Birkenstämme/hölzer**\
+*birch_log, birch_wood, stripped_birch_log, stripped_birch_wood*
+
+[!badge %ad%] **Alle Tropenholzstämme/hölzer**\
+*jungle_log, jungle_wood, stripped_jungle_log, stripped_jungle_wood*
+
+[!badge %ae%] **Alle Akazienstämme/hölzer**\
+*acacia_log, acacia_wood, stripped_acacia_log, stripped_acacia_wood*
+
+[!badge %af%] **Alle Schwarzeichenstämme/hölzer**\
+*dark_oak_log, dark_oak_wood, stripped_dark_oak_log, stripped_dark_oak_wood*
+
+[!badge %ea%] **Alle Wirrstielstämme/hölzer**\
+*warped_stem, warped_hyphae, stripped_warped_stem, stripped_warped_hyphae*
+
+[!badge %eb%] **Alle Karmesinstämme/hölzer**\
+*crimson_stem, crimson_hyphae, stripped_crimson_stem, stripped_crimson_hyphae*
+
+[!badge %wr%] **Alle Mangrovenstämme/hölzer**\
+*mangrove_log, mangrove_wood, stripped_mangrove_log, stripped_mangrove_wood*
+
+[!badge %aec%] **Alle Kirschstämme/hölzer**\
+*cherry_log,cherry_wood,stripped_cherry_log,stripped_cherry_wood*
