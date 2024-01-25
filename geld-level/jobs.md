@@ -20,7 +20,7 @@ Jobs¹                       | 1       | 2       | 3     | 3     |           | 3
 
 ¹ Auch beim Wechsel auf einen niedrigeren Rang bleiben bereits angenommene Jobs erhalten, können aber nicht mehr gewechselt werden.
 
-Alle erreichten Joblevel werden gespeichert und können jederzeit weiter gesammelt werden. Das maximale Level pro Job liegt bei 200.
+Alle erreichten Joblevel werden beim Verlassen des Jobs gespeichert und können jederzeit weiter gesammelt werden. Das maximale Level pro Job liegt bei 200.
 
 ## Aktionslimit
 Um ein Gleichgewicht im Jobsystem zu wahren und Missbrauch vorzubeugen, gibt es ein Aktionslimit für jeden Job. Dieses beschreibt die höchstmögliche Anzahl an Aktionen, mit denen man im 5-Sekunden-Takt Geld verdienen kann. Tötet man im Job Jäger innerhalb von 5 Sekunden beispielsweise 100 Mobs, so wird man nur für die ersten 10 bezahlt. Somit wollen wir das Ausnutzen großer Farmkomplexe verhindern und damit einer stetigen Inflation oder einer konstanten Nachjustierung der Erträge ausweichen.
