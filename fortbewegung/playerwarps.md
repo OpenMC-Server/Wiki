@@ -49,7 +49,7 @@ Mögliche Aliase: `/pwarp` `/pw` `/playerwarp`
 `/pwarp desc set <warpname> <beschreibung>`
 :   Mit diesem Befehl kannst du eine Beschreibung zu deinem PlayerWarp eingeben, welche im Menü angezeigt wird.
 
-`/pwarp category set <warpname> <bauwerke/farmen/shop/sonstiges>`
+`/pwarp category set <warpname> <kategorie>`
 :   Sortiert den PlayerWarp in eine der vier Kategorien ein.
 
 `/pw-visits`
