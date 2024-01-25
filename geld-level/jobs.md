@@ -28,7 +28,7 @@ Um ein Gleichgewicht im Jobsystem zu wahren und Missbrauch vorzubeugen, gibt es 
 ## Verfügbare Jobs
 {.compact}
 Job         | Tätigkeit                             | Aktionslimit (je 5s)
-:---:       | :---:                                 | :---:
+---         | ---                                   | ---
 Holzfäller  | Fällen und Pflanzen von Bäumen        | 25
 Miner	    | Abbauen von Mineralien und Erzen      | 50
 Baumeister	| Platzieren von Blöcken                | 20
@@ -47,8 +47,7 @@ Der Wert der y-Achse (senkrechte Achse) gibt dabei den Faktor des Verdienstes an
 
 Das bedeutet, dass man am Anfang eines Jobs am meisten verdient. Gegen Level 28 in etwa beträgt der Faktor 0.2 (daher ist der Verdienst etwa 1/5 vom Start). Auf Level 50 etwa beträgt der Faktor dann wieder 0.5 (daher ist der Verdienst etwa ½ vom Start).
 
-Der Wert der x-Achse (horizontale Achse) gibt bei der orangenen Kurve die Spielstunden in dem Job an.\
-Der Wert der x-Achse (horizontale Achse) gibt bei der blauen Kurve das Level des Jobs an.
+Der Wert der x-Achse (horizontale Achse) gibt bei der orangenen Kurve die Spielstunden im Job und bei der blauen Kurve das Level des Jobs an.\
 
 ## Befehle
 `/jobs browse`
