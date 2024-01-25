@@ -51,7 +51,6 @@ Mögliche Aliase: `/pwarp` `/pw` `/playerwarp`
 
 `/pwarp category set <warpname> <bauwerke/farmen/shop/sonstiges>`
 :   Sortiert den PlayerWarp in eine der vier Kategorien ein.
-    \
 
 `/pw-visits`
 :   Schaltet Besucher-Benachrichtigungen, wenn sich jemand zu deinem Playerwarp teleportiert, an oder aus.
