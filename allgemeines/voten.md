@@ -55,7 +55,7 @@ Die VoteChests, auch Votekisten genannt, sind der einzige Weg, um Votecoins ausz
 :   Mit diesem Befehl kannst du eine beliebige Anzahl an Votecoins an eine andere Person schicken. Dieser Befehl kann ebenfalls nur verwendet werden, wenn die Person online ist und sich auf dem gleichen Server (Bauwelt, Farmwelt, Industriewelt, Eventwelt) wie du befindet.
 
 ### Wahrscheinlichkeiten
-==- Resource Chest [!badge 1 VC]
+==- Resource Chest [!badge variant="info" text="1 VC"]
 
 {.compact}
 Gewinn                  | Wahrscheinlichkeit in %
@@ -86,7 +86,7 @@ Gewinn                  | Wahrscheinlichkeit in %
 15000 $                 | 0,31 
 3 Shard I               | 1,67
 
-==- Combat Chest [!badge 6 VC]
+==- Combat Chest [!badge variant="info" text="6 VC"]
 
 {.compact}
 Gewinn                              | Wahrscheinlichkeit in %
@@ -126,7 +126,7 @@ Goldapfel                           | 0,73
 3 Shard I                           | 10,00
 Niete                               | 5,99
 
-==- Tool Chest [!badge 5 VC]
+==- Tool Chest [!badge variant="info" text="5 VC"]
 
 {.compact}
 Gewinn                                              | Wahrscheinlichkeit in %
@@ -157,7 +157,7 @@ Verzaubertes Buch: Haltbarkeit III                  | 11,97
 3 Shard I                                           | 8,33
 Niete                                               | 8,59
 
-==- Claim Chest [!badge 2 VC]
+==- Claim Chest [!badge variant="info" text="2 VC"]
 
 {.compact}
 Gewinn                      | Wahrscheinlichkeit in %
@@ -170,7 +170,7 @@ Gewinn                      | Wahrscheinlichkeit in %
 10000 Claimblöcke           | 2,27
 15000 Claimblöcke           | 1,14
 
-==- Collector Chest [!badge 4 VC]
+==- Collector Chest [!badge variant="info" text="4 VC"]
 
 {.compact}
 Gewinn                          | Wahrscheinlichkeit in %
