@@ -19,7 +19,7 @@ PlayerWarps¹                | 1       | 2       | 1     | 2     | 5         | 5
 
 ¹ Auch beim Wechsel auf einen niedrigeren Rang bleiben bereits gesetzte PlayerWarps erhalten.
 
-Um deinen erstellten Warp anschließend einer Kategorie zuzuweisen, nutze den Befehl `/pwarp category set <warpname> <bauwerke/farmen/shop/sonstiges>`. So können ihn andere Spieler leichter finden.
+Um deinen erstellten Warp anschließend einer Kategorie zuzuweisen, nutze den Befehl `/pwarp category set <warpname> <bauwerke / farmen / shop / sonstiges>`. So können ihn andere Spieler leichter finden.
 
 ## Befehle
 Mögliche Aliase: `/pwarp` `/pw` `/playerwarp`
@@ -49,7 +49,7 @@ Mögliche Aliase: `/pwarp` `/pw` `/playerwarp`
 `/pwarp desc set <warpname> <beschreibung>`
 :   Mit diesem Befehl kannst du eine Beschreibung zu deinem PlayerWarp eingeben, welche im Menü angezeigt wird.
 
-`/pwarp category set <warpname> <bauwerke/farmen/shop/sonstiges>`
+`/pwarp category set <warpname> <bauwerke / farmen / shop / sonstiges>`
 :   Sortiert den PlayerWarp in eine der vier Kategorien ein.
 
 `/pw-visits`

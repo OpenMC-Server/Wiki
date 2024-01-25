@@ -7,7 +7,7 @@ icon: package
 
 # ChestShop
 
-Mit einem ChestShop kannst du Items an- und verkaufen.
+Mit einem ChestShop in der Bauwelt kannst du Items an- und verkaufen.
 
 ## Shop erstellen
 !!!warning Wichtiger Hinweis:
