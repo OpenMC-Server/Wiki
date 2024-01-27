@@ -19,5 +19,7 @@ So erstellst du eine Partikelgruppe:
 2. Klicke auf "Partikelgruppen verwalten" und "Partikelgruppe erstellen".
 3. Fertig. Du kannst diese Partikelgruppe nun immer wieder aufrufen.
 
+---
+
 ## Partikel entfernen
 Aktive Partikel kannst du unter "Partikel verwalten" und aktive Partikelgruppen unter "Partikelgruppen verwalten" entfernen.

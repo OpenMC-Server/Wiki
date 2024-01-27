@@ -16,6 +16,8 @@ icon: log
 **0.3** Kommunikationsbereitschaft und Vertrauenswürdigkeit sind Voraussetzung zum Spielen auf OpenMC.\
 **0.4** Verweigerung von Kontakt mit uns, oder Vertrauensbruch uns oder anderen Spielern gegenüber sind die einzigen Bangründe auf OpenMC. Solche Bans sind grundsätzlich zeitlich unbeschränkt.
 
+---
+
 ## §1 Allgemeines
 **1.1** Begegnet allen Spielern stets respektvoll, ob im Spiel oder auf Discord. Das gezielte offensive Verhalten gegenüber anderen Mitspielern wird nicht geduldet.\
 **1.2** Spam und anhaltendes Schreiben im Capslock, ferner Werbung für Angebote außerhalb von OpenMC sind zu unterlassen.\
@@ -27,15 +29,21 @@ icon: log
 **1.8** Das bewusste Ausnutzen von Grauzonen der Regeln ist nicht gestattet. Bei Unsicherheiten ist das Team zu Rate zu ziehen – und dessen Aufklärung zu respektieren.\
 **1.9** Der Server lebt von dem kontinuierlichen Austausch zwischen der Spielerschaft und dem Team. Das Einreichen von Vorschlägen ist demnach sehr erwünscht. Sollte das Team jedoch festlegen, dass ein Vorschlag aus konzeptionellen oder vergleichbaren Gründen nicht implementiert wird, ist dies zu respektieren.
 
+---
+
 ## §2 Modifikationen
 **2.1** Die Verwendung von Clientmods, die dem Verwender einen unfairen Vorteil verschaffen, ist verboten (X-Ray, Freecam, Killaura, …).\
 **2.2** Die Verwendung von Autoclickern (Software oder Hardware) sowie von jeglichen Skripten und Einstellungen mit vergleichbaren Resultaten ist untersagt. Ausgenommen davon ist die Verwendung bei Chatnachrichten und -befehlen.\
 **2.3** Bei der Verwendung von Litematica sind ausschließlich Hologramme zum Nachbau von Kreationen gestattet – alle weiteren Funktionen sind untersagt (z.B. EasyPlacemode). Beim Bauevent ist Litematica ebengleich nutzbar, dabei jedoch ausschließlich zum Nachbau eigener Kreationen – keineswegs jene Anderer.\
 **2.4** Bei Unsicherheiten freut sich das Team über Nachfragen. (Badlion, Optifine, MiniMaps und Inventory Sorter sind ausdrücklich erlaubt.)
 
+---
+
 ## §3 PvP
 **3.1** PvP ist grundsätzlich deaktiviert. Wird PvP explizit aktiviert (`/pvp on`), so erfolgt dies auf eigene Gefahr. Durch einen Kampf verlorene Items oder Level müssen nicht zurückerstattet werden.\
 **3.2** Fallen, die zum Tod eines Spielers führen (etwa 1x1-Löcher), dürfen nicht gebaut werden.
+
+---
 
 ## §4 Redstone und Farmen
 **4.1** Wir bitten alle Spieler, unsere Serverhardware nicht mehr als nötig oder vertretbar zu belasten.\
@@ -47,6 +55,8 @@ icon: log
 **4.7** Das Umgehen des AFK-Kicks (z.B. durch AFK-Pools, Skripts, etc.) ist nicht erlaubt.\
 **4.8** Passives Laden von Chunks durch technische Vorrichtungen oder Dummy-Accounts ist nicht gestattet.\
 **4.9** Redstoneshops (stattdessen Chestshops verwenden) und fehlerhafte Glücksspielsysteme sind verboten.
+
+---
 
 ## §5 Bauen
 **5.1** Griefing und Diebstahl ist ein Vertrauensbruch und in allen Welten verboten.\

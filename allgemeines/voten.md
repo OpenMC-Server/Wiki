@@ -20,6 +20,8 @@ Bitte vote während Restarts und Wartungsarbeiten **nicht** für den Server. Die
 Tipp: Wenn du mit `/vote` auf dem Server votest wird dein Name automatisch vorausgefüllt, und du musst nur auf "Bestätigen" klicken.\
 Dort kannst du auch deinen persönlichen Votelink kopieren und z.B. für unterwegs abspeichern.
 
+---
+
 ## Belohnungen
 Je Vote erhältst du:
 
@@ -28,6 +30,8 @@ Feature                     | Spieler | Siedler | VIP   | VIS   | + Upgrade | Ch
 :---:                       | :---:   | :---:   | :---: | :---: | :---:     | :---:
 VoteCoins (pro Vote)        | 1       | 2       | 1     | 2     | 3         | 4
 Flugzeit (in Min, pro Vote) | 10      | 20      | ∞     | ∞     |           | ∞
+
+---
 
 ## VoteStreak
 Mit der VoteStreak wird tägliches Voten belohnt! Mit jedem Tag, an dem du auf mindestens einer Seite gevotet hast, steigt die VoteStreak um 1 an. Je länger du also am Stück votest, desto höhere, bessere und einzigartigere Belohnungen bekommst du! Die erste Belohnung erhältst du an Tag 4, anschließend folgen täglich neue Belohnungen.
@@ -40,6 +44,8 @@ Nutze `/vote` und bewege die Maus über deinen Kopf, um sowohl deine aktuelle Vo
 - Votes, welche von den Voteseiten nicht erfolgreich registriert wurden sowie Votes ohne oder mit falschem Namen können von uns leider nicht berücksichtigt werden.
 - Bei vollem Inventar droppen Votebelohnungen auf den Boden.
 - Die VoteStreak-Belohnungen können vorab nicht eingesehen werden.
+
+---
 
 ## VoteChests/VoteCoins
 Die VoteChests, auch Votekisten genannt, sind der einzige Weg, um Votecoins auszugeben. Mit `/vote` kommst du in das Menü, in dem du Keys (Schlüssel) für die VoteChests kaufen kannst. Diese stehen am Spawn (`/spawn`  oder `/warp vote`). Durch Rechtsklick mit einem Key auf die zugehörige VoteChest wird diese geöffnet. Die Wahrscheinlichkeiten der einzelnen Gewinne aus den VoteChests sind unten aufgelistet. Du kannst diese Wahrscheinlichkeiten ebenfalls in der VoteChest selbst ansehen, indem du auf diese linksklickst.
@@ -210,6 +216,8 @@ Eules Feder                     | 1,00
 
 ¹ Du erhältst das Petfutter nicht direkt, sondern einen Gutschein. Diesen kannst du direkt beim Dorfbewohner, der sich hinter der Collector-Chest befindet, einlösen.
 ==-
+
+---
 
 ## Belohnung durch NameMC
 Über NameMC besteht die Möglichkeit, sich einmalig eine kleine Extra-Belohnung von 20 VoteCoins zu verdienen!

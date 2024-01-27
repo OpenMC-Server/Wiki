@@ -27,6 +27,8 @@ Ein Kauf erfolgt dauerhaft und berechtigt zur Aktivierung auf allen eigenen Clai
 `/listclaimflags`
 :   Zeigt alle aktiven Flags.
 
+---
+
 ## Liste der Flags
 
 Flag                    | Erklärung | Preis
