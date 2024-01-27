@@ -53,6 +53,6 @@ Um einfach Geld zu verdienen, besteht die Option einen [!badge icon="briefcase" 
 
 ---
 
-Natürlich steht es dir jederzeit frei, einen Moderator, Admin oder Owner und allgemein die Spieler bei Fragen anzusprechen. Bei größeren oder spezifischen Anliegen kannst du ein #support-ticket in unserem `/discord` erstellen, in welchem wir als Serverteam deine Anfrage schnellstmöglich bearbeiten werden.
+Natürlich steht es dir jederzeit frei, einen Moderator, Admin oder Owner und allgemein die Spieler bei Fragen anzusprechen. Bei größeren oder spezifischen Anliegen kannst du ein #support-ticket in unserem [!badge variant="primary" target="blank" icon= "comment-discussion" text="Discord"](https://discord.com/invite/ecqPF34) erstellen, in welchem wir als Serverteam deine Anfrage schnellstmöglich bearbeiten werden.
 
 Nun wünschen wir dir erst einmal viel Freude auf OpenMC! :blush:

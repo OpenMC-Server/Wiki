@@ -18,6 +18,8 @@ Das Wiki wurde grundlegend überarbeitet. Es gibt ein neues User-Interface mit n
 Hier findest du umfangreiche Informationen zu den Funkionen des Servers.\
 Nutze gerne die Suchfunktion oder das Menü auf der linken Seite.
 
+---
+
 ## Schnellnavigation
 <style>
 #icon-list {
@@ -36,6 +38,8 @@ Nutze gerne die Suchfunktion oder das Menü auf der linken Seite.
 - :icon-git-compare: &nbsp;[Pipes](/craftbook-pipes/pipes.md)
 - :icon-number: &nbsp;[Pipe-Variablen](/craftbook-pipes/pipe-variablen.md)
 |||
+
+---
 
 ## Support
 Du bist im Wiki nicht fündig geworden und benötigst weiteren Support?\
