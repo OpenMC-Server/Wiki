@@ -9,8 +9,6 @@ icon: screen-normal
 
 Mit einem Claim (dt. Grundstück) schützt du deine Bauwerke, Kisten, Öfen, etc. vor Griefing und Diebstahl.
 
----
-
 ## Werkzeuge
 ### Goldschaufel
 -![](/images/claiming_gold_shovel.png)
@@ -25,8 +23,6 @@ Mit dem Stock machst du Claims und deren Inhaber sichtbar, indem du auf den Bode
 
 <br>
 <br>
-
----
 
 ## Claim erstellen
 !!!primary Bitte beachten:
@@ -60,17 +56,11 @@ Es ist möglich, Unterclaims ("Subclaims") innerhalb eines Claims zu erstellen. 
 `/restrictsubclaim`
 :   Mit diesem Befehl werden alle Einstellungen des Subclaims, in dem du stehst, gelöscht.
 
----
-
-## Größe des Claims ändern
+### Größe des Claims ändern
 Klicke mit der Goldschaufel auf eine bestehende Ecke des Claims, um die Ecke an eine neue Stelle zu verschieben.
 
----
-
-## Claim entfernen
+### Claim entfernen
 Nutze `/unclaim`, während du auf einem Claim stehst, um ihn zu entfernen.
-
----
 
 ## Claimblöcke
 Um einen Claim erstellen zu können, benötigst du eine ausreichende Anzahl an Claimblöcken. Diese erhältst du durch die Claim-Chest (siehe [!badge icon="thumbsup" text="Voten"](/allgemeines/voten.md)) oder Spielzeit. Alle Spieler starten mit 2000 Claimblöcken und erhalten pro Stunde 200 Claimblöcke durch aktives Spielen, bis zu einem Maximum von 100.000 Claimblöcken.
@@ -95,8 +85,6 @@ Lagert die angegebene Anzahl an Claimblöcken für eine Übertragung ein.
 Schreibt die für eine Übertragung gelagerten Claimblöcke der Welt gut.
 
 Mit `/cbl bal` kannst du die gelagerten Claimblöcke sowie die in der Welt verfügbaren Claimblöcke an.
-
----
 
 ## Trusting
 Claims können von mehreren Spielern verwendet werden. Um dies zu verwalten, gibt es eine Reihe an Befehlen:
