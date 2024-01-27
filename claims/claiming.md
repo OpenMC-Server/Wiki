@@ -42,9 +42,10 @@ Content 3
 
 +++ Möglichkeit 2: `/claim`
 Erstellt einen kleinen Claim mit der Standardgröße von 11x11 Blöcken.
++++
 
 ## Claim vergrößern / verkleinern
 Klicke mit der Goldschaufel auf eine bestehende Ecke des Claims, um die Ecke an eine neue Stelle zu verschieben.
 
-¶Claim entfernen
-Nutze /unclaim, während du auf einem Claim stehst, um ihn zu entfernen.
+## Claim entfernen
+Nutze `/unclaim`, während du auf einem Claim stehst, um ihn zu entfernen.
