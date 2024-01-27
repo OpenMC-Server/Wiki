@@ -12,6 +12,9 @@ Damit du schneller an dein Ziel kommst, kannst du dich auf verschiedene Arten te
 ---
 
 ## Homes
+Mit Homes kannst du Positionen speichern, um dich anschließend zu diesen zu teleportieren.
+
+### Befehle
 `/sethome <homename>`
 :   Setzt ein Home. Dabei wird dein aktueller Ort und die Blickrichtung gespeichert.\
     Wie viele Homes du setzen kannst, kannst du der folgenden Tabelle entnehmen:
@@ -35,6 +38,9 @@ Damit du schneller an dein Ziel kommst, kannst du dich auf verschiedene Arten te
 ---
 
 ## Warps
+Warps sind Teleportpunkte, die vom Server gesetzt werden und für alle verfügbar sind.
+
+### Befehle
 `/warps`
 :   Zeigt alle verfügbaren Warps an.
 
@@ -44,6 +50,9 @@ Damit du schneller an dein Ziel kommst, kannst du dich auf verschiedene Arten te
 ---
 
 ## Spielerteleportation
+Über die Spielerteleportation kannst du dich zu einem anderen Spieler teleportieren oder diesen anfragen, sich zu dir zu teleportieren.
+
+### Befehle
 `/tpa <spieler>`
 :   Sendet eine Teleportationsanfrage an den angegebenen Spieler.
 
