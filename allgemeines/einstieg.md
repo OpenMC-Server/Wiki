@@ -11,11 +11,11 @@ Huhu und Willkommen auf OpenMC! :wave:
 
 Zuerst einmal freuen wir uns sehr, dass du unser **Server-Wiki** entdeckt hast und dich auf eine Reise durch OpenMC begeben magst, um den Server und dessen Features besser kennenzulernen.
 
-Der **Freebuild Server OpenMC** wurde im Juli des Jahres 2019 gegründet und umfasst ein Drei-Welten-Modell. Hierbei hast du die Möglichkeit dich kreativ auszuleben – sei es beim Bauen deines Hauses oder anderer Bauwerke bis hin zu verschiedenen Großprojekten; auch technische Konstruktionen durch Redstone und Pipes, praktische Lager u.v.m. finden ihren Platz auf OpenMC.
+Der **Freebuild-Server OpenMC** wurde im Juli 2019 gegründet und umfasst ein Drei-Welten-Modell. Hierbei hast du die Möglichkeit dich kreativ auszuleben – sei es beim Bauen deines Hauses oder anderer Bauwerke bis hin zu verschiedenen Großprojekten; auch technische Konstruktionen durch Redstone und Pipes, praktische Lager u.v.m. finden ihren Platz auf OpenMC.
 
 Die wöchentlich stattfindenden [!badge icon="trophy" text="Events"](/allgemeines/events.md) sind dabei nicht zu vergessen, in welchen wir zusammen gegen Monsterwellen kämpfen, Teams gegeneinander antreten oder auch alle gegen alle spielen. Monatlich kannst du auch am Bauevent teilnehmen um dich themengesteuert kreativ zu entfalten.
 
-Bist du bereits auf den Server gejoint, kennst du schon das Einstiegsbuch, aus welchem du die ersten Informationen entnehmen konntest. Diese und weitere Inhalte werden dich hier im Wiki erwarten.
+Bist du bereits auf den Server gejoint, kennst du schon das Einstiegsbuch, aus welchem du die ersten Informationen entnehmen konntest. Viele weitere Inhalte werden dich hier im Wiki erwarten.
 
 ---
 
@@ -40,10 +40,9 @@ Hast du Interesse am Betrieb von Farmen, riesigen Lagern o.ä., ist die **Indust
 ### Grundstück erstellen
 Detaillierte Infos findest du hier: [!badge icon="screen-normal" text="Grundstück erstellen"](/claims/claiming.md)
 
-Sobald du ggf. mithilfe von `/fly` und der `/map` einen für dich geeigneten Bauplatz gefunden hast, solltest du mithilfe einer Goldschaufel ein Claim erstellen. Dies sichert dein Eigentum vor Fremdeinwirkungen.\
-Hast du ein Großprojekt geplant, wollen wir dich unter Erfüllung entsprechender Voraussetzungen gerne dabei unterstützen. 
+Sobald du ggf. mithilfe von `/fly` und der `/map` einen für dich geeigneten Bauplatz gefunden hast, solltest du mithilfe einer **Goldschaufel** ein Claim erstellen. Dies sichert dein Eigentum vor Fremdeinwirkungen.
 
-Um jederzeit zu deinen Claims gelangen zu können, erstelle dir via `/sethome [name]` ein Teleport-Punkt. Durch `/home [name]` teleportierst du dich nun einfach zum jeweiligen Home.
+Um jederzeit zu deinen Claims gelangen zu können, erstelle dir via `/sethome <homename>` ein **Home**. Durch `/home <homename>` teleportierst du dich nun einfach zum jeweiligen Home.
 
 [!badge icon="tag" text="ClaimFlags"](/claims/claimflags.md) kannst du dir im Laufe der Zeit nach und nach kaufen, um spezifische Funktionen auf deinem Grundstück zu aktivieren.
 
