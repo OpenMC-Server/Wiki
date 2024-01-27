@@ -31,9 +31,11 @@ Im Folgenden kannst du dir grundlegende Informationen durchlesen, um gut auf Ope
 ### Drei-Welten-Modell
 Wie bereits angekündigt, besteht OpenMC aus drei großen Welten. Jeder einzelnen steht dabei ein eigener Server zur Verfügung, wodurch die bestmögliche Performance erreicht wird.
 
-In der Bauwelt sowie der Nether-Bauwelt kann jeder Spieler sein Grundstück sowie andere Bauwerke an einer beliebigen freien Stelle errichten. Hierbei solltest du dein Erbautes durch ein Claim schützen.\
-Die Farmwelt ist der Ort, an dem du unbegrenzt Ressourcen farmen kannst. Alle drei Monate wird diese Welt vollständig erneuert. Zudem helfen dir `/wild` sowie vorgegebene Warp-Schilder dabei, einen vom Farmwelt-Spawn weit entfernten zufälligen Ort zu erreichen.\
-Hast du Interesse am Betrieb von Farmen, riesigen Lagern o.ä., ist die Industriewelt die Welt, in der du solch technische Bauten konstruieren darfst. Um etwas zu bauen, muss in jedem Fall ein Claim erstellt werden. Zudem besteht eine Anmeldepflicht der Farmen, damit das Serverteam einen Überblick über alle derartigen Konstrukte behalten kann. Nicht zu vergessen ist, dass auch in dieser Welt die Performance (`/tps`) des Servers nicht fahrlässig gefährdet werden darf.
+In der **Bauwelt** sowie der Nether-Bauwelt kann jeder Spieler sein Grundstück sowie andere Bauwerke an einer beliebigen freien Stelle errichten. Hierbei solltest du dein Erbautes durch ein Claim schützen.
+
+Die **Farmwelt** ist der Ort, an dem du unbegrenzt Ressourcen farmen kannst. Alle drei Monate wird diese Welt vollständig erneuert. Zudem helfen dir `/wild` sowie vorgegebene Warp-Schilder dabei, einen vom Farmwelt-Spawn weit entfernten zufälligen Ort zu erreichen.
+
+Hast du Interesse am Betrieb von Farmen, riesigen Lagern o.ä., ist die **Industriewelt** die Welt, in der du solch technische Bauten konstruieren darfst. Um etwas zu bauen, muss in jedem Fall ein Claim erstellt werden. Zudem besteht eine Anmeldepflicht der Farmen, damit das Serverteam einen Überblick über alle derartigen Konstrukte behalten kann. Nicht zu vergessen ist, dass auch in dieser Welt die Performance (`/tps`) des Servers nicht fahrlässig gefährdet werden darf.
 
 ### Grundstück erstellen
 Detaillierte Infos findest du hier: [!badge icon="screen-normal" text="Grundstück erstellen"](/claims/claiming.md)
@@ -46,7 +48,8 @@ Um jederzeit zu deinen Claims gelangen zu können, erstelle dir via `/sethome [n
 [!badge icon="tag" text="ClaimFlags"](/claims/claimflags.md) kannst du dir im Laufe der Zeit nach und nach kaufen, um spezifische Funktionen auf deinem Grundstück zu aktivieren.
 
 ### Geld verdienen
-Geld benötigst du bspw. für den Handel von Waren sowie zum Kaufen von Funktionen wie z.B. den o.g. Claimflags.\
+Geld benötigst du bspw. für den Handel von Waren sowie zum Kaufen von Funktionen wie z.B. den o.g. Claimflags.
+
 Um einfach Geld zu verdienen, besteht die Option einen [!badge icon="briefcase" text="Job"](/geld-level/jobs.md) ausüben. Mit der Zeit hast du ebenfalls die Möglichkeit dir einen [!badge icon="package" text="ChestShop"](/geld-level/chestshop.md) aufbauen, um deine Items an Spieler zu vertreiben. Außerdem kannst du wöchentlich ein festgelegtes Kontingent an Items im [!badge icon="credit-card" text="AdminShop"](/geld-level/adminshop.md) (`/as`) an den Server verkaufen.
 
 ---
