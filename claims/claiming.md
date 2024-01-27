@@ -26,10 +26,11 @@ Mit dem Stock machst du Claims und deren Inhaber sichtbar, indem du auf den Bode
 
 ## Claim erstellen
 !!!primary Bitte beachten:
-Ein Claim bietet nicht die Möglichkeit, sich dorthin zu teleportieren! Nutze `/sethome <homename>`, um dich mit `/home <homename>` dorthin zu teleportieren.
+Ein Claim bietet nicht die Möglichkeit, sich dorthin zu teleportieren!\
+Nutze `/sethome <homename>`, um dich mit `/home <homename>` dorthin zu teleportieren.
 !!!
 
-+++ Möglichkeit 1: Goldschaufel
++++ Variante 1 - Goldschaufel
 Klicke zwei schräg gegenüberliegende Eckpunkte mit der Goldschaufel an, um einen beliebig großen Claim zu erstellen. Eine fremde Person kann zwar deinen Claim immer noch betreten, dort aber nichts verändern.
 
 ||| Schritt 1
@@ -40,8 +41,8 @@ Klicke zwei schräg gegenüberliegende Eckpunkte mit der Goldschaufel an, um ein
 ![](/images/claiming_3.png)
 |||
 
-+++ Möglichkeit 2: `/claim`
-Erstellt einen kleinen Claim mit der Standardgröße von 11x11 Blöcken.
++++ Variante 2 - `/claim`
+Der Befehl `/claim` rstellt einen kleinen Claim mit der Standardgröße von 11x11 Blöcken.
 +++
 
 ### Subclaim erstellen
