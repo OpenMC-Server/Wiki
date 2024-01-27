@@ -45,7 +45,7 @@ Klicke zwei schräg gegenüberliegende Eckpunkte mit der Goldschaufel an, um ein
 |||
 
 +++ Variante 2 - /claim
-Der Befehl `/claim` rstellt einen kleinen Claim mit der Standardgröße von 11x11 Blöcken.
+Der Befehl `/claim` erstellt einen kleinen Claim mit der Standardgröße von 11x11 Blöcken.
 +++
 
 ### Subclaim erstellen
