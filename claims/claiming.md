@@ -33,11 +33,11 @@ Ein Claim bietet nicht die Möglichkeit, sich dorthin zu teleportieren! Nutze `/
 Klicke zwei schräg gegenüberliegende Eckpunkte mit der Goldschaufel an, um einen beliebig großen Claim zu erstellen. Eine fremde Person kann zwar deinen Claim immer noch betreten, dort aber nichts verändern.
 
 ||| Schritt 1
-Content 1
+![](/images/claiming_1.png)
 ||| Schritt 2
-Content 2
-||| Schritt 3
-Content 3
+![](/images/claiming_2.png)
+||| Ergebnis
+![](/images/claiming_3.png)
 |||
 
 +++ Möglichkeit 2: `/claim`
