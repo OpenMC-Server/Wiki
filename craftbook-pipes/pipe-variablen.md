@@ -22,6 +22,8 @@ Zeigt die Variablen für ein spezifisches Item an, welches sich nicht im Inventa
 `/pipesign <item>`\
 Erstellt direkt ein Schild mit der passenden Pipe-ID, welches im Schildbearbeitungsmodus (`/sign`) an einer Pipe platziert werden kann.
 
+---
+
 ## Liste der Variablen
 Nachfolgend findest du eine Auflistung aller Pipe-Variablen auf OpenMC. Je nach Bedarf kannst du die verschiedenen Variablenlängen verwenden.
 

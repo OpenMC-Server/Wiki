@@ -32,6 +32,8 @@ Ab 1000 Blöcken Entfernung zum Spawn dürfen ChestShops unbegrenzt erstellt wer
 `B` = Item-Verkaufspreis, `S` = Item-Ankaufspreis\
 Du kannst nur einen Verkaufs- oder Ankaufspreis oder beide Preise mit einem `:` in der Mitte angeben.
 
+---
+
 ## Befehle
 `/cstoggle`
 :   Blendet die Kauf- & Verkaufsnachrichten ein bzw. aus.
@@ -39,6 +41,8 @@ Du kannst nur einen Verkaufs- oder Ankaufspreis oder beide Preise mit einem `:` 
 `/transactions all/<kategorie>`
 :   Zeigt die Transaktionshistorie des gesamten Geldumlaufes oder einer einzelnen Kategorie an.\
     Siehe auch LINK TRANSAKTIONEN
+
+---
 
 ## Shop bekannt machen
 - Erstelle dir einen [!badge icon="star" text="PlayerWarp"](/fortbewegung/playerwarps.md), über den andere Spieler deinen Shop erreichen können.

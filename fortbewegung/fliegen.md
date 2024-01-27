@@ -18,11 +18,15 @@ Feature                     | Spieler | Siedler | VIP   | VIS   | + Upgrade | Ch
 :---:                       | :---:   | :---:   | :---: | :---: | :---:     | :---:
 Flugzeit (in Min, pro Vote) | 10      | 20      | ∞     | ∞     |           | ∞
 
+---
+
 ## Flugzeit anzeigen
 Deine aktuelle Flugzeit kannst du folgendermaßen einsehen:
 - Anzeige über der Hotbar (nur während dem Fliegen)
 - Mit dem Befehl `/tf time`
 - Im `/shop` unter "Mein Profil"
+
+---
 
 ## Gut zu wissen
 - Flugzeit verringert sich nur während dem Fliegen in der Luft.

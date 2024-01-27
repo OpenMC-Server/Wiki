@@ -22,10 +22,7 @@ Jobs¹                       | 1       | 2       | 3     | 3     |           | 3
 
 Alle erreichten Joblevel werden beim Verlassen des Jobs gespeichert und können jederzeit weiter gesammelt werden. Das maximale Level pro Job liegt bei 200.
 
-## Aktionslimit
-Um ein Gleichgewicht im Jobsystem zu wahren und Missbrauch vorzubeugen, gibt es ein Aktionslimit für jeden Job. Dieses beschreibt die höchstmögliche Anzahl an Aktionen, mit denen man im 5-Sekunden-Takt Geld verdienen kann. Tötet man im Job Jäger innerhalb von 5 Sekunden beispielsweise 100 Mobs, so wird man nur für die ersten 10 bezahlt. Somit wollen wir das Ausnutzen großer Farmkomplexe verhindern und damit einer stetigen Inflation oder einer konstanten Nachjustierung der Erträge ausweichen.
-
-## Verfügbare Jobs
+### Verfügbare Jobs
 {.compact}
 Job         | Tätigkeit                             | Aktionslimit (je 5s)
 ---         | ---                                   | ---
@@ -38,6 +35,13 @@ Jäger	    | Töten von Tieren und Monstern         | 10
 Fischer	    | Angeln von Fischen                    | 3
 Braumeister	| Brauen von Tränken                    | 2
 
+---
+
+## Aktionslimit
+Um ein Gleichgewicht im Jobsystem zu wahren und Missbrauch vorzubeugen, gibt es ein Aktionslimit für jeden Job. Dieses beschreibt die höchstmögliche Anzahl an Aktionen, mit denen man im 5-Sekunden-Takt Geld verdienen kann. Tötet man im Job Jäger innerhalb von 5 Sekunden beispielsweise 100 Mobs, so wird man nur für die ersten 10 bezahlt. Somit wollen wir das Ausnutzen großer Farmkomplexe verhindern und damit einer stetigen Inflation oder einer konstanten Nachjustierung der Erträge ausweichen.
+
+---
+
 ## Verdienstkurve
 Die Verdienstkurve gibt an, wieviel du pro Level in deinem Job verdienst.
 
@@ -48,6 +52,8 @@ Der Wert der y-Achse (senkrechte Achse) gibt dabei den Faktor des Verdienstes an
 Das bedeutet, dass man am Anfang eines Jobs am meisten verdient. Gegen Level 28 in etwa beträgt der Faktor 0.2 (daher ist der Verdienst etwa 1/5 vom Start). Auf Level 50 etwa beträgt der Faktor dann wieder 0.5 (daher ist der Verdienst etwa ½ vom Start).
 
 Der Wert der x-Achse (horizontale Achse) gibt bei der orangenen Kurve die Spielstunden im Job und bei der blauen Kurve das Level des Jobs an.\
+
+---
 
 ## Befehle
 `/jobs browse`

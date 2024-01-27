@@ -30,12 +30,16 @@ Damit du schneller an dein Ziel kommst, kannst du dich auf verschiedene Arten te
 `/homes`
 :   Zeigt alle deine Homes an.
 
+---
+
 ## Warps
 `/warps`
 :   Zeigt alle verfügbaren Warps an.
 
 `/warp <warpname>`
 :   Teleportiert dich zum angegebenen Warp.
+
+---
 
 ## Spielerteleportation
 `/tpa <spieler>`

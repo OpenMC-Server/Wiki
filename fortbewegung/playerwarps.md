@@ -21,6 +21,8 @@ PlayerWarps¹                | 1       | 2       | 1     | 2     | 5         | 5
 
 Um deinen erstellten Warp anschließend einer Kategorie zuzuweisen, nutze den Befehl `/pwarp category set <warpname> <bauwerke/farmen/shop/sonstiges>`. So können ihn andere Spieler leichter finden.
 
+---
+
 ## Befehle
 Mögliche Aliase: `/pwarp` `/pw` `/playerwarp`
 
