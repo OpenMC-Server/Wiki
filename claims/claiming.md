@@ -60,8 +60,12 @@ Es ist möglich, Unterclaims ("Subclaims") innerhalb eines Claims zu erstellen. 
 `/restrictsubclaim`
 :   Mit diesem Befehl werden alle Einstellungen des Subclaims, in dem du stehst, gelöscht.
 
-## Claim vergrößern / verkleinern
+---
+
+## Größe des Claims ändern
 Klicke mit der Goldschaufel auf eine bestehende Ecke des Claims, um die Ecke an eine neue Stelle zu verschieben.
+
+---
 
 ## Claim entfernen
 Nutze `/unclaim`, während du auf einem Claim stehst, um ihn zu entfernen.
