@@ -10,6 +10,8 @@ icon: briefcase
 Mit Jobs kannst du während des Farmens von Items & Ausführen von alltäglichen Aktivitäten ganz einfach passiv oder aktiv Geld verdienen.\
 Jobs sind nur in der Bau- und Farmwelt verfügbar.
 
+---
+
 ## Job annehmen
 Öffne das Job-Menü mit `/jobs browse` und klicke mit der rechten Maustaste auf einen Job, um ihn anzunehmen. Wie viele Jobs du gleichzeitig annehmen kannst, kannst du der folgenden Tabelle entnehmen:
 

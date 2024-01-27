@@ -8,6 +8,8 @@ icon: thumbsup
 # Voten
 Mit einem Vote unterstützt du den Server und erhältst tolle Belohnungen über VoteChests und die VoteStreak.
 
+---
+
 ## Votelinks
 Du kannst täglich auf zwei Seiten voten, um Belohnungen zu erhalten und den Server kostenfrei zu unterstützen.
 

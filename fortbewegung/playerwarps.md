@@ -9,6 +9,8 @@ icon: star
 
 PlayerWarps sind Warps, die von Spielern gesetzt werden können. Mit diesen kann beispielsweise ein Shop beworben oder ein Bauwerk für die Öffentlichkeit zugänglich gemacht werden. Über das `/pwarp` Menü kannst du dich zu einem beliebigen PlayerWarp teleportieren.
 
+---
+
 ## PlayerWarp erstellen
 Mit `/pwarp set <warpname>` wird ein PlayerWarp an der Stelle, wo du den Befehl eingibst, erstellt. Dies kostet je PlayerWarp 5000$. Wie viele PlayerWarps du erstellen kannst, kannst du der folgenden Tabelle entnehmen:
 

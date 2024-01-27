@@ -14,6 +14,8 @@ Auf einem Claim kann eine Flag anschließend mit `/setclaimflag <flagname> [opti
 
 Ein Kauf erfolgt dauerhaft und berechtigt zur Aktivierung auf allen eigenen Claims.
 
+---
+
 ## Befehle
 `/claimflags`
 :   Öffnet das Menü zum freischalten der Flags.

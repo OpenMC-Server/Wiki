@@ -11,6 +11,8 @@ Mit einem Rang kannst du viele nützliche Features und Vorteile erhalten. Hier f
 Der VIP und VIS Rang sowie das Plus - Upgrade kann via `/shop` im Spiel erworben werden.\
 Die verbleibende Restzeit deines Ranges oder Plus-Upgrades siehst du jederzeit im Menü des [!badge variant="ghost" text="/shop"] unter “Mein Account”.
 
+---
+
 ## Übersicht
 Folgende Ränge gibt es auf OpenMC:
 

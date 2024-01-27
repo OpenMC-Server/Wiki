@@ -9,6 +9,8 @@ icon: paper-airplane
 
 Damit du schneller an dein Ziel kommst, kannst du dich auf verschiedene Arten teleportieren.
 
+---
+
 ## Homes
 `/sethome <homename>`
 :   Setzt ein Home. Dabei wird dein aktueller Ort und die Blickrichtung gespeichert.\

@@ -9,6 +9,8 @@ icon: screen-normal
 
 Mit einem Claim (dt. Grundstück) schützt du deine Bauwerke, Kisten, Öfen, etc. vor Griefing und Diebstahl.
 
+---
+
 ## Werkzeuge
 ### Goldschaufel
 -![](/images/claiming_gold_shovel.png)

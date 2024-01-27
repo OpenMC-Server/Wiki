@@ -14,6 +14,8 @@ Auf dieser Seite findest du die Sammelvariablen für mehrere Items. Möchtest du
 
 Durch die Möglichkeit, mehrere Items mit nur einem Schild zu sortieren, ist es möglich, noch kompaktere und bessere Pipe-Systeme zu bauen. Die Sammelvariablen sind im Vergleich mit der MC1229-Schaltung eine gute Alternative, um mehrere Items auf einmal sortieren. Alle Variablen sind in Kleinschreibung verfasst.
 
+---
+
 ## Liste der Sammelvariablen
 Nachfolgend findest du eine Auflistung aller Pipe-Sammelvariablen auf OpenMC.
 

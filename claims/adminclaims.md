@@ -9,6 +9,8 @@ icon: organization
 
 Für Großprojekte können spezifische Claims vergeben werden, wodurch ein Gebiet für dieses Projekt reserviert wird. Bei einem derartigen Claim handelt es sich um einen Adminclaim, auf welchem der Leiter des Großprojektes „permissiontrust“ bekommt. Das bedeutet konkret, dass die Claimblöcke vom Server übernommen werden, aber der/die LeiterIn vollen Zugriff auf den Claim hat.
 
+---
+
 ## AdminClaim beantragen
 Um einen AdminClaim zu beantragen, muss ein “Claimvergabe/AdminClaims"-Ticket im Discord geöffnet werden. Dabei benötigen wir folgende Informationen von dir:
 - [x] Eine konkrete Beschreibung des Projekts, am besten mit Bildern oder sonstigen Referenzen

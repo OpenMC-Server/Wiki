@@ -8,6 +8,8 @@ icon: trophy
 # Events
 Auf dieser Seite findest du Erläuterungen zu den Events, die regelmäßig auf OpenMC stattfinden.
 
+---
+
 ## Bauevent
 !!! Aktuelles Bauevent:
 *Thema:* Traumwelt\

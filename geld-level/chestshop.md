@@ -9,6 +9,8 @@ icon: package
 
 Mit einem ChestShop in der Bauwelt kannst du Items an- und verkaufen.
 
+---
+
 ## Shop erstellen
 !!!warning Wichtiger Hinweis:
 Unter 250 Blöcken Entfernung zum Spawn sind ChestShops nicht erlaubt.\

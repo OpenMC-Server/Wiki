@@ -11,10 +11,11 @@ icon: pencil
 
 Mit dem ArmorStand Editor kannst du ganz einfach personalisierte Armorstands (Rüstungsständer) erstellen.
 
-## Verwendung
-Klicke mit `Shift + Rechtsklick` auf einen Armorstand.
+Um den Editor zu verwenden, klicke mit `Shift + Rechtsklick` auf einen Armorstand.
 
-### Menü öffnen
+---
+
+## Menü öffnen
 Klicke doppelt mit `Shift + Rechtsklick` auf einen Armorstand.
 Dort ist folgendes möglich:
 - Equipment festlegen
@@ -26,12 +27,16 @@ Dort ist folgendes möglich:
 - Anzeige des Namens umschalten
 - Leuchteffekt umschalten
 
-### Teile des Armorstands bewegen
+---
+
+## Teile des Armorstands bewegen
 Klicke mit `Shift + Rechtsklick` auf das Teil des Armorstands, welches du bewegen möchtest.\
 Um es zu bewegen, schaue in die entsprechende Richtung und scrolle mit der Maus.\
 Um die Feinheit der Bewegung einzustellen, nutze `Shift + Scroll`.
 
 Mit `Shift + Linksklick`, während du in die Luft schaust kannst du ebenfalls einzelne Teile des Armorstands auswählen.
 
-### Editor verlassen
+---
+
+## Editor verlassen
 Klicke einfach mit der `linken Maustaste` in die Luft.

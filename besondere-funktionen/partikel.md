@@ -8,6 +8,8 @@ icon: north-star
 
 Mit Partikeln kannst du deinem Aussehen das gewisse Extra verleihen.
 
+---
+
 ## Partikel erstellen
 1. Möglichkeit: Einfache Erstellung mit den drei unteren Buttons im Menü - Auswahl von Effekt, Style & Daten.
 2. Möglichkeit: Erstellung von mehreren Partikeln über "Partikel verwalten" - Bis zu drei gleichzeitig aktive Partikel erstellen.

@@ -10,6 +10,8 @@ icon: log
 **Mit dem Spielen auf unserem Server und/oder dem Beitritt auf unserem Discord akzeptierst du die Regeln.**\
 [!badge variant="info" text=":large_green_circle: Letzte Aktualisierung: 03.07.2023"]
 
+---
+
 ## §0 Grundsätze
 **0.1** Unsere Grundsätze im Miteinander auf dem Server lauten Kommunikation und Vertrauen.\
 **0.2** Wir vertrauen euch, dass ihr ehrlich, fair und mit guten Absichten spielt, die Bitten des Serverteams befolgt und niemals Situationen zu eurem unfairen Vorteil ausnutzt.\
