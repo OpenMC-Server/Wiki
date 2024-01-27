@@ -19,7 +19,7 @@ Mit dem Befehl `/claimcorners` lassen sich dauerhaft die Claimgrenzen anzeigen (
 
 ### Stock
 -![](/images/claiming_stick.png)
-Mit dem Stock machst du Claims und deren Inhaber sichtbar, indem du auf den Boden rechtsklickst. Wenn du mit Shift auf den Boden rechtsklickst wird der unmittelbare Bereich nach Claims durchsucht.
+Mit dem Stock machst du Claims und deren Inhaber sichtbar, indem du auf den Boden rechtsklickst. Wenn du mit Shift auf den Boden rechtsklickst, werden alle Claims in deiner Umgebung angezeigt.
 
 <br>
 <br>
