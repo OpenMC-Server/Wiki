@@ -41,7 +41,7 @@ Klicke zwei schräg gegenüberliegende Eckpunkte mit der Goldschaufel an, um ein
 ![](/images/claiming_3.png)
 |||
 
-+++ Variante 2 - `/claim`
++++ Variante 2 - /claim
 Der Befehl `/claim` rstellt einen kleinen Claim mit der Standardgröße von 11x11 Blöcken.
 +++
 
