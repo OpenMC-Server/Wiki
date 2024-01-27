@@ -18,8 +18,6 @@ Das Wiki wurde grundlegend überarbeitet. Es gibt ein neues User-Interface mit n
 Hier findest du umfangreiche Informationen zu den Funkionen des Servers.\
 Nutze gerne die Suchfunktion oder das Menü auf der linken Seite.
 
----
-
 ## Schnellnavigation
 <style>
 #icon-list {
