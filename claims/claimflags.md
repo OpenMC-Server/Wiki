@@ -32,10 +32,10 @@ Ein Kauf erfolgt dauerhaft und berechtigt zur Aktivierung auf allen eigenen Clai
 Flag                    | Erklärung | Preis
 ---                     | ---       | ---
 AllowBlockExplosions    | Blockeplosionen dauerhaft aktivieren. | 50k $
-BuyAccessTrust          | Spieler können mit /buyaccesstrust für einen einstellbaren Betrag AccessTrust auf dem Claim kaufen. | 65k $
-BuyBuildTrust           | Spieler können mit /buybuildtrust für einen einstellbaren Betrag BuildTrust auf dem Claim kaufen. | 65k $
-BuyContainerTrust       | Spieler können mit /buycontainertrust für einen einstellbaren Betrag ContainerTrust auf dem Claim kaufen. | 65k $
-BuySubclaim             | Spieler können mit /buysubclaim für einen einstellbaren Betrag den Subclaim kaufen, in welchem die Flag aktiviert wurde. Der Käufer erhält vollständigen Trust im Subclaim. Nach dem Kauf wird die Flag automatisch entfernt, damit der Subclaim nicht erneut erworben werden kann. | 65k $
+BuyAccessTrust          | Spieler können mit `/buyaccesstrust` für einen einstellbaren Betrag AccessTrust auf dem Claim kaufen. | 65k $
+BuyBuildTrust           | Spieler können mit `/buybuildtrust` für einen einstellbaren Betrag BuildTrust auf dem Claim kaufen. | 65k $
+BuyContainerTrust       | Spieler können mit `/buycontainertrust` für einen einstellbaren Betrag ContainerTrust auf dem Claim kaufen. | 65k $
+BuySubclaim             | Spieler können mit `/buysubclaim` für einen einstellbaren Betrag den Subclaim kaufen, in welchem die Flag aktiviert wurde. Der Käufer erhält vollständigen Trust im Subclaim. Nach dem Kauf wird die Flag automatisch entfernt, damit der Subclaim nicht erneut erworben werden kann. | 65k $
 EnterMessage            | Nachricht beim Betreten des Claims anzeigen. | 30k $
 ExitMessage             | Nachricht beim Verlassen des Claims anzeigen. | 30k $
 NoBlockForm             | Das Formen von Schnee, Eis, Obsidian/Cobblestone (Wasser/Lava), Betonpulver/Wasser deaktivieren. | 60k $
