@@ -14,7 +14,8 @@ Im folgenden findest du alle aktiven Teammitglieder und ihre Aufgabenbereiche.
 
 ## Owner
 ||| kev2k2
-<img src="/images/kev2k2.png" width="150" height="200" /> Serverleitung, Backend, Wiki, Online-Dienste
+-![](/images/kev2k2.png)
+Serverleitung, Backend, Wiki, Online-Dienste
 |||
 ||| flowflower
 <img src="/images/flowflower.png" width="150" height="200" /> Serverleitung, Wiki, Finanzen
