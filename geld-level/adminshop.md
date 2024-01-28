@@ -30,11 +30,11 @@ Sollte der Verkaufs- oder Ankaufspreis mit einem roten “X” markiert sein, ka
 ||| Aktions-Fenster eines Items
 ![](/images/adminshop_aktion.png)
 Wurde ein Item ausgewählt, wirst du in das Aktions-Fenster navigiert. Hier kannst du unter Berücksichtigung der Skalierungen der Interaktionen die Menge des zu kaufenden/verkaufenden Items erhöhen bzw. verkleinern. Dabei kannst du jeweils mit den Größenordnungen 1, 10 und 64 in beide Richtungen (Menge erhöhen/verkleinern) arbeiten.
-|||
 
 Das Item in der Mitte zeigt die aktuell ausgewählte Menge, sowie den sich zusammensetzenden Preis, der für das Item ansteht. Unterhalb kann nun der Kauf bestätigt oder vollständig abgebrochen werden.
 
 Wenn ein Inventar voll gekauft oder alle Items einer Art verkauft werden sollen, kann die Kiste unten rechts verwendet werden. Diese skaliert ebenfalls auf deine zur Verfügung stehenden Ressourcen und passt die Menge direkt an. Bei dem Kauf von “Inventargrößen” wird keine weitere Bestätigung (grüner Farbstoff) benötigt und der Kauf/Verkauf erfolgt sofort.
+|||
 
 #### Skalierungen der Interaktionen
 !!!warning Wichtiger Hinweis:
