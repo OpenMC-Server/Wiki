@@ -48,9 +48,7 @@ Wenn ein Inventar voll gekauft oder alle Items einer Art verkauft werden sollen,
 Die Skalierung der Interaktionen ist ein sehr komplexer Prozess, welcher den Adminshop so einfach und zeitsparend wie nur möglich machen soll. Die Funktionalität wurde sehr intensiv durchgeprüft. Dennoch sind Fehler nicht auszuschließen und folglich unverzüglich dem Team zu melden.
 !!!
 
-Der Adminshop enthält eine sehr präzise Abfrage in Abstimmung mit deiner zur Verfügung stehenden Ressourcen. Dass bedeutet, dass der Shop dir immer nur so viele Items verkauft bzw. abkauft, wie deine Ressourcen es zulassen - Andernfalls skaliert dieser die Menge auf das Maximum hinunter.
-
-Folgende Skalierungen nimmt der Shop vor:
+Der Adminshop enthält eine sehr präzise Abfrage in Abstimmung mit deiner zur Verfügung stehenden Ressourcen. Dass bedeutet, dass der Shop dir immer nur so viele Items verkauft bzw. abkauft, wie deine Ressourcen es zulassen - Andernfalls skaliert dieser die Menge auf das Maximum hinunter. Folgende Skalierungen nimmt der Shop vor:
 
 ##### Shop verkauft an Spieler (Kaufaktion):
 - Inventarplatz
