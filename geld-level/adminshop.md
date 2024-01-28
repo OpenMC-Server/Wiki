@@ -22,12 +22,12 @@ Die Limitierungen beziehen sich immer auf dich selbst. Sie werden jeden Wochenan
 === Kategorien-Fenster
 -![](/images/adminshop_kategorien.png)
 Dies ist die Startseite des AdminShops. Hier kannst du deine persönlichen Shop-Informationen anzeigen und zwischen den einzelnen Kategorien wechseln.
-=== Item-Fenster einer Kategorie
+==- Item-Fenster einer Kategorie
 -![](/images/adminshop_kategorie_item.png)
 Innerhalb des Item-Fensters werden alle Items einer Kategorie aufgelistet. Die Items zeigen den Itemnamen und den Ankaufs- bzw. Verkaufspreis an.
 
 Sollte der Verkaufs- oder Ankaufspreis mit einem roten “X” markiert sein, kann das Item nicht verkauft, bzw. angekauft werden. Ist eine einzelne Item-Limitierung vorhanden, wird diese unter dem Preis dargestellt.
-=== Aktions-Fenster eines Items
+==- Aktions-Fenster eines Items
 -![](/images/adminshop_aktion.png)
 Wurde ein Item ausgewählt, wirst du in das Aktions-Fenster navigiert. Hier kannst du unter Berücksichtigung der Skalierungen der Interaktionen die Menge des zu kaufenden/verkaufenden Items erhöhen bzw. verkleinern. Dabei kannst du jeweils mit den Größenordnungen 1, 10 und 64 in beide Richtungen (Menge erhöhen/verkleinern) arbeiten.
 
@@ -35,6 +35,8 @@ Das Item in der Mitte zeigt die aktuell ausgewählte Menge, sowie den sich zusam
 
 Wenn ein Inventar voll gekauft oder alle Items einer Art verkauft werden sollen, kann die Kiste unten rechts verwendet werden. Diese skaliert ebenfalls auf deine zur Verfügung stehenden Ressourcen und passt die Menge direkt an. Bei dem Kauf von “Inventargrößen” wird keine weitere Bestätigung (grüner Farbstoff) benötigt und der Kauf/Verkauf erfolgt sofort.
 ===
+
+---
 
 ## Skalierungen der Interaktionen
 !!!warning Wichtiger Hinweis:
