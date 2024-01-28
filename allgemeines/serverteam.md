@@ -21,36 +21,61 @@ Im folgenden findest du alle aktiven Teammitglieder und ihre Aufgabenbereiche.
 - Online-Dienste
 |||
 ||| flowflower
-<img src="/images/flowflower.png" width="150" height="200" /> Serverleitung, Wiki, Finanzen
+-![](/images/flowflower.png)
+- Serverleitung
+- Wiki
+- Finanzen
 |||
 
 ## Admins
 ||| LPBoy_HD
-<img src="/images/lpboy_hd.png" width="150" height="200" /> Interne Organisation, Event-Organisation, Farmgenehmigungen, mcMMO
+-![](/images/lpboy_hd.png)
+- Interne Organisation
+- Event-Organisation
+- Farmgenehmigungen
+- mcMMO
 |||
 ||| Obisasam
-<img src="/images/obisasam.png" width="150" height="200" /> Interne Organisation, Spielerfeedback
+-![](/images/obisasam.png)
+- Interne Organisation
+- Spielerfeedback
 |||
 ||| LashtagLP
-<img src="/images/lashtaglp.png" width="150" height="200" /> Interne Organisation, Event-Organisation
+-![](/images/lashtaglp.png)
+- Interne Organisation
+- Event-Organisation
 |||
 
 ## Moderatoren
 ||| Cupcake7506
-<img src="/images/cupcake7506.png" width="150" height="200" /> Event-Organisation, Spielersupport, Wiki
+-![](/images/cupcake7506.png)
+- Event-Organisation
+- Spielersupport
+- Wiki
 |||
 ||| Groesste_Minerin
-<img src="/images/groesste_minerin.png" width="150" height="200" /> Event-Organisation, Claimverwaltung, Spielersupport
+-![](/images/groesste_minerin.png)
+- Event-Organisation
+- Claimverwaltung
+- Spielersupport
 |||
 ||| Eulenelfe
-<img src="/images/eulenelfe.png" width="150" height="200" /> Event-Organisation, Spielersupport
+-![](/images/eulenelfe.png)
+- Event-Organisation
+- Spielersupport
 |||
 ||| Jacero
-<img src="/images/jacero.png" width="150" height="200" /> Event-Organisation, Spielersupport
+-![](/images/jacero.png)
+- Event-Organisation
+- Spielersupport
 |||
 ||| Filomez
-<img src="/images/filomez.png" width="150" height="200" /> Spielersupport, Spielerfeedback
+-![](/images/filomez.png)
+- Spielersupport
+- Spielerfeedback
 |||
 ||| Blechgecco
-<img src="/images/blechgecco.png" width="150" height="200" /> Spielersupport, Farmgenehmigungen
+-![](/images/blechgecco.png)
+- Spielersupport
+- Farmgenehmigungen
 |||

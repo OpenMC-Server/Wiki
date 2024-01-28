@@ -16,25 +16,25 @@ Die verbleibende Restzeit deines Ranges oder Plus-Upgrades siehst du jederzeit i
 ## Übersicht
 Folgende Ränge gibt es auf OpenMC:
 
-### :white_circle: Spieler
+### Spieler
 Der Spieler Rang ist der Standard - Rang, welchen jeder neue Spieler auf OpenMC erhält. Er kann im `/shop` auf den VIP Rang erweitert werden, sowie das Plus-Upgrade erwerben.
 
-### :yellow_heart: VIP [!badge variant="info" text="5€/Monat"]
+#### VIP [!badge variant="info" text="5€/Monat"]
 Der VIP Rang erweitert den Spieler Rang um viele Funktionen ([siehe Tabelle](#vorteile)) und wird nach einer Spende an den Server für den jeweiligen Zeitraum vergeben.
 
-### :large_green_circle: Siedler
+### Siedler
 Der Siedler Rang wird an ausgewählte Spieler vergeben, die bereits seit langer Zeit Teil der Community sind. Sie repräsentieren diese, bereichern sie mit ihrem Wissen sowie Ideen und geben eine Hilfestellung für Neuankömmlinge. Es gibt keinen Anspruch auf den Rang oder einen fest definierten Zeitpunkt, ab dem der Rang zu erlangen ist. Eine explizite Beantragung ist nicht möglich. Die genauen Regelungen zum Siedler Rang findest du hier.
 
-### :green_heart: VIS [!badge variant="info" text="5€/Monat"]
+#### VIS [!badge variant="info" text="5€/Monat"]
 Der VIS Rang erweitert den Siedler Rang um viele Funktionen ([siehe Tabelle](#vorteile)) und wird nach einer Spende an den Server für den jeweiligen Zeitraum vergeben.
 
-### :heavy_plus_sign: Plus - Upgrade [!badge variant="info" text="70k $/Monat"]
+### Plus - Upgrade [!badge variant="info" text="70k $/Monat"]
 Das Plus-Upgrade gewährt weitere Rechte, die nicht in den oberen Rängen enthalten sind ([siehe Tabelle](#vorteile)). Diese Rechte sind unabhängig von den Grundrängen. Das bedeutet, dass die Rechte, die durch das Plus-Upgrade vergeben werden, nicht zwischen Spieler, Siedler, VIP und VIS unterscheiden. Das Plus-Upgrade kann ausschließlich mit Ingamegeld ($) erworben werden.
 
-### :tada: Champion
+### Champion
 Der Champion Rang wird für 30 Tage vergeben, wenn ein Spieler das Bauevent gewinnt. Er enthält alle Rechte des VIP und des Plus-Upgrades sowie vier Votecoins pro Vote.
 
-### :busts_in_silhouette: Mod / Admin / Owner
+### Mod / Admin / Owner
 Dies sind die Ränge des Teams und beschreiben die Rollen des Moderators, Admins und Owners.
 
 ---
