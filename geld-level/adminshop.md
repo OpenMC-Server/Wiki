@@ -20,7 +20,7 @@ Die Limitierungen beziehen sich immer auf dich selbst. Sie werden jeden Wochenan
 
 ## Aufbau
 ### Kategorien-Fenster
-![](/images/adminshop_kategorien.png){: style="float: left"}
+![](/images/adminshop_kategorien.png)
 Dies ist die Startseite des AdminShops. Hier kannst du deine persönlichen Shop-Informationen anzeigen und zwischen den einzelnen Kategorien wechseln.
 
 ### Item-Fenster einer Kategorie
