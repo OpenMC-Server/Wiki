@@ -60,8 +60,8 @@ branding:
   
   colors:
     label:
-      text: "#0066ff"
-      background: "#66ffff"
+      text: "#1f7aff"
+      background: "#e1edff"
 
 # -----------------------------------------------------------------------------
 
