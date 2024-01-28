@@ -7,6 +7,9 @@ icon: credit-card
 
 # AdminShop
 
+RECYCLEEEE
+
+
 Im AdminShop kannst du ausgewählte Items an- und verkaufen. Um den AdminShop zu öffnen, verwende `/adminshop` oder `/as`.
 
 ---
