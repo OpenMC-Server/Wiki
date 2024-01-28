@@ -28,6 +28,8 @@ Dies ist die Startseite des AdminShops. Hier kannst du deine persönlichen Shop-
 <br>
 <br>
 <br>
+<br>
+<br>
 
 ### Item-Fenster einer Kategorie
 -![](/images/adminshop_kategorie_item.png)
