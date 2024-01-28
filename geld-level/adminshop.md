@@ -23,6 +23,12 @@ Die Limitierungen beziehen sich immer auf dich selbst. Sie werden jeden Wochenan
 -![](/images/adminshop_kategorien.png)
 Dies ist die Startseite des AdminShops. Hier kannst du deine persönlichen Shop-Informationen anzeigen und zwischen den einzelnen Kategorien wechseln.
 
+<br>
+<br>
+<br>
+<br>
+
+
 ### Item-Fenster einer Kategorie
 -![](/images/adminshop_kategorie_item.png)
 Innerhalb des Item-Fensters werden alle Items einer Kategorie aufgelistet. Die Items zeigen den Itemnamen und den Ankaufs- bzw. Verkaufspreis an.
