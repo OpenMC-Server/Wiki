@@ -117,3 +117,13 @@ mcMMO Parties bieten dir die Möglichkeit, eine Gruppe mit anderen Spielern zu e
 
 `/party`
 :   Zeigt alle Infos zu deiner Party an. 
+
+### Besondere Funktionen
+Besondere Funktionen der mcMMO Parties können erst ab einem spezifischen Party-Level genutzt werden:
+
+Funktion	Level
+Gruppenchat 	  1        
+Gruppenteleport	  2
+Bündnisse	  5
+Items teilen	  8
+Erfahrung teilen	 10
