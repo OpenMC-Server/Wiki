@@ -16,7 +16,7 @@ mcMMO ist sehr umfangreich. Es beinhaltet ein Levelsystem für so ziemlich alle 
 
 ---
 
-### Funktionsweise des Levelsystems
+## Funktionsweise des Levelsystems
 Leveln funktioniert mit dem Grundsatz "Learning by doing". Wenn du beispielsweise Erde abbaust, erhältst du XP und Level für den dazu passenden Skill "Graben".
 
 Zu Beginn levelst du deine Skills sehr schnell (besonders stark bemerkst du dies wahrscheinlich beim Minen). Dieser Fortschritt verlangsamt sich aber mit höheren Leveln extrem.
