@@ -10,8 +10,8 @@ icon: goal
 mcMMO ist sehr umfangreich. Es beinhaltet ein Levelsystem für so ziemlich alle Tätigkeiten in Minecraft. Mit steigendem Level schaltet man sowohl permanente Vorteile als auch aktiv einsetzbare Spezialfähigkeiten frei. Bestenlisten sowohl für einzelne Skills (Tätigkeiten) als auch für das Gesamtlevel sind vorhanden.
 
 !!! Abgrenzung von anderen Funktionen des Servers
-- Das Levelsystem und die XP von mcMMO haben nichts mit den Erfahrungspunkten aus Minecraft zu tun (also der grünen Anzeige über der Inventarleiste).
-- mcMMO und Jobs sind völlig unabhängig voneinander. Die Level, die man in einem Job hat, beeinflussen mcMMO nicht (und umgekehrt).
+Das Levelsystem und die XP von mcMMO haben nichts mit den Erfahrungspunkten aus Minecraft zu tun (also der grünen Anzeige über der Inventarleiste).\
+mcMMO und Jobs sind völlig unabhängig voneinander. Die Level, die man in einem Job hat, beeinflussen mcMMO nicht (und umgekehrt).
 !!!
 
 ---
