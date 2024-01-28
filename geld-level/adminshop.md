@@ -36,6 +36,8 @@ Das Item in der Mitte zeigt die aktuell ausgewählte Menge, sowie den sich zusam
 Wenn ein Inventar voll gekauft oder alle Items einer Art verkauft werden sollen, kann die Kiste unten rechts verwendet werden. Diese skaliert ebenfalls auf deine zur Verfügung stehenden Ressourcen und passt die Menge direkt an. Bei dem Kauf von “Inventargrößen” wird keine weitere Bestätigung (grüner Farbstoff) benötigt und der Kauf/Verkauf erfolgt sofort.
 ==-
 
+---
+
 ## Skalierungen der Interaktionen
 !!!warning Wichtiger Hinweis:
 Die Skalierung der Interaktionen ist ein sehr komplexer Prozess, welcher den Adminshop so einfach und zeitsparend wie nur möglich machen soll. Die Funktionalität wurde sehr intensiv durchgeprüft. Dennoch sind Fehler nicht auszuschließen und folglich unverzüglich dem Team zu melden.
