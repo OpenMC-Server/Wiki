@@ -149,7 +149,7 @@ mcMMO Parties bieten dir die Möglichkeit, eine Gruppe mit anderen Spielern zu e
 
 ### Befehle
 `/party create <partyname>`\
-Erstellen einer Party.
+Erstellt eine Party.
 
 `/party password <passwort>`\
 Schützt deine Party mit einem Passwort.
