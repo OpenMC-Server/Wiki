@@ -30,8 +30,7 @@ Erstellt direkt ein Schild mit der passenden Pipe-ID, welches im Schildbearbeitu
 Nachfolgend findest du eine Auflistung aller Pipe-Variablen auf OpenMC. Je nach Bedarf kannst du die verschiedenen Variablenlängen verwenden.
 
 !!! Nach Variablen suchen
-Um nach einer spezifischen Variable zu suchen, kannst du die Suche deines Browsers (`STRG + F`) verwenden.\
-Um nach Kategorien zu suchen, kannst du die Suchfunktion der Seite oder das Inhaltsverzeichnis auf der rechten Seite nutzen.
+Um nach einer spezifischen Variable zu suchen, kannst du die Suche deines Browsers (`STRG + F`) verwenden.
 !!!
 
 ### Baumstämme

@@ -20,8 +20,7 @@ Durch die Möglichkeit, mehrere Items mit nur einem Schild zu sortieren, ist es 
 Nachfolgend findest du eine Auflistung aller Pipe-Sammelvariablen auf OpenMC.
 
 !!! Nach Sammelvariablen suchen
-Um nach einer spezifischen Sammelvariable zu suchen, kannst du die Suche deines Browsers (`STRG + F`) verwenden.\
-Um nach Kategorien zu suchen, kannst du die Suchfunktion der Seite oder das Inhaltsverzeichnis auf der rechten Seite nutzen.
+Um nach einer spezifischen Sammelvariable zu suchen, kannst du die Suche deines Browsers (`STRG + F`) verwenden.
 !!!
 
 ### Holz, Laub, Setzlinge
