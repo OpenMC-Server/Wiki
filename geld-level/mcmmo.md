@@ -38,8 +38,7 @@ Zeigt die wichtigsten Befehle an.
 `/mcstats`\
 Zeigt eine Liste aller Skills und der derzeitigen Level des Spielers an. Zeigt auch das derzeitige Gesamtlevel an.
 
-`/<skillname>`\
-(z.B. /graben oder /zähmen)
+`/<skillname>` (z.B. /graben oder /zähmen)\
 Zeigt genaue Statistiken zu einem speziellen Skill an – derzeitiges Level, freigeschaltete passive und aktive Fähigkeiten, und ihre derzeitigen Werte.
 
 `/<skillname> ? <seite>`\
@@ -121,7 +120,7 @@ Zeigt alle Infos zu deiner Party an.
 Besondere Funktionen der mcMMO Parties können erst ab einem spezifischen Party-Level genutzt werden:
 
 {.compact}
-Funktion	        | ab Level
+Funktion	        | Ab Level
 ---                 | ---
 Gruppenchat         | 1        
 Gruppenteleport     | 2
