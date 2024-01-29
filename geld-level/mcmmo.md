@@ -127,6 +127,21 @@ Record      | Alle anderen Schallplatten
 ### Graben-Drops
 Auch beim Graben droppen je nach Level spezielle Items:
 
+{.compact}
+Item            | Ab Level  | Droppt aus...                                                                         | Drop-Chance (%)
+:---:           | ---       | ---                                                                                   | ---
+Glowstonestaub  | 50        | Erde, Grobe Erde, Grasblock, Podsol, Myzel, Sand, Roter Sand                          | 5
+Schwarzpulver   | 100       | Kies                                                                                  | 10
+Schleimball     | 150       | Ton                                                                                   | 0,1
+Knochen         | 200       | Kies                                                                                  | 10
+Faden           | 250       | Ton                                                                                   | 5
+Apfel           | 250       | Grasblock, Myzel                                                                      | 0,1
+Namensschild    | 250       | Erde, Grobe Erde, Grasblock, Podsol, Myzel, Kies, Ton, Sand, Roter Sand, Seelensand   | 0,05
+Eimer           | 500       | Ton                                                                                   | 5
+Brauner Pilz    | 500       | Erde, Grobe Erde, Grasblock, Podsol, Myzel                                            | 0,5
+Spinnennetz     | 750       | Ton                                                                                   | 5
+Kuchen          | 750       | Erde, Grobe Erde, Grasblock, Podsol, Myzel, Kies, Ton, Sand, Roter Sand, Seelensand   | 0,05
+
 ---
 
 ## mcMMO Parties
