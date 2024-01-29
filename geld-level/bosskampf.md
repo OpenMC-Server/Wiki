@@ -33,7 +33,7 @@ Jeder Boss hat eine 100% Chance für ein zusätzliches, individuelles Item.
 
 ## Liste der Bosse
 ### Bossblume Flower
--![](/images/bossblume_flower.png)
+![](/images/bossblume_flower.png)
 Die Bossblume Flower kämpft primär mit pflanzlichen Angriffen, um durch die Kraft der Natur ihre Angreifer fernzuhalten. Dabei beschwört sie regelmäßig unzähmbare Kreaturen, die sie während des Kampfes unterstützen. Bossblume Flower distanziert sich meistens von den Angreifern, sodass die Schwierigkeit darin besteht, sie zu treffen.
 
 +++ Benötigte Ressourcen
@@ -55,7 +55,7 @@ Aus der Collector Chest:
 Dieser Boss befindet sich noch in Arbeit und kann deshalb nicht beschwört werden.
 !!!
 
--![](/images/multiple_moderation.png)
+![](/images/multiple_moderation.png)
 Bei der Multiplen Moderation handelt es sich um ein misslungenes Experiment, welches seinen eigenen Willen entfesselt hat. Es sammelte jegliche Daten der Moderatoren und war somit in der Lage, eine Reihe von unvorhersehbaren Angriffen zu erlernen. Wer die Multiple Moderation herausfordert, sollte sich möglichst gut ausrüsten und auf alles gefasst sein.
 
 +++ Benötigte Ressourcen
