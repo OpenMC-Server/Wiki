@@ -129,7 +129,7 @@ Auch beim Graben droppen je nach Level spezielle Items:
 
 {.compact}
 Item            | Ab Level  | Droppt aus...                                                                         | Drop-Chance (%)
-:---:           | ---       | ---                                                                                   | ---
+:---:           | :---:     | ---                                                                                   | :---:
 Glowstonestaub  | 50        | Erde, Grobe Erde, Grasblock, Podsol, Myzel, Sand, Roter Sand                          | 5
 Schwarzpulver   | 100       | Kies                                                                                  | 10
 Schleimball     | 150       | Ton                                                                                   | 0,1
