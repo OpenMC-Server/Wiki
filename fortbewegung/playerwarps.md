@@ -28,33 +28,32 @@ Um deinen erstellten Warp anschließend einer Kategorie zuzuweisen, nutze den Be
 ## Befehle
 Mögliche Aliase: `/pwarp` `/pw` `/playerwarp`
 
-`/pwarp`
-:   Öffnet das PlayerWarp-Menü, mit welchem du dich zu den PlayerWarps teleportieren kannst.
+`/pwarp`\
+Öffnet das PlayerWarp-Menü, mit welchem du dich zu den PlayerWarps teleportieren kannst.
 
-`/pwarp help`
-:   Zeigt alle PlayerWarp Befehle an.
+`/pwarp help`\
+Zeigt alle PlayerWarp Befehle an.
 
-`/pwarp <warpname>`
-:   Teleportiert dich zu dem angegebenen PlayerWarp.
+`/pwarp <warpname>`\
+Teleportiert dich zu dem angegebenen PlayerWarp.
 
-`/pwarp set <warpname>`
-:   Erstellt einen PlayerWarp mit dem angegebenen Namen an der Stelle, wo du den Befehl eingibst.\
-    Hinweis: Das Erstellen eines PlayerWarps kostet 5000$.
+`/pwarp set <warpname>`\
+Erstellt einen PlayerWarp mit dem angegebenen Namen an der Stelle, wo du den Befehl eingibst. Das Erstellen eines PlayerWarps kostet 5000$.
 
-`/pwarp remove <warpname>`
-:   Entfernt den angegebenen PlayerWarp.
+`/pwarp remove <warpname>`\
+Entfernt den angegebenen PlayerWarp.
 
-`/pwarp amount`
-:   Zeigt die Anzahl an PlayerWarps an, die du noch erstellen kannst.
+`/pwarp amount`\
+Zeigt die Anzahl an PlayerWarps an, die du noch erstellen kannst.
 
-`/pwarp reset <warpname>`
-:   Setzt den PlayerWarp an die Stelle um, an der du stehst.
+`/pwarp reset <warpname>`\
+Setzt den PlayerWarp an die Stelle um, an der du stehst.
 
-`/pwarp desc set <warpname> <beschreibung>`
-:   Mit diesem Befehl kannst du eine Beschreibung zu deinem PlayerWarp eingeben, welche im Menü angezeigt wird.
+`/pwarp desc set <warpname> <beschreibung>`\
+Mit diesem Befehl kannst du eine Beschreibung zu deinem PlayerWarp eingeben, welche im Menü angezeigt wird.
 
-`/pwarp category set <warpname> <kategorie>`
-:   Sortiert den PlayerWarp in eine der vier Kategorien ein.
+`/pwarp category set <warpname> <kategorie>`\
+Sortiert den PlayerWarp in eine der vier Kategorien ein.
 
-`/pw-visits`
-:   Schaltet Besucher-Benachrichtigungen, wenn sich jemand zu deinem Playerwarp teleportiert, an oder aus.
+`/pw-visits`\
+Schaltet Besucher-Benachrichtigungen, wenn sich jemand zu deinem Playerwarp teleportiert, an oder aus.

@@ -30,19 +30,19 @@ Ab 1000 Blöcken Entfernung zum Spawn dürfen ChestShops unbegrenzt erstellt wer
 3. Zeile: Preis
 4. Zeile: Fragezeichen (?)
 
-\
+<br>
 `B` = Item-Verkaufspreis, `S` = Item-Ankaufspreis\
 Du kannst nur einen Verkaufs- oder Ankaufspreis oder beide Preise mit einem `:` in der Mitte angeben.
 
 ---
 
 ## Befehle
-`/cstoggle`
-:   Blendet die Kauf- & Verkaufsnachrichten ein bzw. aus.
+`/cstoggle`\
+Blendet die Kauf- & Verkaufsnachrichten ein bzw. aus.
 
-`/transactions all/<kategorie>`
-:   Zeigt die Transaktionshistorie des gesamten Geldumlaufes oder einer einzelnen Kategorie an.\
-    Siehe auch LINK TRANSAKTIONEN
+`/transactions all/<kategorie>`\
+Zeigt die Transaktionshistorie des gesamten Geldumlaufes oder einer einzelnen Kategorie an.\
+Siehe auch LINK TRANSAKTIONEN
 
 ---
 

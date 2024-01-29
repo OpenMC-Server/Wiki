@@ -29,42 +29,42 @@ Eine Liste der Skills sowie der passiven und aktiven Fähigkeiten findest du unt
 ---
 
 ## Befehle
-`/mcmmo`
-:   Öffnet das Hauptmenü, über welches alle Statistiken, Skills und Ranglisten abrufbar sind.
+`/mcmmo`\
+Öffnet das Hauptmenü, über welches alle Statistiken, Skills und Ranglisten abrufbar sind.
 
-`/mcmmo help`
-:   Zeigt die wichtigsten Befehle an.
+`/mcmmo help`\
+Zeigt die wichtigsten Befehle an.
 
-`/mcstats`
-:   Zeigt eine Liste aller Skills und der derzeitigen Level des Spielers an. Zeigt auch das derzeitige Gesamtlevel an.
+`/mcstats`\
+Zeigt eine Liste aller Skills und der derzeitigen Level des Spielers an. Zeigt auch das derzeitige Gesamtlevel an.
 
-`/<skillname>`
-:   (z.B. /graben oder /zähmen)
-    Zeigt genaue Statistiken zu einem speziellen Skill an – derzeitiges Level, freigeschaltete passive und aktive Fähigkeiten, und ihre derzeitigen Werte.
+`/<skillname>`\
+(z.B. /graben oder /zähmen)
+Zeigt genaue Statistiken zu einem speziellen Skill an – derzeitiges Level, freigeschaltete passive und aktive Fähigkeiten, und ihre derzeitigen Werte.
 
-`/<skillname> ? <seite>`
-:   Zeigt detaillierte Hilfe zu einem speziellen Skill an.
+`/<skillname> ? <seite>`\
+Zeigt detaillierte Hilfe zu einem speziellen Skill an.
 
-`/mctop <seite>`
-:   Zeigt die Bestenliste der Gesamtlevel aller Spieler an.
+`/mctop <seite>`\
+Zeigt die Bestenliste der Gesamtlevel aller Spieler an.
 
-`/mctop <skillname> <seite>`
-:   Zeigt die Bestenliste der Level in einem bestimmten Skill aller Spieler an.
+`/mctop <skillname> <seite>`\
+Zeigt die Bestenliste der Level in einem bestimmten Skill aller Spieler an.
 
-`/mcability`
-:   Deaktiviert das "Aufladen" per Schleich-Rechtsklick, falls es als störend empfunden wird, oder schaltet es wieder ein. Aktive Spezialfähigkeiten können mit ausgeschaltetem Aufladen nicht verwendet werden.
+`/mcability`\
+Deaktiviert das "Aufladen" per Schleich-Rechtsklick, falls es als störend empfunden wird, oder schaltet es wieder ein. Aktive Spezialfähigkeiten können mit ausgeschaltetem Aufladen nicht verwendet werden.
 
-`/mmoxpbar disable`
-:   Deaktiviert die mcMMO-Erfahrungsleiste für alle Skills.
+`/mmoxpbar disable`\
+Deaktiviert die mcMMO-Erfahrungsleiste für alle Skills.
 
-`/mmoxpbar hide <skillname>`
-:   Versteckt die Erfahrungsleiste von mcMMO für den angegebenen Skill.
+`/mmoxpbar hide <skillname>`\
+Versteckt die Erfahrungsleiste von mcMMO für den angegebenen Skill.
 
-`/mmoxpbar reset`
-:   Setzt die Einstellungen zu den mcMMO-Erfahrungsleisten zurück.
+`/mmoxpbar reset`\
+Setzt die Einstellungen zu den mcMMO-Erfahrungsleisten zurück.
 
-`/inspect <spielername>`
-:   Wenn sich der Spieler in der Nähe befindet, kannst du mit diesem Befehl seine mcMMO-Level einsehen.
+`/inspect <spielername>`\
+Wenn sich der Spieler in der Nähe befindet, kannst du mit diesem Befehl seine mcMMO-Level einsehen.
 
 ---
 
@@ -96,33 +96,35 @@ Auch beim Graben droppen je nach Level spezielle Items:
 mcMMO Parties bieten dir die Möglichkeit, eine Gruppe mit anderen Spielern zu erstellen. Diese bringen einige Vorteile wie einen eigenen Chat und das teilen von XP in einem bestimmten Umkreis mit sich. Details zum Party-System findest du im [mcMMO-Wiki](https://mcmmo.fandom.com/wiki/Parties).
 
 ### Befehle
-`/party create <partyname>`
-:   Erstellen einer Party.
+`/party create <partyname>`\
+Erstellen einer Party.
 
-`/party password <passwort>`
-:   Schützt deine Party mit einem Passwort.
+`/party password <passwort>`\
+Schützt deine Party mit einem Passwort.
 
-`/party invite <spielername>`
-:   Lädt den angegebene Spieler zu deiner Party ein.
+`/party invite <spielername>`\
+Lädt den angegebene Spieler zu deiner Party ein.
 
-`/party kick <spielername>`
-:   Entfernt den angegebenen Spieler aus deiner Party.
+`/party kick <spielername>`\
+Entfernt den angegebenen Spieler aus deiner Party.
 
-`/party leader <spielername>`
-:   Überträgt deine Party auf den angegebenen Spieler.
+`/party leader <spielername>`\
+Überträgt deine Party auf den angegebenen Spieler.
 
-`/party disband`
-:   Löst deine Party auf.
+`/party disband`\
+Löst deine Party auf.
 
-`/party`
-:   Zeigt alle Infos zu deiner Party an. 
+`/party`\
+Zeigt alle Infos zu deiner Party an. 
 
 ### Besondere Funktionen
 Besondere Funktionen der mcMMO Parties können erst ab einem spezifischen Party-Level genutzt werden:
 
-Funktion	Level
-Gruppenchat 	  1        
-Gruppenteleport	  2
-Bündnisse	  5
-Items teilen	  8
-Erfahrung teilen	 10
+{.compact}
+Funktion	        | ab Level
+---                 | ---
+Gruppenchat         | 1        
+Gruppenteleport     | 2
+Bündnisse           | 5
+Items teilen        | 8
+Erfahrung teilen    | 10

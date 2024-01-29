@@ -25,7 +25,6 @@ Jobs¹                       | 1       | 2       | 3     | 3     |           | 3
 Alle erreichten Joblevel werden beim Verlassen des Jobs gespeichert und können jederzeit weiter gesammelt werden. Das maximale Level pro Job liegt bei 200.
 
 ### Verfügbare Jobs
-{.compact}
 Job         | Tätigkeit                             | Aktionslimit (je 5s)
 ---         | ---                                   | ---
 Holzfäller  | Fällen und Pflanzen von Bäumen        | 25
@@ -58,32 +57,32 @@ Der Wert der x-Achse (horizontale Achse) gibt bei der orangenen Kurve die Spiels
 ---
 
 ## Befehle
-`/jobs browse`
-:   Öffnet das Hauptmenü, wo du Jobs anzeigen, annehmen und verlassen kannst.
+`/jobs browse`\
+Öffnet das Hauptmenü, wo du Jobs anzeigen, annehmen und verlassen kannst.
 
-`/jobs join <jobname>`
-:   Mit diesem Befehl kannst du direkt einen spezifischen Job annehmen.
+`/jobs join <jobname>`\
+Mit diesem Befehl kannst du direkt einen spezifischen Job annehmen.
 
-`/jobs leave <jobname>`
-:   Mit diesem Befehl kannst du direkt einen spezifischen Job verlassen.
+`/jobs leave <jobname>`\
+Mit diesem Befehl kannst du direkt einen spezifischen Job verlassen.
 
-`/jobs leaveall`
-:   Mit diesem Befehl kannst du alle angenommenen Jobs verlassen.
+`/jobs leaveall`\
+Mit diesem Befehl kannst du alle angenommenen Jobs verlassen.
 
-`/jobs stats`
-:   Zeigt dein aktuelles Job-Level und die gesammelten XP an.
+`/jobs stats`\
+Zeigt dein aktuelles Job-Level und die gesammelten XP an.
 
-`/jobs info <jobname>`
-:   Zeigt an, wie viel Geld und XP du für die farmbaren Items des angegebenen Jobs bekommt.
+`/jobs info <jobname>`\
+Zeigt an, wie viel Geld und XP du für die farmbaren Items des angegebenen Jobs bekommt.
 
-`/jobs archive`
-:   Zeigt die bereits verlassenen, gespeicherten Jobs mit dem vorhandenen Level an.
+`/jobs archive`\
+Zeigt die bereits verlassenen, gespeicherten Jobs mit dem vorhandenen Level an.
 
-`/jobs gtop`
-:   Zeigt die Top 15 aller Spieler in allen verfügbaren Jobs an.
+`/jobs gtop`\
+Zeigt die Top 15 aller Spieler in allen verfügbaren Jobs an.
 
-`/jobs top <jobname>`
-:   Zeigt die Top 15 aller Spieler in dem angegebenen Job an.
+`/jobs top <jobname>`\
+Zeigt die Top 15 aller Spieler in dem angegebenen Job an.
 
-`/jobs clearownership`
-:   Entfernt alle aktuell besetzten Öfen und Braustände.
+`/jobs clearownership`\
+Entfernt alle aktuell besetzten Öfen und Braustände.

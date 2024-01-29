@@ -17,17 +17,17 @@ Ein Kauf erfolgt dauerhaft und berechtigt zur Aktivierung auf allen eigenen Clai
 ---
 
 ## Befehle
-`/claimflags`
-:   Öffnet das Menü zum freischalten der Flags.
+`/claimflags`\
+Öffnet das Menü zum freischalten der Flags.
 
-`/setclaimflag <flagname> [optionen]`
-:   Setzt eine Flag auf einem Claim.
+`/setclaimflag <flagname> [optionen]`\
+Setzt eine Flag auf einem Claim.
 
-`/unsetclaimflag <flagname>`
-:   Entfernt eine Flag von einem Claim.
+`/unsetclaimflag <flagname>`\
+Entfernt eine Flag von einem Claim.
 
-`/listclaimflags`
-:   Zeigt alle aktiven Flags.
+`/listclaimflags`\
+Zeigt alle aktiven Flags.
 
 ---
 
