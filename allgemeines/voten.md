@@ -53,14 +53,14 @@ Nutze `/vote` und bewege die Maus über deinen Kopf, um sowohl deine aktuelle Vo
 Die VoteChests, auch Votekisten genannt, sind der einzige Weg, um Votecoins auszugeben. Mit `/vote` kommst du in das Menü, in dem du Keys (Schlüssel) für die VoteChests kaufen kannst. Diese stehen am Spawn (`/spawn`  oder `/warp vote`). Durch Rechtsklick mit einem Key auf die zugehörige VoteChest wird diese geöffnet. Die Wahrscheinlichkeiten der einzelnen Gewinne aus den VoteChests sind unten aufgelistet. Du kannst diese Wahrscheinlichkeiten ebenfalls in der VoteChest selbst ansehen, indem du auf diese linksklickst.
 
 ### Befehle
-`/vc top`
-:   Zeigt die Spieler, die die meisten VoteCoins besitzen.
+`/vc top`\
+Zeigt die Spieler, die die meisten VoteCoins besitzen.
 
-`/vc balance <spielername>`
-:   Zeigt die Anzahl an VoteCoins, die diese Person besitzt. Dieser Befehl kann nur verwendet werden, wenn die Person online ist und sich auf dem gleichen Server (Bauwelt, Farmwelt, Industriewelt, Eventwelt) wie du befindet.
+`/vc balance <spielername>`\
+Zeigt die Anzahl an VoteCoins, die diese Person besitzt. Dieser Befehl kann nur verwendet werden, wenn die Person online ist und sich auf dem gleichen Server (Bauwelt, Farmwelt, Industriewelt, Eventwelt) wie du befindet.
 
-`/vc send <spielername> <anzahl>`
-:   Mit diesem Befehl kannst du eine beliebige Anzahl an Votecoins an eine andere Person schicken. Dieser Befehl kann ebenfalls nur verwendet werden, wenn die Person online ist und sich auf dem gleichen Server (Bauwelt, Farmwelt, Industriewelt, Eventwelt) wie du befindet.
+`/vc send <spielername> <anzahl>`\
+Mit diesem Befehl kannst du eine beliebige Anzahl an Votecoins an eine andere Person schicken. Dieser Befehl kann ebenfalls nur verwendet werden, wenn die Person online ist und sich auf dem gleichen Server (Bauwelt, Farmwelt, Industriewelt, Eventwelt) wie du befindet.
 
 ### Wahrscheinlichkeiten
 ==- Resource Chest [!badge variant="info" text="1 VC"]
