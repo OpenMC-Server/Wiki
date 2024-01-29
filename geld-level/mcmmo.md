@@ -111,6 +111,16 @@ Fische      | 90,64	| 90,13	| 90,88	| 89,38	| 88,73	| 87,45	| 84,9	| 78,9
 +++ Drop-Items
 Hier sind die Items aufgelistet, die in der jeweiligen Seltenheitsstufe gedroppt werden können. Die Menge, die je Item gedroppt werden kann (falls das Item stackbar ist), variiert. Bei Rüstungsteilen, Werkzeugen und Waffen sind mit steigender Seltenheit auch bessere Verzauberungen möglich.
 
+{.compact}
+Seltenheit  | Items
+:---:       | ---
+Common      | Lederrüstung, Lapislazuli, Seerosenblatt, Leder, Faden, Knochen, Tintenbeutel, Feuerstein, Papier, Tonklumpen
+Uncommon    | Eisenbarren, Goldbarren, Diamant, Lapislazuli, Seerosenblatt, Leder, Faden, Knochen, Tintenbeutel, Feuerstein, Papier, Tonklumpen
+Rare        | Eisenwerkzeuge, Eisenschwert, Bogen, Eisenbarren, Goldbarren, Lapislazuli, Namensschild, Seerosenblatt, Leder, Faden, Knochen, Tintenbeutel, Feuerstein, Papier, Tonklumpen, Prismarinkristall, Prismarinscherbe
+Epic        | Eisenrüstung, Diamant, Namensschild, Ghastträne, Spinnennetz, Seelaterne, Prismarinkristall, Prismarinscherbe
+Legendary   | Diamantrüstung, Diamantwerkzeuge, Diamantschwert, Verzaubertes Buch, Netheritplatte, Nautilusschale, Spinnennetz, Seelaterne, Nasser Schwamm
+Mythic      | Netheritrüstung, Netheritwerkzeuge, Netheritschwert, Nasser Schwamm, Disc - Otherside
+Record      | Alle anderen Schallplatten
 
 +++
 
