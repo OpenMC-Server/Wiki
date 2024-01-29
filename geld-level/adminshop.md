@@ -7,9 +7,6 @@ icon: credit-card
 
 # AdminShop
 
-RECYCLEEEE
-
-
 Im AdminShop kannst du ausgewählte Items an- und verkaufen. Um den AdminShop zu öffnen, verwende `/adminshop` oder `/as`.
 
 ---
@@ -57,3 +54,42 @@ Der Adminshop enthält eine sehr präzise Abfrage in Abstimmung mit deiner zur V
 - Item-Existenz im Inventar
 - Globales Verkaufslimit
 - Einzelnes-Itemlimit (falls vorhanden)
+
+---
+
+## Recycle
+Mit dem `/recycle` Befehl kannst du bestimmte Gegenstände verkaufen, ohne dein Item-Limit zu beanspruchen. Hierbei erhältst du jedoch nur einen Anteil von 10% vom eigentlichen Preis.
+
+==- Mögliche Items
+- Grasblock
+- Erde
+- Podsol
+- Myzel
+- Kies
+- Sand
+- Roter Sand
+- Bruchstein
+- Stein
+- Glatter Stein
+- Andesit
+- Diorit
+- Granit
+- Tuffstein
+- Netherrack
+- Seelensand
+- Endstein
+- Tiefenschiefer
+- Bruchtiefenschiefer
+- Basalt
+- Schwarzstein
+==-
+
+### Befehle
+`/recycle <id>`\
+Verkauft das Item mit der angegebenen ID.
+
+`/recycle blocks`\
+Verkauft alle möglichen Blöcke aus deinem Inventar.
+
+`/recycle inventory / inv / all`\
+Verkauft alle möglichen Items aus deinem Inventar.
