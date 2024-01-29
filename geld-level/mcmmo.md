@@ -95,6 +95,18 @@ Angeln verwendet ein Rang-System, bei dem du je nach Level einem Rang zugeordnet
 +++ Drop-Chancen
 Hier sind die Seltenheitsstufen mit den jeweiligen Drop-Chancen pro Rang aufgelistet. Alle Angaben sind in Prozent.
 
+{.compact}
+Seltenheit | Rang 1 (Level 0) | Rang 2 (Level 125) | Rang 3 (Level 250) | Rang 4 (Level 375) | Rang 5 (Level 500) | Rang 6 (Level 625) | Rang 7 (Level 700) | Rang 8 (Level 875+)
+:---:       | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---:
+Common      | 7,5   | 6,5	| 3,5	| 2	    | 1,5	| 1	    | 0,25	| 0,1
+Uncommon    | 1,25	| 1,75	| 2,75	| 3,5	| 3,75	| 3,25	| 2,75	| 1,5
+Rare        | 0,25	| 0,75	| 1,25	| 2,25	| 2,5	| 3,75	| 4	    | 6
+Epic        | 0,15	| 0,5	| 1	    | 1,5   | 2	    | 2,5	| 5	    | 7,5
+Legendary   | 0,1	| 0,15	| 0,35	| 1	    | 1	    | 1,5	| 2,5	| 5
+Mythic      | 0,01	| 0,02	| 0,02	| 0,02	| 0,02	| 0,05	| 0,1	| 0,25
+Record      | 0,1	| 0,2	| 0,25	| 0,35	| 0,5	| 0,5	| 0,5	| 0,75
+Total       | 9,36	| 9,87	| 9,12	| 10,62	| 11,27	| 12,55	| 15,1	| 21,1
+Fische      | 90,64	| 90,13	| 90,88	| 89,38	| 88,73	| 87,45	| 84,9	| 78,9
 
 +++ Drop-Items
 Hier sind die Items aufgelistet, die in der jeweiligen Seltenheitsstufe gedroppt werden können. Die Menge, die je Item gedroppt werden kann (falls das Item stackbar ist), variiert. Bei Rüstungsteilen, Werkzeugen und Waffen sind mit steigender Seltenheit auch bessere Verzauberungen möglich.
