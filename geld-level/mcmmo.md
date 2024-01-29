@@ -68,7 +68,13 @@ Wenn sich der Spieler in der Nähe befindet, kannst du mit diesem Befehl seine m
 ---
 
 ## Liste der Skills
-
+Skillname | Leveln durch... | Features (Zusammenfassung) | Hinweise
+:---: | --- | --- | ---
+Akrobatik   | Erleiden von Fallschaden | Verringert mit einer gewissen levelabhängigen Chance Fallschaden. Während des Fallens die Schleichen-Taste gedrückt zu halten, verringert den Schaden weiter. Ferner besteht eine Chance, im Kampf geringeren Schaden zu nehmen.	| Leveln funktioniert nur, wenn /fly deaktiviert ist.
+Alchemie    | Brauen von Tränken | Es werden zunehmend viele neue Rezepte für in Minecraft sonst nicht erhältliche Tränke freigeschaltet. Tränke werden außerdem zunehmend schneller gebraut. | 
+Angeln      | Erfolgreiches Verwenden von Angelruten | Neben allmählichen Upgrades für das Angeln im Wasser an sich (häufigere und bessere Schätze, weniger Wartezeit) sättigt geangeltes Essen auch besser. Mit hinreichend hohem Level kann man Mobs mit einer Angel mit einer gewissen Chance ihre Drops entreißen, aber sowohl der Mob als auch die Angel werden dabei stark beschädigt. | mcMMO bringt sein eigenes Angelsystem mit, das das Vanilla-Angelsystem ersetzt. Drops werden also anders (und am Anfang insbesondere schlechter) sein als aus Vanilla-Minecraft gewohnt – Übersicht siehe [hier](#angel-drops).
+Axtkampf    | Schlagen von Mobs mit Äxten | Äxte verursachen mit höheren Leveln zunehmend viel Schaden. Sie werden besonders gut darin, die Haltbarkeit von Rüstungen zu schmelzen. Die aufladbare Spezialfähigkeit verwandelt den Angriff der Axt in einen Flächenangriff. | 
+Bergbau	    | Abbauen von Blöcken, die mit Spitzhacken abzubauen sind, wie Stein oder Erzblöcke	| Mit einer zunehmend großen Chance droppen relevante Blöcke nicht nur einmal, sondern gleich doppelt. Die aufladbare Spezialfähigkeit versieht die Spitzhacke für kurze Zeit mit zusätzlicher Effizienz und abgebaute Blöcke können sogar dreifach droppen. Man kann die Fähigkeit freischalten, TNT aus der Ferne zu zünden, indem man im Schleichen und weit entfernt mit einem Feuerzeug einen Rechtsklick auf das TNT ausführt. Höhere Level vergrößern den Schaden und die Effizienz dieser Explosionen.
 
 ---
 
