@@ -178,7 +178,4 @@ todo
 ### Über das Spiel
 Schach kann jederzeit von 2 Leuten gespielt werden.
 
-Mit dem Befehl `/warp Schach` gelangt man zum Spiel. Wenn 2 Personen dem Spiel beigetreten sind, wird dieses automatisch gestartet. Mit einem linksklick auf die gewünschte Figur kann man diese auswählen und mit einem rechtsklick auf ein anderes Feld setzen. Wer gerade an der Reihe ist wird im Chat angezeigt.
-
-### Bitte beachten
-Um eine Runde Schach starten zu können, muss das Inventar leer sein.
+Mit dem Befehl `/warp Schach` gelangt man zum Spiel. Um eine Runde Schach starten zu können, muss das Inventar leer sein. Wenn 2 Personen dem Spiel beigetreten sind, wird dieses automatisch gestartet. Mit einem Linksklick auf die gewünschte Figur kann man diese auswählen und mit einem Rechtsklick auf ein anderes Feld setzen. Wer gerade an der Reihe ist, wird im Chat angezeigt.
