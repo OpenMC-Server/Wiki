@@ -31,7 +31,7 @@ Im Folgenden kannst du dir grundlegende Informationen durchlesen, um gut auf Ope
 ### Drei-Welten-Modell
 Wie bereits angekündigt, besteht OpenMC aus drei großen Welten. Jeder einzelnen steht dabei ein eigener Server zur Verfügung, wodurch die bestmögliche Performance erreicht wird.
 
-In der **Bauwelt** sowie der Nether-Bauwelt kann jeder Spieler sein Grundstück sowie andere Bauwerke an einer beliebigen freien Stelle errichten. Hierbei solltest du dein Erbautes durch ein Claim schützen.
+In der **Bauwelt** sowie der Nether-Bauwelt kann jeder Spieler sein Grundstück sowie andere Bauwerke an einer beliebigen freien Stelle errichten. Hierbei solltest du dein Erbautes durch ein Claim schützen. Solltest du direkt die 1.18 generierte Welt erobern wollen, kannst du durch `/warp neuland` ganz einfach direkt dorthin gelangen.
 
 Die **Farmwelt** ist der Ort, an dem du unbegrenzt Ressourcen farmen kannst. Alle drei Monate wird diese Welt vollständig erneuert. Zudem helfen dir `/wild` sowie vorgegebene Warp-Schilder dabei, einen vom Farmwelt-Spawn weit entfernten zufälligen Ort zu erreichen.
 
