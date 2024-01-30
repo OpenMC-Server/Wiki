@@ -146,3 +146,4 @@ Beacon-Effekt: Nachtsicht
 +++ Witherskelett:
 Erweiterung der Kriegerklasse.\
 Vergifte einen Gegner mit dem Withereffekt.
++++
