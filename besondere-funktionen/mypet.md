@@ -63,6 +63,18 @@ Mögliche Beacon-Effekte:
 Maximales Level (inkl. Spezialisierungen):\
 50 - 70
 
+==- Spezialisierungen
+#### Flugtier
+Nur bei Mobs mit Flügeln möglich.\
+Ermöglicht es, auf dem Reittier unendliche Strecken zu fliegen.
+
+#### Pegasus
+Eine Mischung zwischen Flug- und Landtier. Ermöglicht das verlängerte Fliegen, erhöhte Reitgeschwindigkeit gegenüber dem Flugtier.
+
+#### Landtier
+Das schnellste Reittier, kann jedoch nicht fliegen.
+==-
+
 Pferde, Esel und Verwüster können diese Klasse nicht annehmen.
 
 +++ Kampftier
@@ -74,6 +86,17 @@ Mögliche Beacon-Effekte:
 
 Maximales Level (inkl. Spezialisierungen):\
 70 - 80
+
+==- Spezialisierungen
+#### Krieger
+Schnell, starker Nahkampf. Allgemeine Verbesserung der Grundklasse.
+
+#### Schütze
+Fernkampf der Kampfklasse. Hoher Schaden, hält aber vergleichsweise wenig aus. Keine Beacon-Effekte möglich.
+
+#### Tank
+Langsam, dafür umso robuster. Steckt einiges ein und leitet Schaden von seinem Besitzer auf sich um. Neben einer Verbesserung der Beacon-Effekte, zusätzlich Absorption.
+==-
 
 +++ Farmtier
 Farmtiere helfen dem Spieler durch ein erweitertes Inventar, nützliche Effekte und eine mittlere Kampfkraft. Bei höhrerm Level können sie Items auch selbstständig aufsammeln.
@@ -88,4 +111,38 @@ Maximales Level (inkl. Spezialisierungen):\
 +++
 
 ### Spezialklassen
+Bestimmte Mobarten besitzen besondere Klassen:
 
++++ Husk
+Erweiterung der Kriegerklasse.\
+Vegiftet seine Gegner zusätzlich.
+
++++ Eiswanderer
+Erweiterung der Schützenklasse.\
+Verlangsamt seine Gegner zusätzlich.
+
++++ Lohe
+Erweiterung der Schützenklasse.\
+Verbrennt seine Gegner zusätzlich.
+
+Beacon-Effekt: Feuerresistenz
+
++++ Verwüster
+Erweiterung der Tankklasse\
+Stampft seine Gegner in Grund und Boden.
+
++++ Ertrunkener
+Beacon-Effekt: Unterwasseratmung
+
++++ Hase
+Mögliche Beacon-Effekte:
+- Sprungkraft
+- Schnelligkeit
+- Glück
+
++++ Enderman
+Beacon-Effekt: Nachtsicht
+
++++ Witherskelett:
+Erweiterung der Kriegerklasse.\
+Vergifte einen Gegner mit dem Withereffekt.
