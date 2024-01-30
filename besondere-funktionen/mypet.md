@@ -115,26 +115,73 @@ Bestimmte Mobarten besitzen besondere Klassen:
 
 {.compact}
 Mob/Klasse      | Erweiterung von...    | Fähigkeiten                                   | Beacon-Effekt
-:---:           | :---:                 | :---:                                         | :---:
+:---:           | :---:                 | ---                                           | ---
 Husk            | Kriegerklasse         | Vegiftet seine Gegner zusätzlich.             | 
 Eiswanderer     | Schützenklasse        | Verlangsamt seine Gegner zusätzlich.          | 
 Lohe            | Schützenklasse        | Verbrennt seine Gegner zusätzlich.            | Feuerresistenz
 Verwüster       | Tankklasse            | Stampft seine Gegner in Grund und Boden.      | 
-Witherskelett   | Kriegerklasse         | Vergifte einen Gegner mit dem Withereffekt.   | 
+Witherskelett   | Kriegerklasse         | Vergiftet einen Gegner mit dem Withereffekt.  | 
 Ertrunkener     |                       |                                               | Unterwasseratmung
 Hase            |                       |                                               | Sprungkraft, Schnelligkeit, Glück
 Enderman        |                       |                                               | Nachtsicht
 
-Der Warden verschwindet beim Verwenden von /petrelease. Es gibt dann keine Möglichkeit, das freigelassene Pet erneut zu zähmen.
+Wardens und Witherkelette verschwinden beim Verwenden von /petrelease. Es gibt dann keine Möglichkeit, das freigelassene Pet erneut zu zähmen.
 
 ## Zustände
 Ein Pet kann mit /petbehaviour in verschiedene Zustände versetzt werden:
 
 {.compact}
-:---:
-Friendly	Dein Pet greift keine Mobs an, egal ob es selbst angegriffen wird.
-Normal	Dein Pet greift nur an, wenn du/es von einem Gegner getroffen wirst/wird.
-Aggressive	Dein Pet greift alles im Umkreis von 15 Blöcken an (Mobs sowie Spieler).
-Farm	Dein Pet greift alle Mobs im Umkreis von 15 Blöcken um dich an.
-Raid	Dein Pet greift nur feindliche Mobs an (Zombies,Skelette, etc) und keine Pets anderer Personen oder Villager.
-Duel	Dein Pet greift Pets anderer Spieler an, deren Zustand auch auf "duel" gestellt ist (im Umkreis von 5 Blöcken).
+Zustand     | Beschreibung
+:---:       | ---
+Friendly    | Dein Pet greift keine Mobs an, egal ob es selbst angegriffen wird.
+Normal      | Dein Pet greift nur an, wenn du/es von einem Gegner getroffen wirst/wird.
+Aggressive  | Dein Pet greift alles im Umkreis von 15 Blöcken an (Mobs sowie Spieler).
+Farm        | Dein Pet greift alle Mobs im Umkreis von 15 Blöcken um dich an.
+Raid        | Dein Pet greift nur feindliche Mobs an (Zombies, Skelette, etc) und keine Pets anderer Personen oder Villager.
+Duel        | Dein Pet greift Pets anderer Spieler an, deren Zustand auch auf "duel" gestellt ist (im Umkreis von 5 Blöcken).
+
+## Befehle TODO
+/petinfo
+Zeigt Informationen zum aktiven Pet.
+
+/petname
+Benennt das aktive Pet um.
+
+/petlist
+Listet alle deine Pets auf.
+
+/petswitch
+Ermöglicht das Wechseln oder Rufen von Pets.
+
+/petstore
+Schickt dein aktives Pet in einen virtuellen Stall.
+
+/petinventory
+Öffnet das Pet-Inventar.
+
+/petcall
+Ruft das aktive Pet zu dir.
+
+/petpickup
+Aktiviert/Deaktiviert das Aufheben von Items durch das Pet.
+
+/petrelease
+Lässt das aktive Pet frei. Wardens und Witherkelette verschwinden beim Verwenden von /petrelease. Es gibt dann keine Möglichkeit, das freigelassene Pet erneut zu zähmen.
+
+/petrespawn
+Belebt ein totes Pet wieder.
+
+/pettrade 
+Aktives Pet verkaufen / kaufen. Wird der Betrag leer gelassen, ist es ein Geschenk.
+
+/petskill
+Auflistung der Fähigkeiten deines aktiven Pets.
+
+/petchooseskilltree oder /pcst
+Auswählen / Wechseln des Skills des aktiven Pets.
+
+/petbehavior oder /petbehaviour
+Änderung des Zustandes deines aktiven Pets.
+
+/petbeacon
+Auswahl von Beaconeffekten die das Pet je nach Skilltree und Level ausstrahlen kann.
