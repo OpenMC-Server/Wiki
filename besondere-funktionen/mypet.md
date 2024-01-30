@@ -63,6 +63,8 @@ Mögliche Beacon-Effekte:
 Maximales Level (inkl. Spezialisierungen):\
 50 - 70
 
+Pferde, Esel und Verwüster können diese Klasse nicht annehmen.
+
 ==- Spezialisierungen
 #### Flugtier
 Nur bei Mobs mit Flügeln möglich.\
@@ -74,8 +76,6 @@ Eine Mischung zwischen Flug- und Landtier. Ermöglicht das verlängerte Fliegen,
 #### Landtier
 Das schnellste Reittier, kann jedoch nicht fliegen.
 ==-
-
-Pferde, Esel und Verwüster können diese Klasse nicht annehmen.
 
 +++ Kampftier
 Nachts und in Duellen sind Kampftiere die besten Begleiter, da sie die höchste Kampfkraft besitzen.
@@ -128,7 +128,7 @@ Verbrennt seine Gegner zusätzlich.
 Beacon-Effekt: Feuerresistenz
 
 +++ Verwüster
-Erweiterung der Tankklasse\
+Erweiterung der Tankklasse.\
 Stampft seine Gegner in Grund und Boden.
 
 +++ Ertrunkener
@@ -143,7 +143,7 @@ Mögliche Beacon-Effekte:
 +++ Enderman
 Beacon-Effekt: Nachtsicht
 
-+++ Witherskelett:
++++ Witherskelett
 Erweiterung der Kriegerklasse.\
 Vergifte einen Gegner mit dem Withereffekt.
 +++
