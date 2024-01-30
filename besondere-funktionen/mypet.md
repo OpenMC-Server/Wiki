@@ -113,37 +113,28 @@ Maximales Level (inkl. Spezialisierungen):\
 ### Spezialklassen
 Bestimmte Mobarten besitzen besondere Klassen:
 
-+++ Husk
-Erweiterung der Kriegerklasse.\
-Vegiftet seine Gegner zusätzlich.
+{.compact}
+Mob/Klasse      | Erweiterung von...    | Fähigkeiten                                   | Beacon-Effekt
+:---:           | :---:                 | :---:                                         | :---:
+Husk            | Kriegerklasse         | Vegiftet seine Gegner zusätzlich.             | 
+Eiswanderer     | Schützenklasse        | Verlangsamt seine Gegner zusätzlich.          | 
+Lohe            | Schützenklasse        | Verbrennt seine Gegner zusätzlich.            | Feuerresistenz
+Verwüster       | Tankklasse            | Stampft seine Gegner in Grund und Boden.      | 
+Witherskelett   | Kriegerklasse         | Vergifte einen Gegner mit dem Withereffekt.   | 
+Ertrunkener     |                       |                                               | Unterwasseratmung
+Hase            |                       |                                               | Sprungkraft, Schnelligkeit, Glück
+Enderman        |                       |                                               | Nachtsicht
 
-+++ Eiswanderer
-Erweiterung der Schützenklasse.\
-Verlangsamt seine Gegner zusätzlich.
+Der Warden verschwindet beim Verwenden von /petrelease. Es gibt dann keine Möglichkeit, das freigelassene Pet erneut zu zähmen.
 
-+++ Lohe
-Erweiterung der Schützenklasse.\
-Verbrennt seine Gegner zusätzlich.
+## Zustände
+Ein Pet kann mit /petbehaviour in verschiedene Zustände versetzt werden:
 
-Beacon-Effekt: Feuerresistenz
-
-+++ Verwüster
-Erweiterung der Tankklasse.\
-Stampft seine Gegner in Grund und Boden.
-
-+++ Ertrunkener
-Beacon-Effekt: Unterwasseratmung
-
-+++ Hase
-Mögliche Beacon-Effekte:
-- Sprungkraft
-- Schnelligkeit
-- Glück
-
-+++ Enderman
-Beacon-Effekt: Nachtsicht
-
-+++ Witherskelett
-Erweiterung der Kriegerklasse.\
-Vergifte einen Gegner mit dem Withereffekt.
-+++
+{.compact}
+:---:
+Friendly	Dein Pet greift keine Mobs an, egal ob es selbst angegriffen wird.
+Normal	Dein Pet greift nur an, wenn du/es von einem Gegner getroffen wirst/wird.
+Aggressive	Dein Pet greift alles im Umkreis von 15 Blöcken an (Mobs sowie Spieler).
+Farm	Dein Pet greift alle Mobs im Umkreis von 15 Blöcken um dich an.
+Raid	Dein Pet greift nur feindliche Mobs an (Zombies,Skelette, etc) und keine Pets anderer Personen oder Villager.
+Duel	Dein Pet greift Pets anderer Spieler an, deren Zustand auch auf "duel" gestellt ist (im Umkreis von 5 Blöcken).
