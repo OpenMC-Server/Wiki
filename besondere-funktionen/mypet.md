@@ -30,6 +30,7 @@ Um ein Pet zu leveln, muss dieses aktiv mit dir mitlaufen, während du Monster t
 ---
 
 ## Klassen
+![](/images/mypet_klassen.png)
 Klassen verändern die Stärke (bzw. Fähigkeiten) eines Haustiers. Die Art der Bewegung, Erscheinung oder das Level-System des Haustiers ändert sich hierbei nicht. Jede Klasse legt seinen Fokus auf ein anderes Gebiet.
 
 Steigt das Level deines Haustiers, so werden unterschiedliche Fähigkeiten gesteigert:
@@ -51,10 +52,40 @@ Um eine Klasse ("Skilltree") auszuwählen, nutze den Befehl /petchooseskilltree 
 
 Bis auf wenige Ausnahmen (siehe Grafik) kann jedes Pet jede Klasse annehmen. Bei den unterschiedlichen Klassen spielt der Mobtyp keine Rolle, sondern alles wird über die einzelnen Klassen freigeschaltet.
 
-### Klassen-Übersicht
-![](/images/mypet_klassen.png)
-
 ### Grundklassen
++++ Reittier
+Reittiere ermöglichen es dir, auf einem Mob zu reiten oder kurze Strecken zu fliegen. Sie eignen sich aber nur mäßig im Kampf. Um zu reiten, muss ein Rechtsklick mit einer Leine auf das Pet erfolgen (ab Level 5)
+
+Mögliche Beacon-Effekte:
+- Regeneration
+- Geschwindigkeit
+
+Maximales Level (inkl. Spezialisierungen):\
+50 - 70
+
+Pferde, Esel und Verwüster können diese Klasse nicht annehmen.
+
++++ Kampftier
+Nachts und in Duellen sind Kampftiere die besten Begleiter, da sie die höchste Kampfkraft besitzen.
+
+Mögliche Beacon-Effekte:
+- Stärke
+- Feuerresistenz
+
+Maximales Level (inkl. Spezialisierungen):\
+70 - 80
+
++++ Farmtier
+Farmtiere helfen dem Spieler durch ein erweitertes Inventar, nützliche Effekte und eine mittlere Kampfkraft. Bei höhrerm Level können sie Items auch selbstständig aufsammeln.
+
+Mögliche Beacon-Effekte:
+- Absorption
+- Eile
+- Feuerresistenz
+
+Maximales Level (inkl. Spezialisierungen):\
+30 - 35
++++
 
 ### Spezialklassen
 
