@@ -52,7 +52,7 @@ Um eine Klasse ("Skilltree") auszuwählen, nutze den Befehl /petchooseskilltree 
 Bis auf wenige Ausnahmen (siehe Grafik) kann jedes Pet jede Klasse annehmen. Bei den unterschiedlichen Klassen spielt der Mobtyp keine Rolle, sondern alles wird über die einzelnen Klassen freigeschaltet.
 
 ### Klassen-Übersicht
-![](/static/mypet_klassen.png)
+![](/images/mypet_klassen.png)
 
 ### Grundklassen
 
