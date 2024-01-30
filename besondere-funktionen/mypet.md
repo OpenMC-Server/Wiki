@@ -12,9 +12,7 @@ Das MyPet-Plugin erlaubt es dir, Mobs jeglicher Art (mit wenigen Ausnahmen) zu f
 ---
 
 ## Mobs einfangen/zähmen
-Je nach Mobart unterscheidet sich die Fangmethode:
-- Monster müssen solange mit einer Leine geschlagen werden, bis ihr Leben 10% vom Maximum beträgt. Anschließend werden sie in Pets umgewandelt.
-- Zähmbare Tiere müssen zunächst gezähmt werden. Anschließend genügt ein Schlag mit einer Leine, und sie werden in Pets umgewandelt.
+Je nach Mobart unterscheidet sich die Fangmethode. Monster müssen solange mit einer Leine geschlagen werden, bis ihr Leben 10% vom Maximum beträgt. Anschließend werden sie in Pets umgewandelt. Zähmbare Tiere müssen zunächst gezähmt werden. Anschließend genügt ein Schlag mit einer Leine, und sie werden in Pets umgewandelt.
 
 Folgende Tiere sind nicht einfangbar:
 - Wither
@@ -54,7 +52,7 @@ Um eine Klasse ("Skilltree") auszuwählen, nutze den Befehl /petchooseskilltree 
 Bis auf wenige Ausnahmen (siehe Grafik) kann jedes Pet jede Klasse annehmen. Bei den unterschiedlichen Klassen spielt der Mobtyp keine Rolle, sondern alles wird über die einzelnen Klassen freigeschaltet.
 
 ### Klassen-Übersicht
-![](/static/mypet-klassen.png)
+![](/static/mypet_klassen.png)
 
 ### Grundklassen
 
