@@ -83,7 +83,8 @@ links:
 footer:
   copyright: "OpenMC Wiki © 2024 ist lizensiert unter [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.de)"
   links:
-
+    - text: Internes Teamwiki
+      link: https://teamwiki.openmc.net/
     - text: Impressum
       link: https://openmc.net/impressum/
     - text: Datenschutzerklärung
