@@ -44,7 +44,7 @@ Wir möchten allen Spielern die gleiche Chance geben, das Bauevent zu gewinnen. 
 5. Das Gewinnerteam erhält den Rang "Champion", mit dem dieser im TAB und Chat entsprechend gekennzeichnet wird. Weitere Preise für Platz 1 - 5 sind unten (Preise) angeführt. Außerdem gibt es eine Teilnahmebelohnung. Das Gewinnerteam nennt dem Team innerhalb eines Tages einen Themenvorschlag für das nächste Bauevent. Vor Beginn des nächsten Bauevents stimmen die Spieler über das neue Thema ab.
 
 ### Preise
-[!badge 1. Platz:]
+#### 1. Platz:
 - Eine Baumspende an PlanetTree
   - Das Team darf den Pflanzort selbst auswählen
   - Das Team erhält eine Urkunde mit den genauen Koordinaten der Pflanzfläche
