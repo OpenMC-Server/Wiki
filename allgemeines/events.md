@@ -53,24 +53,23 @@ Wir möchten allen Spielern die gleiche Chance geben, das Bauevent zu gewinnen. 
 - 900.000 $ - Gleichmäßige Aufteilung auf alle Teammitglieder
 - 50 VoteCoins - für jedes Teammitglied
 
-[!badge 2. Platz:]
+#### 2. Platz:
 - 540.000 $ - Gleichmäßige Aufteilung auf alle Teammitglieder
 - 35 VoteCoins - für jedes Teammitglied
 
-[!badge 3. Platz:]
+#### 3. Platz:
 - 450.000 $ - Gleichmäßige Aufteilung auf alle Teammitglieder
 - 25 VoteCoins - für jedes Teammitglied
 
-[!badge variant="secondary" text="4. Platz:"]
+#### 4. Platz:
 - 150.000 $ - Gleichmäßige Aufteilung auf alle Teammitglieder
 - 15 VoteCoins - für jedes Teammitglied
 
-[!badge variant="secondary" text="5. Platz:"]
+#### 5. Platz:
 - 90.000 $ - Gleichmäßige Aufteilung auf alle Teammitglieder
 - 10 VoteCoins - für jedes Teammitglied
 
-[!badge variant="info" text="Teilnahmebelohnung:"]
-
+#### Teilnahmebelohnung:
 Alle Teilnehmer, welche mit Ernsthaftigkeit und Kreativität am Event teilnehmen, erhalten unabhängig von der Platzierung eine Teilnahmebelohnung:
 - 25k $
 - 10 VoteCoins
