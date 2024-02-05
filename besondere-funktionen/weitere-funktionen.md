@@ -58,5 +58,16 @@ Eine Anfrage für eine Bedrock-Glättung kann mit den Koordinaten der zu glätte
 
 ---
 
-### Bunte Chatnachrichten mit Colorcodes
+## Colorcodes
 [!badge variant="dark" icon="ruby" text="VIP/VIS Feature"](/allgemeines/ränge.md)
+
+-![](/images/color_codes.png)
+Colorcodes ermöglichen es, bunte Nachrichten im Chat und auf Schildern zu schreiben.
+
+Auf dem Bild findest du eine Auflistung aller möglichen Colorcodes. Es gibt neben den Colorcodes noch einige Formatierungs-Codes, die farb-unabhängige Attribute verändern.
+
+Möchtest du beispielsweise die Nachricht “Hallo” in dunkelblau schreiben, schreibe “&1Hallo” in den Chat. Der Colorcode “&1” verschwindet dann automatisch und färbt jegliche Schrift nach diesem dunkelblau. Um wieder auf die normale Schriftfarbe (weiß) zu wechseln verwende “&f” oder “&r”. “&f” wechselt die Farbe zurück auf weiß, jedoch bleibt andere Formatierung (wie “&l” für fett-gedruckt) erhalten. “&r” setzt jegliche Formatierung und Farbe zurück.
+
+---
+
+## Fehlende Advancements freischalten
