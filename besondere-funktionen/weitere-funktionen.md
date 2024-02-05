@@ -30,6 +30,18 @@ Außerdem ist eine Kompatibilität zwischen `/sign` und Pipe-Schildern gegeben. 
 
 ---
 
+## Colorcodes
+[!badge variant="dark" icon="ruby" text="VIP/VIS Feature"](/allgemeines/ränge.md)
+
+-![](/images/color_codes.png)
+Colorcodes ermöglichen es, bunte Nachrichten im Chat und auf Schildern zu schreiben.
+
+Auf dem Bild findest du eine Auflistung aller möglichen Colorcodes. Es gibt neben den Colorcodes noch einige Formatierungs-Codes, die farb-unabhängige Attribute verändern. Du kannst diese Auflistung ebenfalls ingame mit `/colorcodes` einsehen.
+
+Möchtest du beispielsweise die Nachricht “Hallo” in dunkelblau schreiben, schreibe “&1Hallo” in den Chat. Der Colorcode “&1” verschwindet dann automatisch und färbt jegliche Schrift nach diesem dunkelblau. Um wieder auf die normale Schriftfarbe (weiß) zu wechseln verwende “&f” oder “&r”. “&f” wechselt die Farbe zurück auf weiß, jedoch bleibt andere Formatierung (wie “&l” für fett-gedruckt) erhalten. “&r” setzt jegliche Formatierung und Farbe zurück.
+
+---
+
 ## XP-Bottles
 Du kannst deine Erfahrungspunkte jederzeit in allen Welten in Flaschen abfüllen. Da sie zu normalen XP-Flaschen werden, kannst du sie zudem in ChestShops verkaufen.
 
@@ -45,6 +57,11 @@ Füllt die angegebene Anzahl an XP in eine einzelne Flasche. Diese Flasche kann 
 
 ---
 
+## MapArts schützen
+
+
+---
+
 ## Bedrock-Glättung
 Es ist möglich, Bedrock in der Bauwelt für Ingamegeld glätten zu lassen. Der Bedrock wird dabei auf die letzte Ebene reduziert.
 
@@ -55,18 +72,6 @@ Die Anzahl an Blöcken wird in diesem Kontext als die Ausdehnung in x-z-Richtung
 Im Bauwelt-Nether ist eine Entfernung ebenfalls möglich. Das geplante Bauwerk muss dies jedoch zwingend erforderlich machen.
 
 Eine Anfrage für eine Bedrock-Glättung kann mit den Koordinaten der zu glättenden Fläche per Ticket im [!badge variant="primary" target="blank" icon= "comment-discussion" text="Discord"](https://discord.com/invite/ecqPF34) gestellt werden.
-
----
-
-## Colorcodes
-[!badge variant="dark" icon="ruby" text="VIP/VIS Feature"](/allgemeines/ränge.md)
-
--![](/images/color_codes.png)
-Colorcodes ermöglichen es, bunte Nachrichten im Chat und auf Schildern zu schreiben.
-
-Auf dem Bild findest du eine Auflistung aller möglichen Colorcodes. Es gibt neben den Colorcodes noch einige Formatierungs-Codes, die farb-unabhängige Attribute verändern. Du kannst diese Auflistung ebenfalls ingame mit `/colorcodes` einsehen.
-
-Möchtest du beispielsweise die Nachricht “Hallo” in dunkelblau schreiben, schreibe “&1Hallo” in den Chat. Der Colorcode “&1” verschwindet dann automatisch und färbt jegliche Schrift nach diesem dunkelblau. Um wieder auf die normale Schriftfarbe (weiß) zu wechseln verwende “&f” oder “&r”. “&f” wechselt die Farbe zurück auf weiß, jedoch bleibt andere Formatierung (wie “&l” für fett-gedruckt) erhalten. “&r” setzt jegliche Formatierung und Farbe zurück.
 
 ---
 
@@ -92,11 +97,6 @@ Nutze `/advancements`, um das Menü für die Freischaltung zu öffnen. Dort kann
 - Two Birds, One Arrow (200k$)
 - Is it a Plane? (300k$)
 +++
-
----
-
-## MapArts schützen
-
 
 ---
 
