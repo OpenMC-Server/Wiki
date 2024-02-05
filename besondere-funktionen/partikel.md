@@ -4,6 +4,9 @@ layout: default
 order: 397
 icon: north-star
 ---
+
+# Partikel
+
 [!badge variant="dark" icon="ruby" text="VIP/VIS Feature"](/allgemeines/ränge.md)
 
 Mit Partikeln kannst du deinem Aussehen das gewisse Extra verleihen.
