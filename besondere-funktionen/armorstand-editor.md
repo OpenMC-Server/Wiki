@@ -13,6 +13,11 @@ Mit dem ArmorStand Editor kannst du ganz einfach personalisierte Armorstands (R�
 
 Um den Editor zu verwenden, klicke mit `Shift + Rechtsklick` auf einen Armorstand.
 
+==- Anleitungsvideo
+Obisasam hat ein schönes Video zu ArmorStands erstellt:
+[!embed](https://www.youtube.com/watch?v=gqV6YL-zFXY)
+==-
+
 ---
 
 ## Menü öffnen
