@@ -64,10 +64,53 @@ Eine Anfrage für eine Bedrock-Glättung kann mit den Koordinaten der zu glätte
 -![](/images/color_codes.png)
 Colorcodes ermöglichen es, bunte Nachrichten im Chat und auf Schildern zu schreiben.
 
-Auf dem Bild findest du eine Auflistung aller möglichen Colorcodes. Es gibt neben den Colorcodes noch einige Formatierungs-Codes, die farb-unabhängige Attribute verändern.
+Auf dem Bild findest du eine Auflistung aller möglichen Colorcodes. Es gibt neben den Colorcodes noch einige Formatierungs-Codes, die farb-unabhängige Attribute verändern. Du kannst diese Auflistung ebenfalls ingame mit `/colorcodes` einsehen.
 
 Möchtest du beispielsweise die Nachricht “Hallo” in dunkelblau schreiben, schreibe “&1Hallo” in den Chat. Der Colorcode “&1” verschwindet dann automatisch und färbt jegliche Schrift nach diesem dunkelblau. Um wieder auf die normale Schriftfarbe (weiß) zu wechseln verwende “&f” oder “&r”. “&f” wechselt die Farbe zurück auf weiß, jedoch bleibt andere Formatierung (wie “&l” für fett-gedruckt) erhalten. “&r” setzt jegliche Formatierung und Farbe zurück.
 
 ---
 
 ## Fehlende Advancements freischalten
+Aufgrund des Multi-Server-Setups von OpenMC befinden sich die Farmwelt und Industriewelt auf separaten Servern. Da es in der Bauwelt kein End gibt, ist es nicht möglich, bestimmte Advancements auf natürlichem Weg zu erhalten. Die fehlenden Advancements können für einen Geldbetrag dennoch freigeschaltet werden, um die eigene Sammlung zu vervollständigen.
+
+!!!warning Wichtiger Hinweis:
+Das Menü prüft nicht, ob du ein Advancement bereits besitzt. Prüfe deshalb bitte vor dem Kauf, ob dies der Fall ist, da Mehrfachkäufe nicht verhindert oder erstattet werden können.
+!!!
+
+Nutze `/advancements`, um das Menü für die Freischaltung zu öffnen. Dort kannst du anschließend das gewünschte Advancement auswählen.
+
+### Freischaltbare Advancements
++++ Minecraft
+- “The End?” (100k$)
++++ The End
+- Free the End (150k$)
+- Remote Gateway (100k$)
+- The End… Again… (300k$)
+- The City at the End of the Game (100k$)
++++ Adventure
+- Monsters Hunted (300k$)
+- Two Birds, One Arrow (200k$)
+- Is it a Plane? (300k$)
++++
+
+---
+
+## MapArts schützen
+
+
+---
+
+## Mighty X Schwert mit Rückstoß X
+Mighty X Schwerter ohne Rückstoß X können mit einem Rückstoß X Stock aus der Collector Chest zu einem Mighty X Schwert mit Rückstoß X kombiniert werden. Melde dich hierfür gerne bei einem Admin.
+
+---
+
+## Keep-Inventory Flag für PvP Arenen
+Es ist möglich, für PvP-Arenen eine Keep-Inventory Flag zu erhalten, wodurch das Inventar beim Tod nicht verloren geht. In diesem Bereich darf sich nur die PvP-Arena befinden.
+
+Eine Anfrage für eine Keep Inventory Flag kann mit den Koordinaten der Arena per Ticket im Discord gestellt werden.
+
+---
+
+## Joindate
+Mit dem Befehl `/joindate` lässt sich in der Bauwelt anzeigen, wann man das erste Mal den Server betreten hat. Hinweis: Es darf kein Name, auch nicht der eigene, mit angegeben werden.
