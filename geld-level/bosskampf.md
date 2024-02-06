@@ -1,7 +1,7 @@
 ---
 label: Bosskampf
 layout: default
-order: 595
+order: 594
 icon: hubot
 ---
 
