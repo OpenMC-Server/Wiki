@@ -124,4 +124,5 @@ Aktiviert Explosionen in deinem Claim. Diese Einstellung wird automatisch wieder
 ---
 
 ## MapArts schützen
-Wenn du dein MapArt gegen Kopien schützen möchtest, beachte bitte die Informationen auf der folgenden Seite: [!badge icon="plus-circle" text="MapArts schützen"](https://wiki.openmc.net/besondere-funktionen/weitere-funktionen/#maparts-sch%C3%BCtzen)
+Wenn du dein MapArt gegen Kopien schützen möchtest, beachte bitte die Informationen auf der folgenden Seite:\
+[!badge icon="plus-circle" text="MapArts schützen"](https://wiki.openmc.net/besondere-funktionen/weitere-funktionen/#maparts-sch%C3%BCtzen)
