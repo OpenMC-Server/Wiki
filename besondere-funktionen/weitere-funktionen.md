@@ -19,7 +19,7 @@ Nutze `/sign`, um den Modus ein- und auszuschalten.
 
 Schlägst du ein Schild mit einem Schild in deinem Inventar, wird dessen Inhalt kopiert und du kannst ein neues Schild mit dem kopierten Inhalt platzieren. Wenn du den Modus wieder ausschaltest, kannst du das Schild wieder ohne kopierten Inhalt setzen.
 
-Wenn du eine Zeile des kopierten Schildes ändern möchtest, kannst du `/sign <Zeile> <Inhalt>` nutzen. Die Zeilenzahlen beginnen mit `1`, also mit `/sign <1> <Inhalt>` wird die oberste Zeile des Schildes editiert. 
+Wenn du eine Zeile des kopierten Schildes ändern möchtest, kannst du `/sign <zeile> <inhalt>` nutzen. Die Zeilenzahlen beginnen mit `1`, also mit `/sign 1 <inhalt>` wird die oberste Zeile des Schildes editiert. 
 
 ### Gut zu wissen
 Die Colorcodes werden von `/sign` nicht zu den maximalen Zeichen gezählt. Ein Schild hat maximal 15 Zeichen Platz pro Zeile. Dennoch ist es möglich, die 15 Zeichen zu überschreiten, wenn man Colorcodes verwendet. 
