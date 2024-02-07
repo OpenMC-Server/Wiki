@@ -5,4 +5,4 @@ order: 596
 icon: project-roadmap
 ---
 
-# ChestShop
+# Transaktionshistorie
