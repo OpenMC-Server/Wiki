@@ -34,7 +34,7 @@ Außerdem ist eine Kompatibilität zwischen `/sign` und Pipe-Schildern gegeben. 
 [!badge variant="dark" icon="ruby" text="VIP/VIS Feature"](/allgemeines/ränge.md)
 
 -![](/images/color_codes.png)
-Colorcodes ermöglichen es, bunte Nachrichten im Chat und auf Schildern zu schreiben.
+Colorcodes ermöglichen es dir, bunte Nachrichten im Chat und auf Schildern zu schreiben.
 
 Auf dem Bild findest du eine Auflistung aller möglichen Colorcodes. Es gibt neben den Colorcodes noch einige Formatierungs-Codes, die farb-unabhängige Attribute verändern. Du kannst diese Auflistung ebenfalls ingame mit `/colorcodes` einsehen.
 
