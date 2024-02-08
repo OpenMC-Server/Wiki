@@ -7,7 +7,7 @@ icon: organization
 
 # AdminClaims
 
-Für Großprojekte können spezifische Claims vergeben werden, wodurch ein Gebiet für dieses Projekt reserviert wird. Bei einem derartigen Claim handelt es sich um einen Adminclaim, auf welchem der Leiter des Großprojektes `permissiontrust` erhält. Das bedeutet konkret, dass die Claimblöcke vom Server übernommen werden, aber der Leiter vollen Zugriff auf den Claim hat.
+Für Großprojekte können spezifische Claims vergeben werden, wodurch ein Gebiet für dieses Projekt reserviert wird. Bei einem derartigen Claim handelt es sich um einen Adminclaim, auf welchem der Leiter des Großprojektes "permissiontrust" erhält. Das bedeutet konkret, dass die Claimblöcke vom Server übernommen werden, aber der Leiter vollen Zugriff auf den Claim hat.
 
 ---
 
