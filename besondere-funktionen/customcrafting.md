@@ -13,20 +13,22 @@ Um mit dem Craften beginnen zu können, genügt eine einfache Werkbank. Die mög
 ## Shard-System
 Shards sind ein wichtiger Bestandteil der meisten CustomCrafting-Rezepte. Es gibt drei Stufen an Shards, “Shard I”, “Shard II” und Shard “III”. Diese bauen aufeinander auf – das bedeutet, dass Shards einer niedrigeren Stufe benötigt werden, um Shards einer höheren Stufe zu craften.
 
-### <a id="shard-i-1"></a> Shard I
++++ Shard I
 Der Shard I können über zwei Wege erhalten werden:
 - Belohnungen des Mobevents
 - Gewinne in den VoteChests
 - Belohnungen weiterer Events
 
-### <a id="shard-essenz-1"></a> Shard-Essenz
++++ Shard-Essenz
 Die Shard-Essenz kann über das [entsprechende Rezept](#shard-essenz) gecraftet werden.
 
-### <a id="shard-ii-1"></a> Shard II
++++ Shard II
 Der Shard II kann über das [entsprechende Rezept](#shard-ii) gecraftet werden.
 
-### Shard III
++++ Shard III
 Der Shard III kann nicht gecraftet werden. Er ist als Drop bei [Bosskämpfen](/geld-level/bosskampf.md) erhältlich und ist deshalb für die seltensten und teuersten Rezepte reserviert.
+
++++
 
 ---
 
