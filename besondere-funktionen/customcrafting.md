@@ -19,6 +19,20 @@ Allgemeine Rezepte, die für das weitere Crafting verwendet werden.
 ==- Pfeilvorlage
 ![](/images/pfeilvorlage.png)-
 Material zur Erstellung von neuen Pfeilen.
+- 4 Shard I
+- 32 Drachenatem
+- 64 Pfeile
 
-*Geformtes Rezept. Die Zutaten müssen in eine exakten Form angeordnet werden.*
-==-
+*Geformtes Rezept. Die Zutaten müssen in einer exakten Form angeordnet werden.*
+
+==- Dreizack Blaupause
+![](/images/dreizack_blaupause.png)-
+Vorlage für neue Waffen.
+- 4 Shard II
+- 1 Verzaubertes Buch (Reparatur)
+- 1 Verzaubertes Buch (Harpune V)
+- 1 Verzaubertes Buch (Haltbarkeit III)
+- 1 Verzaubertes Buch (Treue III)
+- 1 Dreizack
+
+*Formloses Rezept. Die Zutaten dürfen in einer beliebigen Form angeordnet werden.*
