@@ -6,16 +6,35 @@ icon: cpu
 ---
 
 # CustomCrafting
-Mit CustomCrafting hast du die Möglichkeit, an eine Reihe von Items zu gelangen, welche nur auf OpenMC existieren.
-
+Mit CustomCrafting hast du die Möglichkeit, an eine Reihe von Items zu gelangen, welche nur auf OpenMC existieren.\
 Um mit dem Craften beginnen zu können, genügt eine einfache Werkbank. Die möglichen Rezepte und benötigten Zutaten findest du auf dieser Seite.
 
+---
 
+## Shard-System
+Shards sind ein wichtiger Bestandteil der meisten CustomCrafting-Rezepte. Es gibt drei Stufen an Shards, “Shard I”, “Shard II” und Shard “III”. Diese bauen aufeinander auf – das bedeutet, dass Shards einer niedrigeren Stufe benötigt werden, um Shards einer höheren Stufe zu craften.
+
+### Shard I
+Der Shard I können über zwei Wege erhalten werden:
+- Belohnungen des Mobevents
+- Gewinne in den VoteChests
+- Belohnungen weiterer Events
+
+### Shard-Essenz
+Die Shard-Essenz kann über das entsprechende Rezept gecraftet werden.
+
+### Shard II
+Der Shard II kann über das entsprechende Rezept gecraftet werden.
+
+### Shard III
+Der Shard III kann nicht gecraftet werden. Er ist als Drop bei [Bosskämpfen](/geld-level/bosskampf.md) erhältlich und ist deshalb für die seltensten und teuersten Rezepte reserviert.
+
+---
 
 ## Rezepte
 Im Folgenden findest du eine Auflistung aller CustomCrafting Rezepte.
 
-Du kannst außerdem /reciepes nutzen, um dir die Rezepte ingame anzusehen. Zusätzlich sind alle Rezepte in das Minecraft-Rezeptbuch in den Werkbänken integriert. Alternativ kannst du das Rezeptbuch auch craften:
+Du kannst außerdem `/reciepes` nutzen, um dir die Rezepte ingame anzusehen. Zusätzlich sind alle Rezepte in das Minecraft-Rezeptbuch in den Werkbänken integriert. Alternativ kannst du das Rezeptbuch auch craften:
 ==- Rezeptbuch
 ![](/images/rezeptbuch.png)-
 - 1 Leuchtsteinstaub
