@@ -6,12 +6,20 @@ icon: cpu
 ---
 
 # CustomCrafting
+Mit CustomCrafting hast du die Möglichkeit, an eine Reihe von Items zu gelangen, welche nur auf OpenMC existieren.
 
+Um mit dem Craften beginnen zu können, genügt eine einfache Werkbank. Die möglichen Rezepte und benötigten Zutaten findest du auf dieser Seite.
 
 
 
 ## Rezepte
-Im Folgenden findest du eine Auflistung aller CustomCrafting Rezepte. Du kannst außerdem /reciepes nutzen, um dir die Rezepte ingame anzusehen. Zusätzlich sind alle Rezepte in das Minecraft-Rezeptbuch in den Werkbänken integriert.
+Im Folgenden findest du eine Auflistung aller CustomCrafting Rezepte.
+
+Du kannst außerdem /reciepes nutzen, um dir die Rezepte ingame anzusehen. Zusätzlich sind alle Rezepte in das Minecraft-Rezeptbuch in den Werkbänken integriert. Alternativ kannst du das Rezeptbuch auch craften:
+==- Rezeptbuch
+![](/images/rezeptbuch.png)-
+- 1 Leuchtsteinstaub
+- 1 Buch
 
 ### Rezept-Zutaten
 Allgemeine Rezepte, die für das weitere Crafting verwendet werden.
