@@ -36,3 +36,4 @@ Vorlage für neue Waffen.
 - 1 Dreizack
 
 *Formloses Rezept. Die Zutaten dürfen in einer beliebigen Form angeordnet werden.*
+==-
