@@ -17,6 +17,6 @@ Im Folgenden findest du eine Auflistung aller CustomCrafting Rezepte. Du kannst 
 Allgemeine Rezepte, die für das weitere Crafting verwendet werden.
 
 ==- Pfeilvorlage
--![](/images/pfeilvorlage.png)
-Material zur Erstellung von neuen Pfeilen
+![](/images/pfeilvorlage.png)-
+Material zur Erstellung von neuen Pfeilen.
 ==-
