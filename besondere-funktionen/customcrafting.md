@@ -19,4 +19,6 @@ Allgemeine Rezepte, die für das weitere Crafting verwendet werden.
 ==- Pfeilvorlage
 ![](/images/pfeilvorlage.png)-
 Material zur Erstellung von neuen Pfeilen.
+
+*Geformtes Rezept. Die Zutaten müssen in eine exakten Form angeordnet werden.*
 ==-
