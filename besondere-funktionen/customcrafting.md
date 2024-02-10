@@ -20,6 +20,7 @@ Du kannst außerdem /reciepes nutzen, um dir die Rezepte ingame anzusehen. Zusä
 ![](/images/rezeptbuch.png)-
 - 1 Leuchtsteinstaub
 - 1 Buch
+==-
 
 ### Rezept-Zutaten
 Allgemeine Rezepte, die für das weitere Crafting verwendet werden.
