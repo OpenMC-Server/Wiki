@@ -4,7 +4,6 @@ layout: default
 order: 399
 icon: cpu
 ---
-[Test](#panel-1)
 # CustomCrafting
 Mit CustomCrafting hast du die Möglichkeit, an eine Reihe von Items zu gelangen, welche nur auf OpenMC existieren.\
 Um mit dem Craften beginnen zu können, genügt eine einfache Werkbank. Die möglichen Rezepte und benötigten Zutaten findest du auf dieser Seite.
@@ -14,17 +13,17 @@ Um mit dem Craften beginnen zu können, genügt eine einfache Werkbank. Die mög
 ## Shard-System
 Shards sind ein wichtiger Bestandteil der meisten CustomCrafting-Rezepte. Es gibt drei Stufen an Shards, “Shard I”, “Shard II” und Shard “III”. Diese bauen aufeinander auf – das bedeutet, dass Shards einer niedrigeren Stufe benötigt werden, um Shards einer höheren Stufe zu craften.
 
-### Shard I
+### <a id="shard-i-1"></a> Shard I
 Der Shard I können über zwei Wege erhalten werden:
 - Belohnungen des Mobevents
 - Gewinne in den VoteChests
 - Belohnungen weiterer Events
 
-### Shard-Essenz
-Die Shard-Essenz kann über das entsprechende Rezept gecraftet werden.
+### <a id="shard-essenz-1"></a> Shard-Essenz
+Die Shard-Essenz kann über das [entsprechende Rezept](#shard-essenz) gecraftet werden.
 
-### Shard II
-Der Shard II kann über das entsprechende Rezept gecraftet werden.
+### <a id="shard-ii-1"></a> Shard II
+Der Shard II kann über das [entsprechende Rezept](#shard-ii) gecraftet werden.
 
 ### Shard III
 Der Shard III kann nicht gecraftet werden. Er ist als Drop bei [Bosskämpfen](/geld-level/bosskampf.md) erhältlich und ist deshalb für die seltensten und teuersten Rezepte reserviert.
