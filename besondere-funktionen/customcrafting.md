@@ -20,10 +20,10 @@ Der Shard I können über zwei Wege erhalten werden:
 - Belohnungen weiterer Events
 
 +++ Shard-Essenz
-Die Shard-Essenz kann über das [entsprechende Rezept](#shard-essenz) gecraftet werden.
+Die Shard-Essenz kann über das [entsprechende Rezept](#rezept-zutaten) gecraftet werden.
 
 +++ Shard II
-Der Shard II kann über das [entsprechende Rezept](#shard-ii) gecraftet werden.
+Der Shard II kann über das [entsprechende Rezept](#rezept-zutaten) gecraftet werden.
 
 +++ Shard III
 Der Shard III kann nicht gecraftet werden.\
@@ -150,6 +150,16 @@ Crafte serverspezifische Waffen, Rüstung und Werkzeuge.
 ==- Deepslate Spitzhacke
 ![](/images/deepslate_spitzhacke.png)-
 [Effizienz V, Reparatur, Haltbarkeit III]
+- 256 Rissige Tiefenschieferfliesen
+- 128 Bruchtiefenschiefer
+- 2 Shard II
+- 1 Netheritspitzhacke
+
+*Geformtes Rezept. Die Zutaten müssen in einer exakten Form angeordnet werden.*
+
+==- Wirbelsturm Brustplatte I
+![](/images/wirbelsturm_brustplatte_1.png)-
+Eine Brustplatte mit Flugeigenschaften.
 - 2 Netherstern
 - 1 Shard III
 - 2 Wind Essenz
@@ -157,4 +167,114 @@ Crafte serverspezifische Waffen, Rüstung und Werkzeuge.
 - 1 Elytra Blaupause
 
 *Formloses Rezept. Die Zutaten dürfen in einer beliebigen Form angeordnet werden.*
+
+==- Wirbelsturm Brustplatte I (mit Reparatur)
+![](/images/wirbelsturm_brustplatte_1_reparatur.png)-
+Eine Brustplatte mit Flugeigenschaften.
+[Reparatur]
+- 2 Shard II
+- 1 Verzaubertes Buch (Reparatur)
+- 1 Enderkristall
+- 1 Wirbelsturm Brustplatte I
+
+*Formloses Rezept. Die Zutaten dürfen in einer beliebigen Form angeordnet werden.*
+
+==- Wirbelsturm Brustplatte II
+![](/images/wirbelsturm_brustplatte_2.png)-
+Eine Brustplatte mit Flugeigenschaften.
+[Reparatur, Haltbarkeit III, Schutz V]
+- 2 Wind Essenz
+- 1 Verzaubertes Buch (Haltbarkeit III)
+- 1 Verzaubertes Buch (Schutz IV)
+- 2 Shard II
+- 1 Wirbelsturm Brustplatte I (mit Reparatur)
+
+*Formloses Rezept. Die Zutaten dürfen in einer beliebigen Form angeordnet werden.*
+
+==- Wirbelsturm Brustplatte III
+![](/images/wirbelsturm_brustplatte_3.png)-
+Eine Brustplatte mit Flugeigenschaften.
+[Reparatur, Haltbarkeit V, Schutz X]
+- 2 Shard II
+- 1 Shard III
+- 4 Netherstern
+- 2 Wind Essenz
+- 1 Mighty X Brustplatte
+- 1 Wirbelsturm Brustplatte II
+
+*Formloses Rezept. Die Zutaten dürfen in einer beliebigen Form angeordnet werden.*
+
+==- Verbesserter Dreizack I
+![](/images/verbesserter_dreizack_1.png)-
+Geschärfter Kampfdreizack.
+[Reparatur, Schärfe I, Schwungkraft I, Haltbarkeit III, Treue III, Harpune V]
+- 1 Wasser Essenz
+- 1 Verzaubertes Buch (Schärfe I)
+- 1 Verzaubertes Buch (Schwungkraft I)
+- 2 Shard I
+- 1 Shard III
+- 1 Dreizack Blaupause
+
+*Formloses Rezept. Die Zutaten dürfen in einer beliebigen Form angeordnet werden.*
+
+==- Verbesserter Dreizack II
+![](/images/verbesserter_dreizack_2.png)-
+Geschärfter Kampfdreizack.
+[Reparatur, Schärfe III, Schwungkraft II, Haltbarkeit III, Treue III, Harpune V]
+- 2 Wasser Essenz
+- 1 Verzaubertes Buch (Schärfe III)
+- 1 Verzaubertes Buch (Schwungkraft II)
+- 2 Shard II
+- 1 Verbesserter Dreizack I
+
+*Formloses Rezept. Die Zutaten dürfen in einer beliebigen Form angeordnet werden.*
+
+==- Verbesserter Dreizack III
+![](/images/verbesserter_dreizack_3.png)-
+Geschärfter Kampfdreizack.
+[Reparatur, Schärfe V, Schwungkraft III, Haltbarkeit III, Treue III, Harpune V]
+- 3 Wasser Essenz
+- 1 Verzaubertes Buch (Schärfe V)
+- 1 Verzaubertes Buch (Schwungkraft III)
+- 4 Netherstern
+- 1 Shard III
+- 1 Verbesserter Dreizack II
+
+*Formloses Rezept. Die Zutaten dürfen in einer beliebigen Form angeordnet werden.*
+
+==- Verbessertes Schild I
+![](/images/verbessertes_schild_1.png)-
+Reduziert den erhaltenen Rückstoß.
+[Reparatur, Haltbarkeit III]
+- 2 Shard I
+- 1 Shard II
+- 1 Schild
+- 1 Verzaubertes Buch (Haltbarkeit III)
+- 1 Verzaubertes Buch (Reparatur)
+
+*Formloses Rezept. Die Zutaten dürfen in einer beliebigen Form angeordnet werden.*
+
+==- Verbessertes Schild II
+![](/images/verbessertes_schild_2.png)-
+Reduziert den erhaltenen Rückstoß.
+[Reparatur, Rückstoß I, Haltbarkeit III]
+- 2 Shard I
+- 1 Shard II
+- 1 Verzaubertes Buch (Rückstoß I)
+- 1 Verbessertes Schild I
+
+*Formloses Rezept. Die Zutaten dürfen in einer beliebigen Form angeordnet werden.*
+
+==- Verbessertes Schild III
+![](/images/verbessertes_schild_3.png)-
+Reduziert den erhaltenen Rückstoß.
+[Reparatur, Rückstoß II, Haltbarkeit III]
+- 4 Netheritplatten
+- 1 Verzaubertes Buch (Rückstoß II)
+- 2 Shard II
+- 1 Netherstern
+- 1 Verbessertes Schild II
+
+*Formloses Rezept. Die Zutaten dürfen in einer beliebigen Form angeordnet werden.*
+
 ==-
