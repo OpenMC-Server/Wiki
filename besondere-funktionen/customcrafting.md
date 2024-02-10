@@ -143,3 +143,18 @@ Material für Items mit Windeigenschaften.
 
 *Formloses Rezept. Die Zutaten dürfen in einer beliebigen Form angeordnet werden.*
 ==-
+
+### Ausrüstung
+Crafte serverspezifische Waffen, Rüstung und Werkzeuge.
+
+==- Deepslate Spitzhacke
+![](/images/deepslate_spitzhacke.png)-
+[Effizienz V, Reparatur, Haltbarkeit III]
+- 2 Netherstern
+- 1 Shard III
+- 2 Wind Essenz
+- 1 Netheritharnisch
+- 1 Elytra Blaupause
+
+*Formloses Rezept. Die Zutaten dürfen in einer beliebigen Form angeordnet werden.*
+==-
