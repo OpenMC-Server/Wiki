@@ -26,7 +26,8 @@ Die Shard-Essenz kann über das [entsprechende Rezept](#shard-essenz) gecraftet 
 Der Shard II kann über das [entsprechende Rezept](#shard-ii) gecraftet werden.
 
 +++ Shard III
-Der Shard III kann nicht gecraftet werden. Er ist als Drop bei [Bosskämpfen](/geld-level/bosskampf.md) erhältlich und ist deshalb für die seltensten und teuersten Rezepte reserviert.
+Der Shard III kann nicht gecraftet werden.\
+Er ist als Drop bei [Bosskämpfen](/geld-level/bosskampf.md) erhältlich und ist deshalb für die seltensten und teuersten Rezepte reserviert.
 
 +++
 
