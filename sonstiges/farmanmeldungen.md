@@ -13,12 +13,11 @@ Folglich sind Farmanmeldungen ein wichtiger Bestandteil für das Team, um die an
 
 ---
 
-## Welche Farmen müssen angemeldet werden?
-Eine genaue Erklärung, welche Farmen angemeldet werden müssen, findest du unter [Richtlinien](https://wiki.openmc.net/sonstiges/richtlinien/#farmen).
-
----
-
 ## Farm anmelden
+!!!primary Welche Farmen müssen angemeldet werden?
+Eine genaue Erklärung, welche Farmen angemeldet werden müssen, findest du unter [Richtlinien](https://wiki.openmc.net/sonstiges/richtlinien/#farmen).
+!!!
+
 Vor deiner Anmeldung solltest du dich bereits zu den Koordinaten begeben, wo deine Farm steht. Anschließend tätigst du vor dieser den Befehl `/farmanmeldung`, um die Anmeldung zu beginnen.
 
 ### 1. Farmkategorie auswählen
