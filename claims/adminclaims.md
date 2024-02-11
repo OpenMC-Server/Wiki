@@ -12,7 +12,7 @@ Für Großprojekte können spezifische Claims vergeben werden, wodurch ein Gebie
 ---
 
 ## AdminClaim beantragen
-Um einen AdminClaim zu beantragen, muss ein “Claimvergabe/AdminClaims"-Ticket im [!badge variant="primary" target="blank" icon= "comment-discussion" text="Discord"](https://discord.com/invite/ecqPF34) geöffnet werden. Dabei benötigen wir folgende Informationen von dir:
+Um einen AdminClaim zu beantragen, muss ein “Claimvergabe/AdminClaims"-Ticket im [Discord](https://discord.com/invite/ecqPF34) geöffnet werden. Dabei benötigen wir folgende Informationen von dir:
 - Eine konkrete Beschreibung des Projekts, am besten mit Bildern oder sonstigen Referenzen
 - Alle Spieler, die vorhaben an dem Projekt teilzuhaben
 - Zwei gegenüberliegende Koordinaten (Ecken) des Gebietes, für das der Claim beantragt wird

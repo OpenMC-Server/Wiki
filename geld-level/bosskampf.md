@@ -7,13 +7,13 @@ icon: hubot
 
 # Bosskampf
 
-Bei Bosskämpfen treten Spieler gegen individuelle Monster an, um die seltenen Shard III Items zu erhalten, eine essentielle Resource für [!badge icon="cpu" text="CustomCrafting"](/besondere-funktionen/customcrafting.md). Ein Bosskampf ist vergleichbar mit den letzten Wellen des Mobevents, in welchen übernatürlich starke, meist spielerähnliche Gestalten gegen die gesamte Community kämpfen. Im Gegensatz dazu sind zu jedem Bosskampf jeweils maximal fünf Teilnehmer gestattet.
+Bei Bosskämpfen treten Spieler gegen individuelle Monster an, um die seltenen Shard III Items zu erhalten, eine essentielle Resource für [CustomCrafting](/besondere-funktionen/customcrafting.md). Ein Bosskampf ist vergleichbar mit den letzten Wellen des Mobevents, in welchen übernatürlich starke, meist spielerähnliche Gestalten gegen die gesamte Community kämpfen. Im Gegensatz dazu sind zu jedem Bosskampf jeweils maximal fünf Teilnehmer gestattet.
 
 ---
 
 ## Ablauf
 ### Boss beschwören
-Um einen Bosskampf zu beantragen, ist es notwendig, dass der Beschwörer alle benötigten Materialien bereithält. Anschließend muss ein Support-Ticket im [!badge variant="primary" target="blank" icon= "comment-discussion" text="Discord"](https://discord.com/invite/ecqPF34) geöffnet werden, wo ein Termin für den Bosskampf vereinbart wird. Zum gegebenen Zeitpunkt wird der Beschwörer mit seinem Team aus maximal vier weiteren Spielern in die Arena befördert, welche dem jeweiligen Boss entspricht.
+Um einen Bosskampf zu beantragen, ist es notwendig, dass der Beschwörer alle benötigten Materialien bereithält. Anschließend muss ein Support-Ticket im [Discord](https://discord.com/invite/ecqPF34) geöffnet werden, wo ein Termin für den Bosskampf vereinbart wird. Zum gegebenen Zeitpunkt wird der Beschwörer mit seinem Team aus maximal vier weiteren Spielern in die Arena befördert, welche dem jeweiligen Boss entspricht.
 
 ### Boss bekämpfen
 Der Boss spawnt in der Mitte der Arena und wird die Spieler mit einem Dialog zum Kampf herausfordern. Jeder Boss verfügt über individuelle Mechaniken, sodass ein abwechslungsreicher Kampf garantiert ist. Zu Beginn des Kampfes ist Vorsicht geboten, denn sollten alle Teilnehmer während des Kampfes sterben, so kann der Boss nicht nochmal neu gestartet werden. Scheiden einzelne Spieler während dem Spielgeschehen aus, ist es weiterhin möglich den Boss zu besiegen. Dies gilt ebenfalls, wenn der Beschwörer kampfunfähig ist.

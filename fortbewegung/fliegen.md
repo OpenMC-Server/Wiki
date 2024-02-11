@@ -13,7 +13,7 @@ Auf OpenMC besteht die Möglichkeit, in der Bauwelt und in der Industriewelt zu 
 
 ## Flugzeit erhalten
 Beim ersten Betreten des Servers erhältst du 30min Flugzeit.\
-Weitere Flugzeit kannst du durch [!badge icon="thumbsup" text="Voten"](/allgemeines/voten.md) erhalten:
+Weitere Flugzeit kannst du durch [Voten](/allgemeines/voten.md) erhalten:
 
 {.compact}
 Feature                     | Spieler | Siedler | VIP   | VIS   | + Upgrade | Champion

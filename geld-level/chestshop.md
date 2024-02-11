@@ -47,9 +47,9 @@ Siehe auch LINK TRANSAKTIONEN
 ---
 
 ## Shop bekannt machen
-- Erstelle dir einen [!badge icon="star" text="PlayerWarp"](/fortbewegung/playerwarps.md), über den andere Spieler deinen Shop erreichen können.
+- Erstelle dir einen [PlayerWarp](/fortbewegung/playerwarps.md), über den andere Spieler deinen Shop erreichen können.
 - Preise deinen Shop im Handelschat an (`/hc <nachricht>`).
 - Hänge ein Werbeschild am Schwarzen Brett am Spawn auf.
-- Poste deinen Shop im #marktplatz Channel im [!badge variant="primary" target="blank" icon= "comment-discussion" text="Discord"](https://discord.com/invite/ecqPF34).
+- Poste deinen Shop im #marktplatz Channel im [Discord](https://discord.com/invite/ecqPF34).
 
 Bitte beachte, dass unzutreffende oder schwer nachzuvollziehende Vergleiche (z.B. “ALLES günstiger als in anderen Shops”) aus Gründen der Transparenz nicht gestattet sind.

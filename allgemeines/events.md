@@ -100,9 +100,7 @@ In der Woche ab dem Montag vor dem Bewertungsevent kannst du dein Bauwerk auf Di
 ---
 
 ## Mobevent
-
-### Über das Mobevent
-Das Mobevent findet jeden Samstag statt, solange kein anderes Event an diesem Tag stattfindet. Welches Event an einem Samstag stattfindet, wird immer mehrere Stunden zuvor in den #news auf [!badge variant="primary" target="blank" icon= "comment-discussion" text="Discord"](https://discord.com/invite/ecqPF34) angekündigt.
+Das Mobevent findet jeden Samstag statt, solange kein anderes Event an diesem Tag stattfindet. Welches Event an einem Samstag stattfindet, wird immer mehrere Stunden zuvor in den #news auf [Discord](https://discord.com/invite/ecqPF34) angekündigt.
 
 Beim Mobevent kämpfst du zusammen mit deinen Mitspielern gegen eine Reihe an Wellen von Mobs. Dabei erhältst du mit jeder überlebten Welle weitere Belohnungen. Items können selbst beim Tod nicht verloren gehen und werden beim Wechsel (nach dem Event) in die Bauwelt automatisch zurückerstattet.
 
@@ -132,7 +130,6 @@ Die ersten drei Plätze erhalten nach dem Event eine einzigartige Trophäe, die 
 Das Kit-Mobevent ist aktuell nicht verfügbar. Die folgenden Erläuterungen kommen daher nicht zur Anwendung.
 !!!
 
-### Über das Kit-Mobevent
 Im Kit-Mobevent werden dir eine Reihe von Klassen zur Verfügung gestellt, welche du auswählen und im Event benutzen kannst. Die verschiedenen Klassen haben ein "Mana-System" welches es ermöglicht, einzigartige Fähigkeiten an den Monstern im Kit-Mobevent auszuführen.
 
 Beim Kit-Mobevent kämpfst du zusammen mit deinen Mitspielern gegen eine Reihe an Wellen von Mobs. Dabei erhältst du mit jeder überlebten Welle weitere Belohnungen. Da keine eigenen Items benötigt werden kann jeder bei Bedarf mit einem leeren Inventar zum Event erscheinen.
@@ -148,14 +145,13 @@ Deine Fähigkeiten im Kit-Mobevent liegen üblicherweise immer auf dem zweiten u
 
 [!badge variant="info" text=":large_green_circle: Nächster End-Reset: April 2024"]
 
-### Über den End-Reset
 Der quartalsweise Reset der End-Farmwelt wird mit dem Kampf ums Drachenei zelebriert, welches nur über dieses Event zu erhalten und somit eines der wertvollsten Items auf dem Server ist.
 
 Ab dem Eventbeginn werden die normalerweise geltenden PvP Regeln (/regeln Punkt 3) im Farmwelt-End außer Kraft gesetzt. Items und Erfahrungspunkte, die durch einen Tod verloren gehen (egal ob durch Eigen- oder Fremdverschulden) müssen nicht zurückerstattet werden. Die Teilnahme erfolgt auf eigene Gefahr!
 
 Der genaue Zeitpunkt wird einige Tage vor dem End-Reset im Discord verkündet.
 
-### Weitere Besonderheiten
+### Besonderheiten
 - Euch erwartet ein überarbeitetes End mit besonderem Aufbau von Türmen und Kristallen.
 - Die Stärke des Enderdrachens ist an die Teilnehmeranzahl angepasst.
 - Weitere Mobs unterstützen den Enderdrachen in seinem Kampf.
@@ -164,17 +160,21 @@ Der genaue Zeitpunkt wird einige Tage vor dem End-Reset im Discord verkündet.
 ---
 
 ## Spleef
-todo
+Hier erhältst du in Kürze Informationen zu weiteren Events.
 
 ---
 
 ## Paintball
-todo
+Hier erhältst du in Kürze Informationen zu weiteren Events.
+
+---
+
+## Smash
+Hier erhältst du in Kürze Informationen zu weiteren Events.
 
 ---
 
 ## Schach
-### Über das Spiel
 Schach kann jederzeit von 2 Leuten gespielt werden.
 
 Mit dem Befehl `/warp Schach` gelangt man zum Spiel. Um eine Runde Schach starten zu können, muss das Inventar leer sein. Wenn 2 Personen dem Spiel beigetreten sind, wird dieses automatisch gestartet. Mit einem Linksklick auf die gewünschte Figur kann man diese auswählen und mit einem Rechtsklick auf ein anderes Feld setzen. Wer gerade an der Reihe ist, wird im Chat angezeigt.

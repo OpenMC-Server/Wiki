@@ -8,7 +8,7 @@ icon: number
 # Pipe-Variablen
 
 Pipe-Variablen ermöglichen es dir, mit besonders kurzen Schreibweisen mehrere Items auf ein Pipe-Schild zu schreiben.\
-Auf dieser Seite findest du die Variablen für einzelne Items. Möchtest du stattdessen mehrere Items mit einer Variable zusammenfassen, sieh dir die Seite [!badge icon="list-ordered" text="Pipe-Sammelvariablen"](/craftbook-pipes/pipe-sammelvariablen.md) an.
+Auf dieser Seite findest du die Variablen für einzelne Items. Möchtest du stattdessen mehrere Items mit einer Variable zusammenfassen, sieh dir die Seite [Pipe-Sammelvariablen](/craftbook-pipes/pipe-sammelvariablen.md) an.
 
 ---
 

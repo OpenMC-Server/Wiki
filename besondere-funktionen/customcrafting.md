@@ -176,7 +176,7 @@ Eine Brustplatte mit Flugeigenschaften.
 
 ==- Wirbelsturm Brustplatte I (mit Reparatur)
 ![](/images/wirbelsturm_brustplatte_1_reparatur.png)-
-Eine Brustplatte mit Flugeigenschaften.
+Eine Brustplatte mit Flugeigenschaften.\
 [Reparatur]
 - 2 Shard II
 - 1 Verzaubertes Buch (Reparatur)
@@ -190,7 +190,7 @@ Eine Brustplatte mit Flugeigenschaften.
 
 ==- Wirbelsturm Brustplatte II
 ![](/images/wirbelsturm_brustplatte_2.png)-
-Eine Brustplatte mit Flugeigenschaften.
+Eine Brustplatte mit Flugeigenschaften.\
 [Reparatur, Haltbarkeit III, Schutz V]
 - 2 Wind Essenz
 - 1 Verzaubertes Buch (Haltbarkeit III)
@@ -205,7 +205,7 @@ Eine Brustplatte mit Flugeigenschaften.
 
 ==- Wirbelsturm Brustplatte III
 ![](/images/wirbelsturm_brustplatte_3.png)-
-Eine Brustplatte mit Flugeigenschaften.
+Eine Brustplatte mit Flugeigenschaften.\
 [Reparatur, Haltbarkeit V, Schutz X]
 - 2 Shard II
 - 1 Shard III
@@ -221,7 +221,7 @@ Eine Brustplatte mit Flugeigenschaften.
 
 ==- Verbesserter Dreizack I
 ![](/images/verbesserter_dreizack_1.png)-
-Geschärfter Kampfdreizack.
+Geschärfter Kampfdreizack.\
 [Reparatur, Schärfe I, Schwungkraft I, Haltbarkeit III, Treue III, Harpune V]
 - 1 Wasser Essenz
 - 1 Verzaubertes Buch (Schärfe I)
@@ -237,7 +237,7 @@ Geschärfter Kampfdreizack.
 
 ==- Verbesserter Dreizack II
 ![](/images/verbesserter_dreizack_2.png)-
-Geschärfter Kampfdreizack.
+Geschärfter Kampfdreizack.\
 [Reparatur, Schärfe III, Schwungkraft II, Haltbarkeit III, Treue III, Harpune V]
 - 2 Wasser Essenz
 - 1 Verzaubertes Buch (Schärfe III)
@@ -252,7 +252,7 @@ Geschärfter Kampfdreizack.
 
 ==- Verbesserter Dreizack III
 ![](/images/verbesserter_dreizack_3.png)-
-Geschärfter Kampfdreizack.
+Geschärfter Kampfdreizack.\
 [Reparatur, Schärfe V, Schwungkraft III, Haltbarkeit III, Treue III, Harpune V]
 - 3 Wasser Essenz
 - 1 Verzaubertes Buch (Schärfe V)
@@ -268,7 +268,7 @@ Geschärfter Kampfdreizack.
 
 ==- Verbessertes Schild I
 ![](/images/verbessertes_schild_1.png)-
-Reduziert den erhaltenen Rückstoß.
+Reduziert den erhaltenen Rückstoß.\
 [Reparatur, Haltbarkeit III]
 - 2 Shard I
 - 1 Shard II
@@ -283,7 +283,7 @@ Reduziert den erhaltenen Rückstoß.
 
 ==- Verbessertes Schild II
 ![](/images/verbessertes_schild_2.png)-
-Reduziert den erhaltenen Rückstoß.
+Reduziert den erhaltenen Rückstoß.\
 [Reparatur, Rückstoß I, Haltbarkeit III]
 - 2 Shard I
 - 1 Shard II
@@ -297,7 +297,7 @@ Reduziert den erhaltenen Rückstoß.
 
 ==- Verbessertes Schild III
 ![](/images/verbessertes_schild_3.png)-
-Reduziert den erhaltenen Rückstoß.
+Reduziert den erhaltenen Rückstoß.\
 [Reparatur, Rückstoß II, Haltbarkeit III]
 - 4 Netheritplatten
 - 1 Verzaubertes Buch (Rückstoß II)

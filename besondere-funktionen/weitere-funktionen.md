@@ -61,7 +61,7 @@ Füllt die angegebene Anzahl an XP in eine einzelne Flasche. Diese Flasche kann 
 Um dein MapArt zu schützen, stehen dir mehrere Möglichkeiten offen. Nutzt diese Möglichkeiten, hast du dein MapArt vollumfänglich gegen Kopieren geschützt.
 
 ### No-Enter ClaimFlag
-Um zu verhindern, dass andere Spieler eine Karte von deinem MapArt erstellen können, kannst du eine No-Enter-Claimflag für den Claim erhalten. Diese kannst du im [!badge variant="primary" target="blank" icon= "comment-discussion" text="Discord"](https://discord.com/invite/ecqPF34) durch ein Support-Ticket beantragen und ein Admin wird dir die ClaimFlag auf dem Claim aktivieren. Beachte dabei bitte,dass sich auf dem Claim nur das Mapart befinden darf.
+Um zu verhindern, dass andere Spieler eine Karte von deinem MapArt erstellen können, kannst du eine No-Enter-Claimflag für den Claim erhalten. Diese kannst du im [Discord](https://discord.com/invite/ecqPF34) durch ein Support-Ticket beantragen und ein Admin wird dir die ClaimFlag auf dem Claim aktivieren. Beachte dabei bitte,dass sich auf dem Claim nur das Mapart befinden darf.
 
 ### Patentieren
 Mit dem Befehl `/mapart` kannst du ein Menü aufrufen, in welchem du deine MapArts patentieren kannst. Dort kannst du die Karte einfach in das Feld auf der linken Seite legen und die gewünschten Funktionen auswählen. Wenn eine Funktion ausgewählt wurde, klicke auf “[Bestätigen]”  und die gewünschte Funktion wird für einen kleinen Geldbetrag aktiviert:
@@ -87,7 +87,7 @@ Die Anzahl an Blöcken wird in diesem Kontext als die Ausdehnung in x-z-Richtung
 
 Im Bauwelt-Nether ist eine Entfernung ebenfalls möglich. Das geplante Bauwerk muss dies jedoch zwingend erforderlich machen.
 
-Eine Anfrage für eine Bedrock-Glättung kann mit den Koordinaten der zu glättenden Fläche per Ticket im [!badge variant="primary" target="blank" icon= "comment-discussion" text="Discord"](https://discord.com/invite/ecqPF34) gestellt werden.
+Eine Anfrage für eine Bedrock-Glättung kann mit den Koordinaten der zu glättenden Fläche per Ticket im [Discord](https://discord.com/invite/ecqPF34) gestellt werden.
 
 ---
 

@@ -72,7 +72,7 @@ Nutze `/unclaim`, während du auf einem Claim stehst, um ihn zu entfernen.
 ---
 
 ## Claimblöcke
-Um einen Claim erstellen zu können, benötigst du eine ausreichende Anzahl an Claimblöcken. Diese erhältst du durch die Claim-Chest (siehe [!badge icon="thumbsup" text="Voten"](/allgemeines/voten.md)) oder Spielzeit. Alle Spieler starten mit 2000 Claimblöcken und erhalten pro Stunde 200 Claimblöcke durch aktives Spielen, bis zu einem Maximum von 100.000 Claimblöcken.
+Um einen Claim erstellen zu können, benötigst du eine ausreichende Anzahl an Claimblöcken. Diese erhältst du durch die Claim-Chest (siehe [Voten](/allgemeines/voten.md)) oder Spielzeit. Alle Spieler starten mit 2000 Claimblöcken und erhalten pro Stunde 200 Claimblöcke durch aktives Spielen, bis zu einem Maximum von 100.000 Claimblöcken.
 
 `/claimlist`\
 Zeigt alle deine Claims sowie die verbrauchten & verfügbaren Claimblöcke an.
@@ -124,5 +124,4 @@ Aktiviert Explosionen in deinem Claim. Diese Einstellung wird automatisch wieder
 ---
 
 ## MapArts schützen
-Wenn du dein MapArt gegen Kopien schützen möchtest, beachte bitte die Informationen auf der folgenden Seite:\
-[!badge icon="plus-circle" text="MapArts schützen"](https://wiki.openmc.net/besondere-funktionen/weitere-funktionen/#maparts-sch%C3%BCtzen)
+Wenn du dein MapArt gegen Kopien schützen möchtest, beachte bitte die Informationen auf Seite [MapArts schützen](https://wiki.openmc.net/besondere-funktionen/weitere-funktionen/#maparts-sch%C3%BCtzen).

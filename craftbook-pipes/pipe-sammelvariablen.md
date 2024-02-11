@@ -10,7 +10,7 @@ icon: list-ordered
 Pipe-Sammelvariablen ermöglichen es dir, mehrere Items mit einer einzelnen Variable über das Pipe-System zu sortieren.
 
 Auf dieser Seite findest du die Sammelvariablen für mehrere Items. Möchtest du stattdessen die Variablen für einzelne Items ansehen, sieh dir die Seite 
-[!badge icon="number" text="Pipe-Variablen"](/craftbook-pipes/pipe-variablen.md) an.
+[Pipe-Variablen](/craftbook-pipes/pipe-variablen.md) an.
 
 Durch die Möglichkeit, mehrere Items mit nur einem Schild zu sortieren, ist es möglich, noch kompaktere und bessere Pipe-Systeme zu bauen. Die Sammelvariablen sind im Vergleich mit der MC1229-Schaltung eine gute Alternative, um mehrere Items auf einmal sortieren. Alle Variablen sind in Kleinschreibung verfasst.
 
