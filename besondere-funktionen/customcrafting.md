@@ -395,26 +395,31 @@ Ein 3-teiliges Totem-Set zum Wiederbeleben.
 Rezepte, die sonst nicht herstellbare Vanilla-Items erzeugen.
 
 ==- Kettenstiefel
+![](/images/kettenstiefel.png)-
 - 4 Kette
 
 *Geformtes Rezept. Die Zutaten müssen in einer exakten Form angeordnet werden.*
 
 ==- Kettenhemd
+![](/images/kettenhemd.png)-
 - 8 Kette
 
 *Geformtes Rezept. Die Zutaten müssen in einer exakten Form angeordnet werden.*
 
 ==- Kettenhaube
+![](/images/kettenhaube.png)-
 - 5 Kette
 
 *Geformtes Rezept. Die Zutaten müssen in einer exakten Form angeordnet werden.*
 
 ==- Kettenhose
+![](/images/kettenhose.png)-
 - 7 Kette
 
 *Geformtes Rezept. Die Zutaten müssen in einer exakten Form angeordnet werden.*
 
 ==- Versteinerte Eichenholzstufe
+![](/images/versteinerte_eichenholzstufe.png)-
 - 6 Eichenholzstufe
 - 2 Stein
 - 1 Eichenholzbretter
@@ -422,6 +427,7 @@ Rezepte, die sonst nicht herstellbare Vanilla-Items erzeugen.
 *Geformtes Rezept. Die Zutaten müssen in einer exakten Form angeordnet werden.*
 
 ==- Shulker-Kiste (farbig)
+![](/images/shulker_kiste.png)-
 - 2 Shulker-Schale
 - 1 Truhe
 - 1 Farbstoff
@@ -429,6 +435,7 @@ Rezepte, die sonst nicht herstellbare Vanilla-Items erzeugen.
 *Formloses Rezept. Die Zutaten dürfen in einer beliebigen Form angeordnet werden.*
 
 ==- 2x Schmiedevorlage
+![](/images/schmiedevorlage.png)-
 - 12 Diamantblock
 - 2 Witherskelettschädel
 - 3 Shard I
@@ -438,6 +445,7 @@ Rezepte, die sonst nicht herstellbare Vanilla-Items erzeugen.
 *Geformtes Rezept. Die Zutaten müssen in einer exakten Form angeordnet werden.*
 
 ==- 2x Shulker-Schale
+![](/images/shulker_schale.png)-
 - 1 Shulker-Kiste
 
 *Formloses Rezept. Die Zutaten dürfen in einer beliebigen Form angeordnet werden.*
