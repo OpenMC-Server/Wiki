@@ -1,7 +1,7 @@
 ---
 label: Farmanmeldungen
 layout: default
-order: 297
+order: 296
 icon: verified
 ---
 
