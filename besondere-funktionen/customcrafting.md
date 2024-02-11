@@ -87,7 +87,6 @@ Glasbehälter zum Verstauen von Substanzen.
 
 ==- Shard II
 ![](/images/shard_2.png)-
-Siehe Shard-System.
 - 4 Shard I
 - 3 Shard-Essenz
 - 64 Goldblock
