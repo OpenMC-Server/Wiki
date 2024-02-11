@@ -380,7 +380,7 @@ Schalte Eisenfalltüren ohne Redstone um.\
 *Formloses Rezept. Die Zutaten dürfen in einer beliebigen Form angeordnet werden.*
 
 ==- Wiederbelebungstotem-Set
-![](/images/wiederbelebungstotem-set.png)-
+![](/images/wiederbelebungstotem_set.png)-
 Ein 3-teiliges Totem-Set zum Wiederbeleben.
 - 2 Stock
 - 2 Stramme Seide
@@ -388,3 +388,5 @@ Ein 3-teiliges Totem-Set zum Wiederbeleben.
 - 3 Wiederbelebungstotem (durch Mobevent)
 
 *Geformtes Rezept. Die Zutaten müssen in einer exakten Form angeordnet werden.*
+
+==-
