@@ -94,10 +94,10 @@ Um nach einer spezifischen Sammelvariable zu suchen, kannst du die Suche deines 
 *crimson_nylium, crimson_planks, crimson_stem, stripped_crimson_stem, stripped_crimson_hyphae, crimson_hyphae, crimson_fungus, crimson_roots, crimson_slab, crimson_pressure_plate, crimson_fence, crimson_trapdoor, crimson_fence_gate, crimson_stairs, crimson_button, crimson_door, crimson_sign, crimson_hanging_sign*
 
 [!badge variant="secondary" text="**%wz%**"] **Alle Mangrovenstämme/hölzer + Erzeugnisse**\
-*mangrove_planks, mangrove_propagule, mangrove_log, stripped_mangrove_log, stripped_mangrove_wood, mangrove_wood, mangrove_leaves, mangrove_slab, mangrove_stairs, mangrove_pressure_plate, mangrove_fence, mangrove_trapdoor, mangrove_fence_gate, mangrove_fence, mangrove_button, mangrove_door, mangrove_boat, mangrove_sign*
+*mangrove_planks, mangrove_log, stripped_mangrove_log, stripped_mangrove_wood, mangrove_wood, mangrove_leaves, mangrove_slab, mangrove_stairs, mangrove_pressure_plate, mangrove_fence, mangrove_trapdoor, mangrove_fence_gate, mangrove_fence, mangrove_button, mangrove_door, mangrove_boat, mangrove_sign, mangrove_propagule*
 
 [!badge variant="secondary" text="**%aee%**"] **Alle Kirschstämme/hölzer + Erzeugnisse**\
-*cherry_log, cherry_wood, stripped_cherry_log, stripped_cherry_wood, cherry_planks, cherry_slab,cherry_stairs, cherry_pressure_plate,cherry_fence ,cherry_trapdoor, cherry_fence_gate, cherry_fence, cherry_button, cherry_door, cherry_boat, cherry_sign, cherry_hanging_sign*
+*cherry_log, cherry_wood, stripped_cherry_log, stripped_cherry_wood, cherry_planks, cherry_slab, cherry_stairs, cherry_pressure_plate, cherry_fence, cherry_trapdoor, cherry_fence_gate, cherry_fence, cherry_button, cherry_door, cherry_boat, cherry_sign, cherry_hanging_sign, cherry_sapling, cherry_leaves*
 
 [!badge variant="secondary" text="**%aef%**"] **Alle Bambusblöcke + Erzeugnisse**\
 *bamboo_block, stripped_bamboo_block, bamboo_planks, bamboo_slab, bamboo_stairs, bamboo_pressure_plate, bamboo_fence, bamboo_trapdoor, bamboo_fence_gate, bamboo_fence, bamboo_button, bamboo_door, bamboo_raft, bamboo_sign, bamboo_hanging_sign, bamboo_mosaic, bamboo_mosaic_stairs, bamboo_mosaic_slab*
