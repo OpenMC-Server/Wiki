@@ -12,7 +12,7 @@ icon: gear
 ## Lift-Schilder
 Die Lift-Schilder ermöglichen es dir, mithilfe zweier Schilder eine Art Aufzug zu erzeugen, welcher dich zwischen verschiedenen Stockwerken teleportieren kann.
 
-Um einen solchen Lift zu erzeugen, werden zwei Schilder benötigt, welche übereinander platziert werden müssen (Zwischenblöcke spielen dabei keine Rolle). Auf das obere Schild, in der zweiten Zeile muss hierbei [Lift Down] und auf das untere Schild in die zweite Zeile [Lift Up] geschrieben werden.
+Um einen solchen Lift zu erzeugen, werden zwei Schilder benötigt, welche übereinander platziert werden müssen (Zwischenblöcke spielen dabei keine Rolle). Auf das obere Schild, in der zweiten Zeile muss hierbei `[Lift Down]` und auf das untere Schild in die zweite Zeile `[Lift Up]` geschrieben werden.
 
 Die erste Zeile des Schildes kann genutzt werden, um das entsprechende Stockwerk zu benennen und dies im Chat anzeigen zu lassen. Lift-Schilder können außerdem durch einen Knopf aktiviert werden, welcher sich auf der gegenüberliegenden Seite des Blocks befinden muss, an welchem das Schild platziert wurde.
 
@@ -23,18 +23,18 @@ Beachte: Der Lift kann nur gerade hinauf oder hinunter teleportieren. D.h. sollt
 ## Gate-Schilder
 Die Gate-Schilder ermöglichen es dir, mithilfe eines Schildes (oder zweien, sollte das Gate von beiden Seiten aus verwendet werden können) eine Art Tor zu erstellen, welches per Rechtsklick auf das zugehörige Schild geöffnet und geschlossen werden kann.
 
-Um ein Gate zu erstellen, müssen Zäune übereinander platziert werden, wobei die Oberseite des gewünschten Tores mit anderen Blöcken abzudecken ist. Die Größe und Form der Tore kann variieren, hierbei beträgt die Breite maximal 14 und die Höhe maximal 12 Blöcke. Daneben wird ein Schild platziert, in dessen zweite Zeile [Gate] geschrieben wird. Soll das Tor von beiden Seiten aus bedient werden können, kann auf der anderen Seite am selben Block des ersten Gate-Schildes ein weiteres platziert werden.
+Um ein Gate zu erstellen, müssen Zäune übereinander platziert werden, wobei die Oberseite des gewünschten Tores mit anderen Blöcken abzudecken ist. Die Größe und Form der Tore kann variieren, hierbei beträgt die Breite maximal 14 und die Höhe maximal 12 Blöcke. Daneben wird ein Schild platziert, in dessen zweite Zeile `[Gate]` geschrieben wird. Soll das Tor von beiden Seiten aus bedient werden können, kann auf der anderen Seite am selben Block des ersten Gate-Schildes ein weiteres platziert werden.
 
 Die Zahl in der 4. Zeile des Schildes gibt an, wie viele Zäune im Gate-Lager vorhanden sind, um dieses wiederaufzubauen. Es ist möglich, die Gate-Schilder mittels Redstone-Signal zu betätigen – ein aktiver Input erstellt dabei das Gate, ein inaktiver entfernt es.
 
 Für ein Gate können alle Zäune sowie Glasscheiben, Mauern und Eisengitter verwendet werden. Das Gate darf nur aus einem Material bestehen, z.B. verschiedene Zaunarten in einem Gate zu mischen funktioniert nicht.
 
 ||| Geschlossenes Gate
-![](/images/claiming_1.png)
+![](/images/gate_closed.png)
 ||| Geöffnetes Gate
-![](/images/claiming_2.png)
+![](/images/gate_open.png)
 ||| Geöffnetes Gate ohne Umrandung
-![](/images/claiming_3.png)
+![](/images/gate_open_2.png)
 |||
 
 ---
