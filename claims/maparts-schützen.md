@@ -2,7 +2,7 @@
 label: MapArts schützen
 layout: default
 order: 796
-icon: organization
+icon: shield-check
 ---
 
 # MapArts schützen
