@@ -14,7 +14,7 @@ Um mit dem Craften beginnen zu können, genügt eine einfache Werkbank. Die mög
 Shards sind ein wichtiger Bestandteil der meisten CustomCrafting-Rezepte. Es gibt drei Stufen an Shards, “Shard I”, “Shard II” und Shard “III”. Diese bauen aufeinander auf – das bedeutet, dass Shards einer niedrigeren Stufe benötigt werden, um Shards einer höheren Stufe zu craften.
 
 +++ Shard I
-Der Shard I können über zwei Wege erhalten werden:
+Der Shard I kann über zwei Wege erhalten werden:
 - Belohnungen des Mobevents
 - Gewinne in den VoteChests
 - Belohnungen weiterer Events
