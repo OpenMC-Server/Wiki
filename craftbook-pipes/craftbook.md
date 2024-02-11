@@ -44,10 +44,8 @@ Für ein Gate können alle Zäune sowie Glasscheiben, Mauern und Eisengitter ver
 
 ## Wireless-Redstone
 Die beiden Schaltungen MC1110 und MC1111 geben dir die Möglichkeit, „Wireless Redstone“ („Kabelloses Redstone“) zu verwenden. Die genaue Verwendung wird gut in der offiziellen Dokumentation von CraftBook beschrieben:
-
-MC1110 „Transmitter“ („Sender“): [CraftBook-Wiki](https://craftbook.enginehub.org/en/latest/mechanics/ics/MC1110/)
-
-MC1111 „Receiver“ („Empfänger“): [CraftBook-Wiki](https://craftbook.enginehub.org/en/latest/mechanics/ics/MC1111/)
+- MC1110 „Transmitter“ („Sender“): [CraftBook-Wiki](https://craftbook.enginehub.org/en/latest/mechanics/ics/MC1110/)
+- MC1111 „Receiver“ („Empfänger“): [CraftBook-Wiki](https://craftbook.enginehub.org/en/latest/mechanics/ics/MC1111/)
 
 Beachte: Vor dem „Transmitter“ muss die Redstone Leitung mindestens zwei Blöcke lang sein, da die Schaltung ansonsten unter Umständen nicht funktioniert. Am Receiver muss ggf. ein “s” ergänzt werden ("[MC1111]s"), um die Funktionalität zu gewährleisten.
 
