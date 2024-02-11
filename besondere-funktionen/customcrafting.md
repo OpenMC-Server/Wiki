@@ -390,3 +390,56 @@ Ein 3-teiliges Totem-Set zum Wiederbeleben.
 *Geformtes Rezept. Die Zutaten müssen in einer exakten Form angeordnet werden.*
 
 ==-
+
+### Vanilla Erweiterungen
+Rezepte, die sonst nicht herstellbare Vanilla-Items erzeugen.
+
+==- Kettenstiefel
+- 4 Kette
+
+*Geformtes Rezept. Die Zutaten müssen in einer exakten Form angeordnet werden.*
+
+==- Kettenhemd
+- 8 Kette
+
+*Geformtes Rezept. Die Zutaten müssen in einer exakten Form angeordnet werden.*
+
+==- Kettenhaube
+- 5 Kette
+
+*Geformtes Rezept. Die Zutaten müssen in einer exakten Form angeordnet werden.*
+
+==- Kettenhose
+- 7 Kette
+
+*Geformtes Rezept. Die Zutaten müssen in einer exakten Form angeordnet werden.*
+
+==- Versteinerte Eichenholzstufe
+- 6 Eichenholzstufe
+- 2 Stein
+- 1 Eichenholzbretter
+
+*Geformtes Rezept. Die Zutaten müssen in einer exakten Form angeordnet werden.*
+
+==- Shulker-Kiste (farbig)
+- 2 Shulker-Schale
+- 1 Truhe
+- 1 Farbstoff
+
+*Formloses Rezept. Die Zutaten dürfen in einer beliebigen Form angeordnet werden.*
+
+==- 2x Schmiedevorlage
+- 12 Diamantblock
+- 2 Witherskelettschädel
+- 3 Shard I
+- 1 Schmiedevorlage
+- 64 Schmiedevorlagen-Material [siehe Minecraft-Wiki](https://de.minecraft.wiki/w/Schmiedevorlage)
+
+*Geformtes Rezept. Die Zutaten müssen in einer exakten Form angeordnet werden.*
+
+==- 2x Shulker-Schale
+- 1 Shulker-Kiste
+
+*Formloses Rezept. Die Zutaten dürfen in einer beliebigen Form angeordnet werden.*
+
+==-
