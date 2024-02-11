@@ -24,7 +24,7 @@ Melde dich bei Unklarheiten und Fragen sehr gerne bei einem Teammitglied oder im
 ## Bestrafungssystem
 Wir kategorisieren Verstöße in A, B und C, um eine objektivere Bestrafung zu ermöglichen. A ist dabei die höchste, C die niedrigste Schwere des Vergehens. Die nachfolgende Tabelle stellt lediglich eine Leitlinie dar. Bestrafungen sind immer Einzelfallentscheidungen.
 
-==! Bestrafungs-Kategorien
+==- Bestrafungs-Kategorien
 {.compact}
 Paragraph | Regel | Kategorie
 :---: | --- | :---:
@@ -69,6 +69,7 @@ Paragraph | Regel | Kategorie
 5.6 | Das Wegenetz des Servers soll ohne Absprache mit apv1313 nicht verändert werden. | C
 5.7 | Chestshops dürfen unbegrenzt ab mindestens 1000 Blöcken vom Spawn erstellt werden. Ab 250 Blöcken Entfernung vom Spawn sind max. 12 Chestshops pro Spielerorganisation erlaubt, unter 250 Blöcken Entfernung sind Chestshops verboten. | 
 5.8 | In der Industriewelt sind ausschließlich Farmen, Lager- und Sortiersysteme sowie Bauwerke, welche unmittelbar mit diesen in Verbindung stehen, erlaubt. | 
+
 ==-
 
 ---
