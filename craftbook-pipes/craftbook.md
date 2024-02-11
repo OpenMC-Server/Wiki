@@ -5,9 +5,13 @@ order: 499
 icon: gear
 ---
 
----
-
 # CraftBook
+
+Mit CraftBook gibt es eine Reihe an nützlichen Funktionen auf dem Server, welche das Spielgeschehen deutlich erweitern und vereinfachen.
+
+Die größte Funktion, Pipes zum Itemtransport, findest du auf der [eigenständigen Seite](/craftbook-pipes/craftbook.md). Alle weiteren CraftBook Funktionen sind im folgenden erklärt.
+
+---
 
 ## Lift-Schilder
 Die Lift-Schilder ermöglichen es dir, mithilfe zweier Schilder eine Art Aufzug zu erzeugen, welcher dich zwischen verschiedenen Stockwerken teleportieren kann.
