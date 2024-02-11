@@ -7,9 +7,8 @@ icon: gear
 
 # CraftBook
 
-Mit CraftBook gibt es eine Reihe an nützlichen Funktionen auf dem Server, welche das Spielgeschehen deutlich erweitern und vereinfachen.
-
-Die größte Funktion, Pipes zum Itemtransport, findest du auf der [eigenständigen Seite](/craftbook-pipes/pipes.md). Alle weiteren CraftBook Funktionen sind im folgenden erklärt.
+Mit CraftBook gibt es eine Reihe an nützlichen Funktionen auf dem Server, welche das Spielgeschehen deutlich erweitern und vereinfachen.\
+Pipes werden auf einer [eigenen Seite](/craftbook-pipes/pipes.md) erklärt. Alle weiteren CraftBook Funktionen findest du auf der aktuellen Seite.
 
 ---
 
