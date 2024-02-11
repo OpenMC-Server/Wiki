@@ -6,3 +6,7 @@ icon: project-roadmap
 ---
 
 # Transaktionshistorie
+
+!!!primary Im Aufbau
+Hier findest du in Kürze Informationen zur Transaktionshistorie.
+!!!
