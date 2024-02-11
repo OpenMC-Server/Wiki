@@ -120,8 +120,3 @@ Zeigt eine Liste aller Spieler, welche Trustrechte auf deinem Grundstück besitz
 
 `/claimexplosions`\
 Aktiviert Explosionen in deinem Claim. Diese Einstellung wird automatisch wieder deaktiviert, sobald der Server neu startet.
-
----
-
-## MapArts schützen
-Wenn du dein MapArt gegen Kopien schützen möchtest, beachte bitte die Informationen auf Seite [MapArts schützen](https://wiki.openmc.net/besondere-funktionen/weitere-funktionen/#maparts-sch%C3%BCtzen).
