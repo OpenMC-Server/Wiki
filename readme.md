@@ -43,4 +43,4 @@ Nutze gerne die Suchfunktion oder das Menü auf der linken Seite.
 
 ## Support
 Du bist im Wiki nicht fündig geworden und benötigst weiteren Support?\
-Erstelle jederzeit ein Support-Ticket im [!badge variant="primary" target="blank" icon= "comment-discussion" text="Discord"](https://discord.com/invite/ecqPF34) oder stelle deine Frage im Chat. Wir helfen dir gerne weiter :blush:
+Erstelle jederzeit ein Support-Ticket im [Discord](https://discord.com/invite/ecqPF34) oder stelle deine Frage im Chat. Wir helfen dir gerne weiter :blush:
