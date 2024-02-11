@@ -54,7 +54,7 @@ Phantome sind in der gesamten Bauwelt deaktiviert. In der Industrie- und Farmwel
 ---
 
 ## Schmiedevorlagen Rezept
-Die Rezepte der Schmiedevorlagen verteuert, um das Spielgeschehen anspruchsvoller zu gestalten.\
+Die Rezepte der Schmiedevorlagen wurden verteuert, um das Spielgeschehen anspruchsvoller zu gestalten.\
 Das angepasste Rezept findest du unter [CustomCrafting](/besondere-funktionen/customcrafting.md).
 
 Schmiedevorlagen für die Netherite-Auswertung sind nicht vom neuen Rezept betroffen.
@@ -63,6 +63,7 @@ Schmiedevorlagen für die Netherite-Auswertung sind nicht vom neuen Rezept betro
 
 ## View- & Simulation-Distance
 
+{.compact}
 Welt            | View-Distance | Simulation-Distance
 :---:           | :---:         | :---:
 Bauwelt         | 4-8¹          | 6
