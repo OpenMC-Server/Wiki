@@ -155,6 +155,9 @@ Crafte serverspezifische Waffen, Rüstung und Werkzeuge.
 - 2 Shard II
 - 1 Netheritspitzhacke
 
+**Hinweise:**
+- Manuelle Eingriffe zerstören die Itemfunktion.
+
 *Geformtes Rezept. Die Zutaten müssen in einer exakten Form angeordnet werden.*
 
 ==- Wirbelsturm Brustplatte I
@@ -165,6 +168,9 @@ Eine Brustplatte mit Flugeigenschaften.
 - 2 Wind Essenz
 - 1 Netheritharnisch
 - 1 Elytra Blaupause
+
+**Hinweise:**
+- Manuelle Eingriffe zerstören die Itemfunktion.
 
 *Formloses Rezept. Die Zutaten dürfen in einer beliebigen Form angeordnet werden.*
 
@@ -177,6 +183,9 @@ Eine Brustplatte mit Flugeigenschaften.
 - 1 Enderkristall
 - 1 Wirbelsturm Brustplatte I
 
+**Hinweise:**
+- Manuelle Eingriffe zerstören die Itemfunktion.
+
 *Formloses Rezept. Die Zutaten dürfen in einer beliebigen Form angeordnet werden.*
 
 ==- Wirbelsturm Brustplatte II
@@ -188,6 +197,9 @@ Eine Brustplatte mit Flugeigenschaften.
 - 1 Verzaubertes Buch (Schutz IV)
 - 2 Shard II
 - 1 Wirbelsturm Brustplatte I (mit Reparatur)
+
+**Hinweise:**
+- Manuelle Eingriffe zerstören die Itemfunktion.
 
 *Formloses Rezept. Die Zutaten dürfen in einer beliebigen Form angeordnet werden.*
 
@@ -202,6 +214,9 @@ Eine Brustplatte mit Flugeigenschaften.
 - 1 Mighty X Brustplatte
 - 1 Wirbelsturm Brustplatte II
 
+**Hinweise:**
+- Manuelle Eingriffe zerstören die Itemfunktion.
+
 *Formloses Rezept. Die Zutaten dürfen in einer beliebigen Form angeordnet werden.*
 
 ==- Verbesserter Dreizack I
@@ -215,6 +230,9 @@ Geschärfter Kampfdreizack.
 - 1 Shard III
 - 1 Dreizack Blaupause
 
+**Hinweise:**
+- Manuelle Eingriffe zerstören die Itemfunktion.
+
 *Formloses Rezept. Die Zutaten dürfen in einer beliebigen Form angeordnet werden.*
 
 ==- Verbesserter Dreizack II
@@ -226,6 +244,9 @@ Geschärfter Kampfdreizack.
 - 1 Verzaubertes Buch (Schwungkraft II)
 - 2 Shard II
 - 1 Verbesserter Dreizack I
+
+**Hinweise:**
+- Manuelle Eingriffe zerstören die Itemfunktion.
 
 *Formloses Rezept. Die Zutaten dürfen in einer beliebigen Form angeordnet werden.*
 
@@ -240,6 +261,9 @@ Geschärfter Kampfdreizack.
 - 1 Shard III
 - 1 Verbesserter Dreizack II
 
+**Hinweise:**
+- Manuelle Eingriffe zerstören die Itemfunktion.
+
 *Formloses Rezept. Die Zutaten dürfen in einer beliebigen Form angeordnet werden.*
 
 ==- Verbessertes Schild I
@@ -252,6 +276,9 @@ Reduziert den erhaltenen Rückstoß.
 - 1 Verzaubertes Buch (Haltbarkeit III)
 - 1 Verzaubertes Buch (Reparatur)
 
+**Hinweise:**
+- Manuelle Eingriffe zerstören die Itemfunktion.
+
 *Formloses Rezept. Die Zutaten dürfen in einer beliebigen Form angeordnet werden.*
 
 ==- Verbessertes Schild II
@@ -262,6 +289,9 @@ Reduziert den erhaltenen Rückstoß.
 - 1 Shard II
 - 1 Verzaubertes Buch (Rückstoß I)
 - 1 Verbessertes Schild I
+
+**Hinweise:**
+- Manuelle Eingriffe zerstören die Itemfunktion.
 
 *Formloses Rezept. Die Zutaten dürfen in einer beliebigen Form angeordnet werden.*
 
@@ -275,6 +305,86 @@ Reduziert den erhaltenen Rückstoß.
 - 1 Netherstern
 - 1 Verbessertes Schild II
 
+**Hinweise:**
+- Manuelle Eingriffe zerstören die Itemfunktion.
+
 *Formloses Rezept. Die Zutaten dürfen in einer beliebigen Form angeordnet werden.*
 
 ==-
+
+### Verbrauchsgüter
+Items, die nach bestimmter Nutzungsdauer verbraucht werden.
+
+==- Pfeil der Heilung IV
+![](/images/pfeil_der_heilung_4.png)-
+Verleiht dem Ziel Heilung IV.
+- 4 Verweiltrank der Heilung (Direktheilung II)
+- 2 Shard I
+- 16 Goldener Apfel
+- 1 Pfeilvorlage
+
+*Formloses Rezept. Die Zutaten dürfen in einer beliebigen Form angeordnet werden.*
+
+==- Pfeil der Sprungkraft III
+![](/images/pfeil_der_sprungkraft_3.png)-
+Verleiht dem Ziel Sprungkraft III.
+- 4 Wurftrank der Sprungkraft (Sprungkraft II)
+- 2 Verweiltrank der Sprungkraft (Sprungkraft II)
+- 2 Shard I
+- 1 Pfeilvorlage
+
+*Formloses Rezept. Die Zutaten dürfen in einer beliebigen Form angeordnet werden.*
+
+==- Pfeil des Aufschwungs
+![](/images/pfeil_des_aufschwungs.png)-
+Befördert das Ziel kurzzeitig in die Luft.
+- 4 Verweiltrank der Sprungkraft (Sprungkraft II)
+- 2 Verweiltrank des sanften Falls
+- 2 Shard I
+- 1 Pfeilvorlage
+
+*Formloses Rezept. Die Zutaten dürfen in einer beliebigen Form angeordnet werden.*
+
+==- Stumm-Tag
+![](/images/stumm.png)-
+Lässt Entitäten verstummen.
+- 1 Shard I
+- 4 Namensschild
+- 2 Phantomhaut
+
+**Hinweise:**
+- Das Verwenden aktualisiert die gesamte Umgebung
+- Zum Entstummen, Entität mit einem Nametag umbenennen und mit einem Mutetag aktualisieren.
+
+*Geformtes Rezept. Die Zutaten müssen in einer exakten Form angeordnet werden.*
+
+==- Shulker Beschwörungsstein
+![](/images/shulker_beschwörungsstein.png)-
+- 16 Shulker-Schale
+- 1 Shulker-Kern
+
+**Hinweise:**
+- Muss auf einem Netheriteblock mit einem Rechtsklick verwendet werden
+- Im Anschluss verschwinden sowohl der Block als auch das Item und am hinterlassenen Block spawnt der Schulker.
+
+*Geformtes Rezept. Die Zutaten müssen in einer exakten Form angeordnet werden.*
+
+==- Hydraulikschalter
+![](/images/hydraulikschalter.png)-
+Schalte Eisenfalltüren ohne Redstone um.\
+64 Nutzungen.
+- 16 Kupferbarren
+- 16 Redstone-Staub
+- 16 Eisenbarren
+
+*Formloses Rezept. Die Zutaten dürfen in einer beliebigen Form angeordnet werden.*
+
+==- Wiederbelebungstotem-Set
+![](/images/wiederbelebungstotem-set.png)-
+Ein 3-teiliges Totem-Set zum Wiederbeleben.
+- 2 Stock
+- 2 Stramme Seide
+- 1 Shard II
+- 3 Wiederbelebungstotem (durch Mobevent)
+
+*Geformtes Rezept. Die Zutaten müssen in einer exakten Form angeordnet werden.*
