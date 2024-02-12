@@ -130,7 +130,34 @@ Paragraph | Regel | Kategorie
 ---
 
 ## Siedlerrang-Vergabe
+### §1 - Grundsatz / Definition
+Siedler stellen die Repräsentation der Community dar, bereichern diese mit ihrem Wissen sowie Ideen und geben eine Hilfestellung für Neuankömmlinge.
+Mit ihrem Verhalten stützen und fördern sie die Harmonie auf dem Server.
+
+### §2 - Ernennung
+Einmal monatlich (vor / während der Teambesprechung) werden potenzielle Kandidaten ausgewählt und ggf. zum Siedler ernannt. Grundsätzlich ist eine Ernennung nach einem halben Jahr Aktivität* möglich. Neben Aspekten wie der Bestrafungshistorie und dem Verhalten spielt zu dem auch der persönliche Eindruck der Teammitglieder eine Rolle. Es ist möglich, trotz einer Bestrafungshistorie Siedler zu werden, wenn die Bestrafungen verjährt sind. 
+
+Es gibt keinen Anspruch auf den Rang. Eine explizite Beantragung ist nicht möglich.
+
+### §3 - Aberkennung
+Der Siedler-Rang kann grundsätzlich nach einem halben Jahr Inaktivität* aberkannt werden. Dem Team obliegt jedoch die Entscheidung, den Rang jederzeit aus berechtigten Gründen (z.B. Regelverstöße oder Verhalten) abzuerkennen. Solch eine Entscheidung erfolgt jeweils individuell und kann nicht mit anderen Siedlern verglichen werden.
+
+Stammspieler, welche nicht die ausreichende Aktivität für den Siedler-Rang aufweisen, können je nach Entscheidung des Teams anstatt des Siedler-Ranges eine Stammspieler-Kennzeichnung im Chat erhalten.
+
+### §4 - Wiederernennung
+Nach der Aberkennung des Siedlerranges müssen mindestens drei Monate vergehen, um wieder als potenzieller Kandidat in Frage zu kommen. Nach drei Monaten gelten dieselben Bedingungen wie bei §2.
+
+*Zur Ermittlung der Aktivität wird die Spieldauer in einem bestimmten Zeitraum gewertet, nicht die Anzahl der Verbindungen zum Server.
 
 ---
 
 ## PlayerWarps
+Um die Playerwarp Kategorien übersichtlich zu halten und bestmögliche Sucherergebnisse erzielen zu können, werden diese regelmäßig durch uns überprüft.
+
+### Inaktivität
+Warps der Shop Kategorie werden bei einer Inaktivität des Besitzers von 30+ Tagen in die Kategorie Inaktiv verschoben. Sie können jedoch jederzeit mit `/pw category set <warpname> <bauwerke/farmen/shop/sonstiges>` zurück verschoben werden.
+
+### PlayerWarp-Namen
+Eine Beantragung von Playerwarp-Namen ist nach sechs monatiger Inaktivität des Besitzers möglich. Im Regelfall wird zur Erhaltung des Teleportpunktes der bestehende Warp umbenannt.
+
+Das “Klauen" von Playerwarp Namen durch sich sehr stark ähnelnde Bezeichnungen ist zum Schutz der jeweiligen Warps nicht erlaubt.
