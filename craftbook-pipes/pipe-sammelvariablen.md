@@ -16,7 +16,7 @@ Durch die Möglichkeit, mehrere Items mit nur einem Schild zu sortieren, ist es 
 
 ---
 
-## Variablen im Spiel abrufen
+## Sammelvariablen im Spiel abrufen
 Es ist möglich, alle Sammelvariablen auch in Minecraft abzurufen. Folgender Befehl steht dafür zur Verfügung:
 
 `/sammelid`\
