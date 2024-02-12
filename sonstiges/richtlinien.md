@@ -15,14 +15,16 @@ Melde dich bei Unklarheiten und Fragen sehr gerne bei einem Teammitglied oder im
 
 ## Farmen
 ### Definitionen
-#### Manuelle Farm
++++ Manuelle Farm
 Bei einer manuellen Farm gehen wir von händisch bedienbaren Farmen aus (z.B. Felder) aus.
 
-#### Halbautomatische Farm
++++ Halbautomatische Farm
 Halbautomatisch ist eine Farm dann, wenn die Farmanlage durch Hilfsmechanismen wie Redstone, Trichter, Wasser, und vergleichbarem ergänzt werden. Der Anwender bedient Elemente der Farm dabei jedoch weiterhin eigenständig.
 
-#### Vollautomatische Farm
++++ Vollautomatische Farm
 Farmen sind vollautomatisch, wenn sie keinen Eingriff von dem Anwender erfordern und in der Lage sind, eigenständig zu laufen.
+
++++
 
 ### Anmeldepflicht
 Grundsätzlich muss jede halb- & vollautomatische Farm angemeldet werden, damit wir als Team die unter den Farmanmeldungen berücksichtigten Kriterien überprüfen und gegebenenfalls Hilfestellung leisten können.
@@ -61,14 +63,16 @@ Sollten aufgrund der Größe/Anzahl an Claims (insbesondere in Zone 1) Probleme 
 
 Die Claimzonen können auch auf der [Livemap](https://map.openmc.net/) eingesehen werden ("Claimzonen" oben links aktivieren).
 
-#### Zone 1 - Unmittelbare Spawnnähe
++++ Zone 1 - Unmittelbare Spawnnähe
 Um eine schöne Umgebung zu gewährleisten, müssen Claims, welche sich in Zone 1 befinden, innerhalb von zwei Monaten maßgebliche Baufortschritte aufweisen. Geschieht dies nicht oder ist der Besitzer für einen Zeitraum von drei Monaten unabgemeldet inaktiv, kann dieser zu einem Adminclaim umgewandelt werden. Zu Adminclaims umgewandelte Grundstücke werden im Ermessen des Teams unter Denkmalschutz gestellt, oder weitergegeben (Eine zentrale Übersicht über die verfügbar gewordenen Claims in Zone 1 wird mittelfristig folgen). Nach drei Monaten erneuter Aktivität können ehemals eigene, aber noch nicht weiter vergebene Claims für eine Rückgabe beantragt werden.
 
-#### Zone 2 - Spawnnähe
++++ Zone 2 - Spawnnähe
 Claims in Zone 2 sollten innerhalb von zwei Monaten maßgebliche Baufortschritte aufweisen und können bei langfristig unfertigen oder unbestreitbar unschönen Bauwerken durch das Team weitergegeben werden.
 
-#### Zone 3 - Wildnis
++++ Zone 3 - Wildnis
 Claims in Zone 3 werden nach dem Standardschema vergeben. Claims können beantragt werden, wenn der Besitzer mehr als 30 Tage inaktiv ist und ein Grund für die Übernahme (z.B. Erweiterung des eigenen Gebiets) vorliegt.
+
++++
 
 ---
 
