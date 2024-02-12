@@ -51,6 +51,23 @@ Bei fehlendem Wissen zur Ausschaltbarkeit der genannten Mechaniken stehen dir di
 ---
 
 ## Claimvergaben
+[](/images/claimzonen.png)-
+Um das Verfahren der Claimvergabe transparenter zu gestalten, haben wir besondere Richtlinien aufgestellt. Es wird zwischen drei Zonen unterschieden (Siehe Grafik).
+
+Claims in Zone 1 und Zone 2 prägen maßgeblich das Serverbild und unterliegen daher besonderen Regelungen. Ein Antrag auf Claimübernahme kann im Discord über das entsprechende Ticket gestellt werden. Anträge werden in der Regel einmal monatlich bewertet und bearbeitet. Bitte beachtet, dass bei einer Weitergabe des Claims alle wertvollen Items entfernt werden.
+
+Sollten aufgrund der Größe/Anzahl an Claims (insbesondere in Zone 1) Probleme mit den neuen Regelungen auftreten, meldet euch bitte per Ticket bei uns, damit wir dafür eine Lösung finden können.
+
+Die Claimzonen können auch auf der [Livemap](https://map.openmc.net/) eingesehen werden ("Claimzonen" oben links aktivieren).
+
+#### Zone 1 - Unmittelbare Spawnnähe
+Um eine schöne Umgebung zu gewährleisten, müssen Claims, welche sich in Zone 1 befinden, innerhalb von zwei Monaten maßgebliche Baufortschritte aufweisen. Geschieht dies nicht oder ist der Besitzer für einen Zeitraum von drei Monaten unabgemeldet inaktiv, kann dieser zu einem Adminclaim umgewandelt werden. Zu Adminclaims umgewandelte Grundstücke werden im Ermessen des Teams unter Denkmalschutz gestellt, oder weitergegeben (Eine zentrale Übersicht über die verfügbar gewordenen Claims in Zone 1 wird mittelfristig folgen). Nach drei Monaten erneuter Aktivität können ehemals eigene, aber noch nicht weiter vergebene Claims für eine Rückgabe beantragt werden.
+
+#### Zone 2 - Spawnnähe
+Claims in Zone 2 sollten innerhalb von zwei Monaten maßgebliche Baufortschritte aufweisen und können bei langfristig unfertigen oder unbestreitbar unschönen Bauwerken durch das Team weitergegeben werden.
+
+#### Zone 3 - Wildnis
+Claims in Zone 3 werden nach dem Standardschema vergeben. Claims können beantragt werden, wenn der Besitzer mehr als 30 Tage inaktiv ist und ein Grund für die Übernahme (z.B. Erweiterung des eigenen Gebiets) vorliegt.
 
 ---
 
