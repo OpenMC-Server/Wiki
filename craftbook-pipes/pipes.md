@@ -52,7 +52,7 @@ Der klebrige Kolben kann auf folgende Arten aktiviert werden (siehe Screenshot):
 Andere, sonst aus Minecraft gewohnte Methoden funktionieren unter Umständen nicht.
 
 ![](/images/pipes_2.png)
-Hier abgebildet ist eine einfache Clock, die sich automatisch aktiviert, wenn Items in die Kiste gelegt werden. Damit bringt sie das Pipe-System in Gang und sortiert alle Items aus der Kiste ein. (Die Pipe beginnt in diesem Bild unter dem klebrigen Kolben.)
+Hier abgebildet ist ein einfacher Aufbau, welcher die Items in drei verschiedene Kisten sortiert. Der klebrige Kolben wird hier mit einem Knopfdruck aktiviert.
 
 ### Transportsysteme mit Verzweigungen
 Sind mehrere Ausgangskisten an eine Pipe angeschlossen, so bevorzugt das System die Kisten, die näher an der Quelle liegen.
