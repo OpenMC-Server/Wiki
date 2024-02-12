@@ -56,3 +56,11 @@ Hier abgebildet ist ein einfacher Aufbau, welcher die Items in drei verschiedene
 
 ### Transportsysteme mit Verzweigungen
 Sind mehrere Ausgangskisten an eine Pipe angeschlossen, so bevorzugt das System die Kisten, die näher an der Quelle liegen.
+
+||| Schritt 1
+![](/images/pipes_3.png)
+||| Schritt 2
+![](/images/pipes_4.png)
+||| Ergebnis
+![](/images/pipes_5.png)
+|||
