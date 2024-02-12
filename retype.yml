@@ -11,7 +11,6 @@ poweredByRetype: true         # Set to false to remove "Powered by Retype"
 breadcrumb:
   enabled: false              # Enabled by default on Pro projects
   home: Home                  # Custom label for the first item
-  home: ":icon-home:"         # or, use an icon
   separator: "|"              # Custom item separator
 
 # -----------------------------------------------------------------------------
@@ -93,7 +92,7 @@ footer:
 # -----------------------------------------------------------------------------
 
 cache:
-  busting: query              # Cache busting strategy
+  strategy: query             # Cache busting strategy
                               # Options: none | path | query (default)
 
 # -----------------------------------------------------------------------------
@@ -181,7 +180,6 @@ search:                       # Custom configuration of the website search
 
 serve:
   host: 127.0.0.1             # Serve the website from this host location
-  host: 127.0.0.1:5005        # Custom port also supported
   port: 5005                  # Custom port configured separately from host
   watch:
     mode: memory              # Where to host files from during retype watch
