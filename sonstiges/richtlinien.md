@@ -15,13 +15,14 @@ Melde dich bei Unklarheiten und Fragen sehr gerne bei einem Teammitglied oder im
 
 ## Farmen
 ### Definitionen
-+++ Manuelle Farm
+#### Manuelle Farm
 Bei einer manuellen Farm gehen wir von händisch bedienbaren Farmen aus (z.B. Felder) aus.
-+++ Halbautomatische Farm
+
+#### Halbautomatische Farm
 Halbautomatisch ist eine Farm dann, wenn die Farmanlage durch Hilfsmechanismen wie Redstone, Trichter, Wasser, und vergleichbarem ergänzt werden. Der Anwender bedient Elemente der Farm dabei jedoch weiterhin eigenständig.
-+++ Vollautomatische Farm
+
+#### Vollautomatische Farm
 Farmen sind vollautomatisch, wenn sie keinen Eingriff von dem Anwender erfordern und in der Lage sind, eigenständig zu laufen.
-+++
 
 ### Anmeldepflicht
 Grundsätzlich muss jede halb- & vollautomatische Farm angemeldet werden, damit wir als Team die unter den Farmanmeldungen berücksichtigten Kriterien überprüfen und gegebenenfalls Hilfestellung leisten können.
