@@ -57,10 +57,13 @@ Hier abgebildet ist ein einfacher Aufbau, welcher die Items in drei verschiedene
 ### Transportsysteme mit Verzweigungen
 Sind mehrere Ausgangskisten an eine Pipe angeschlossen, so bevorzugt das System die Kisten, die näher an der Quelle liegen.
 
-||| Schritt 1
+||| Beispiel 1
 ![](/images/pipes_3.png)
-||| Schritt 2
+In diesem Beispiel werden die Items in die linke Kiste transportiert. Items, die nicht mehr in die linke Kiste passen, kommen nach rechts.
+||| Beispiel 2
 ![](/images/pipes_4.png)
-||| Ergebnis
+Hier werden Items zuerst in die rechte Kiste einsortiert, und erst, wenn sie voll ist, wird die linke Kiste befüllt.
+||| Beispiel 3
 ![](/images/pipes_5.png)
+Hier sind beide Kisten gleich weit von der Quelle entfernt. Welche Kiste vom System zuerst besucht wird, lässt sich kaum vorhersagen.
 |||
