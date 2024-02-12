@@ -13,7 +13,7 @@ Auf dieser Seite findest du die Variablen für einzelne Items. Möchtest du stat
 ---
 
 ## Variablen im Spiel abrufen
-Es ist möglich, alle Variablen und Sammelvariablen auch in Minecraft abzurufen. Folgende Befehle stehen dafür zur Verfügung:
+Es ist möglich, alle Variablen auch in Minecraft abzurufen. Folgende Befehle stehen dafür zur Verfügung:
 
 `/pipeid`\
 Zeigt alle möglichen Variablen für ein Item im Chat an. Dazu muss das Item bei der Eingabe des Befehls in der Hand gehalten werden. Die Variablen können sowohl durch Anklicken in die Zwischenablage kopiert werden, als auch durch Klick auf “Schild erstellen” ein entsprechendes Schild erstellt werden. Zum Platzieren muss anschließend der Schildbearbeitungsmodus mit `/sign` aktiviert werden.

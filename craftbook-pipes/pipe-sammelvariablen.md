@@ -16,6 +16,14 @@ Durch die Möglichkeit, mehrere Items mit nur einem Schild zu sortieren, ist es 
 
 ---
 
+## Variablen im Spiel abrufen
+Es ist möglich, alle Sammelvariablen auch in Minecraft abzurufen. Folgender Befehl steht dafür zur Verfügung:
+
+`/sammelid`\
+Zeigt alle möglichen Sammelvariablen in einem Menü an. Mit einem Linksklick kann die gewünschte Variable ausgewählt werden. Anschließend kann die Variable sowohl durch Anklicken in die Zwischenablage kopiert werden, als auch durch Klick auf “Schild erstellen” ein entsprechendes Schild erstellt werden. Zum Platzieren muss anschließend der Schildbearbeitungsmodus mit `/sign` aktiviert werden. Mit einem Rechtsklick können wiederum alle zugehörigen Items zu einer ID angesehen werden.
+
+---
+
 ## Liste der Sammelvariablen
 Nachfolgend findest du eine Auflistung aller Pipe-Sammelvariablen auf OpenMC.
 
