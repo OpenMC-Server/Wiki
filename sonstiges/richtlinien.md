@@ -14,6 +14,38 @@ Melde dich bei Unklarheiten und Fragen sehr gerne bei einem Teammitglied oder im
 ---
 
 ## Farmen
+### Definitionen
++++ Manuelle Farm
+Bei einer manuellen Farm gehen wir von händisch bedienbaren Farmen aus (z.B. Felder) aus.
++++ Halbautomatische Farm
+Halbautomatisch ist eine Farm dann, wenn die Farmanlage durch Hilfsmechanismen wie Redstone, Trichter, Wasser, und vergleichbarem ergänzt werden. Der Anwender bedient Elemente der Farm dabei jedoch weiterhin eigenständig.
++++ Vollautomatische Farm
+Farmen sind vollautomatisch, wenn sie keinen Eingriff von dem Anwender erfordern und in der Lage sind, eigenständig zu laufen.
+
+### Anmeldepflicht
+Grundsätzlich muss jede halb- & vollautomatische Farm angemeldet werden, damit wir als Team die unter den Farmanmeldungen berücksichtigten Kriterien überprüfen und gegebenenfalls Hilfestellung leisten können.
+
+Halb- und vollautomatische Farmen müssen grundlegend in der dafür vorgesehenen Industriewelt erbaut werden. Es gibt dahingegen jedoch Anlagen zur Item-Umwandlung, welche in der Bauwelt unter Vorlagen bestehen dürfen.
+
+### Erlaubte Item-Umwandlungsanlagen in der Bauwelt
+Zur Item-Umwandlung gehören Anlagen, welche ausschließlich dazu dienen, ein bestehendes Item oder Material in ein anderes umzuwandeln. Die folgende Liste stellt die Anlagen dar, die Standpunkt heute automatisiert in der Bauwelt erlaubt sind:
+
+Anlage                      | Beschreibung
+:---:                       | ---
+Dripstone (Lava / Wasser)   | Wandelt Flüssigkeiten zumeist in einem Kessel um, damit Wasser oder Lava mit einem Eimer entnommen werden können. 
+Ton-Umwandlung              | Mittels Wasserflaschen werden Erdblöcke in Schlamm und auf Wunsch später in Schlamm umgewandelt.
+Beton-Umwandlung            | Mit der einen Hand wird ein Trockenbeton platziert, während mit der anderen Hand ein der umgewandelte Beton abgebaut wird.
+Composter zu Knochenmehl    | Verwertbare Pflanzen werden automatisiert in einen Composter befördert, welche daraus Knochenmehl erzeugen.
+Ofenanlagen jeder Art       | Automatisierte Öfen, welche durch einen Input die Erträge aufnehmen, schmelzen und anschließend in einen Output befördern.
+
+Es dürfen insgesamt bis zu 10 Umwandlungsobjekte (Anlagen aus der Tabelle) an einem gleichgelegten Ort (Bereich, der durch den Spieler geladen wird) aufgebaut und verwendet werden. Die Verwendung von Villagern ist von der Regelung ausgeschlossen.
+
+### Voraussetzung von abschaltbaren Mechaniken
+Folgende Mechaniken müssen auf dem ganzen Server verpflichtend abschaltbar sein:
+- Clocks (Wiederholende Redstonesignale)
+- Loren (Hin- und her fahrende Loren)
+
+Bei fehlendem Wissen zur Ausschaltbarkeit der genannten Mechaniken stehen dir die Spieler und das Team gerne zur Verfügung.
 
 ---
 
