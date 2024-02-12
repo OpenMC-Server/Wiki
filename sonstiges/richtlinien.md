@@ -51,7 +51,7 @@ Bei fehlendem Wissen zur Ausschaltbarkeit der genannten Mechaniken stehen dir di
 ---
 
 ## Claimvergaben
-[](/images/claimzonen.png)-
+![](/images/claimzonen.png)-
 Um das Verfahren der Claimvergabe transparenter zu gestalten, haben wir besondere Richtlinien aufgestellt. Es wird zwischen drei Zonen unterschieden (Siehe Grafik).
 
 Claims in Zone 1 und Zone 2 prägen maßgeblich das Serverbild und unterliegen daher besonderen Regelungen. Ein Antrag auf Claimübernahme kann im Discord über das entsprechende Ticket gestellt werden. Anträge werden in der Regel einmal monatlich bewertet und bearbeitet. Bitte beachtet, dass bei einer Weitergabe des Claims alle wertvollen Items entfernt werden.
