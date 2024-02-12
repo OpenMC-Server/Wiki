@@ -21,6 +21,7 @@ Bei einer manuellen Farm gehen wir von händisch bedienbaren Farmen aus (z.B. Fe
 Halbautomatisch ist eine Farm dann, wenn die Farmanlage durch Hilfsmechanismen wie Redstone, Trichter, Wasser, und vergleichbarem ergänzt werden. Der Anwender bedient Elemente der Farm dabei jedoch weiterhin eigenständig.
 +++ Vollautomatische Farm
 Farmen sind vollautomatisch, wenn sie keinen Eingriff von dem Anwender erfordern und in der Lage sind, eigenständig zu laufen.
++++
 
 ### Anmeldepflicht
 Grundsätzlich muss jede halb- & vollautomatische Farm angemeldet werden, damit wir als Team die unter den Farmanmeldungen berücksichtigten Kriterien überprüfen und gegebenenfalls Hilfestellung leisten können.
