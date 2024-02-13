@@ -7,6 +7,8 @@ icon: goal
 
 # mcMMO
 
+[!badge :white_check_mark: Ingame-Tutorial verfügbar: `/warp tutorial_mcmmo`]
+
 mcMMO ist sehr umfangreich. Es beinhaltet ein Levelsystem für so ziemlich alle Tätigkeiten in Minecraft. Mit steigendem Level schaltet man sowohl permanente Vorteile als auch aktiv einsetzbare Spezialfähigkeiten frei. Bestenlisten sowohl für einzelne Skills (Tätigkeiten) als auch für das Gesamtlevel sind vorhanden.
 
 !!! Abgrenzung von anderen Funktionen des Servers

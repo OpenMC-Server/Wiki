@@ -7,6 +7,8 @@ icon: package
 
 # ChestShop
 
+[!badge :white_check_mark: Ingame-Tutorial verfügbar: `/warp tutorial_shops`]
+
 Mit einem ChestShop in der Bauwelt kannst du Items an- und verkaufen.
 
 ---

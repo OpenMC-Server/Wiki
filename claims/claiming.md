@@ -7,6 +7,8 @@ icon: screen-normal
 
 # Claiming (Grundstück erstellen)
 
+[!badge :white_check_mark: Ingame-Tutorial verfügbar: `/warp tutorial_claiming`]
+
 Mit einem Claim (dt. Grundstück) schützt du deine Bauwerke, Kisten, Öfen, etc. vor Griefing und Diebstahl.
 
 ---

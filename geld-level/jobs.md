@@ -7,6 +7,8 @@ icon: briefcase
 
 # Jobs
 
+[!badge :white_check_mark: Ingame-Tutorial verfügbar: `/warp tutorial_jobs`]
+
 Mit Jobs kannst du während des Farmens von Items & Ausführen von alltäglichen Aktivitäten ganz einfach passiv oder aktiv Geld verdienen.\
 Jobs sind nur in der Bau- und Farmwelt verfügbar.
 

@@ -7,6 +7,7 @@ icon: lock
 ---
 
 # MapArts schützen
+
 Um dein MapArt zu schützen, stehen dir mehrere Möglichkeiten offen. Nutzt diese Möglichkeiten, hast du dein MapArt vollumfänglich gegen Kopieren geschützt.
 
 ---

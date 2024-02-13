@@ -7,6 +7,8 @@ icon: gear
 
 # CraftBook
 
+[!badge :white_check_mark: Ingame-Tutorial verfügbar: `/warp tutorial_craftbook`]
+
 Mit CraftBook gibt es eine Reihe an nützlichen Funktionen auf dem Server, welche das Spielgeschehen deutlich erweitern und vereinfachen.\
 Pipes werden auf einer [eigenen Seite](/craftbook-pipes/pipes.md) erklärt. Alle weiteren CraftBook Funktionen findest du auf der aktuellen Seite.
 

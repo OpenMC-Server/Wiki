@@ -4,7 +4,11 @@ layout: default
 order: 399
 icon: cpu
 ---
+
 # CustomCrafting
+
+[!badge :white_check_mark: Ingame-Tutorial verfügbar: `/warp tutorial_customcrafting`]
+
 Mit CustomCrafting hast du die Möglichkeit, an eine Reihe von Items zu gelangen, welche nur auf OpenMC existieren.\
 Um mit dem Craften beginnen zu können, genügt eine einfache Werkbank. Die möglichen Rezepte und benötigten Zutaten findest du auf dieser Seite.
 
