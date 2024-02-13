@@ -7,12 +7,8 @@ icon: heart
 
 # Marry
 
-Das Marry-Plugin bietet dir die Möglichkeit, Ehen auf dem Server zu schließen.
-
----
-
-## Vorteile
-- Geteiltes Home für dich und deinen Partner (`/marry home`)
+Das Marry-Plugin bietet dir die Möglichkeit, Ehen auf dem Server zu schließen. Folgende Vorteile erhältst du:
+- Ein geteiltes Home für dich und deinen Partner (`/marry home`)
 - Einfacher Teleport zu deinem Partner (`/marry tp`)
 - XP Boost, wenn du dich in der Nähe deines Partners befindest (Minecraft XP & mcMMO)
 - Schnellere Regeneration, wenn du dich in der Nähe deines Partners befindest
