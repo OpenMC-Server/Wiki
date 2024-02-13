@@ -74,7 +74,7 @@ Um nach einer spezifischen Sammelvariable zu suchen, kannst du die Suche deines 
 *mangrove_log, mangrove_wood, stripped_mangrove_log, stripped_mangrove_wood*
 
 [!badge variant="secondary" text="**%aec%**"] **Alle Kirschstämme/hölzer**\
-*cherry_log,cherry_wood,stripped_cherry_log,stripped_cherry_wood*
+*cherry_log,cherry_wood, stripped_cherry_log, stripped_cherry_wood*
 
 #### Alle Holzerzeugnisse + Stämme (einzelne Holztypen)
 [!badge variant="secondary" text="**%th%**"] **Alle Eichenstämme/hölzer + Erzeugnisse**\
@@ -189,7 +189,7 @@ Um nach einer spezifischen Sammelvariable zu suchen, kannst du die Suche deines 
 *oak_fence_gate, spruce_fence_gate, birch_fence_gate, jungle_fence_gate, acacia_fence_gate, dark_oak_fence_gate, crimson_fence_gate, warped_fence_gate, mangrove_fence_gate, cherry_fence_gate, bamboo_fence_gate*
 
 [!badge variant="secondary" text="**%zm%**"] **Alle Treppen**\
-*diorite_stairs, polished_andesite_stairs, red_nether_brick_stairs, andesite_stairs, granite_stairs, smooth_quartz_stairs, stone_stairs, end_stone_brick_stairs, mossy_cobblestone_stairs, jungle_stairs, birch_stairs, spruce_stairs, polished_diorite_stairs, sandstone_stairs, smooth_sandstone_stairs, mossy_stone_brick_stairs, dark_oak_stairs, mangrove_stairs,purpur_stairs,stone_brick_stairs,brick_stairs,cobblestone_stairs,oak_stairs,smooth_red_sandstone_stairs,polished_granite_stairs, red_sandstone_stairs, dark_prismarine_stairs, prismarine_brick_stairs, prismarine_stairs, nether_brick_stairs, acacia_stairs, quartz_stairs, crimson_stairs, warped_stairs, blackstone_stairs, polished_blackstone_stairs, polished_blackstone_brick_stairs, obbled_deepslate_stairs, deepslate_brick_stairs, deepslate_tile_stairs, polished_deepslate_stairs, cherry_stairs, bamboo_stairs, bamboo_mosaic_stairs*
+*diorite_stairs, polished_andesite_stairs, red_nether_brick_stairs, andesite_stairs, granite_stairs, smooth_quartz_stairs, stone_stairs, end_stone_brick_stairs, mossy_cobblestone_stairs, jungle_stairs, birch_stairs, spruce_stairs, polished_diorite_stairs, sandstone_stairs, smooth_sandstone_stairs, mossy_stone_brick_stairs, dark_oak_stairs, mangrove_stairs, purpur_stairs, stone_brick_stairs, brick_stairs, cobblestone_stairs, oak_stairs, smooth_red_sandstone_stairs,polished_granite_stairs, red_sandstone_stairs, dark_prismarine_stairs, prismarine_brick_stairs, prismarine_stairs, nether_brick_stairs, acacia_stairs, quartz_stairs, crimson_stairs, warped_stairs, blackstone_stairs, polished_blackstone_stairs, polished_blackstone_brick_stairs, obbled_deepslate_stairs, deepslate_brick_stairs, deepslate_tile_stairs, polished_deepslate_stairs, cherry_stairs, bamboo_stairs, bamboo_mosaic_stairs*
 
 [!badge variant="secondary" text="**%zn%**"] **Alle Stufen**\
 *smooth_stone_slab, oak_slab, spruce_slab, birch_slab, acacia_slab, jungle_slab, dark_oak_slab, mangrove_slab,stone_slab, sandstone_slab, cut_sandstone_slab, petrified_oak_slab, brick_slab, stone_brick_slab, nether_brick_slab, quartz_slab, red_sandstone_slab, cut_red_sandstone_slab, purpur_slab, prismarine_slab, prismarine_brick_slab, dark_prismarine_slab, polished_diorite_slab, smooth_red_sandstone_slab, mossy_stone_brick_slab, polished_granite_slab, mossy_cobblestone_slab, end_stone_brick_slab, smooth_sandstone_slab, smooth_quartz_slab, granite_slab, andesite_slab, red_nether_brick_slab, polished_andesite_slab, diorite_slab, cobblestone_slab, warped_slab, crimson_slab, blackstone_slab, polished_blackstone_slab, polished_blackstone_brick_slab, cobbled_deepslate_slab, deepslate_brick_slab, deepslate_tile_slab, polished_deepslate_slab, cherry_slab, bamboo_slab, bamboo_mosaic_slab*
@@ -303,7 +303,7 @@ Um nach einer spezifischen Sammelvariable zu suchen, kannst du die Suche deines 
 *stone_bricks, stone_brick_slab, stone_brick_stairs, stone_brick_wall, mossy_stone_bricks, mossy_stone_brick_slab, mossy_stone_brick_stairs, mossy_stone_brick_wall, cracked_stone_bricks, chiseled_stone_bricks*
 
 [!badge variant="secondary" text="**%aac%**"] **Alle polierten Schwarzsteinerzeugnisse**\
-*polished_blackstone_wall,polished_blackstone_brick_wall, polished_blackstone_button,polished_blackstone_pressure_plate,polished_blackstone,polished_blackstone_slab,polished_blackstone_stairs, chiseled_polished_blackstone,polished_blackstone_bricks,polished_blackstone_brick_slabs,polished_blackstone_brick_stairs, cracked_polished_blackstone_bricks*
+*polished_blackstone_wall, polished_blackstone_brick_wall, polished_blackstone_button, polished_blackstone_pressure_plate, polished_blackstone, polished_blackstone_slab, polished_blackstone_stairs, chiseled_polished_blackstone, polished_blackstone_bricks, polished_blackstone_brick_slabs, polished_blackstone_brick_stairs, cracked_polished_blackstone_bricks*
 
 ### Tiefenschiefer
 [!badge variant="secondary" text="**%sk%**"] **Alle Tiefenschiefererzeugnisse**\
@@ -364,7 +364,7 @@ Um nach einer spezifischen Sammelvariable zu suchen, kannst du die Suche deines 
 *seagrass, sea_pickle, kelp, lily_pad, grass, fern, dead_bush, brown_mushroom, red_mushroom, vine, weeping_vines, twisting_vines, crimson_fungus, warped_fungus, crimson_roots, warped_roots, nether_sprouts, azalea, flowering_azalea, big_dripleaf, small_dripleaf, glow_lichen, hanging_roots*
 
 [!badge variant="secondary" text="**%aeb%**"] **Alle Wasserpflanzen**\
-*kelp,dried_kelp,dried_kelp_block,sea_pickle,seagrass,small_dripleaf,big_dripleaf,glow_lichen*
+*kelp, dried_kelp, dried_kelp_block, sea_pickle, seagrass, small_dripleaf, big_dripleaf, glow_lichen*
 
 [!badge variant="secondary" text="**%vp%**"] **Erde + Variationen (ohne 1.17+)**\
 *dirt, coarse_dirt, grass_block, podzol, mycelium*
@@ -373,7 +373,7 @@ Um nach einer spezifischen Sammelvariable zu suchen, kannst du die Suche deines 
 *dirt, coarse_dirt, grass_block, podzol, mycelium, moss_block, moss_carpet, rooted_dirt*
 
 [!badge variant="secondary" text="**%aaa%**"] **Alle Schlammerzeugnisse**\
-*mud,muddy_mangrove_roots,mud_brick_slab,packed_mud,mud_brick,mud_brick_stairs,mud_brick_wall*
+*mud, muddy_mangrove_roots, mud_brick_slab, packed_mud, mud_brick, mud_brick_stairs, mud_brick_wall*
 
 [!badge variant="secondary" text="**%vq%**"] **Kies, Sand, Roter Sand, Feuerstein**\
 *gravel, flint, sand, red_sand*
@@ -493,7 +493,7 @@ Um nach einer spezifischen Sammelvariable zu suchen, kannst du die Suche deines 
 *torch, soul_torch, lantern, soul_lantern*
 
 [!badge variant="secondary" text="**%aab%**"] **Alle Lichtquellen**\
-*torch,soul_torch,lantern,soul_lantern,end_rod,glowstone,shroomlight,ochre_froglight,verdant_froglight,pearlescent_froglight*
+*torch, soul_torch, lantern, soul_lantern, end_rod, glowstone, shroomlight, ochre_froglight, verdant_froglight, pearlescent_froglight*
 
 [!badge variant="secondary" text="**%wp%**"] **Alle Kopfvarianten**\
 *player_head, zombie_head, skeleton_skull, creeper_head, wither_skeleton_skull, dragon_head*
@@ -558,16 +558,16 @@ Um nach einer spezifischen Sammelvariable zu suchen, kannst du die Suche deines 
 *netherite_helmet, netherite_chestplate, netherite_leggings, netherite_boots*
 
 [!badge variant="secondary" text="**%aag%**"] **Alle Helme**\
-*leather_helmet,chainmail_helmet,golden_helmet,iron_helmet,diamond_helmet,netherite_helmet,turtle_helmet*
+*leather_helmet, chainmail_helmet, golden_helmet, iron_helmet, diamond_helmet, netherite_helmet, turtle_helmet*
 
 [!badge variant="secondary" text="**%aah%**"] **Alle Brustplatten**\
-*leather_chestplate,chainmail_chestplate,golden_chestplate,iron_chestplate,diamond_chestplate,netherite_chestplate*
+*leather_chestplate, chainmail_chestplate, golden_chestplate, iron_chestplate, diamond_chestplate, netherite_chestplate*
 
 [!badge variant="secondary" text="**%aai%**"] **Alle Hosen**\
-*leather_leggings,chainmail_leggings,golden_leggings,iron_leggings,diamond_leggings,netherite_leggings*
+*leather_leggings, chainmail_leggings, golden_leggings, iron_leggings, diamond_leggings, netherite_leggings*
 
 [!badge variant="secondary" text="**%aaj%**"] **Alle Schuhe**\
-*leather_boots,chainmail_boots,golden_boots,iron_boots,diamond_boots,netherite_boots*
+*leather_boots, chainmail_boots, golden_boots, iron_boots, diamond_boots, netherite_boots*
 
 [!badge variant="secondary" text="**%yt%**"] **Alle Schwerter**\
 *wooden_sword, stone_sword, iron_sword, golden_sword, diamond_sword, netherite_sword*
