@@ -46,7 +46,7 @@ output: .retype               # Custom path to the output directory
 
 # -----------------------------------------------------------------------------
 
-url: betawiki.openmc.net      # The base URL of your website
+url: wiki.openmc.net      # The base URL of your website
 
 # -----------------------------------------------------------------------------
 
