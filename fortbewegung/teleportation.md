@@ -11,6 +11,39 @@ Damit du schneller an dein Ziel kommst, kannst du dich auf verschiedene Arten te
 
 ---
 
+## Welten
+Auf OpenMC gibt es mehrere Welten, welche jeweils für unterschiedliche Aktivitäten genutzt werden können.
+
+### Bauwelt
+`/bauwelt`\
+Teleportiert dich in die Bauwelt. Hier kannst du deine Bauwerke errichten, jedoch keine Ressourcen farmen oder Farmen betreiben.
+
+`/bauwelt-nether`\
+Teleportiert dich in den Nether der Bauwelt.
+
+### Farmwelt
+`/farmwelt`\
+Teleportiert dich in die Farmwelt. Hier kannst du ohne Bedenken Ressourcen farmen, da die Welt regelmäßig zurückgesetzt wird.
+
+`/farmwelt-nether`\
+Teleportiert dich in den Nether der Farmwelt.
+
+`/farmwelt-end`\
+Teleportiert dich in das End der Farmwelt.
+
+### Industriewelt
+`/industriewelt`\
+Teleportiert dich in die Industriewelt. Hier kannst du große Farmanlagen errichten, ohne die Spieler in den anderen Welten zu beeinträchtigen.
+
+`/industriewelt-nether`\
+Teleportiert dich in den Nether der Industriewelt.
+
+### Eventwelt
+`/events`\
+Teleportiert dich in die Eventwelt.
+
+---
+
 ## Homes
 Mit Homes kannst du Positionen speichern, um dich anschließend zu diesen zu teleportieren.
 
