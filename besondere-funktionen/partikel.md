@@ -28,3 +28,5 @@ So erstellst du eine Partikelgruppe:
 
 ## Partikel entfernen
 Aktive Partikel kannst du unter "Partikel verwalten" und aktive Partikelgruppen unter "Partikelgruppen verwalten" entfernen.
+
+Du kannst Partikel auch mit dem Befehl `/partikel toggle` aktivieren oder deaktivieren, ohne sie zu löschen.
