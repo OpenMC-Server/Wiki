@@ -7,6 +7,8 @@ icon: git-compare
 
 # Pipes
 
+[!badge :white_check_mark: Ingame-Tutorial: `/warp pipe-tutorial`]
+
 Pipes aus dem Plugin CraftBook sind ein mächtiges Transport- und Sortiersystem für Items. Die Vorteile gegenüber herkömmlichen Systemen mit Hoppern sind vielfältig:
 - Der Transport erfolgt stackweise und blitzschnell. Innerhalb einer halben Minute kann eine ganze Kiste in ein Lager transportiert und korrekt einsortiert werden.
 - Items können problemlos in jede Richtung transportiert werden.
