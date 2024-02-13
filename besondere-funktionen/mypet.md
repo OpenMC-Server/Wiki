@@ -129,6 +129,8 @@ Enderman        |                       |                                       
 
 Wardens und Witherkelette verschwinden beim Verwenden von /petrelease. Es gibt dann keine Möglichkeit, das freigelassene Pet erneut zu zähmen.
 
+---
+
 ## Zustände
 Ein Pet kann mit `/petbehaviour` in verschiedene Zustände versetzt werden:
 
@@ -141,6 +143,8 @@ Aggressive  | Dein Pet greift alles im Umkreis von 15 Blöcken an (Mobs sowie Sp
 Farm        | Dein Pet greift alle Mobs im Umkreis von 15 Blöcken um dich an.
 Raid        | Dein Pet greift nur feindliche Mobs an (Zombies, Skelette, etc) und keine Pets anderer Personen oder Villager.
 Duel        | Dein Pet greift Pets anderer Spieler an, deren Zustand auch auf "duel" gestellt ist (im Umkreis von 5 Blöcken).
+
+---
 
 ## Befehle
 `/petinfo`\
