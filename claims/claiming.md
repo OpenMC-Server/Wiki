@@ -120,5 +120,11 @@ Entziehen aller erteilten Rechte eines Spielers auf einem Claim.
 `/trustlist`\
 Zeigt eine Liste aller Spieler, welche Trustrechte auf deinem Grundstück besitzen, an. Hier ist farblich aufgeführt, wer welche Rechte besitzt.
 
+---
+
+## Weitere Befehle
 `/claimexplosions`\
 Aktiviert Explosionen in deinem Claim. Diese Einstellung wird automatisch wieder deaktiviert, sobald der Server neu startet.
+
+`/claiminfo`\
+Stellt eine Vielzahl an Claiminformationen zum Grundstück dar, auf welchem der Anwender sich befindet.

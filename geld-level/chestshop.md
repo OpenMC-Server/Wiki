@@ -44,7 +44,7 @@ Blendet die Kauf- & Verkaufsnachrichten ein bzw. aus.
 
 `/transactions all/<kategorie>`\
 Zeigt die Transaktionshistorie des gesamten Geldumlaufes oder einer einzelnen Kategorie an.\
-Siehe auch LINK TRANSAKTIONEN
+Siehe auch [Transaktionshistorie](/geld-level/transaktionshistorie.md).
 
 ---
 

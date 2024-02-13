@@ -34,6 +34,8 @@ Wurde ein Item ausgewählt, wirst du in das Aktions-Fenster navigiert. Hier kann
 Das Item in der Mitte zeigt die aktuell ausgewählte Menge, sowie den sich zusammensetzenden Preis, der für das Item ansteht. Unterhalb kann nun der Kauf bestätigt oder vollständig abgebrochen werden.
 
 Wenn ein Inventar voll gekauft oder alle Items einer Art verkauft werden sollen, kann die Kiste unten rechts verwendet werden. Diese skaliert ebenfalls auf deine zur Verfügung stehenden Ressourcen und passt die Menge direkt an. Bei dem Kauf von “Inventargrößen” wird keine weitere Bestätigung (grüner Farbstoff) benötigt und der Kauf/Verkauf erfolgt sofort.
+
+Mit dem Befehl `/adminshop sellall` kannst du übrigens direkt alle möglichen Items aus deinem Inventar verkaufen.
 ==-
 
 ---
