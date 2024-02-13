@@ -1,8 +1,8 @@
 ---
-label: Alle Befehle
+label: Befehlsliste
 layout: default
 order: 299
 icon: command-palette
 ---
 
-# Alle Befehle
+# Befehlsliste
