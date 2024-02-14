@@ -26,5 +26,5 @@ Verlierst du deine Items durch einen Bug oder anderweitig vom Server ausgelöste
 ==- Was sollte ich tun, wenn ich für längere Zeit abwesend bin?
 Bist du für längere Zeit inaktiv, so kannst du uns über ein Ticket im [Discord](https://discord.com/invite/ecqPF34) oder auch jemandem einzelnen durch eine Privatnachricht Bescheid geben, dass du dich für den entsprechenden Zeitraum abmeldest. Dadurch werden deine Claims für bis zu 3 Monate für dich geschützt.
 ==- Kann ich einen Claim von einem inaktiven Spieler übernehmen?
-Dies ist grundlegend möglich! Beachte dazu bitte die Vorgaben zu den [Claimvergaben](https://betawiki.openmc.net/sonstiges/richtlinien/#claimvergaben).
+Dies ist grundlegend möglich! Beachte dazu bitte die Vorgaben zu den [Claimvergaben](https://wiki.openmc.net/sonstiges/richtlinien/#claimvergaben).
 ==-
