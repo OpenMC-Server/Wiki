@@ -56,7 +56,7 @@ Das bedeutet, dass man am Anfang eines Jobs am meisten verdient. Gegen Level 28 
 
 Der Wert der x-Achse (horizontale Achse) gibt bei der orangenen Kurve die Spielstunden im Job und bei der blauen Kurve das Level des Jobs an.\
 
-[!file Grafik in voller Größe](/static/job-verdienstkurve-large.png)
+[!file Grafik in voller Größe](/static/job-verdienstkurve_large.png)
 
 ---
 
