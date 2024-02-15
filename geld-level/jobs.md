@@ -54,7 +54,7 @@ Der Wert der y-Achse (senkrechte Achse) gibt dabei den Faktor des Verdienstes an
 
 Das bedeutet, dass man am Anfang eines Jobs am meisten verdient. Gegen Level 28 in etwa beträgt der Faktor 0.2 (daher ist der Verdienst etwa 1/5 vom Start). Auf Level 50 etwa beträgt der Faktor dann wieder 0.5 (daher ist der Verdienst etwa ½ vom Start).
 
-Der Wert der x-Achse (horizontale Achse) gibt bei der orangenen Kurve die Spielstunden im Job und bei der blauen Kurve das Level des Jobs an.\
+Der Wert der x-Achse (horizontale Achse) gibt bei der orangenen Kurve die Spielstunden im Job und bei der blauen Kurve das Level des Jobs an.
 
 [!file Grafik in voller Größe](/images/job-verdienstkurve_large.png)
 
