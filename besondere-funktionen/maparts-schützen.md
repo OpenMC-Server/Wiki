@@ -28,4 +28,9 @@ Die Funktion “Nutzung verbieten” sorgt dafür, dass Karten nicht mehr in Bil
 
 ![](/images/mapart_patent.png)
 
+Wird keine der Optionen aktiviert, wird das MapArt dennoch mit dem Namen des Erstellers versehen.
+
 Als Ersteller eines Patentes für die Map bist du in der Lage, die Verwendungszwecke der eigenen Maps besser zu steuern als bei herkömmlichen Methoden. Zudem brauchst du dein MapArt jeweils nur ein Mal zu patentieren, da du als Ersteller vom Patentschutz ausgeschlossen ist und somit mehrere Replikate mit dem Schutz erzeugen kannst.
+
+### Informationen zu MapArts anzeigen
+Mit dem `/mapinfo` Befehl kannst du Informationen zu bereits platzierten MapArts aufrufen, indem du diese ansiehst und den Befehl eingibst.
