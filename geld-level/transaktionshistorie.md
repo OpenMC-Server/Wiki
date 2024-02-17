@@ -38,5 +38,5 @@ current             | Öffnet deine zuletzt genutzte Historie, sofern sie noch v
 ---
 
 ### Ausnahmen in Transaktionen
-_chest_shop_
+__chest_shop__
 ChestShop-Transaktionen können sowohl von dir (An- & Verkauf), als auch von anderen Spielern bei dir vorgenommen werden. Das macht insgesamt 4 unterschiedliche Ergebnisse in der Transaktionshistorie, wodurch du mehr oder weniger gezwungen sein würdest, über die Nachricht zu hovern um zu Erfahren, ob du oder dein Mitspieler die Transaktion vollzogen hat. Aus diesem Anlass werden deine Transaktionen wie oben ersichtlich mit einem Stern markiert.
