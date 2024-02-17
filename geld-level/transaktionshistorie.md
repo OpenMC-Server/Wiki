@@ -16,8 +16,8 @@ Anhand der Transaktionshistorie kannst du deine Ein- & Ausgaben auf dem Server i
 ## Transaktionshistorie aufrufen
 Öffne mit `/transactions all` alle deine Transaktionseinträge. Hier findest du bis zu 6 unterschiedliche Kategorien, durch welche du mit deinem Geld handel betreiben kannst. Wenn du gezielt filtern möchtest, kannst du ebenfalls `/transactions <category>` oder überall sonst auch kurz `/th <category>` verwenden. Sofern spezielle Angaben zu einem Eintrag existieren, kannst du diese durch das Hovern (Mauszeiger über die Nachricht) einsehen.
 
----
 -![](/images/transaktionshistorie.png)
+
 
 ---
 
@@ -45,4 +45,5 @@ ChestShop-Transaktionen können sowohl von dir (An- & Verkauf), als auch von and
 Bank ist hier das Pseudonym zur `/tresor`-Funktion und stellt Einträge von dir da, wenn du Geld in deinen Tresor ein- oder auslagerst. Aus Sicht des `/balance` Betrags werden Transaktionen von dir => Tresor als **negative Beträge** (Betrag schwindet aus `/balance`) und Tresor => dir als **positive Beträge** (Betrag fließt in `/balance` ein) dargestellt. Die Ausnahme gilt dann, wenn der Server jedoch Geld in deinen Tresor hinzufügt. In dem Fall gilt das ganze nämlich anders herum:
 - Server => Tresor = Positiv
 - Tresor => Server = Negativ
+
 Was von beidem tatsächlich der Fall ist, kannst du Stand jetzt aus der Hover-Nachricht entnehmen.
