@@ -16,12 +16,7 @@ Anhand der Transaktionshistorie kannst du deine Ein- & Ausgaben auf dem Server i
 ## Transaktionshistorie aufrufen
 Öffne mit `/transactions all` alle deine Transaktionseinträge. Hier findest du bis zu 6 unterschiedliche Kategorien, durch welche du mit deinem Geld handel betreiben kannst. Wenn du gezielt filtern möchtest, kannst du ebenfalls `/transactions <category>` oder überall sonst auch kurz `/th <category>` verwenden. Sofern spezielle Angaben zu einem Eintrag existieren, kannst du diese durch das Hovern (Mauszeiger über die Nachricht) einsehen.
 
--![](/images/transaktionshistorie.png)
-
-
-
-
-
+![](/images/transaktionshistorie.png)
 
 ---
 
