@@ -38,10 +38,11 @@ current             | Öffnet deine zuletzt genutzte Historie, sofern sie noch v
 ---
 
 ### Ausnahmen in Transaktionen
-__chest_shop__
+#### ChestShops
 ChestShop-Transaktionen können sowohl von dir (An- & Verkauf), als auch von anderen Spielern bei dir vorgenommen werden. Das macht insgesamt 4 unterschiedliche Ergebnisse in der Transaktionshistorie, wodurch du mehr oder weniger gezwungen sein würdest, über die Nachricht zu hovern um zu Erfahren, ob du oder dein Mitspieler die Transaktion vollzogen hat. Aus diesem Anlass werden deine eigenen Transaktionen wie oben ersichtlich mit einem Stern markiert.
 
-__bank__
+#### Tresor/Bank
 Bank ist hier das Pseudonym zur `/tresor`-Funktion und stellt Einträge von dir da, wenn du Geld in deinen Tresor ein- oder auslagerst. Aus Sicht des `/balance` Betrags werden Transaktionen von dir => Tresor als **negative Beträge** (Betrag schwindet aus `/balance`) und Tresor => dir als **positive Beträge** (Betrag fließt in `/balance` ein) dargestellt. Die Ausnahme gilt dann, wenn der Server jedoch Geld in deinen Tresor hinzufügt. In dem Fall gilt das ganze nämlich anders herum:
 - Server => Tresor = Positiv
 - Tresor => Server = Negativ
+Was von beidem tatsächlich der Fall ist, kannst du Stand jetzt aus der Hover-Nachricht entnehmen.
