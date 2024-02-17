@@ -19,6 +19,10 @@ Anhand der Transaktionshistorie kannst du deine Ein- & Ausgaben auf dem Server i
 -![](/images/transaktionshistorie.png)
 
 
+
+
+
+
 ---
 
 ### Transaktionsarten
@@ -31,7 +35,7 @@ bank	            | Transaktionen mit deinem Tresor                              
 jobs	            | Transaktionen mit deinen [Jobs](https://wiki.openmc.net/geld-level/jobs)          |
 console_pay	        | Transaktionen, die der Server bei dir auf `/balance` vornimmt                     |
 player_pay	        | Transaktionen, die du mit Spielern über `/pay` vornimmst                          |
-Tresor              | Transaktionen von dir auf die Bank, oder vom Server auf deine Bank (`/tresor`)    |
+tresor              | Transaktionen von dir auf die Bank, oder vom Server auf deine Bank (`/tresor`)    |
 unread	            | Transaktionen, die von dir noch nicht gelesen wurden                              |
 current             | Öffnet deine zuletzt genutzte Historie, sofern sie noch vorhanden ist             |
 
