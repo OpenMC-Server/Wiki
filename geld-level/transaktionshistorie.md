@@ -45,7 +45,7 @@ Bank ist hier das Pseudonym zur `/tresor`-Funktion und stellt Einträge von dir 
 - Du => Tresor als **negative Beträge** (Betrag schwindet aus `/balance`)
 - Tresor => Dir als **positive Beträge** (Betrag fließt in `/balance` ein)
 
-Die Ausnahme gilt dann, wenn der Server jedoch Geld in deinen Tresor hinzufügt. In dem Fall gilt das ganze nämlich anders herum:
+Die Ausnahme gilt dann, wenn der Server jedoch Geld in deinem Tresor verwaltet. In dem Fall gilt das ganze anders herum:
 - Server => Tresor = Positiv
 - Tresor => Server = Negativ
 
