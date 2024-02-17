@@ -7,10 +7,6 @@ icon: project-roadmap
 
 # Transaktionshistorie
 
-!!!primary Im Aufbau
-Hier findest du in Kürze Informationen zur Transaktionshistorie.
-!!!
-
 Anhand der Transaktionshistorie kannst du deine Ein- & Ausgaben auf dem Server im Auge behalten und teils sogar filtern. Hierbei gilt meistens die Sicht, dass das Geld aus /balance in eine andere Quelle hinein oder aus einer Quelle heraus gebracht wird. Meistens deshalb, weil auch Ausnahmen manchmal vorkommen können, welche du im Verlauf des Artikels kennenlernen wirst.
 
 ## Transaktionshistorie aufrufen
