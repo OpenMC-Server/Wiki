@@ -9,6 +9,8 @@ icon: project-roadmap
 
 Anhand der Transaktionshistorie kannst du deine Ein- & Ausgaben auf dem Server im Auge behalten und teils sogar filtern. Hierbei gilt meistens die Sicht, dass das Geld aus /balance in eine andere Quelle hinein oder aus einer Quelle heraus gebracht wird. Meistens deshalb, weil auch Ausnahmen manchmal vorkommen können, welche du im Verlauf des Artikels kennenlernen wirst.
 
+---
+
 ## Transaktionshistorie aufrufen
 Öffne mit `/transactions all` alle deine Transaktionseinträge. Hier findest du bis zu 6 unterschiedliche Kategorien, durch welche du mit deinem Geld handel betreiben kannst. Wenn du gezielt filtern möchtest, kannst du ebenfalls `/transactions <category>` oder überall sonst auch kurz `/th <category>` verwenden. Sofern spezielle Angaben zu einem Eintrag existieren, kannst du diese durch das Hovern (Mauszeiger über die Nachricht) einsehen.
 
