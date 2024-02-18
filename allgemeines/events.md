@@ -99,6 +99,15 @@ In der Woche ab dem Montag vor dem Bewertungsevent kannst du dein Bauwerk auf Di
 
 ---
 
+### Nachfolgendes zum Bauevent
+#### Bauwerk-Historie
+Sobald das Bauevent vollständig abgeschlossen ist, werden die Bauwerke in die dafür vorgesehene `/bauevent history` eingetragen. Dort kannst du dir die vergangenen Bauwerke dann nochmals anschauen. Sofern du der Besitzer eines Bauwerkes bist, kannst du dich auch über ein Ticket auf dem Discord an das Team wenden, um den Zugang durch die Historie bei Bedarf auszustellen.
+
+#### Denkmalschutz für dein Bauwerk
+Solltest du das Grundstück nicht länger behalten wollen, besteht die Möglichkeit, dich ebenfalls über ein Ticket auf dem Discord an uns zu wenden und Denkmalschutz anzufragen. In dem Falle übergibst du das Bauwerk an den Server, sodass es zu einem Adminclaim wird. Dadurch entfallen die Zugriffsrechte auf dem Grundstück für die Erbauer. Wenn du davon keinen Gebrauch machen möchtest, erhältst du das Grundstück wie üblich nach Ende der Abstimmung wieder zurück übertragen.
+
+---
+
 ## Mobevent
 Das Mobevent findet jeden Samstag statt, solange kein anderes Event an diesem Tag stattfindet. Welches Event an einem Samstag stattfindet, wird immer mehrere Stunden zuvor in den #news auf [Discord](https://discord.com/invite/ecqPF34) angekündigt.
 
