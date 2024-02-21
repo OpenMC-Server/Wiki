@@ -53,6 +53,7 @@ NoHunger                | Hunger deaktivieren. | 60k $
 NoIceForm               | Bildung von Eis deaktivieren. | 50k $
 NoLeafDecay             | Das Verschwinden von Blättern deaktivieren. | 40k $
 NoMcMMOSkills           | Aktive Skill-Aktivierung (z.B. Faustkampf) deaktivieren. | 100k $
+NoMobSpawns             | Das Spawning von allen Mobs deaktivieren. Bestehende Mobs bleiben erhalten. | 150k $
 NoMonsters              | Monster deaktivieren. Alle bestehenden Monster despawnen. | 150k $
 NoMonsterSpawns         | Das Spawning von Monstern deaktivieren. Bestehende Monster bleiben erhalten. | 150k $
 NoSnowForm              | Bildung von Schnee deaktivieren. | 50k $
