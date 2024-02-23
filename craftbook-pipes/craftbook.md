@@ -48,24 +48,7 @@ Die Gate-Schilder ermöglichen es dir, mithilfe eines Schildes (oder zweien, sol
 
 Um eine Bridge zu erstellen, ist es wichtig, dass der unter dem Schild gesetzte Block auch dem Material entspricht, mit dem die Brücke gebaut wird. Das Schild darüber erhält in der zweiten Zeile die Beschriftung `[Bridge]`, wodurch automatisch die Blockart in der ersten Zeile nun ausgefüllt werden sollte. Das gleiche kann bei Bedarf auf der anderen Seite der Brücke vorgenommen werden, sodass eine Breite von 5 Blöcken vorgegeben ist und eine Länge von maximal 30 Blöcken möglich ist.
 
-Für eine Brücke können die unten angehangenen Blockarten verwendet werden:
-<details>
-    <summary>Nutzbare Blöcke</summary>    
-    
-    Transaktion         | Nutzen                                                                                |
-    ---                 | ---                                                                                   |
-    all                 | Alle deine Transaktionen                                                              |
-    admin_shop	        | Transaktionen mit dem [Adminshop](https://wiki.openmc.net/geld-level/adminshop/)      |
-    chest_shop	        | Transaktionen mit [ChestShops](https://wiki.openmc.net/geld-level/chestshop)          |
-    bank	            | Transaktionen mit deinem Tresor                                                       |
-    jobs	            | Transaktionen mit deinen [Jobs](https://wiki.openmc.net/geld-level/jobs)              |
-    console_pay	        | Transaktionen, die der Server bei dir auf `/balance` vornimmt                         |
-    player_pay	        | Transaktionen, die du mit Spielern über `/pay` vornimmst                              |
-    tresor              | Transaktionen von dir auf den Tresor, oder vom Server auf deinen Tresor (`/tresor`)   |
-    unread	            | Transaktionen, die von dir noch nicht gelesen wurden                                  |
-    current             | Öffnet deine zuletzt genutzte Historie, sofern sie noch vorhanden ist                 |
-    
-</details>
+Für eine Brücke kann eine Vielzahl an Blöcken (auch Stufen) benutzt werden. Solltest du eine sinnvolle Blockart im Sortiment vermissen, kannst du diese gerne über das Forum als Vorschlag einreichen.
 
 ---
 
