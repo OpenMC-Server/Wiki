@@ -45,7 +45,7 @@ Für ein Gate können alle Zäune sowie Glasscheiben, Mauern und Eisengitter ver
 ---
 
 ## Bridge-Schilder
-Die Gate-Schilder ermöglichen es dir, mithilfe eines Schildes (oder zweien, sollte die Bridge von beiden Seiten aus verwendet werden können) eine Brücke zu erstellen, welche per Rechtsklick auf das zugehörige Schild ausgefahren oder eingefahren werden kann.
+Die Bridge-Schilder ermöglichen es dir, mithilfe eines Schildes (oder zweien, sollte die Bridge von beiden Seiten aus verwendet werden können) eine Brücke zu erstellen, welche per Rechtsklick auf das zugehörige Schild ausgefahren oder eingefahren werden kann.
 
 Um eine Bridge zu erstellen, ist es wichtig, dass der unter dem Schild gesetzte Block auch dem Material entspricht, mit dem die Brücke gebaut wird. Das Schild darüber erhält in der zweiten Zeile die Beschriftung `[Bridge]`, wodurch automatisch die Blockart in der ersten Zeile nun ausgefüllt werden sollte. Das gleiche kann bei Bedarf auf der anderen Seite der Brücke vorgenommen werden, sodass eine Breite von 5 Blöcken vorgegeben ist und eine Länge von maximal 30 Blöcken möglich ist.
 
