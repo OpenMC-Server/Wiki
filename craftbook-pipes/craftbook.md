@@ -50,11 +50,10 @@ Um eine Bridge zu erstellen, ist es wichtig, dass der unter dem Schild gesetzte 
 
 Für eine Brücke können die unten angehangenen Blockarten verwendet werden:
 <details>
-    <summary>Klicke für eine Übersicht</summary>
-    | Syntax      | Description |
-    | ----------- | ----------- |
-    | Header      | Title       |
-    | Paragraph   | Text        |
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
 </details>
 
 ---
