@@ -44,20 +44,6 @@ Für ein Gate können alle Zäune sowie Glasscheiben, Mauern und Eisengitter ver
 
 ---
 
-## Bridge-Schilder
-Die Gate-Schilder ermöglichen es dir, mithilfe eines Schildes (oder zweien, sollte die Bridge von beiden Seiten aus verwendet werden können) eine Brücke zu erstellen, welche per Rechtsklick auf das zugehörige Schild ausgefahren oder eingefahren werden kann.
-
-Um eine Bridge zu erstellen, ist es wichtig, dass der unter dem Schild gesetzte Block auch dem Material entspricht, mit dem die Brücke gebaut wird. Das Schild darüber erhält in der zweiten Zeile die Beschriftung `[Bridge]`, wodurch automatisch die Blockart in der ersten Zeile nun ausgefüllt werden sollte. Das gleiche kann bei Bedarf auf der anderen Seite der Brücke vorgenommen werden, sodass eine Breite von 5 Blöcken vorgegeben ist und eine Länge von maximal 30 Blöcken möglich ist.
-
-Für eine Brücke kann eine Vielzahl an Blöcken (auch Stufen) benutzt werden. Solltest du eine sinnvolle Blockart im Sortiment vermissen, kannst du diese gerne über das Forum als Vorschlag einreichen.
-
-||| Geschlossenes Gate
-![](/images/bridge_offen.png)
-||| Geöffnetes Gate
-![](/images/bridge_geschlossen.png)
-
----
-
 ## Wireless-Redstone
 Die beiden Schaltungen MC1110 und MC1111 geben dir die Möglichkeit, „Wireless Redstone“ („Kabelloses Redstone“) zu verwenden. Die genaue Verwendung wird gut in der offiziellen Dokumentation von CraftBook beschrieben:
 - MC1110 „Transmitter“ („Sender“): [CraftBook-Wiki](https://craftbook.enginehub.org/en/latest/mechanics/ics/MC1110/)
