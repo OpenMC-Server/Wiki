@@ -55,6 +55,7 @@ Für eine Brücke kann eine Vielzahl an Blöcken (auch Stufen) benutzt werden. S
 ![](/images/bridge_offen.png)
 ||| Geöffnetes Gate
 ![](/images/bridge_geschlossen.png)
+|||
 
 ---
 
