@@ -52,7 +52,7 @@ Für eine Brücke können die unten angehangenen Blockarten verwendet werden:
 <details>
     <summary>Klicke für eine Übersicht</summary>
     |Nutzbare Blöcke         |
-    |---
+    ---
     |oak_planks              |
     |spruce_planks           |
     |birch_planks            |
