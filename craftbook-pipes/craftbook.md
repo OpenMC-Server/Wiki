@@ -51,11 +51,11 @@ Um eine Bridge zu erstellen, ist es wichtig, dass der unter dem Schild gesetzte 
 Für eine Brücke können die unten angehangenen Blockarten verwendet werden:
 <details>
     <summary>Klicke für eine Übersicht</summary>
-    - minecraft:oak_planks
-    - minecraft:spruce_planks
-    - minecraft:birch_planks
-    - minecraft:jungle_planks
-    - minecraft:acacia_planks
+    |oak_planks
+    |spruce_planks
+    |birch_planks
+    |jungle_planks
+    |acacia_planks
     - minecraft:dark_oak_planks
     - minecraft:mangrove_planks
     - minecraft:cherry_planks
