@@ -52,10 +52,18 @@ Für eine Brücke können die unten angehangenen Blockarten verwendet werden:
 <details>
     <summary>Nutzbare Blöcke</summary>    
     
-    | Syntax      | Description |
-    | ----------- | ----------- |
-    | Header      | Title       |
-    | Paragraph   | Text        |
+    Transaktion         | Nutzen                                                                                |
+    ---                 | ---                                                                                   |
+    all                 | Alle deine Transaktionen                                                              |
+    admin_shop	        | Transaktionen mit dem [Adminshop](https://wiki.openmc.net/geld-level/adminshop/)      |
+    chest_shop	        | Transaktionen mit [ChestShops](https://wiki.openmc.net/geld-level/chestshop)          |
+    bank	            | Transaktionen mit deinem Tresor                                                       |
+    jobs	            | Transaktionen mit deinen [Jobs](https://wiki.openmc.net/geld-level/jobs)              |
+    console_pay	        | Transaktionen, die der Server bei dir auf `/balance` vornimmt                         |
+    player_pay	        | Transaktionen, die du mit Spielern über `/pay` vornimmst                              |
+    tresor              | Transaktionen von dir auf den Tresor, oder vom Server auf deinen Tresor (`/tresor`)   |
+    unread	            | Transaktionen, die von dir noch nicht gelesen wurden                                  |
+    current             | Öffnet deine zuletzt genutzte Historie, sofern sie noch vorhanden ist                 |
     
 </details>
 
