@@ -41,6 +41,7 @@ Für ein Gate können alle Zäune sowie Glasscheiben, Mauern und Eisengitter ver
 ||| Geöffnetes Gate ohne Umrandung
 ![](/images/gate_open_2.png)
 |||
+
 ---
 
 ## Bridge-Schilder
