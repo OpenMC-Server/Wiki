@@ -50,6 +50,11 @@ Um eine Bridge zu erstellen, ist es wichtig, dass der unter dem Schild gesetzte 
 
 Für eine Brücke kann eine Vielzahl an Blöcken (auch Stufen) benutzt werden. Solltest du eine sinnvolle Blockart im Sortiment vermissen, kannst du diese gerne über das Forum als Vorschlag einreichen.
 
+||| Geschlossenes Gate
+![](/images/bridge_offen.png)
+||| Geöffnetes Gate
+![](/images/bridge_geschlossen.png)
+
 ---
 
 ## Wireless-Redstone
