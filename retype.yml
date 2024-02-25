@@ -55,12 +55,6 @@ branding:
   logo: /images/Logo_Transparent.png
   logoDark: /images/Logo_Transparent_Weiß.png
   logoAlign: left
-  label: v2.0
-  
-  colors:
-    label:
-      text: "#1f7aff"
-      background: "#e1edff"
 
 # -----------------------------------------------------------------------------
 
