@@ -12,9 +12,9 @@ Auf dieser Seite findest du Erläuterungen zu den Events, die regelmäßig auf O
 
 ## Bauevent
 !!! Aktuelles Bauevent:
-*Thema:* Gestrandet\
-*Dauer:* 1. - 24. Februar\
-*Bewertungsevent:* 24.02., 15 Uhr - 21 Uhr
+*Thema:* Filme/Serien\
+*Dauer:* 1. - 30. März\
+*Bewertungsevent:* 30.03., 15 Uhr - 21 Uhr
 !!!
 
 ### Über das Bauevent
