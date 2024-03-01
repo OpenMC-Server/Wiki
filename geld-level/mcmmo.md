@@ -146,6 +146,7 @@ Seelensand      | 650       | Sand, Roter Sand                                  
 Spinnennetz     | 750       | Ton                                                                                   | 5
 Kuchen          | 750       | Erde, Grobe Erde, Grasblock, Podsol, Myzel, Kies, Ton, Sand, Roter Sand, Seelensand   | 0,05
 Quartz          | 850       | Erde, Grobe Erde, Grasblock, Podsol, Myzel, Kies, Sand, Roter Sand, Seelensand        | 0,5
+
 ---
 
 ## mcMMO Parties
