@@ -139,11 +139,13 @@ Knochen         | 200       | Kies                                              
 Faden           | 250       | Ton                                                                                   | 5
 Apfel           | 250       | Grasblock, Myzel                                                                      | 0,1
 Namensschild    | 250       | Erde, Grobe Erde, Grasblock, Podsol, Myzel, Kies, Ton, Sand, Roter Sand, Seelensand   | 0,05
+Diamant         | 350       | Erde, Grobe Erde, Grasblock, Podsol, Myzel, Kies, Ton, Sand, Roter Sand, Seelensand   | 0,13
 Eimer           | 500       | Ton                                                                                   | 5
 Brauner Pilz    | 500       | Erde, Grobe Erde, Grasblock, Podsol, Myzel                                            | 0,5
+Seelensand      | 650       | Sand, Roter Sand                                                                      | 0,5
 Spinnennetz     | 750       | Ton                                                                                   | 5
 Kuchen          | 750       | Erde, Grobe Erde, Grasblock, Podsol, Myzel, Kies, Ton, Sand, Roter Sand, Seelensand   | 0,05
-
+Quartz          | 850       | Erde, Grobe Erde, Grasblock, Podsol, Myzel, Kies, Sand, Roter Sand, Seelensand        | 0,5
 ---
 
 ## mcMMO Parties
