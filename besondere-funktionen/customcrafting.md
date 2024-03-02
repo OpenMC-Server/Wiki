@@ -12,6 +12,11 @@ icon: cpu
 Mit CustomCrafting hast du die Möglichkeit, an eine Reihe von Items zu gelangen, welche nur auf OpenMC existieren.\
 Um mit dem Craften beginnen zu können, genügt eine einfache Werkbank. Die möglichen Rezepte und benötigten Zutaten findest du auf dieser Seite.
 
+!!!error Ausfall einzelner Items?
+Aufgrund von Unstimmigkeiten in bestimmten Custom-Items kann es zum Aussetzen der speziellen Funktion kommen.
+Zurzeit betroffen: Wiederbelebungstotem-Set
+!!!
+
 ---
 
 ## Shard-System
