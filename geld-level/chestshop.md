@@ -33,7 +33,8 @@ Ab 1000 Blöcken Entfernung zum Spawn dürfen ChestShops unbegrenzt erstellt wer
 4. Zeile: Fragezeichen (?)
 
 <br>
-`B` = Item-Verkaufspreis, `S` = Item-Ankaufspreis\
+`B` = Item-Verkaufspreis, `S` = Item-Ankaufspreis
+
 Du kannst nur einen Verkaufs- oder Ankaufspreis oder beide Preise mit einem `:` in der Mitte angeben.
 
 ---
