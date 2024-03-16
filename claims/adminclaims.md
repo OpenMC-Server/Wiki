@@ -27,3 +27,13 @@ Des Weiteren muss folgendes zutreffen:
 In jedem Fall wird das Team entscheiden, ob ein AdminClaims vergeben wird oder nicht. Selbst wenn alle Kriterien erfüllt sind bedeutet das nicht automatisch, dass wir auch einen AdminClaim vergeben.
 
 Wir behalten uns vor, AdminClaims aufzuheben, sollten wir über einen längeren Zeitraum keinen erkennbaren Fortschritt an dem Projekt sehen.
+
+---
+
+## Biomänderungen auf Großprojekt-Claims
+Auf einem Adminclaim für Großprojekte besteht die Möglichkeit, das Biom über eine Claimflag zu verändern. 
+Die Voraussetzungen für die zusätzliche Beantragung einer Biom-Flag lauten wie folgt:
+- [x] Wir erwarten ein maßgeblich fertiggestelltes Bauwerk auf dem Grundstück
+- [x] Die Biomanpassung muss sich annähernd dem Umfeld anpassen
+
+Hierbei behalten wir uns ebenfalls die Entscheidung vor, ob ein Adminclaim für die Biom-Änderung angemessen ist oder nicht. 
