@@ -128,15 +128,15 @@ Paragraph | Regel | Kategorie
 
 Wir behalten uns vor, bei Bedarf weitere Maßnahmen anzuordnen.
 
-Verjährung: Folgende Verjährungsfristen gelten pro Kategorie:
-A - 6 Monate
-B - 3 Monate
-C - 2 Monate
+**Verjährung:** Folgende Verjährungsfristen gelten pro Kategorie:<br>
+A - 6 Monate<br>
+B - 3 Monate<br>
+C - 2 Monate<br>
 
-Punkte: Je nach Kategorie werden Punktzahlen für das Vergehen vergeben:
-A - 12 Punkte
-B - 6 Punkte
-C - 3 Punkte
+**Punkte:** Je nach Kategorie werden Punktzahlen für das Vergehen vergeben:<br>
+A - 12 Punkte<br>
+B - 6 Punkte<br>
+C - 3 Punkte<br>
 
 Sobald eine Punktzahl von 12 Punkten erreicht/überschritten wurde wird ein permanenter Ban ausgesprochen.
 Eine zweite Chance kann via Discord Ticket beim Team erbeten werden (Der Punkte Counter fällt danach auf 0).
