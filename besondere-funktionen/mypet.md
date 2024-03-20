@@ -146,6 +146,13 @@ Duel        | Dein Pet greift Pets anderer Spieler an, deren Zustand auch auf "d
 
 ---
 
+## Zusätzliche Informationen
+### Rüstung & Waffen anziehen
+Durch das Schleichen + Rechtsklicken mit Waffen & Rüstungen kann manchen Pets Equipment angelegt werden. Waffen, die Verbrennung drauf haben, fügen zusätzlichen Feuerschaden zu.
+
+Das Equipment kann entfernt werden, indem du mit deinem Pet via Schleichen + Rechtsklick mit einer Schere interagierst.
+---
+
 ## Befehle
 `/petinfo`\
 Zeigt Informationen zum aktiven Pet.
