@@ -148,7 +148,7 @@ Duel        | Dein Pet greift Pets anderer Spieler an, deren Zustand auch auf "d
 
 ## Zusätzliche Informationen
 ### Rüstung & Waffen anziehen
-Durch das Schleichen + Rechtsklicken mit Waffen & Rüstungen kann manchen Pets Equipment angelegt werden. Waffen, die Verbrennung drauf haben, fügen zusätzlichen Feuerschaden zu.
+Durch das Schleichen + Rechtsklicken mit Waffen & Rüstungen kann manchen Pets Equipment angelegt werden. Diese sind rein optisch und dienen dazu, deine Pets interessanter aussehen zu lassen.
 
 Das Equipment kann entfernt werden, indem du mit deinem Pet via Schleichen + Rechtsklick mit einer Schere interagierst.
 
