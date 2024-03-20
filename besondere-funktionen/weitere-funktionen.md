@@ -42,6 +42,12 @@ Möchtest du beispielsweise die Nachricht “Hallo” in dunkelblau schreiben, s
 
 ---
 
+## Optimale Erzhöhen
+-[Bild folgt]
+Hier findest du die optimalen Höhen, auf welchen die Erze auf der Welt generiert werden. Mit dem Befehl `/erze` kannst du diese auch Ingame einsehen. Bedenke stets dabei, dass Farmen nur in der Farmwelt erlaubt ist (`/farmwelt`).
+
+---
+
 ## XP-Bottles
 Du kannst deine Erfahrungspunkte jederzeit in allen Welten in Flaschen abfüllen. Da sie zu normalen XP-Flaschen werden, kannst du sie zudem in ChestShops verkaufen.
 
