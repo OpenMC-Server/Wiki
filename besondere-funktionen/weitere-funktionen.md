@@ -43,7 +43,7 @@ Möchtest du beispielsweise die Nachricht “Hallo” in dunkelblau schreiben, s
 ---
 
 ## Optimale Erzhöhen
--[Bild folgt]
+-![](/images/optimale_erzhöhen.png)
 Hier findest du die optimalen Höhen, auf welchen die Erze auf der Welt generiert werden. Mit dem Befehl `/erze` kannst du diese auch Ingame einsehen. Bedenke stets dabei, dass Farmen nur in der Farmwelt erlaubt ist (`/farmwelt`).
 
 ---
