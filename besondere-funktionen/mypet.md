@@ -168,6 +168,9 @@ Schickt dein aktives Pet in einen virtuellen Stall.
 `/petcall`\
 Ruft das aktive Pet zu dir.
 
+`/petsendaway`\
+Schickt das Pet weg. Es kann weiterhin durch /petcall gerufen werden.
+
 `/petpickup`\
 Aktiviert/Deaktiviert das Aufheben von Items durch das Pet.
 
