@@ -32,7 +32,7 @@ Der VIS Rang erweitert den Siedler Rang um viele Funktionen ([siehe Tabelle](#vo
 Das Plus-Upgrade gewährt weitere Rechte, die nicht in den oberen Rängen enthalten sind ([siehe Tabelle](#vorteile)). Diese Rechte sind unabhängig von den Grundrängen. Das bedeutet, dass die Rechte, die durch das Plus-Upgrade vergeben werden, nicht zwischen Spieler, Siedler, VIP und VIS unterscheiden. Das Plus-Upgrade kann ausschließlich mit Ingamegeld ($) erworben werden.
 
 ### :shopping_bags: Shop
-Der Shop-Rang kann als Ausnahme auf einem zweiten Account beantragt werden, welcher als Shop-Account für die Verwaltung von [ChestShops](https://wiki.openmc.net/geld-level/chestshop/) hinzugezogen wird. Einem Shop-Account steht es nicht zu, sich am Spielgeschen aktiv zu beteiligen, weshalb dieser ausschließlich mit den Notwendigen Rechten zur Shopverwaltung versehen ist.
+Der Shop-Rang kann als Ausnahme auf einem zweiten Account beantragt werden, welcher als Shop-Account für die Verwaltung von [ChestShops](https://wiki.openmc.net/geld-level/chestshop/) hinzugezogen wird. Einem Shop-Account steht es nicht zu, sich am Spielgeschen aktiv zu beteiligen, weshalb dieser ausschließlich mit den notwendigen Rechten zur Shopverwaltung versehen ist.
 
 ### :tada: Champion
 Der Champion Rang wird für 30 Tage vergeben, wenn ein Spieler das Bauevent gewinnt. Er enthält alle Rechte des VIP und des Plus-Upgrades sowie vier Votecoins pro Vote.
