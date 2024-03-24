@@ -8,7 +8,7 @@ icon: log
 # Serverregeln
 
 **Mit dem Spielen auf unserem Server und/oder dem Beitritt auf unserem Discord akzeptierst du die Regeln.**\
-[!badge variant="info" text=":large_green_circle: Letzte Aktualisierung: 03.07.2023"]
+[!badge variant="info" text=":large_green_circle: Letzte Aktualisierung: 24.03.2024"]
 
 ---
 
@@ -65,7 +65,7 @@ icon: log
 **5.2** Das Zerstören der Landschaft ohne erkennbaren Zweck ist verboten.\
 **5.3** Unbestreitbar unschöne oder langfristig unfertige Bauten können vom Team entfernt werden. In Spawnnähe gibt es besondere Regelungen (siehe Wiki).\
 **5.4** Für Grundstücke von Spielern, die ohne Abmeldung länger als 30 Tage inaktiv sind, kann eine Entfernung oder Weitergabe beantragt werden. In Spawnnähe gibt es besondere Regelungen (siehe Wiki).\
-**5.5** Das Abfarmen natürlicher Resourcen ist nur in der `/farmwelt` erlaubt.\
+**5.5** Das Abfarmen und Plündern von natürlichen Ressourcen und Strukturen ist nur in der `/farmwelt` erlaubt.\
 **5.6** Das Wegenetz des Servers soll ohne Absprache mit apv1313 nicht verändert werden.\
 **5.7** Chestshops dürfen unbegrenzt ab mindestens 1000 Blöcken vom Spawn erstellt werden. Ab 250 Blöcken Entfernung vom Spawn sind max. 12 Chestshops pro Spielerorganisation erlaubt, unter 250 Blöcken Entfernung sind Chestshops verboten.\
 **5.8** In der Industriewelt sind ausschließlich Farmen, Lager- und Sortiersysteme sowie Bauwerke, welche unmittelbar mit diesen in Verbindung stehen, erlaubt.
