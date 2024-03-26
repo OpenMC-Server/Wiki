@@ -14,7 +14,7 @@ Um mit dem Craften beginnen zu können, genügt eine einfache Werkbank. Die mög
 
 !!!warning Ausfall einzelner Items
 Aufgrund von Unstimmigkeiten in bestimmten Custom-Items kann es zum Aussetzen der speziellen Funktion kommen.\
-Zurzeit betroffen: Wiederbelebungstotem-Set
+Zurzeit betroffen: Wiederbelebungstotem-Set, Mutetag
 !!!
 
 ---
