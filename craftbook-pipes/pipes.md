@@ -90,7 +90,7 @@ Items können folgendermaßen benannt werden:
 - Mit ihrer Minecraft-ID, zum Beispiel "diamond_block". Um die ID eines Items herauszufinden, kannst du das Minecraft-Wiki besuchen, oder die fortgeschrittenen Tooltips verwenden, die mit der Tastenkombination `[F3]+[H]` aktiviert werden können.
 - Manche IDs sind zu lang für eine Zeile. Deswegen haben wir sogenannte Variablen definiert, die wie "Abkürzungen" funktionieren. Zum Beispiel steht `%cr_p_blkst_br%` für `cracked_polished_blackstone_bricks`. Auch noch kürzere Varianten sind vorhanden, z.B. bei diesem Beispiel `%ex%`.
 
-Eine vollständige Liste der Variablen für einzelne Items findest du auf der Seite [Pipe-Variablen](/craftbook-pipes/pipe-variaben.md).
+Eine vollständige Liste der Variablen für einzelne Items findest du auf der Seite [Pipe-Variablen](/craftbook-pipes/pipe-variablen.md).
 
 Soll mehr als ein Item in eine Kiste sortiert werden, ist es möglich, an den zugehörigen Kolben die Variablen mit einem Komma zu trennen. Ist es beispielsweise gewollt Endstein und Endsteinziegel in eine Kiste zu sortieren, muss in der dritten Zeile `121,206` stehen (Achtung, keine Leerzeichen!). Diese beiden Variablen finden sich natürlich in der oben verlinkten Liste. Hierbei kann das Zeichenlimit von 15 Zeichen pro Zeile jedoch schnell ein Problem werden.
 
