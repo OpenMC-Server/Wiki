@@ -625,7 +625,7 @@ Um nach einer spezifischen Sammelvariable zu suchen, kannst du die Suche deines 
 [!badge variant="secondary" text="**%un%**"] **Kupfer**\
 *copper_ore, copper_ingot, raw_copper, copper_block, raw_copper_block, deepslate_copper_ore*
 
-[!badge variant="secondary" text="**%uc%**"] **Gold**\
+[!badge variant="secondary" text="**%uo%**"] **Gold**\
 *gold_ore, nether_gold_ore, gold_nugget, gold_ingot, raw_gold, gold_block, raw_gold_block, deepslate_gold_ore*
 
 [!badge variant="secondary" text="**%up%**"] **Redstone**\
