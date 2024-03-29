@@ -391,7 +391,7 @@ Um nach einer spezifischen Sammelvariable zu suchen, kannst du die Suche deines 
 *grass, tall_grass, fern, large_fern, dead_bush, lily_pad, seagrass, tall_seagrass, nether_sprouts, crimson_roots, warped_roots*
 
 [!badge variant="secondary" text="**%sg%**"] **Gras (Pflanze) + Variationen mit Nether (inkl. 1.17+)**\
-*grass, tall_grass, fern, large_fern, dead_bush, lily_pad, seagrass, tall_seagrass, nether_sprouts, crimson_roots, warped_roots, big_dripleaf, small_dripleaf, glow_lichen, hanging_roots*
+*short_grass, tall_grass, fern, large_fern, dead_bush, lily_pad, seagrass, nether_sprouts, crimson_roots, warped_roots, big_dripleaf, small_dripleaf, glow_lichen, hanging_roots*
 
 [!badge variant="secondary" text="**%wv%**"] **Alle Azaleen-Items**\
 *azalea, flowering_azalea, azalea_leaves, flowering_azalea_leaves*
