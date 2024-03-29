@@ -155,7 +155,7 @@ Um nach einer spezifischen Sammelvariable zu suchen, kannst du die Suche deines 
 *oak_leaves, dark_oak_leaves, spruce_leaves, birch_leaves, jungle_leaves, acacia_leaves, mangrove_leaves, cherry_leaves*
 
 [!badge variant="secondary" text="**%rr%**"] **Alle Blätter (inkl. 1.17+)**\
-*oak_leaves, dark_oak_leaves, spruce_leaves, birch_leaves, jungle_leaves, acacia_leaves, azalea_leaves, flowering_azalea_leaves*
+*oak_leaves, dark_oak_leaves, spruce_leaves, birch_leaves, jungle_leaves, acacia_leaves, azalea_leaves, flowering_azalea_leaves, cherry_leaves*
 
 [!badge variant="secondary" text="**%ts%**"] **Alle Holzstufen**\
 *oak_slab, spruce_slab, birch_slab, jungle_slab, acacia_slab, dark_oak_slab, crimson_slab, warped_slab, mangrove_slab, cherry_slab, bamboo_slab, bamboo_mosaic_slab*
@@ -303,7 +303,7 @@ Um nach einer spezifischen Sammelvariable zu suchen, kannst du die Suche deines 
 *stone_bricks, stone_brick_slab, stone_brick_stairs, stone_brick_wall, mossy_stone_bricks, mossy_stone_brick_slab, mossy_stone_brick_stairs, mossy_stone_brick_wall, cracked_stone_bricks, chiseled_stone_bricks*
 
 [!badge variant="secondary" text="**%aac%**"] **Alle polierten Schwarzsteinerzeugnisse**\
-*polished_blackstone_wall, polished_blackstone_brick_wall, polished_blackstone_button, polished_blackstone_pressure_plate, polished_blackstone, polished_blackstone_slab, polished_blackstone_stairs, chiseled_polished_blackstone, polished_blackstone_bricks, polished_blackstone_brick_slabs, polished_blackstone_brick_stairs, cracked_polished_blackstone_bricks*
+*polished_blackstone_wall, polished_blackstone_brick_wall, polished_blackstone_button, polished_blackstone_pressure_plate, polished_blackstone, polished_blackstone_slab, polished_blackstone_stairs, chiseled_polished_blackstone, polished_blackstone_bricks, polished_blackstone_brick_slab, polished_blackstone_brick_stairs, cracked_polished_blackstone_bricks*
 
 ### Tiefenschiefer
 [!badge variant="secondary" text="**%sk%**"] **Alle Tiefenschiefererzeugnisse**\
