@@ -35,11 +35,6 @@ Im folgenden findest du alle aktiven Teammitglieder und ihre Aufgabenbereiche.
 - Farmgenehmigungen
 - mcMMO
 |||
-||| Obisasam
--![](/images/obisasam.png)
-- Interne Organisation
-- Spielerfeedback
-|||
 ||| LashtagLP
 -![](/images/lashtaglp.png)
 - Interne Organisation
@@ -57,11 +52,6 @@ Im folgenden findest du alle aktiven Teammitglieder und ihre Aufgabenbereiche.
 -![](/images/groesste_minerin.png)
 - Event-Organisation
 - Claimverwaltung
-- Spielersupport
-|||
-||| Eulenelfe
--![](/images/eulenelfe.png)
-- Event-Organisation
 - Spielersupport
 |||
 ||| Jacero
