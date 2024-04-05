@@ -36,10 +36,12 @@ Suche dir einen freien Platz in der Bauwelt und baue etwas zum Thema. Sei kreati
 
 Wir möchten allen Spielern die gleiche Chance geben, das Bauevent zu gewinnen. Spieler ohne Rang, welche Zugriff auf das Editieren von ArmorStands für die Zeit des Bauevents benötigen, können sich per Support-Ticket an das Team wenden. Selbiges gilt für die Flugzeit, wobei hier eine genaue Begründung gegeben sein sollte.
 
+Wird eine NoEnter-Claimflag für den Bauzeitraum gewünscht, kann diese bei der Anmeldung im Ticket angefragt werden.
+
 ### Ablauf
 1. Das Thema des Bauevents wird am 1. des Monats bekanntgegeben.
 2. Spieler haben bis zum letzten Samstag des Monats Zeit zum Bauen. Eine Anmeldung muss zunächst nicht erfolgen. Beim Bau sollten die Bewertungsaspekte beachtet werden.
-3. In der Woche ab dem Montag vor dem Bewertungsevent erfolgt die verbindliche Anmeldung des Bauwerks über ein Discord-Ticket. Dabei akzeptiert der Teilnehmer auch die Teilnahmebedingungen. Es ist möglich, Claimflags während der Bauevent-Auswertung aktivieren zu lassen (bei der Anmeldung angeben).
+3. Bis zum Freitag vor dem Bewertungsevent erfolgt die verbindliche Anmeldung des Bauwerks über ein Discord-Ticket. Dabei akzeptiert der Teilnehmer auch die Teilnahmebedingungen. Es ist möglich, Claimflags während der Bauevent-Auswertung aktivieren zu lassen (bei der Anmeldung angeben).
 4. Mit dem Bewertungsevent am letzten Samstag des Monats wird der Champion (Sieger) des Events bestimmt. Hierbei wird jedes Exponat mit einer anonymen ID versehen und zum Erkunden/Begutachten freigegeben. Die Spieler stimmen für jedes Bauwerk ab, dabei kann jeweils für die oben genannten Kriterien eine Punktzahl von 1-8 vergeben werden. Daraus ergibt sich schlussendlich eine Gesamtpunktzahl.
 5. Das Gewinnerteam erhält den Rang "Champion", mit dem dieser im TAB und Chat entsprechend gekennzeichnet wird. Weitere Preise für Platz 1 - 5 sind unten (Preise) angeführt. Außerdem gibt es eine Teilnahmebelohnung. Das Gewinnerteam nennt dem Team innerhalb eines Tages einen Themenvorschlag für das nächste Bauevent. Vor Beginn des nächsten Bauevents stimmen die Spieler über das neue Thema ab.
 
