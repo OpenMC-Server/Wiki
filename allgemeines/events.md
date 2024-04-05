@@ -95,7 +95,7 @@ Teilnehmer...
 - [x] ...dürfen sich nur an einem Bauwerk beteiligen.
 
 ### Bauwerk anmelden
-In der Woche ab dem Montag vor dem Bewertungsevent kannst du dein Bauwerk auf Discord im #bauevent Channel anmelden.
+Du kannst dein Bauwerk auf Discord im #bauevent Channel anmelden. Die Frist ist standardmäßig am Freitag vor dem Bewertungsevent.
 
 [!button icon=":white_check_mark:" target="blank" text="Bauevent im Discord anmelden"](https://discord.com/invite/ecqPF34)
 
