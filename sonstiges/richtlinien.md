@@ -100,7 +100,7 @@ Paragraph | Regel | Kategorie
  | | 
 2.1 | Die Verwendung von Clientmods, die dem Verwender einen unfairen Vorteil verschaffen, ist verboten (X-Ray, Freecam, Killaura, …). | A/B/C
 2.2 | Die Verwendung von Autoclickern (Software oder Hardware) sowie von jeglichen Skripten und Einstellungen mit vergleichbaren Resultaten ist untersagt. Ausgenommen davon ist die Verwendung bei Chatnachrichten und -befehlen. | C
-2.3 | Bei der Verwendung von Litematica sind ausschließlich Hologramme zum Nachbau von Kreationen gestattet – alle weiteren Funktionen sind untersagt (z.B. EasyPlacemode). Beim Bauevent ist Litematica ebengleich nutzbar, dabei jedoch ausschließlich zum Nachbau eigener Kreationen – keineswegs jene Anderer. | A/C
+2.3 | Bei der Verwendung von Litematica sind ausschließlich Hologramme zum Nachbau von Kreationen gestattet – alle weiteren Funktionen sind untersagt (z.B. EasyPlacemode). Beim Bauevent ist Litematica ebengleich nutzbar, dabei jedoch ausschließlich zum Nachbau eigener Kreationen – keineswegs jene Anderer. | A/B/C
 2.4 | Bei Unsicherheiten freut sich das Team über Nachfragen. (Badlion, Optifine, MiniMaps und Inventory Sorter sind ausdrücklich erlaubt.) | 
  | | 
 3.1 | PvP ist grundsätzlich deaktiviert. Wird PvP explizit aktiviert (/pvp on), so erfolgt dies auf eigene Gefahr. Durch einen Kampf verlorene Items oder Level müssen nicht zurückerstattet werden. |
@@ -111,7 +111,7 @@ Paragraph | Regel | Kategorie
 4.3 | Die Benutzung von halb- und vollautomatischen Farmen ist ausschließlich in der Industriewelt erlaubt. | C
 4.4 | Größere Lager- und Sortiersysteme sollten bevorzugt in der Industriewelt errichtet werden. Es sind Pipes zu verwenden (siehe Wiki), wann immer möglich. Sollte die TPS durch ein solches System stärker beeinflusst werden, kann der Betrieb in der Bauwelt verboten werden, dies wird im Einzelfall entschieden. | B/C
 4.5 | Größere halb- und vollautomatische Farmen sowie größere Lager- und Sortiersysteme müssen grundsätzlich vor Baubeginn angemeldet und abgenommen werden (/farmanmeldung am Ort der Farm). | 
-4.6 | Vorrichtungen zum Farmen von Witherskelettköpfen (z.B. Plattformen) sind in der Farmwelt verboten. | C
+4.6 | Vorrichtungen zum Farmen von Witherskelettköpfen (z.B. Plattformen) sind in der Farmwelt verboten. | B/C
 4.7 | Das Umgehen des AFK-Kicks (z.B. durch AFK-Pools, Skripts, etc.) ist nicht erlaubt. | B/C
 4.8 | Passives Laden von Chunks durch technische Vorrichtungen oder Dummy-Accounts ist nicht gestattet. | C
 4.9 | Redstoneshops (stattdessen Chestshops verwenden) und fehlerhafte Glücksspielsysteme sind verboten. | 
