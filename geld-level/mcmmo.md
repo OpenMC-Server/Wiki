@@ -67,6 +67,12 @@ Setzt die Einstellungen zu den mcMMO-Erfahrungsleisten zurück.
 `/inspect <spielername>`\
 Wenn sich der Spieler in der Nähe befindet, kannst du mit diesem Befehl seine mcMMO-Level einsehen.
 
+`/mcmmo-cooldowns`\
+Deaktiviert/Aktiviert jeweils den Cooldown von Spezialfähigkeiten, der in deiner Actionbar angezeigt wird.
+
+`/mcmmo-drops`\
+Deaktiviert Bonus-Drops, die du aus den Fähigkeiten nebenbei erhältst.
+
 ---
 
 ## Liste der Skills
