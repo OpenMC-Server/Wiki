@@ -1366,6 +1366,12 @@ Um nach einer spezifischen Variable zu suchen, kannst du die Suche deines Browse
 | Braune Kerze 										| brown_candle 								| %candle_bro% 			| %ow% 			|
 
 ### Köpfe
+!!!warning Wichtiger Hinweis:
+Als Spielerköpfe (Id: `player_head`) werden von Craftbook tatsächlich nur reine Spielerköpfe von Spielern aus dem `/phead` von der Pipe angenommen.
+Für Spielerköpfe/Dekoköpfe, die aus `/heads` erworben wurden, muss zwangsläufig ein Sorter für die einzelnen Köpfe erstellt werden, da Pipes vom Standard her keine
+modifizierten Items kennen.
+!!!
+
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
 | ---                                               | ---                                       | ---                   | ---           |
