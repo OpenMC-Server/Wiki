@@ -498,7 +498,6 @@ Um nach einer spezifischen Sammelvariable zu suchen, kannst du die Suche deines 
 [!badge variant="secondary" text="**%wp%**"] **Alle Kopfvarianten**\
 !!!warning
 Zu gesonderten Infos run um `player_head` kannst du [hier](https://wiki.openmc.net/craftbook-pipes/pipe-variablen/#k%C3%B6pfe) vorbeischauen.
-*player_head, zombie_head, skeleton_skull, creeper_head, wither_skeleton_skull, dragon_head*
 !!!
 *player_head, zombie_head, skeleton_skull, creeper_head, wither_skeleton_skull, dragon_head*
 
