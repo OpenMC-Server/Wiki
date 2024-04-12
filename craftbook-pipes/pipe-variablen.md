@@ -1368,7 +1368,7 @@ Um nach einer spezifischen Variable zu suchen, kannst du die Suche deines Browse
 ### Köpfe
 !!!warning Wichtiger Hinweis:
 Als Spielerköpfe (Id: `player_head`) werden von Craftbook tatsächlich nur reine Spielerköpfe von Spielern aus dem `/phead` von der Pipe angenommen.
-Für Spielerköpfe/Dekoköpfe, die aus `/heads` erworben wurden, muss zwangsläufig ein [Sorter](https://wiki.openmc.net/craftbook-pipes/pipes/#sortierende-verzweigungen-mit-mc1229) für die einzelnen Köpfe erstellt werden, da Pipes vom Standard her keine
+Für Spielerköpfe/Dekoköpfe, die aus `/heads` erworben wurden oder die gedroppt werden, muss zwangsläufig ein [Sorter](https://wiki.openmc.net/craftbook-pipes/pipes/#sortierende-verzweigungen-mit-mc1229) für die einzelnen Köpfe erstellt werden, da Pipes vom Standard her keine
 modifizierten Items kennen.
 !!!
 
