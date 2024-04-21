@@ -226,6 +226,8 @@ Eules Feder                     | 1,00
 
 !!!warning Wichtiger Hinweis:
 Die Belohnung wird nur in der Bauwelt registriert. Für das Beanspruchen deines Profiles muss ein externer Server besucht werden, um deinen Account zu verifizieren. Alle Infos dazu findest du auf der Seite von NameMC.
+
+Aktuell ist die Belohnung über NameMC außer Betrieb. Eine Behebung ist in Arbeit.
 !!!
 
 Um an der Unterstützung teilzunehmen, sind folgende Schritte notwendig:
