@@ -30,6 +30,11 @@ Außerdem ist eine Kompatibilität zwischen `/sign` und Pipe-Schildern gegeben. 
 
 ---
 
+## Mülleimer-Schilder
+Indem auf einem Schild auf der zweiten Zeile `[Disposal]` geschrieben wird, kannst du ein Schild erstellen das für dich und andere Spieler den `/trash` Befehl ausführt. Dieser ermöglicht es, eine virtuelle Mülltonne zu öffnen, in welche du ungewollte Items löschen kannst. 
+
+Nach dem Schließen des Mülleimers kannst du die Items nicht mehr zurückholen.
+
 ## Colorcodes
 [!badge variant="dark" icon="ruby" text="VIP/VIS Feature"](/allgemeines/ränge.md)
 
