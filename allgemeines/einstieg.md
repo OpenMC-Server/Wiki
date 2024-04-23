@@ -40,7 +40,7 @@ Hast du Interesse am Betrieb von Farmen, riesigen Lagern o.ä., ist die **Indust
 ### Grundstück erstellen
 Detaillierte Infos findest du hier: [Grundstück erstellen](/claims/claiming.md)
 
-Um ein Grundstück zu erstellen, solltest du zunächst einen geeignet Bauplatz finden. Dies kannst du mithilfe von `/fly` und der `/map` oder du nutzt `/wild` für einen zuälligen Teleport. Solltest du direkt die 1.18 generierte Welt erobern wollen, kannst du durch
+Um ein Grundstück zu erstellen, solltest du zunächst einen geeignet Bauplatz finden. Dies kannst du mithilfe von `/fly` und der `/map` oder du nutzt `/wild` für einen zufälligen Teleport. Solltest du direkt die 1.18 generierte Welt erobern wollen, kannst du durch
  `/warp neuland` ganz einfach direkt dorthin gelangen.
 Am perfekten Bauplatz angekommen, solltest du diesen mit einer **Goldschaufel** markieren. Dies sichert dein Eigentum vor Fremdeinwirkungen.
 
