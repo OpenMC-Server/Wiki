@@ -50,7 +50,7 @@ icon: log
 ## §4 Redstone und Farmen
 **4.1** Wir bitten alle Spieler, unsere Serverhardware nicht mehr als nötig oder vertretbar zu belasten.\
 **4.2** Das Erbauen und Verwenden von Mechaniken, welche durch automatisierten Einfluss Geld mithilfe des Job-Systems generieren, ist nicht erlaubt. Bei Unsicherheiten steht euch das Team gerne für Fragen zur Verfügung.\
-**4.3** Die Benutzung von halb- und vollautomatischen Farmen ist ausschließlich in der Industriewelt erlaubt. Details findest du in den [Richtlinien](https://wiki.openmc.net/sonstiges/richtlinien/#farmen)\
+**4.3** Die Benutzung von halb- und vollautomatischen Farmen ist ausschließlich in der Industriewelt erlaubt. Details findest du in den [Richtlinien](https://wiki.openmc.net/sonstiges/richtlinien/#farmen).\
 **4.4** Größere Lager- und Sortiersysteme sollten bevorzugt in der Industriewelt errichtet werden. Es sind Pipes zu verwenden (siehe Wiki), wann immer möglich. Sollte die TPS durch ein solches System stärker beeinflusst werden, kann der Betrieb in der Bauwelt verboten werden, dies wird im Einzelfall entschieden.\
 **4.5** Größere halb- und vollautomatische Farmen sowie größere Lager- und Sortiersysteme müssen grundsätzlich vor Baubeginn angemeldet und abgenommen werden (`/farmanmeldung` am Ort der Farm).\
 **4.6** Vorrichtungen zum Farmen von Witherskelettköpfen (z.B. Plattformen) sind in der Farmwelt verboten.\
