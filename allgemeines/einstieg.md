@@ -31,7 +31,7 @@ Im Folgenden kannst du dir grundlegende Informationen durchlesen, um gut auf Ope
 ### Drei-Welten-Modell
 Wie bereits angekündigt, besteht OpenMC aus drei großen Welten. Jeder einzelnen steht dabei ein eigener Server zur Verfügung, wodurch die bestmögliche Performance erreicht wird.
 
-In der **Bauwelt** sowie der Nether-Bauwelt kann jeder Spieler sein Grundstück sowie andere Bauwerke an einer beliebigen freien Stelle errichten. Hierbei solltest du dein Erbautes durch ein Claim schützen. Solltest du direkt die 1.18 generierte Welt erobern wollen, kannst du durch `/warp neuland` ganz einfach direkt dorthin gelangen.
+In der **Bauwelt** sowie der Nether-Bauwelt kann jeder Spieler sein Grundstück sowie andere Bauwerke an einer beliebigen freien Stelle errichten. Hierbei solltest du dein Erbautes durch ein Claim schützen. 
 
 Die **Farmwelt** ist der Ort, an dem du unbegrenzt Ressourcen farmen kannst. Alle drei Monate wird diese Welt vollständig erneuert. Zudem helfen dir `/wild` sowie vorgegebene Warp-Schilder dabei, einen vom Farmwelt-Spawn weit entfernten zufälligen Ort zu erreichen.
 
@@ -40,7 +40,9 @@ Hast du Interesse am Betrieb von Farmen, riesigen Lagern o.ä., ist die **Indust
 ### Grundstück erstellen
 Detaillierte Infos findest du hier: [Grundstück erstellen](/claims/claiming.md)
 
-Sobald du ggf. mithilfe von `/fly` und der `/map` einen für dich geeigneten Bauplatz gefunden hast, solltest du mithilfe einer **Goldschaufel** ein Claim erstellen. Dies sichert dein Eigentum vor Fremdeinwirkungen.
+Um ein Grundstück zu erstellen, solltest du zunächst einen geeignet Bauplatz finden. Dies kannst du mithilfe von `/fly` und der `/map` oder du nutzt `/wild` für einen zuälligen Teleport. Solltest du direkt die 1.18 generierte Welt erobern wollen, kannst du durch
+ `/warp neuland` ganz einfach direkt dorthin gelangen.
+Am perfekten Bauplatz angekommen, solltest du diesen mit einer **Goldschaufel** markieren. Dies sichert dein Eigentum vor Fremdeinwirkungen.
 
 Um jederzeit zu deinen Claims gelangen zu können, erstelle dir via `/sethome <homename>` ein **Home**. Durch `/home <homename>` teleportierst du dich nun einfach zum jeweiligen Home.
 
