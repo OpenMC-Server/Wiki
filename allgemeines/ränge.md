@@ -37,8 +37,8 @@ Der Shop-Rang kann als Ausnahme auf einem zweiten Account beantragt werden, welc
 ### :tada: Champion
 Der Champion Rang wird für 30 Tage vergeben, wenn ein Spieler das Bauevent gewinnt. Er enthält alle Rechte des VIP und des Plus-Upgrades sowie vier Votecoins pro Vote.
 
-### :busts_in_silhouette: Mod / Admin / Owner
-Dies sind die Ränge des Teams und beschreiben die Rollen des Moderators, Admins und Owners.
+### :busts_in_silhouette: Mod / Event / Admin / Owner
+Dies sind die Ränge des Teams und beschreiben die Rollen des Moderators, Eventler, Admins und Owners.
 
 ---
 
