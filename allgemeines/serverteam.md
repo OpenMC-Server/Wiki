@@ -15,30 +15,25 @@ Im folgenden findest du alle aktiven Teammitglieder und ihre Aufgabenbereiche.
 ## Owner
 ||| kev2k2
 -![](/images/kev2k2.png)
-- Serverleitung
-- Backend
-- Wiki
-- Online-Dienste
+Aufgaben in Bearbeitung.
 |||
 ||| flowflower
 -![](/images/flowflower.png)
-- Serverleitung
-- Wiki
-- Finanzen
+Aufgaben in Bearbeitung.
 |||
 
 ## Admins
 ||| LPBoy_HD
 -![](/images/lpboy_hd.png)
-- Interne Organisation
-- Event-Organisation
-- Farmgenehmigungen
-- mcMMO
+Aufgaben in Bearbeitung.
 |||
 ||| LashtagLP
 -![](/images/lashtaglp.png)
-- Interne Organisation
-- Event-Organisation
+Aufgaben in Bearbeitung.
+|||
+||| Filomez
+-![](/images/filomez.png)
+Aufgaben in Bearbeitung.
 |||
 
 ## Moderatoren
@@ -48,24 +43,18 @@ Im folgenden findest du alle aktiven Teammitglieder und ihre Aufgabenbereiche.
 - Spielersupport
 - Wiki
 |||
-||| Groesste_Minerin
--![](/images/groesste_minerin.png)
-- Event-Organisation
-- Claimverwaltung
-- Spielersupport
-|||
-||| Jacero
--![](/images/jacero.png)
-- Event-Organisation
-- Spielersupport
-|||
-||| Filomez
--![](/images/filomez.png)
-- Spielersupport
-- Spielerfeedback
-|||
 ||| Blechgecco
 -![](/images/blechgecco.png)
 - Spielersupport
 - Farmgenehmigungen
+|||
+
+## Eventler
+||| Groesste_Minerin
+-![](/images/groesste_minerin.png)
+Aufgaben in Bearbeitung.
+|||
+||| Jacero
+-![](/images/jacero.png)
+Aufgaben in Bearbeitung.
 |||
