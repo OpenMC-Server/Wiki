@@ -5,7 +5,7 @@ order: 1000
 icon: home
 ---
 
-![](/images/hero.png)
+![](/images/hero_neu.png)
 
 # Home
 
