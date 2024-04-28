@@ -39,14 +39,11 @@ Aufgaben in Bearbeitung.
 ## Moderatoren
 ||| Cupcake7506
 -![](/images/cupcake7506.png)
-- Event-Organisation
-- Spielersupport
-- Wiki
+Aufgaben in Bearbeitung.
 |||
 ||| Blechgecco
 -![](/images/blechgecco.png)
-- Spielersupport
-- Farmgenehmigungen
+Aufgaben in Bearbeitung.
 |||
 
 ## Eventler
