@@ -12,9 +12,9 @@ Auf dieser Seite findest du Erläuterungen zu den Events, die regelmäßig auf O
 
 ## Bauevent
 !!! Aktuelles Bauevent:
-*Thema:* Videospiel\
-*Dauer:* 1. - 27. April\
-*Bewertungsevent:* 27.04., 15 Uhr - 21 Uhr
+*Thema:* Archäologie\
+*Dauer:* 1. - 25. Mai\
+*Bewertungsevent:* 25.05., 15 Uhr - 21 Uhr
 !!!
 
 ### Über das Bauevent
