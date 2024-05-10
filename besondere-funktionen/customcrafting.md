@@ -146,7 +146,7 @@ Material für Items mit Wassereigenschaften.
 Material für Items mit Windeigenschaften.
 - 2 Shard II
 - 1 Netherstern
-- 2 Verweiltrank des sanften Falls
+- 2 Verweiltrank des sanften Falls (1:00)
 - 1 Phiole
 
 *Formloses Rezept. Die Zutaten dürfen in einer beliebigen Form angeordnet werden.*
