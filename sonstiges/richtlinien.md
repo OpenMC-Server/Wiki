@@ -178,3 +178,14 @@ Warps der Shop Kategorie werden bei einer Inaktivität des Besitzers von 30+ Tag
 Eine Beantragung von Playerwarp-Namen ist nach sechs monatiger Inaktivität des Besitzers möglich. Im Regelfall wird zur Erhaltung des Teleportpunktes der bestehende Warp umbenannt.
 
 Das “Klauen" von Playerwarp Namen durch sich sehr stark ähnelnde Bezeichnungen ist zum Schutz der jeweiligen Warps nicht erlaubt.
+
+### Verhalten gegenüber anderen PlayerWarps
+In Ergänzung zur [Regel 0.2](https://wiki.openmc.net/allgemeines/serverregeln/#0-grunds%C3%A4tze) fällt ebenfalls das angemessene Verhalten gegenüber anderen PlayerWarps. Es ist folglich nicht gestattet, einen PlayerWarp gegenüber einem anderen beabsichtigt negativ zu vergleichen oder schlecht zu reden. Wir bitten euch stets im Interesse eines gemeinsamen Miteinanders zu spielen und das auch im Betrieb der PlayerWarps zu realisieren!
+
+### Inaktive Shop-PlayerWarps
+Shops, die über eine längere Zeit nicht mehr verwaltet werden, können vom Team bei Gelegenheit in die Kategorie "inaktiv" gesetzt werden, um die GUI für verbleibende Shops organisiert zu halten und einen besseren Überblick zu verschaffen. Folgende Kriterien sind grob aussagekräftig für das versetzen in die inaktive Kategorie:
+- Der Besitzer/Die Besitzer eines Shops sind ~60 Tage bereits selbst inaktiv
+- Die Shops sind maßgeblich leer und bieten kaum Inhalt zum Erwerben. Der Ankauf ist von dieser Überprüfung unabhängig und wird nicht zu Rate gezogen. Shops mit Ver- & Ankauf sind also nicht zwingend aktive Shops und wir richten uns eher an dem reinen Inhalt der Kisten.
+
+Bedenkt stets, dass diese Kriterien auch nur Richtlinien sind und nicht auf Tag/Woche/Monat genau ausgeübt werden.
+

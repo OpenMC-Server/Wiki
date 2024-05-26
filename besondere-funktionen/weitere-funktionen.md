@@ -109,6 +109,8 @@ Nutze `/advancements`, um das Menü für die Freischaltung zu öffnen. Dort kann
 ## Mighty X Schwert mit Rückstoß X
 Mighty X Schwerter ohne Rückstoß X können mit einem Rückstoß X Stock aus der Collector Chest zu einem Mighty X Schwert mit Rückstoß X kombiniert werden. Melde dich hierfür gerne bei einem Admin.
 
+Rückwirkend kann ebenfalls Rückstoß X auf Wunsch von einem Xer Schwert entzogen werden. Der Rückstoß X Stock wird in diesem Fall allerdings nicht erstattet und verfällt mit der Trennung auf dem Schwert.
+
 ---
 
 ## Keep-Inventory Flag für PvP Arenen

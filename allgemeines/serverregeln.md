@@ -52,11 +52,11 @@ icon: log
 **4.2** Das Erbauen und Verwenden von Mechaniken, welche durch automatisierten Einfluss Geld mithilfe des Job-Systems generieren, ist nicht erlaubt. Bei Unsicherheiten steht euch das Team gerne für Fragen zur Verfügung.\
 **4.3** Die Benutzung von halb- und vollautomatischen Farmen ist ausschließlich in der Industriewelt erlaubt. Details findest du in den [Richtlinien](https://wiki.openmc.net/sonstiges/richtlinien/#farmen).\
 **4.4** Größere Lager- und Sortiersysteme sollten bevorzugt in der Industriewelt errichtet werden. Es sind Pipes zu verwenden (siehe Wiki), wann immer möglich. Sollte die TPS durch ein solches System stärker beeinflusst werden, kann der Betrieb in der Bauwelt verboten werden, dies wird im Einzelfall entschieden.\
-**4.5** Größere halb- und vollautomatische Farmen sowie größere Lager- und Sortiersysteme müssen grundsätzlich vor Baubeginn angemeldet und abgenommen werden (`/farmanmeldung` am Ort der Farm).\
+**4.5** Größere halb- und vollautomatische Farmen sowie größere Lager- und Sortiersysteme müssen grundsätzlich vor Baubeginn [angemeldet und abgenommen](https://wiki.openmc.net/sonstiges/farmanmeldungen/) werden (`/farmanmeldung` am Ort der Farm).\
 **4.6** Vorrichtungen zum Farmen von Witherskelettköpfen (z.B. Plattformen) sind in der Farmwelt verboten.\
 **4.7** Das Umgehen des AFK-Kicks (z.B. durch AFK-Pools, Skripts, etc.) ist nicht erlaubt.\
 **4.8** Passives Laden von Chunks durch technische Vorrichtungen oder Dummy-Accounts ist nicht gestattet.\
-**4.9** Redstoneshops (stattdessen Chestshops verwenden) und fehlerhafte Glücksspielsysteme sind verboten.
+**4.9** Redstoneshops (stattdessen [Chestshops](https://wiki.openmc.net/geld-level/chestshop/) verwenden) und fehlerhafte Glücksspielsysteme sind verboten.
 
 ---
 
@@ -67,5 +67,5 @@ icon: log
 **5.4** Für Grundstücke von Spielern, die ohne Abmeldung länger als 30 Tage inaktiv sind, kann eine Entfernung oder Weitergabe beantragt werden. In Spawnnähe gibt es besondere Regelungen, diese findest unter unseren Richtlinien zur [Claimvergabe](https://wiki.openmc.net/sonstiges/richtlinien/#claimvergaben).\
 **5.5** Das Abfarmen und Plündern von natürlichen Ressourcen und Strukturen ist nur in der `/farmwelt` erlaubt.\
 **5.6** Das Wegenetz des Servers soll ohne Absprache mit apv1313 nicht verändert werden.\
-**5.7** Chestshops dürfen unbegrenzt ab mindestens 1000 Blöcken vom Spawn erstellt werden. Ab 250 Blöcken Entfernung vom Spawn sind max. 12 Chestshops pro Spielerorganisation erlaubt, unter 250 Blöcken Entfernung sind Chestshops verboten.\
+**5.7** [Chestshops](https://wiki.openmc.net/geld-level/chestshop/) dürfen unbegrenzt ab mindestens 1000 Blöcken vom Spawn erstellt werden. Ab 250 Blöcken Entfernung vom Spawn sind max. 12 Chestshops pro Spielerorganisation erlaubt, unter 250 Blöcken Entfernung sind Chestshops verboten.\
 **5.8** In der Industriewelt sind ausschließlich Farmen, Lager- und Sortiersysteme sowie Bauwerke, welche unmittelbar mit diesen in Verbindung stehen, erlaubt.
