@@ -72,10 +72,12 @@ Wird eine NoEnter-Claimflag für den Bauzeitraum gewünscht, kann diese bei der 
 - 10 VoteCoins - für jedes Teammitglied
 
 #### Teilnahmebelohnung:
-Alle Teilnehmer, welche mit Ernsthaftigkeit und Kreativität am Event teilnehmen, erhalten unabhängig von der Platzierung eine Teilnahmebelohnung:
+Alle Teilnehmer, welche mit Ernsthaftigkeit, Kreativität und angemessenem Aufwand (unter Berücksichtigung der Eventdauer von einem Monat) am Event teilnehmen, erhalten unabhängig von der Platzierung eine Teilnahmebelohnung:
 - 25k $
 - 10 VoteCoins
 - Sammelitem
+
+Eine Zwischeneinschätzung, ob der bisher erbaute Beitrag allen oben genannten Punkten entspricht, kann jederzeit per Ticket angefragt werden.
 
 ### Teilnahmebedingungen
 Ein Team darf aus maximal drei Teilnehmern bestehen. Dabei ist die [Aufteilung der Preise](#preise) zu beachten.
@@ -90,7 +92,7 @@ Eingereichte Bauwerke…
 - [x] ...müssen die Performance berücksichtigen.
 
 Teilnehmer...
-- [x] ...dürfen Baututorials sowie Bauwerke aus dem Internet höchstens zur Inspiration verwenden und keineswegs exakt nachbauen. Sofern dies geschieht, muss die Quelle der Inspiration während der Anmeldung angegeben werden.
+- [x] ... dürfen Inspiration aus dem Internet und schon bestehende (eigene) Bauwerke auf dem Server keineswegs exakt nachbauen, wenn diese für das Hauptaugenmerk des Events von Bedeutung sind (strukturelle Änderungen in Abhängigkeit der Gesamtkomposition nötig). Sofern dies geschieht, muss die Quelle der Inspiration während der Anmeldung angegeben werden.
 - [x] ...dürfen Schematics/Litematica nur verwenden, wenn sämtliche Blöcke von Hand platziert werden.
 - [x] ...dürfen sich nur an einem Bauwerk beteiligen.
 
