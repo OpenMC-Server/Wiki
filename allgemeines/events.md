@@ -12,9 +12,9 @@ Auf dieser Seite findest du Erläuterungen zu den Events, die regelmäßig auf O
 
 ## Bauevent
 !!! Aktuelles Bauevent:
-*Thema:* Archäologie\
-*Dauer:* 1. - 25. Mai\
-*Bewertungsevent:* 25.05., 15 Uhr - 21 Uhr
+*Thema:* Steampunk\
+*Dauer:* 1. - 29. Juni\
+*Bewertungsevent:* 29.06., 15 Uhr - 21 Uhr
 !!!
 
 ### Über das Bauevent
