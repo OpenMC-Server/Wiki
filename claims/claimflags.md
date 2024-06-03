@@ -63,6 +63,7 @@ ProtectNamedMobs        | Benannte Mobs dürfen nur mit ContainerTrust geschlage
 ReadLecterns            | Das Lesen signierter Bücher in Lesepulten erlauben. | 20k $
 NoEnter [Industriewelt] | Das Betreten des Claims durch fremde Spieler deaktivieren. | 0 $
 CommandBlacklist        | Die Verwendung bestimmter Befehle deaktivieren. | Beim Team beantragbar
+ViewContainer           | Kisten können geöffnet werden, aber es ist nicht möglich Items zu entnehmen. | Beim Team beantragbar
 KeepInventory           | Items werden nach dem Tod im Inventar beibehalten | Beim Team beantragbar für **Arenen**
 RespawnLocation         | Setze den Respawn-Punkt nach dem Tod auf dem Grundstück | Beim Team beantragbar für **Arenen**
 
