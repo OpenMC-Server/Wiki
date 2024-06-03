@@ -57,3 +57,6 @@ Sortiert den PlayerWarp in eine der vier Kategorien ein.
 
 `/pw-visits`\
 Schaltet Besucher-Benachrichtigungen, wenn sich jemand zu deinem Playerwarp teleportiert, an oder aus.
+
+`/pw icon set <warpname>`\
+Setzt den in der Hand gehaltenen Block als Shop-Icon. 
