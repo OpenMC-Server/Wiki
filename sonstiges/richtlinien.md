@@ -169,11 +169,6 @@ Nach der Aberkennung des Siedlerranges müssen mindestens drei Monate vergehen, 
 ---
 
 ## PlayerWarps
-### Inaktivität
-Um die Playerwarp Kategorien übersichtlich zu halten und bestmögliche Sucherergebnisse erzielen zu können, werden diese regelmäßig durch uns überprüft.
-
-Warps der Shop Kategorie werden bei einer Inaktivität des Besitzers von 30+ Tagen in die Kategorie Inaktiv verschoben. Sie können jedoch jederzeit mit `/pw category set <warpname> <bauwerke/farmen/shop/sonstiges>` zurück verschoben werden.
-
 ### PlayerWarp-Namen
 Eine Beantragung von Playerwarp-Namen ist nach sechs monatiger Inaktivität des Besitzers möglich. Im Regelfall wird zur Erhaltung des Teleportpunktes der bestehende Warp umbenannt.
 
@@ -187,5 +182,6 @@ Shops, die über eine längere Zeit nicht mehr verwaltet werden, können vom Tea
 - Der Besitzer/Die Besitzer eines Shops sind ~60 Tage bereits selbst inaktiv
 - Die Shops sind maßgeblich leer und bieten kaum Inhalt zum Erwerben. Der Ankauf ist von dieser Überprüfung unabhängig und wird nicht zu Rate gezogen. Shops mit Ver- & Ankauf sind also nicht zwingend aktive Shops und wir richten uns eher an dem reinen Inhalt der Kisten.
 
+Warps können jedoch jederzeit vom Besitzer mit `/pw category set <warpname> <bauwerke/farmen/shop/sonstiges>` zurück verschoben werden.
 Bedenkt stets, dass diese Kriterien auch nur Richtlinien sind und nicht auf Tag/Woche/Monat genau ausgeübt werden.
 
