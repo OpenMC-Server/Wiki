@@ -153,6 +153,8 @@ Spinnennetz     | 750       | Ton                                               
 Kuchen          | 750       | Erde, Grobe Erde, Grasblock, Podsol, Myzel, Kies, Ton, Sand, Roter Sand, Seelensand   | 0,05
 Quartz          | 850       | Erde, Grobe Erde, Grasblock, Podsol, Myzel, Kies, Sand, Roter Sand, Seelensand        | 0,5
 
+Bei Aktivierung der Fähigkeit "Gigabohrer" steigt die Droprate um das dreifache.
+
 ---
 
 ## mcMMO Parties
