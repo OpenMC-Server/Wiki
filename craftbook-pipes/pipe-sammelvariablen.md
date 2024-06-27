@@ -145,7 +145,7 @@ Um nach einer spezifischen Sammelvariable zu suchen, kannst du die Suche deines 
 *bamboo_block, bamboo_planks, bamboo_slab, bamboo_stairs, bamboo_pressure_plate, bamboo_fence, bamboo_trapdoor, bamboo_fence_gate, bamboo_fence, bamboo_button, bamboo_door, bamboo_raft, bamboo_sign, bamboo_hanging_sign, bamboo_mosaic, bamboo_mosaic_stairs, bamboo_mosaic_slab*
 
 #### Bretter, Setzlinge, Laub, Holzstufen und Treppen
-[!badge variant="secondary" text="**%zc%**"] **Alle Bretter**\
+[!badge variant="secondary" text="**%zc%**"] **Alle Holzbretter**\
 *oak_planks, spruce_planks, birch_planks, jungle_planks, acacia_planks, dark_oak_planks, crimson_planks, warped_planks, mangrove_planks, cherry_planks, bamboo_planks*
 
 [!badge variant="secondary" text="**%zd%**"] **Alle Setzlinge**\
