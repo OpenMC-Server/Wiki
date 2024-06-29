@@ -9,8 +9,8 @@ icon: credit-card
 
 Im AdminShop kannst du ausgewählte Items an- und verkaufen. Um den AdminShop zu öffnen, verwende `/adminshop` oder `/as`.
 
-## Weitere Befehle
-`/as sell <id>` - Verkaufe das Item mit der angegebenen Minecraft-ID an den Adminshop.
+**Weitere Befehle**<br>
+`/as sell <id>` - Verkaufe das Item mit der angegebenen Minecraft-ID an den Adminshop.<br>
 `/as sellall` - Verkaufe alle möglichen Items in deinem Inventar an den Adminshop.
 
 ---
