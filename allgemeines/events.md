@@ -12,9 +12,13 @@ Auf dieser Seite findest du Erläuterungen zu den Events, die regelmäßig auf O
 
 ## Bauevent
 !!! Aktuelles Bauevent:
-*Thema:* Steampunk\
-*Dauer:* 1. - 29. Juni\
-*Bewertungsevent:* 29.06., 15 Uhr - 21 Uhr
+*Thema:* Magielabor\
+*Dauer:* 1. - 28. Juli\
+*Bewertungsevent:* 27.07., 15 Uhr - 28.07., 21 Uhr
+
+:warning: Aufgrund des Servertreffens gelten folgende Deadlines:
+- Anmeldung bis spätestens Donnerstag, 25.07. | 18 Uhr.
+- Arbeiten am Bauwerk müssen bis spätestens Freitag, 26.07. | 23:59 Uhr beendet werden.
 !!!
 
 ### Über das Bauevent
