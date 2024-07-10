@@ -43,6 +43,9 @@ Erstellt einen PlayerWarp mit dem angegebenen Namen an der Stelle, wo du den Bef
 `/pwarp remove <warpname>`\
 Entfernt den angegebenen PlayerWarp.
 
+`/pwarp rename <warpname> <neuer_warpname>`\
+Benennt den angegebenen PlayerWarp um.
+
 `/pwarp amount`\
 Zeigt die Anzahl an PlayerWarps an, die du noch erstellen kannst.
 
@@ -55,8 +58,14 @@ Mit diesem Befehl kannst du eine Beschreibung zu deinem PlayerWarp eingeben, wel
 `/pwarp category set <warpname> <kategorie>`\
 Sortiert den PlayerWarp in eine der vier Kategorien ein.
 
-`/pw-visits`\
-Schaltet Besucher-Benachrichtigungen, wenn sich jemand zu deinem Playerwarp teleportiert, an oder aus.
+`/pwarp favourites <warpname>`\
+Fügt den angegebenen PlayerWarp zu deinen Favoriten hinzu oder entfernt ihn wieder.
 
 `/pw icon set <warpname>`\
 Setzt den in der Hand gehaltenen Block als Shop-Icon. 
+
+`/pw setowner <warpname> <spielername>`\
+Überträgt den PlayerWarp an einen neuen Besitzer.
+
+`/pw-visits`\
+Schaltet Besucher-Benachrichtigungen, wenn sich jemand zu deinem Playerwarp teleportiert, an oder aus.
