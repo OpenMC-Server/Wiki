@@ -15,55 +15,82 @@ Im folgenden findest du alle aktiven Teammitglieder und ihre Aufgabenbereiche.
 ## Owner
 ||| kev2k2
 -![](/images/kev2k2.png)
-Aufgaben in Bearbeitung.
+Aufgaben:
+ Serverleitung
+ Backend
 |||
 ||| flowflower
 -![](/images/flowflower.png)
-Aufgaben in Bearbeitung.
+Aufgaben:
+ Serverleitung
+ Eventleitung
 |||
 
 ## Admins
 ||| LPBoy_HD
 -![](/images/lpboy_hd.png)
-Aufgaben in Bearbeitung.
+Aufgaben:
+ Interne Organisation
+ Backend
+ Entwicklung
 |||
 ||| LashtagLP
 -![](/images/lashtaglp.png)
-Aufgaben in Bearbeitung.
+Aufgaben:
+ Interne Organisation
+ Event-Organisation
+ Claimvergabe
 |||
 ||| Filomez
 -![](/images/filomez.png)
-Aufgaben in Bearbeitung.
+Aufgaben:
+ Supportleitung
+ Spielerfeedback
 |||
 
 ## Moderatoren
 ||| Cupcake7506
 -![](/images/cupcake7506.png)
-Aufgaben in Bearbeitung.
+Aufgaben:
+ Spielersupport
+ Wiki
 |||
 ||| Blechgecco
 -![](/images/blechgecco.png)
-Aufgaben in Bearbeitung.
+Aufgaben:
+ Spielersupport
+ Farmen
 |||
 
 ## Eventler
 ||| Groesste_Minerin
 -![](/images/groesste_minerin.png)
-Aufgaben in Bearbeitung.
+Aufgaben:
+ Erbauen von Maps
+ Claimverwaltung
 |||
 ||| Jacero
 -![](/images/jacero.png)
-Aufgaben in Bearbeitung.
+Aufgaben:
+ Event-Entwicklung
+ Erbauen von Maps
+ Petsystem
 |||
 ||| Useflo
 -![](/images/useflo.png)
-Aufgaben in Bearbeitung.
+Aufgaben:
+ Event-Entwicklung
+ Erbauen von Maps
 |||
 ||| Polarfoxine
 -![](/images/polarfoxine.png)
-Aufgaben in Bearbeitung.
+Aufgaben:
+ Event-Entwicklung
+ Erbauen von Maps
 |||
 ||| Krempii
 -![](/images/krempii.png)
-Aufgaben in Bearbeitung.
+Aufgaben:
+ Event-Entwicklung
+ Erbauen von Maps
 |||
