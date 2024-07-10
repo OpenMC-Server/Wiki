@@ -15,82 +15,82 @@ Im folgenden findest du alle aktiven Teammitglieder und ihre Aufgabenbereiche.
 ## Owner
 ||| kev2k2
 -![](/images/kev2k2.png)
-**Aufgaben:**
- - Serverleitung
- - Backend
+**Aufgaben:**\
+ Serverleitung\
+  Backend
 |||
 ||| flowflower
 -![](/images/flowflower.png)
-Aufgaben:
- - Serverleitung
- - Eventleitung
+Aufgaben:\
+ Serverleitung\
+ Eventleitung
 |||
 
 ## Admins
 ||| LPBoy_HD
 -![](/images/lpboy_hd.png)
-Aufgaben:
- - Interne Organisation
- - Backend
- - Entwicklung
+Aufgaben:\
+ Interne Organisation\
+ Backend
+ Entwicklung
 |||
 ||| LashtagLP
 -![](/images/lashtaglp.png)
-Aufgaben:
- - Interne Organisation
- - Event-Organisation
- - Claimvergabe
+Aufgaben:\
+ Interne Organisation\
+ Event-Organisation
+ Claimvergabe
 |||
 ||| Filomez
 -![](/images/filomez.png)
-Aufgaben:
- - Supportleitung
- - Spielerfeedback
+Aufgaben:\
+ Supportleitung\
+ Spielerfeedback
 |||
 
 ## Moderatoren
 ||| Cupcake7506
 -![](/images/cupcake7506.png)
-Aufgaben:
- - Spielersupport
- - Wiki
+Aufgaben:\
+ Spielersupport\
+ Wiki
 |||
 ||| Blechgecco
 -![](/images/blechgecco.png)
 Aufgaben:
- - Spielersupport
- - Farmen
+ Spielersupport
+ Farmen
 |||
 
 ## Eventler
 ||| Groesste_Minerin
 -![](/images/groesste_minerin.png)
-Aufgaben:
- - Erbauen von Maps
- - Claimverwaltung
+Aufgaben:\
+ Erbauen von Maps\
+ Claimverwaltung
 |||
 ||| Jacero
 -![](/images/jacero.png)
-Aufgaben:
- - Event-Entwicklung
- - Erbauen von Maps
- - Petsystem
+Aufgaben:\
+ Event-Entwicklung\
+ Erbauen von Maps
+ Petsystem
 |||
 ||| Useflo
 -![](/images/useflo.png)
-Aufgaben:
- - Event-Entwicklung
- - Erbauen von Maps
+Aufgaben:\
+ Event-Entwicklung\
+ Erbauen von Maps
 |||
 ||| Polarfoxine
 -![](/images/polarfoxine.png)
-Aufgaben:
- - Event-Entwicklung
- - Erbauen von Maps
+Aufgaben:\
+ Event-Entwicklung\
+ Erbauen von Maps
 |||
 ||| Krempii
 -![](/images/krempii.png)
-Aufgaben:
- - Event-Entwicklung
- - Erbauen von Maps
+Aufgaben:\
+ Event-Entwicklung\
+ Erbauen von Maps
 |||
