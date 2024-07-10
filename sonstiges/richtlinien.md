@@ -185,3 +185,6 @@ Shops, die über eine längere Zeit nicht mehr verwaltet werden, können vom Tea
 Warps können jedoch jederzeit vom Besitzer mit `/pw category set <warpname> <bauwerke/farmen/shop/sonstiges>` zurück verschoben werden.
 Bedenkt stets, dass diese Kriterien auch nur Richtlinien sind und nicht auf Tag/Woche/Monat genau ausgeübt werden.
 
+### Mehrere Warps an einem Ort
+Das Erstellen von mehreren PlayerWarps an einem Ort ist nicht erlaubt. Ausgenommen sind voneinander getrennte Bereiche, die nicht zu Fuß erreichbar sind.
+
