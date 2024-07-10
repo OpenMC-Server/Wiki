@@ -21,7 +21,7 @@ Im folgenden findest du alle aktiven Teammitglieder und ihre Aufgabenbereiche.
 |||
 ||| flowflower
 -![](/images/flowflower.png)
-Aufgaben:\
+**Aufgaben:**\
  Serverleitung\
  Eventleitung
 |||
@@ -29,21 +29,21 @@ Aufgaben:\
 ## Admins
 ||| LPBoy_HD
 -![](/images/lpboy_hd.png)
-Aufgaben:\
+**Aufgaben:**\
  Interne Organisation\
- Backend
+ Backend\
  Entwicklung
 |||
 ||| LashtagLP
 -![](/images/lashtaglp.png)
-Aufgaben:\
+**Aufgaben:**\
  Interne Organisation\
- Event-Organisation
+ Event-Organisation\
  Claimvergabe
 |||
 ||| Filomez
 -![](/images/filomez.png)
-Aufgaben:\
+**Aufgaben:**\
  Supportleitung\
  Spielerfeedback
 |||
@@ -51,46 +51,46 @@ Aufgaben:\
 ## Moderatoren
 ||| Cupcake7506
 -![](/images/cupcake7506.png)
-Aufgaben:\
+**Aufgaben:**\
  Spielersupport\
  Wiki
 |||
 ||| Blechgecco
 -![](/images/blechgecco.png)
-Aufgaben:
- Spielersupport
+**Aufgaben:**\
+ Spielersupport\
  Farmen
 |||
 
 ## Eventler
 ||| Groesste_Minerin
 -![](/images/groesste_minerin.png)
-Aufgaben:\
+**Aufgaben:**\
  Erbauen von Maps\
  Claimverwaltung
 |||
 ||| Jacero
 -![](/images/jacero.png)
-Aufgaben:\
+**Aufgaben:**\
  Event-Entwicklung\
- Erbauen von Maps
+ Erbauen von Maps\
  Petsystem
 |||
 ||| Useflo
 -![](/images/useflo.png)
-Aufgaben:\
+**Aufgaben:**\
  Event-Entwicklung\
  Erbauen von Maps
 |||
 ||| Polarfoxine
 -![](/images/polarfoxine.png)
-Aufgaben:\
+**Aufgaben:**\
  Event-Entwicklung\
  Erbauen von Maps
 |||
 ||| Krempii
 -![](/images/krempii.png)
-Aufgaben:\
+**ufgaben:**\
  Event-Entwicklung\
  Erbauen von Maps
 |||
