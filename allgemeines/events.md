@@ -44,9 +44,18 @@ Wird eine NoEnter-Claimflag für den Bauzeitraum gewünscht, kann diese bei der 
 
 ### Ablauf
 1. Das Thema des Bauevents wird am 1. des Monats bekanntgegeben.
+
 2. Spieler haben bis zum letzten Samstag des Monats Zeit zum Bauen. Eine Anmeldung muss zunächst nicht erfolgen. Beim Bau sollten die Bewertungsaspekte beachtet werden.
-3. Bis zum Freitag vor dem Bewertungsevent erfolgt die verbindliche Anmeldung des Bauwerks über ein Discord-Ticket. Dabei akzeptiert der Teilnehmer auch die Teilnahmebedingungen. Es ist möglich, Claimflags während der Bauevent-Auswertung aktivieren zu lassen (bei der Anmeldung angeben).
+
+3. Bis zum Freitag vor dem Bewertungsevent erfolgt die verbindliche Anmeldung des Bauwerks über ein Discord-Ticket. Dabei akzeptiert der Teilnehmer auch die Teilnahmebedingungen. Bitte formuliere folgende und andere Wünsche, falls vorhanden, ebenfalls im Ticket:
+- Blickrichtung des Warps
+- Die gewünschten Claimflags während der Besichtigung
+- Eine NoEnter Claimflag für den Bauzeitraum
+- Wenn Bücher während der Besichtigung ausgegeben werden sollen, kann der Autor durch das Team durch einen neutralen Autor ersetzt werden (Koordinaten angeben)
+- Falls keine keine Aufnahme in die Bauevent-Historie gewünscht ist
+
 4. Mit dem Bewertungsevent am letzten Samstag des Monats wird der Champion (Sieger) des Events bestimmt. Hierbei wird jedes Exponat mit einer anonymen ID versehen und zum Erkunden/Begutachten freigegeben. Die Spieler stimmen für jedes Bauwerk ab, dabei kann jeweils für die oben genannten Kriterien eine Punktzahl von 1-8 vergeben werden. Daraus ergibt sich schlussendlich eine Gesamtpunktzahl.
+
 5. Das Gewinnerteam erhält den Rang "Champion", mit dem dieser im TAB und Chat entsprechend gekennzeichnet wird. Weitere Preise für Platz 1 - 5 sind unten (Preise) angeführt. Außerdem gibt es eine Teilnahmebelohnung. Das Gewinnerteam nennt dem Team innerhalb eines Tages einen Themenvorschlag für das nächste Bauevent. Vor Beginn des nächsten Bauevents stimmen die Spieler über das neue Thema ab.
 
 ### Preise
