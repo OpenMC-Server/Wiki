@@ -32,4 +32,3 @@ Deine aktuelle Flugzeit kannst du folgendermaßen einsehen:
 
 ## Gut zu wissen
 - Flugzeit verringert sich nur während dem Fliegen in der Luft.
-- In der Industriewelt besitzen alle Spieler unbegrenzte Flugzeit.
