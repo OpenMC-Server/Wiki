@@ -142,7 +142,7 @@ Um die Belohnungen zu erhalten, muss ein Slot im Inventar freigehalten werden.
 !!!
 
 Es wird ein Gutschein, der alle Belohnungen enthält (kann per Rechtsklick eingelöst werden) vergeben.\
-Die ersten drei Plätze erhalten nach dem Event eine einzigartige Trophäe, die den Sieg des Events würdigt.
+Die ersten drei Plätze, die das Event auch überlebt haben, erhalten nach dem Event eine einzigartige Trophäe, die den Sieg des Events würdigt.
 
 ---
 
