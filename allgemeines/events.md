@@ -12,9 +12,9 @@ Auf dieser Seite findest du Erläuterungen zu den Events, die regelmäßig auf O
 
 ## Bauevent
 !!! Aktuelles Bauevent:
-*Thema:* Die Welt der Zwerge\
-*Dauer:* 1. - 31. August\
-*Bewertungsevent:* 31.08., 15 Uhr - 21 Uhr
+*Thema:* Turm\
+*Dauer:* 2. - 28. September\
+*Bewertungsevent:* 28.09., 15 Uhr - 21 Uhr
 !!!
 
 ### Über das Bauevent
@@ -61,24 +61,24 @@ Wird eine NoEnter-Claimflag für den Bauzeitraum gewünscht, kann diese bei der 
   - Das Team erhält eine Urkunde mit den genauen Koordinaten der Pflanzfläche
   - Die Urkunde wird zusammen mit einem Foto des Bauwerks [hier veröffentlicht](https://openmc.net/baumevent-gewinner/).
 - 4 Wochen "Champion" Rang (VIP und +-Upgrade, 4 Votecoins pro Vote) - für jedes Teammitglied
-- 900.000 $ - Gleichmäßige Aufteilung auf alle Teammitglieder
-- 50 VoteCoins - für jedes Teammitglied
-
-#### 2. Platz:
-- 540.000 $ - Gleichmäßige Aufteilung auf alle Teammitglieder
+- 600.000 $ - Gleichmäßige Aufteilung auf alle Teammitglieder
 - 35 VoteCoins - für jedes Teammitglied
 
-#### 3. Platz:
-- 450.000 $ - Gleichmäßige Aufteilung auf alle Teammitglieder
+#### 2. Platz:
+- 360.000 $ - Gleichmäßige Aufteilung auf alle Teammitglieder
 - 25 VoteCoins - für jedes Teammitglied
 
-#### 4. Platz:
-- 150.000 $ - Gleichmäßige Aufteilung auf alle Teammitglieder
+#### 3. Platz:
+- 240.000 $ - Gleichmäßige Aufteilung auf alle Teammitglieder
 - 15 VoteCoins - für jedes Teammitglied
 
-#### 5. Platz:
-- 90.000 $ - Gleichmäßige Aufteilung auf alle Teammitglieder
+#### 4. Platz:
+- 100.000 $ - Gleichmäßige Aufteilung auf alle Teammitglieder
 - 10 VoteCoins - für jedes Teammitglied
+
+#### 5. Platz:
+- 60.000 $ - Gleichmäßige Aufteilung auf alle Teammitglieder
+- 5 VoteCoins - für jedes Teammitglied
 
 #### Teilnahmebelohnung:
 Alle Teilnehmer, welche mit Ernsthaftigkeit, Kreativität und angemessenem Aufwand (unter Berücksichtigung der Eventdauer von einem Monat) am Event teilnehmen, erhalten unabhängig von der Platzierung eine Teilnahmebelohnung:
