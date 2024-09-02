@@ -73,7 +73,7 @@ Wird eine NoEnter-Claimflag für den Bauzeitraum gewünscht, kann diese bei der 
 - 15 VoteCoins - für jedes Teammitglied
 
 #### 4. Platz:
-- 100.000 $ - Gleichmäßige Aufteilung auf alle Teammitglieder
+- 120.000 $ - Gleichmäßige Aufteilung auf alle Teammitglieder
 - 10 VoteCoins - für jedes Teammitglied
 
 #### 5. Platz:
