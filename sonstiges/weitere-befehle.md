@@ -89,3 +89,12 @@ Sendet den angegebenen Geldbetrag an den entsprechenden Spieler. Zusätzlich kan
 
 `/baltop <seite>`\
 Zeigt eine Rangliste der Kontostände an.
+
+`/showinvisibles`\
+Zeigt unsichtbare Bilderrahmen an.
+
+`/showinvis`\
+Zeigt unsichtbare Bilderrahmen an.
+
+`/unsichtbares`\
+Zeigt unsichtbare Bilderrahmen an.
