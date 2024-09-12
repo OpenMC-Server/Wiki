@@ -302,6 +302,24 @@ Um nach einer spezifischen Variable zu suchen, kannst du die Suche deines Browse
 | Spitzer Tropfstein 								| pointed_dripstone 					    | %point_dripst% 		| %qs%          |
 | Glatter Basalt 									| smooth_basalt 							| %sm_basalt% 			| %rb%          |
 
+### Tuffstein
+{.compact}
+| Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
+| ---                                               | ---                                       | ---                   | ---           |
+| Tuffsteintreppe                                   | tuff_stairs                               | %tuff_st%             | %agc%         |
+| Tuffsteinstufe                                    | tuff_slab                                 | %tuff_sl%             | %agd%         |
+| Tuffsteinmauer                                    | tuff_wall                                 | %tuff_wl%             | %age%         |
+| Gemeißelter Tuffstein                             | chiseled_tuff                             | %ch_tuff%             | %agf%         |
+| Polierter Tuffstein                               | polished_tuff                             | %p_tuff%              | %agg%         |
+| Polierte Tuffsteintreppe                          | polished_tuff_stairs                      | %p_tuff_st%           | %agh%         |
+| Polierte Tuffsteinstufe                           | polished_tuff_slab                        | %p_tuff_sl%           | %agi%         |
+| Polierte Tuffsteinmauer                           | polished_tuff_wall                        | %p_tuff_wl%           | %agj%         |
+| Tuffsteinziegel                                   | tuff_bricks                               | %tuff_br%             | %agk%         |
+| Tuffsteinziegeltreppe                             | tuff_brick_stairs                         | %tuff_br_st%          | %agl%         |
+| Tuffsteinziegelstufe                              | tuff_brick_slab                           | %tuff_br_sl%          | %agm%         |
+| Tuffsteinziegelmauer                              | tuff_brick_wall                           | %tuff_br_wl%          | %agn%         |
+| Gemeißelte Tuffsteinziegel                        | chiseled_tuff_bricks                      | %ch_tuff_br%          | %ago%         |
+
 ### Steinziegel
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
@@ -880,6 +898,19 @@ Um nach einer spezifischen Variable zu suchen, kannst du die Suche deines Browse
 | Kirschholztür									    | cherry_door								| %cherry_door%			| %abf%			| 
 | Bambustür										    | bamboo_door							    | %bamboo_door%			| %aar%			| 
 
+#### Kupfertüren
+{.compact}
+| Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
+| ---                                               | ---                                       | ---                   | ---           |
+| Kupfertür                                         | copper_door                               | %cpr_door%            | %afm%         |
+| Angelaufene Kupfertür                             | exposed_copper_door                       | %e_cpr_door%          | %afn%         |
+| Verwitterte Kupfertür                             | weathered_copper_door                     | %w_cpr_door%          | %afo%         |
+| Oxidierte Kupfertür                               | oxidized_copper_door                      | %o_cpr_door%          | %afp%         |
+| Gewachste Kupfertür                               | waxed_copper_door                         | %wa_cpr_door%         | %afq%         |
+| Gewachste angelaufene Kupfertür                   | waxed_exposed_copper_door                 | %wa_e_cpr_door%       | %afr%         |
+| Gewachste verwitterte Kupfertür                   | waxed_weathered_copper_door               | %wa_w_cpr_door%       | %afs%         |
+| Gewachste oxidierte Kupfertür                     | waxed_oxidized_copper_door                | %wa_o_cpr_door%       | %aft%         |
+
 ### Falltüren
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
@@ -896,6 +927,19 @@ Um nach einer spezifischen Variable zu suchen, kannst du die Suche deines Browse
 | Mangrovenholzfalltür 								| mangrove_trapdoor                         | %mangrove_trap 		| %xj%			|
 | Kirschholzfalltür								    | cherry_trapdoor							| %cherry_trap%			| %abk% 		|
 | Bambusfalltür										| bamboo_trapdoor					        | %bamboo_trap%			| %aaw% 		|
+
+#### Kupferfalltüren
+{.compact}
+| Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
+| ---                                               | ---                                       | ---                   | ---           |
+| Kupfertür                                         | copper_door                               | %cpr_door%            | %afu%         |
+| Angelaufene Kupferfalltür                         | exposed_copper_trapdoor                   | %e_cpr_trap%          | %afv%         |
+| Verwitterte Kupferfalltür                         | weathered_copper_trapdoor                 | %w_cpr_trap%          | %afw%         |
+| Oxidierte Kupferfalltür                           | oxidized_copper_trapdoor                  | %o_cpr_trap%          | %afx%         |
+| Gewachste Kupferfalltür                           | waxed_copper_trapdoor                     | %wa_cpr_trap%         | %afy%         |
+| Gewachste angelaufene Kupferfalltür               | waxed_exposed_copper_trapdoor             | %wa_e_cpr_trap%       | %afz%         |
+| Gewachste verwitterte Kupferfalltür               | waxed_weathered_copper_trapdoor           | %wa_w_cpr_trap%       | %aga%         |
+| Gewachste oxidierte Kupferfalltür                 | waxed_oxidized_copper_trapdoor            | %wa_o_cpr_trap%       | %agb%         |
 
 ### Knöpfe
 {.compact}
@@ -1019,6 +1063,8 @@ Um nach einer spezifischen Variable zu suchen, kannst du die Suche deines Browse
 | Leuchtfeuer                                       | beacon                                    | %beacon%              | 138           |
 | Enderkristall                                     | end\_crystal                              | %endcrystal%          | 426           |
 | Blitzableiter 									| lightning_rod 							| %light_rod% 			| %qw% 		    |
+| Werker                                            | crafter                                   | %crafter%             | %agp%         |
+| Tresor                                            | vault                                     | %vault%               | %agq%         |
 
 ### TNT
 {.compact}
@@ -1308,6 +1354,7 @@ Um nach einer spezifischen Variable zu suchen, kannst du die Suche deines Browse
 | Netherstern                                       | nether\_star                              | %netstar%             | 399           |
 | Shulkerschale                                     | shulker\_shell                            | %shulkshell%          | 450           |
 | Echoscherbe                 			            | echo_shard                                | %echoshard%           | %uk% 			|
+| Böenrute                 			                | breeze_rod                                | %brzrod%              | %agt% 		|
 
 ### Farbstoffe
 {.compact}
@@ -1356,6 +1403,8 @@ Um nach einer spezifischen Variable zu suchen, kannst du die Suche deines Browse
 | Bannervorlage Mojang-Logo                         | mojang\_banner\_pattern                   | %banpat\_mojang%      | %ml%          |
 | Bannervorlage Globus                              | globe\_banner\_pattern                    | %banpat\_globe%       | %mm%          |
 | Bannervorlage Piglin                              | piglin\_banner\_pattern                   | %banpat\_piglin%      | %mn%          |
+| Bannervorlage Fluss                               | flow_banner_pattern                       | %banpat_flow%         | %ahd%         |
+| Bannervorlage Windstoßer                          | guster_banner_pattern                     | %banpat_guster%       | %ahe%         |
 
 ### Betten
 {.compact}
@@ -1437,6 +1486,7 @@ modifizierten Items kennen.
 | Sattel                                            | saddle                                    | %saddle%              | 329           |
 | Leine                                             | lead                                      | %lead%                | 420           |
 | Namensschild                                      | name\_tag                                 | %nametag%             | 421           |
+| Schwerer Kern                                     | heavy_core                                | %hevcore%             | %agu%         |
 
 ### Behälter
 {.compact}
@@ -1476,7 +1526,7 @@ modifizierten Items kennen.
 | Uhr                                               | clock                                     | %clock%               | 347           |
 | Kompass                                           | compass                                   | %compass%             | 345           |
 | Leere Karte                                       | map                                       | %map%                 | 395           |
-| Karte                                             | filled\_map                               | %filled\_map%         | 358           |
+| Karte                                             | filled\_map                               | %filled\_map%         | %agx%         |
 | Fernrohr 							                | spyglass 									| %spyglass% 		    | %ro% 		    |
 | Bergungskompass 									| recovery_compass                          | %rec_compass% 		| %e2% 			|
 
@@ -1497,6 +1547,7 @@ modifizierten Items kennen.
 | Feuerzeug                                         | flint\_and\_steel                         | %flintandsteel%       | 259           |
 | Schere                                            | shears                                    | %shears%              | 359           |
 | Schild (Kampf)                                    | shield                                    | %shield%              | 442           |
+| Streitkolben                                      | mace                                      | %mace%                | %agv%         |
 
 ### Spitzhacken
 {.compact}
@@ -1622,7 +1673,10 @@ modifizierten Items kennen.
 | Schützen-Töpferscherbe							| archer_pottery_shrd						| %archer_pshd%			| %adg%			| 
 | Totenkopf-Töpferscherbe							| skull_pottery_sherd						| %skull_potsherd%	    | %adh%			| 
 | Wimmerer-Töpferscherbe							| mourner_pottery_sherd						| %mourner_potsherd%    | %adi%			| 
-| Zufluchts-Töpferscherbe							| shelter_pottery_sherd						| %shelter_potsherd%    | %adj%			| 
+| Zufluchts-Töpferscherbe							| shelter_pottery_sherd						| %shelter_potsherd%    | %adj%			|
+| Windstoßer-Töpferscherbe							| guster_pottery_sherd						| %guster_pshd%         | %ahb%			|
+| Abschabe-Töpferscherbe							| scrape_pottery_sherd						| %scrape_pshd%         | %ahc%			|
+| Fluss-Töpferscherbe							    | flow_pottery_sherd						| %flow_pshd%           | %aha%			|
 
 ### Schmiedevorlagen
 {.compact}
@@ -1645,9 +1699,20 @@ modifizierten Items kennen.
 | Schmiedevorlage Rippen							| rib_armor_trim_smithing_template			| %rib_t_stmp%			| %ady%         |
 | Schmiedevorlage Augen								| eye_armor_trim_smithing_template			| %eye_t_stmp%			| %adz%         |
 | Schmiedevorlage Turmspitzen					    | spire_armor_trim_smithing_template		| %spire_t_stmp%		| %aea%         |
+| Schmiedevorlage Fluss-Rüstungsbesatz				| flow_armor_trim_smithing_template		    | %flow_t_stmp%		    | %agy%         |
+| Schmiedevorlage Bolzen-Rüstungsbesatz				| bolt_armor_trim_smithing_template		    | %bolt_t_stmp%		    | %agz%         |
 
 ### Bedrock
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
 | ---                                               | ---                                       | ---                   | ---           |
 | Grundgestein                                      | bedrock                                   | %bedrock%             | 7             |
+
+### Sonstiges
+{.compact}
+| Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
+| ---                                               | ---                                       | ---                   | ---           |
+| Prüfungsschlüssel                                 | trial_key                                 | %tri_key%             | 7%agr%        |
+| Unheilvoller Prüfungsschlüssel                    | ominous_trial_key                         | %omi_key%             | %ags%         |
+| Windkugel                                         | wind_charge                               | %w_charge%            | %agw%         |
+
