@@ -1518,6 +1518,7 @@ modifizierten Items kennen.
 | Wurftrank                                         | splash\_potion                            | %spl\_potion%         | 438           |
 | Verweiltrank                                      | lingering\_potion                         | %lin\_potion%         | 441           |
 | Drachenatem                                       | dragon\_breath                            | %dragonbreath%        | 437           |
+| Unheilvolle Flasche                               | ominous_bottle                            | %omi_bottle%          | %ahf%         |
 
 ### Orientierungshilfen
 {.compact}
@@ -1649,6 +1650,9 @@ modifizierten Items kennen.
 | Schallplatte 5 								    | music_disc_5                              | %disc_5% 				| %e4% 			| 
 | Plattenbruchstück - 5 							| disc_fragment_5                           | %disc_frag_5% 		| %e5% 			|
 | Schallplatte Relic								| music_disc_relic						    | %disc_relic%			| %aek% 		|
+| Schallplatte Aaron Cherof - Precipice				| music_disc_precipice						| %disc_precipice%		| %ahg% 		|
+| Schallplatte Lena Raine - Creator					| music_disc_creator						| %disc_creator%		| %ahh% 		|
+| Schallplatte Lena Raine - Creator (Music Box)		| music_disc_creator_music_box				| %disc_creator_mb%		| %ahi% 		|
 
 ### Töpferscherben
 {.compact}
