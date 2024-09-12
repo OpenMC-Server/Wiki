@@ -12,8 +12,8 @@ Um dein MapArt zu schützen, stehen dir mehrere Möglichkeiten offen. Nutzt dies
 
 ---
 
-## No-Enter ClaimFlag
-Um zu verhindern, dass andere Spieler eine Karte von deinem MapArt erstellen können, kannst du eine No-Enter-Claimflag für den Claim erhalten. Diese kannst du im [Discord](https://discord.com/invite/ecqPF34) durch ein Support-Ticket beantragen und ein Admin wird dir die ClaimFlag auf dem Claim aktivieren. Beachte dabei bitte,dass sich auf dem Claim nur das Mapart befinden darf.
+## NoMapMaking ClaimFlag
+Um zu verhindern, dass andere Spieler eine Karte von deinem MapArt erstellen können, kannst du die NoMapMaking ClaimFlag aktivieren. Nutze dazu den Befehl `/setclaimflag nomapmaking` auf deinem Claim.
 
 ---
 

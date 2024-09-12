@@ -44,7 +44,7 @@ EnterMessage            | Nachricht beim Betreten des Claims anzeigen. | 30k $
 ExitMessage             | Nachricht beim Verlassen des Claims anzeigen. | 30k $
 NoBlockForm             | Das Formen von Schnee, Eis, Obsidian/Cobblestone (Wasser/Lava), Betonpulver/Wasser deaktivieren. | 60k $
 NoBlockSpread           | Die Ausbreitung von Blöcken deaktivieren. | 60k $
-NoChorusFruit           |  Die Verwendung von Chorusfrüchten deaktivieren. | 25k $
+NoChorusFruit           | Die Verwendung von Chorusfrüchten deaktivieren. | 25k $
 NoDripstoneSpread       | Die Ausbreitung von Dripstones deaktivieren. | 50k $
 NoEnderPearl            | Die Verwendung von Enderperlen deaktivieren. | 25k $
 NoFallDamage            | Fallschaden deaktivieren. | 15k $
@@ -56,12 +56,15 @@ NoMcMMOSkills           | Aktive Skill-Aktivierung (z.B. Faustkampf) deaktiviere
 NoMobSpawns             | Das Spawning von allen Mobs deaktivieren. Bestehende Mobs bleiben erhalten. | 150k $
 NoMonsters              | Monster deaktivieren. Alle bestehenden Monster despawnen. | 150k $
 NoMonsterSpawns         | Das Spawning von Monstern deaktivieren. Bestehende Monster bleiben erhalten. | 150k $
+NoPotionEffects         | Trankeffekte deaktivieren. | 100k $
 NoSnowForm              | Bildung von Schnee deaktivieren. | 50k $
 NoStructureGrowth       | Das Wachstum von Setzlingen, Pilzen und Chorusfrüchten deaktivieren. | 50k $
 NoVineGrowth            | Das Wachstum von Ranken und Leuchtbeeren deaktivieren. | 50k $
 ProtectNamedMobs        | Benannte Mobs dürfen nur mit ContainerTrust geschlagen werden. Gilt auch für Owner. | 30k $
+RaidMemberOnly          | Fremde Spieler können keine Raids auf dem Claim starten. | 35k $
 ReadLecterns            | Das Lesen signierter Bücher in Lesepulten erlauben. | 20k $
 NoEnter [Industriewelt] | Das Betreten des Claims durch fremde Spieler deaktivieren. | 0 $
+NoMapMaking             | Das Erstellen von Maps durch fremde Spieler deaktivieren. | 0 $
 CommandBlacklist        | Die Verwendung bestimmter Befehle deaktivieren. | Beim Team beantragbar
 ViewContainer           | Kisten können geöffnet werden, aber es ist nicht möglich Items zu entnehmen. | Beim Team beantragbar
 KeepInventory           | Items werden nach dem Tod im Inventar beibehalten | Beim Team beantragbar für **Arenen**
