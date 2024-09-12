@@ -632,6 +632,7 @@ Um nach einer spezifischen Variable zu suchen, kannst du die Suche deines Browse
 ### Kupferleuchten
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
+| ---                                               | ---                                       | ---                   | ---           |
 | Kupferleuchte                                     | copper_bulb                               | %cpr_bulb%            | %aeo%         |
 | Angelaufene Kupferleuchte                         | exposed_copper_bulb                       | %e_cpr_bulb%          | %aep%         |
 | Verwitterte Kupferleuchte                         | weathered_copper_bulb                     | %w_cpr_bulb%          | %aeq%         |
@@ -644,6 +645,7 @@ Um nach einer spezifischen Variable zu suchen, kannst du die Suche deines Browse
 ### Kupferrost-Blöcke
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
+| ---                                               | ---                                       | ---                   | ---           |
 | Kupferrost                                        | copper_grate                              | %cpr_gr%              | %afe%         |
 | Angelaufener Kupferrost                           | exposed_copper_grate                      | %e_cpr_gr%            | %aff%         |
 | Verwitterter Kupferrost                           | weathered_copper_grate                    | %w_cpr_gr%            | %afg%         |
