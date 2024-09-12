@@ -620,6 +620,39 @@ Um nach einer spezifischen Variable zu suchen, kannst du die Suche deines Browse
 | Gewachste angelaufene geschnittene Kupfertreppe   | waxed_exposed_cut_copper_stairs           | %wa_e_c_cpr_st%       | %mf% 			|
 | Gewachste verwitterte geschnittene Kupfertreppe   | waxed_weathered_cut_copper_stairs         | %wa_w_c_cpr_st%       | %ud% 			|
 | Gewachste oxidierte geschnittene Kupfertreppe     | waxed_oxidized_cut_copper_stairs          | %wa_o_c_cpr_st%       | %oa% 			|
+| Gemeißelter Kupferblock                           | chiseled_copper                           | %ch_cpr%              | %aew%			|
+| Angelaufener gemeißelter Kupferblock              | exposed_chiseled_copper                   | %e_ch_cpr%            | %aex%			|
+| Verwitterter gemeißelter Kupferblock              | weathered_chiseled_copper                 | %w_ch_cpr%            | %aey%			|
+| Oxidierter gemeißelter Kupferblock                | oxidized_chiseled_copper                  | %o_ch_cpr%            | %aez%			|
+| Gewachster gemeißelter Kupferblock                | waxed_chiseled_copper                     | %wa_ch_cpr%           | %afa%			|
+| Gewachster angelaufener gemeißelter Kupferblock   | waxed_exposed_chiseled_copper             | %wa_e_ch_cpr%         | %afb%			|
+| Gewachster verwitterter gemeißelter Kupferblock   | waxed_weathered_chiseled_copper           | %wa_w_ch_cpr%         | %afc%			|
+| Gewachster oxidierter gemeißelter Kupferblock     | waxed_oxidized_chiseled_copper            | %wa_o_ch_cpr%         | %afd%			|
+
+### Kupferleuchten
+{.compact}
+| Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
+| Kupferleuchte                                     | copper_bulb                               | %cpr_bulb%            | %aeo%         |
+| Angelaufene Kupferleuchte                         | exposed_copper_bulb                       | %e_cpr_bulb%          | %aep%         |
+| Verwitterte Kupferleuchte                         | weathered_copper_bulb                     | %w_cpr_bulb%          | %aeq%         |
+| Oxidierte Kupferleuchte                           | oxidized_copper_bulb                      | %o_cpr_bulb%          | %aer%         |
+| Gewachste Kupferleuchte                           | waxed_copper_bulb                         | %wa_cpr_bulb%         | %aes%         |
+| Gewachste angelaufene Kupferleuchte               | waxed_exposed_copper_bulb                 | %wa_e_cpr_bulb%       | %aet%         |
+| Gewachste verwitterte Kupferleuchte               | waxed_weathered_copper_bulb               | %wa_w_cpr_bulb%       | %aeu%         |
+| Gewachste oxidierte Kupferleuchte                 | waxed_oxidized_copper_bulb                | %wa_o_cpr_bulb%       | %aev%         |
+
+### Kupferrost-Blöcke
+{.compact}
+| Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
+| Kupferrost                                        | copper_grate                              | %cpr_gr%              | %afe%         |
+| Angelaufener Kupferrost                           | exposed_copper_grate                      | %e_cpr_gr%            | %aff%         |
+| Verwitterter Kupferrost                           | weathered_copper_grate                    | %w_cpr_gr%            | %afg%         |
+| Oxidierter Kupferrost                             | oxidized_copper_grate                     | %o_cpr_gr%            | %afh%         |
+| Gewachster Kupferrost                             | waxed_copper_grate                        | %wa_cpr_gr%           | %afi%         |
+| Gewachster angelaufener Kupferrost                | waxed_exposed_copper_grate                | %wa_e_cpr_gr%         | %afj%         |
+| Gewachster verwitterter Kupferrost                | waxed_weathered_copper_grate              | %wa_w_cpr_gr%         | %afk%         |
+| Gewachster oxidierter Kupferrost                  | waxed_oxidized_copper_grate               | %wa_o_cpr_gr%         | %afl%         |
+
 
 ### Fruchtbarer Boden
 {.compact}
