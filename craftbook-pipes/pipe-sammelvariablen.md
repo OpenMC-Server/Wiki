@@ -155,7 +155,7 @@ Um nach einer spezifischen Sammelvariable zu suchen, kannst du die Suche deines 
 *oak_leaves, dark_oak_leaves, spruce_leaves, birch_leaves, jungle_leaves, acacia_leaves, mangrove_leaves, cherry_leaves*
 
 [!badge variant="secondary" text="**%rr%**"] **Alle Blätter (inkl. 1.17+)**\
-*oak_leaves, dark_oak_leaves, spruce_leaves, birch_leaves, jungle_leaves, acacia_leaves, azalea_leaves, flowering_azalea_leaves, cherry_leaves*
+*oak_leaves, dark_oak_leaves, spruce_leaves, birch_leaves, jungle_leaves, acacia_leaves, mangrove_leaves, azalea_leaves, flowering_azalea_leaves, cherry_leaves*
 
 [!badge variant="secondary" text="**%ts%**"] **Alle Holzstufen**\
 *oak_slab, spruce_slab, birch_slab, jungle_slab, acacia_slab, dark_oak_slab, crimson_slab, warped_slab, mangrove_slab, cherry_slab, bamboo_slab, bamboo_mosaic_slab*
@@ -189,13 +189,13 @@ Um nach einer spezifischen Sammelvariable zu suchen, kannst du die Suche deines 
 *oak_fence_gate, spruce_fence_gate, birch_fence_gate, jungle_fence_gate, acacia_fence_gate, dark_oak_fence_gate, crimson_fence_gate, warped_fence_gate, mangrove_fence_gate, cherry_fence_gate, bamboo_fence_gate*
 
 [!badge variant="secondary" text="**%zm%**"] **Alle Treppen**\
-*diorite_stairs, polished_andesite_stairs, red_nether_brick_stairs, andesite_stairs, granite_stairs, smooth_quartz_stairs, stone_stairs, end_stone_brick_stairs, mossy_cobblestone_stairs, jungle_stairs, birch_stairs, spruce_stairs, polished_diorite_stairs, sandstone_stairs, smooth_sandstone_stairs, mossy_stone_brick_stairs, dark_oak_stairs, mangrove_stairs, purpur_stairs, stone_brick_stairs, brick_stairs, cobblestone_stairs, oak_stairs, smooth_red_sandstone_stairs,polished_granite_stairs, red_sandstone_stairs, dark_prismarine_stairs, prismarine_brick_stairs, prismarine_stairs, nether_brick_stairs, acacia_stairs, quartz_stairs, crimson_stairs, warped_stairs, blackstone_stairs, polished_blackstone_stairs, polished_blackstone_brick_stairs, obbled_deepslate_stairs, deepslate_brick_stairs, deepslate_tile_stairs, polished_deepslate_stairs, cherry_stairs, bamboo_stairs, bamboo_mosaic_stairs, mud_brick_stairs*
+*diorite_stairs, polished_andesite_stairs, red_nether_brick_stairs, andesite_stairs, granite_stairs, smooth_quartz_stairs, stone_stairs, end_stone_brick_stairs, mossy_cobblestone_stairs, jungle_stairs, birch_stairs, spruce_stairs, polished_diorite_stairs, sandstone_stairs, smooth_sandstone_stairs, mossy_stone_brick_stairs, dark_oak_stairs, mangrove_stairs, purpur_stairs, stone_brick_stairs, brick_stairs, cobblestone_stairs, oak_stairs, smooth_red_sandstone_stairs, polished_granite_stairs, red_sandstone_stairs, dark_prismarine_stairs, prismarine_brick_stairs, prismarine_stairs, nether_brick_stairs, acacia_stairs, quartz_stairs, crimson_stairs, warped_stairs, blackstone_stairs, polished_blackstone_stairs, polished_blackstone_brick_stairs, cobbled_deepslate_stairs, deepslate_brick_stairs, deepslate_tile_stairs, polished_deepslate_stairs, cherry_stairs, bamboo_stairs, bamboo_mosaic_stairs, mud_brick_stairs, tuff_stairs, polished_tuff_stairs, tuff_brick_stairs*
 
 [!badge variant="secondary" text="**%zn%**"] **Alle Stufen**\
-*smooth_stone_slab, oak_slab, spruce_slab, birch_slab, acacia_slab, jungle_slab, dark_oak_slab, mangrove_slab,stone_slab, sandstone_slab, cut_sandstone_slab, petrified_oak_slab, brick_slab, stone_brick_slab, nether_brick_slab, quartz_slab, red_sandstone_slab, cut_red_sandstone_slab, purpur_slab, prismarine_slab, prismarine_brick_slab, dark_prismarine_slab, polished_diorite_slab, smooth_red_sandstone_slab, mossy_stone_brick_slab, polished_granite_slab, mossy_cobblestone_slab, end_stone_brick_slab, smooth_sandstone_slab, smooth_quartz_slab, granite_slab, andesite_slab, red_nether_brick_slab, polished_andesite_slab, diorite_slab, cobblestone_slab, warped_slab, crimson_slab, blackstone_slab, polished_blackstone_slab, polished_blackstone_brick_slab, cobbled_deepslate_slab, deepslate_brick_slab, deepslate_tile_slab, polished_deepslate_slab, cherry_slab, bamboo_slab, bamboo_mosaic_slab, mud_brick_slab*
+*smooth_stone_slab, oak_slab, spruce_slab, birch_slab, acacia_slab, jungle_slab, dark_oak_slab, mangrove_slab,stone_slab, sandstone_slab, cut_sandstone_slab, petrified_oak_slab, brick_slab, stone_brick_slab, nether_brick_slab, quartz_slab, red_sandstone_slab, cut_red_sandstone_slab, purpur_slab, prismarine_slab, prismarine_brick_slab, dark_prismarine_slab, polished_diorite_slab, smooth_red_sandstone_slab, mossy_stone_brick_slab, polished_granite_slab, mossy_cobblestone_slab, end_stone_brick_slab, smooth_sandstone_slab, smooth_quartz_slab, granite_slab, andesite_slab, red_nether_brick_slab, polished_andesite_slab, diorite_slab, cobblestone_slab, warped_slab, crimson_slab, blackstone_slab, polished_blackstone_slab, polished_blackstone_brick_slab, cobbled_deepslate_slab, deepslate_brick_slab, deepslate_tile_slab, polished_deepslate_slab, cherry_slab, bamboo_slab, bamboo_mosaic_slab, mud_brick_slab, tuff_slab, polished_tuff_slab, tuff_brick_slab*
 
 [!badge variant="secondary" text="**%zo%**"] **Alle Mauern**\
-*cobblestone_wall, mossy_cobblestone_wall, brick_wall, prismarine_wall, red_sandstone_wall, mossy_stone_brick_wall, granite_wall, stone_brick_wall, nether_brick_wall, andesite_wall, red_nether_brick_wall, sandstone_wall, end_stone_brick_wall, diorite_wall, blackstone_wall, polished_blackstone_wall, polished_blackstone_brick_wall, cobbled_deepslate_wall, deepslate_brick_wall, deepslate_tile_wall, polished_deepslate_wall, mud_brick_wall*
+*cobblestone_wall, mossy_cobblestone_wall, brick_wall, prismarine_wall, red_sandstone_wall, mossy_stone_brick_wall, granite_wall, stone_brick_wall, nether_brick_wall, andesite_wall, red_nether_brick_wall, sandstone_wall, end_stone_brick_wall, diorite_wall, blackstone_wall, polished_blackstone_wall, polished_blackstone_brick_wall, cobbled_deepslate_wall, deepslate_brick_wall, deepslate_tile_wall, polished_deepslate_wall, mud_brick_wall, tuff_wall, polished_tuff_wall, tuff_brick_wall*
 
 [!badge variant="secondary" text="**%vs%**"] **Alle Boote**\
 *oak_boat, spruce_boat, birch_boat, jungle_boat, acacia_boat, dark_oak_boat, cherry_boat, bamboo_raft*
@@ -238,7 +238,7 @@ Um nach einer spezifischen Sammelvariable zu suchen, kannst du die Suche deines 
 *black_banner, white_banner, orange_banner, magenta_banner, light_blue_banner, yellow_banner, lime_banner, pink_banner, gray_banner, light_gray_banner, red_banner, green_banner, brown_banner, blue_banner, purple_banner, cyan_banner*
 
 [!badge variant="secondary" text="**%yi%**"] **Alle Bannervorlagen**\
-*flower_banner_pattern, creeper_banner_pattern, mojang_banner_pattern, globe_banner_pattern, piglin_banner_pattern, skull_banner_pattern*
+*flower_banner_pattern, creeper_banner_pattern, mojang_banner_pattern, globe_banner_pattern, piglin_banner_pattern, skull_banner_pattern, flow_banner_pattern, guster_banner_pattern*
 
 [!badge variant="secondary" text="**%rz%**"] **Alle Kerzen**\
 *candle, white_candle, orange_candle, magenta_candle, light_blue_candle, yellow_candle, lime_candle, pink_candle, gray_candle, light_gray_candle, cyan_candle, purple_candle, blue_candle, brown_candle, green_candle, red_candle, black_candle*
@@ -361,7 +361,7 @@ Um nach einer spezifischen Sammelvariable zu suchen, kannst du die Suche deines 
 *seagrass, sea_pickle, kelp, lily_pad, grass, fern, dead_bush, brown_mushroom, red_mushroom, vine, weeping_vines, twisting_vines, crimson_fungus, warped_fungus, crimson_roots, warped_roots, nether_sprouts*
 
 [!badge variant="secondary" text="**%rq%**"] **Diverse Pflanzen (inkl. 1.17+)**\
-*seagrass, sea_pickle, kelp, lily_pad, grass, fern, dead_bush, brown_mushroom, red_mushroom, vine, weeping_vines, twisting_vines, crimson_fungus, warped_fungus, crimson_roots, warped_roots, nether_sprouts, azalea, flowering_azalea, big_dripleaf, small_dripleaf, glow_lichen, hanging_roots*
+*seagrass, sea_pickle, kelp, lily_pad, short_grass, fern, dead_bush , brown_mushroom, red_mushroom, vine,weeping_vines, twisting_vines, crimson_fungus, warped_fungus, crimson_roots, warped_roots, nether_sprouts, azalea, flowering_azalea, big_dripleaf, small_dripleaf, glow_lichen, hanging_roots, spore_blossom*
 
 [!badge variant="secondary" text="**%aeb%**"] **Alle Wasserpflanzen**\
 *kelp, dried_kelp, dried_kelp_block, sea_pickle, seagrass, small_dripleaf, big_dripleaf, glow_lichen*
@@ -447,7 +447,7 @@ Um nach einer spezifischen Sammelvariable zu suchen, kannst du die Suche deines 
 ### Kupfer
 
 [!badge variant="secondary" text="**%rt%**"] **Alle Kupferblöcke und Kupferblockerzeugnisse**\
-*exposed_copper, weathered_copper, oxidized_copper, cut_copper, exposed_cut_copper, weathered_cut_copper, oxidized_cut_copper, waxed_copper_block, waxed_exposed_copper, waxed_weathered_copper, waxed_oxidized_copper, waxed_cut_copper, waxed_exposed_cut_copper, waxed_weathered_cut_copper, waxed_oxidized_cut_copper, cut_copper_slab, exposed_cut_copper_slab, weathered_cut_copper_slab, oxidized_cut_copper_slab, cut_copper_stairs, exposed_cut_copper_stairs, weathered_cut_copper_stairs, oxidized_cut_copper_stairs, waxed_cut_copper_slab, waxed_exposed_cut_copper_slab, waxed_weathered_cut_copper_slab, waxed_oxidized_cut_copper_slab, waxed_cut_copper_stairs, waxed_exposed_cut_copper_stairs, waxed_weathered_cut_copper_stairs, waxed_oxidized_cut_copper_stairs*
+*exposed_copper, weathered_copper, oxidized_copper, cut_copper, exposed_cut_copper, weathered_cut_copper, oxidized_cut_copper, waxed_copper_block, waxed_exposed_copper, waxed_weathered_copper, waxed_oxidized_copper, waxed_cut_copper, waxed_exposed_cut_copper, waxed_weathered_cut_copper, waxed_oxidized_cut_copper, cut_copper_slab, exposed_cut_copper_slab, weathered_cut_copper_slab, oxidized_cut_copper_slab, cut_copper_stairs, exposed_cut_copper_stairs, weathered_cut_copper_stairs, oxidized_cut_copper_stairs, waxed_cut_copper_slab, waxed_exposed_cut_copper_slab, waxed_weathered_cut_copper_slab, waxed_oxidized_cut_copper_slab, waxed_cut_copper_stairs, waxed_exposed_cut_copper_stairs, waxed_weathered_cut_copper_stairs, waxed_oxidized_cut_copper_stairs, copper_bulb, exposed_copper_bulb, weathered_copper_bulb, oxidized_copper_bulb, waxed_copper_bulb, waxed_exposed_copper_bulb, waxed_weathered_copper_bulb, waxed_oxidized_copper_bulb, chiseled_copper, exposed_chiseled_copper, weathered_chiseled_copper, oxidized_chiseled_copper, waxed_chiseled_copper, waxed_exposed_chiseled_copper, waxed_weathered_chiseled_copper, waxed_oxidized_chiseled_copper, copper_grate, exposed_copper_grate, weathered_copper_grate, oxidized_copper_grate, waxed_copper_grate, waxed_exposed_copper_grate, waxed_weathered_copper_grate, waxed_oxidized_copper_grate, copper_door, exposed_copper_door, weathered_copper_door, oxidized_copper_door, waxed_copper_door, waxed_exposed_copper_door, waxed_weathered_copper_door, waxed_oxidized_copper_door, copper_trapdoor, exposed_copper_trapdoor, weathered_copper_trapdoor, oxidized_copper_trapdoor, waxed_copper_trapdoor, waxed_exposed_copper_trapdoor, waxed_weathered_copper_trapdoor, waxed_oxidized_copper_trapdoor*
 
 [!badge variant="secondary" text="**%uh%**"] **Alle unbearbeiteten Kupferblöcke**\
 *exposed_copper, weathered_copper, oxidized_copper*
@@ -487,13 +487,13 @@ Um nach einer spezifischen Sammelvariable zu suchen, kannst du die Suche deines 
 *crafting_table, ladder, chest, ender_chest, furnace, smoker, enchanting_table, anvil, chipped_anvil, damaged_anvil, jukebox, lodestone, respawn_anchor, conduit, end_crystal, beacon*
 
 [!badge variant="secondary" text="**%sm%**"] **Diverse Nutzblöcke (inkl. 1.17+)**\
-*crafting_table, ladder, chest, trapped_chest, ender_chest, furnace, smoker, hopper, enchanting_table, anvil, chipped_anvil, damaged_anvil, jukebox, note_block, lodestone, respawn_anchor, conduit, end_crystal, beacon, lightning_rod*
+*crafting_table, ladder, chest, trapped_chest, ender_chest, furnace, smoker, hopper, enchanting_table, anvil, chipped_anvil, damaged_anvil, jukebox, note_block, lodestone, respawn_anchor, conduit, end_crystal, beacon, lightning_rod, crafter*
 
 [!badge variant="secondary" text="**%vz%**"] **Fackeln + Laternen**\
 *torch, soul_torch, lantern, soul_lantern*
 
 [!badge variant="secondary" text="**%aab%**"] **Alle Lichtquellen**\
-*torch, soul_torch, lantern, soul_lantern, end_rod, glowstone, shroomlight, ochre_froglight, verdant_froglight, pearlescent_froglight*
+*torch, soul_torch, lantern, soul_lantern, end_rod, glowstone, shroomlight, ochre_froglight, verdant_froglight, pearlescent_froglight, sea_lantern, redstone_lamp*
 
 [!badge variant="secondary" text="**%wp%**"] **Alle Kopfvarianten**\
 !!!warning
@@ -576,7 +576,7 @@ Zu gesonderten Infos rund um `player_head` kannst du [hier](https://wiki.openmc.
 *wooden_sword, stone_sword, iron_sword, golden_sword, diamond_sword, netherite_sword*
 
 [!badge variant="secondary" text="**%wt%**"] **Alle Waffen**\
-*wooden_sword, stone_sword, iron_sword, golden_sword, diamond_sword, netherite_sword, bow, crossbow, trident, flint_and_steel, shield*
+*wooden_sword, stone_sword, iron_sword, golden_sword, diamond_sword, netherite_sword, bow,crossbow, trident, flint_and_steel, shield, mace*
 
 ### Essen
 [!badge variant="secondary" text="**%wj%**"] **Alle Nutz- und essbaren Pflanzen (ohne 1.17+)**\
@@ -648,7 +648,7 @@ Zu gesonderten Infos rund um `player_head` kannst du [hier](https://wiki.openmc.
 
 ### Mob Drops
 [!badge variant="secondary" text="**%xb%**"] **Alle Monster-Drops**\
-*rotten_flesh, gunpowder, arrow, bone, slime_ball, string, spider_eye, nautilus_shell, blaze_rod, ender_pearl, ghast_tear, totem_of_undying, magma_cream, shulker_shell, nether_star, phantom_membrane*
+*rotten_flesh, gunpowder, arrow, bone, slime_ball, string, spider_eye, nautilus_shell, blaze_rod, ender_pearl, ghast_tear, totem_of_undying, magma_cream, shulker_shell, nether_star, phantom_membrane, breeze_rod*
 
 [!badge variant="secondary" text="**%xc%**"] **Alle Tier-Drops**\
 *egg, feather, leather, ink_sac, rabbit_hide, rabbit_foot*
@@ -661,7 +661,7 @@ Zu gesonderten Infos rund um `player_head` kannst du [hier](https://wiki.openmc.
 *bucket, water_bucket, lava_bucket, milk_bucket, pufferfish_bucket, salmon_bucket, cod_bucket, tropical_fish_bucket, axolotl_bucket, powder_snow_bucket*
 
 [!badge variant="secondary" text="**%yk%**"] **Alle Schallplatten**\
-*music_disc_wait, music_disc_cat, music_disc_13, music_disc_blocks, music_disc_chirp, music_disc_far, music_disc_mall, music_disc_11, music_disc_strad, music_disc_stal, music_disc_mellohi, music_disc_pigstep, music_disc_ward, music_disc_relic*
+*music_disc_wait, music_disc_cat, music_disc_13, music_disc_blocks, music_disc_chirp, music_disc_far, music_disc_mall, music_disc_11, music_disc_strad, music_disc_stal, music_disc_mellohi, music_disc_pigstep, music_disc_ward, music_disc_relic, music_disc_precipice, music_disc_creator, music_disc_creator_music_box*
 
 [!badge variant="secondary" text="**%ws%**"] **Uhr, Kompass, Karten**\
 *clock, compass, map, filled_map*
@@ -679,7 +679,7 @@ Zu gesonderten Infos rund um `player_head` kannst du [hier](https://wiki.openmc.
 *raw_copper, raw_iron, _raw_gold, nether_gold_ore, ancient_debris, copper_ore, diamond_ore, gold_ore, iron_ore, lapis_ore, redstone_ore, coal_ore, emerald_ore, nether_quartz_ore, iron_pickaxe, iron_shovel, iron_axe, iron_hoe, golden_pickaxe, golden_shovel, golden_axe, golden_hoe, chainmail_helmet, chainmail_chestplate, chainmail_leggings, chainmail_boots, golden_helmet, golden_chestplate, golden_leggings, golden_boots, iron_helmet, iron_chestplate, iron_leggings, iron_boots, iron_sword, golden_sword, iron_horse_armor, golden_horse_armor, deepslate_copper_ore, deepslate_diamond_ore, deepslate_emerald_ore, deepslate_gold_ore, deepslate_iron_ore, deepslate_lapis_ore, deepslate_redstone_ore*
 
 [!badge variant="secondary" text="**%aeh%**"] **Alle Schmiedevorlagen**\
-*netherite_upgrade_smithing_template, sentry_armor_trim_smithing_template, vex_armor_trim_smithing_template, wild_armor_trim_smithing_template, coast_armor_trim_smithing_template, dune_armor_trim_smithing_template, wayfinder_armor_trim_smithing_template, raiser_armor_trim_smithing_template, shaper_armor_trim_smithing_template, host_armor_trim_smithing_template, ward_armor_trim_smithing_template, silence_armor_trim_smithing_template, tide_armor_trim_smithing_template, snout_armor_trim_smithing_template, rib_armor_trim_smithing_template, eye_armor_trim_smithing_template, spire_armor_trim_smithing_template*
+*netherite_upgrade_smithing_template, sentry_armor_trim_smithing_template, vex_armor_trim_smithing_template, wild_armor_trim_smithing_template, coast_armor_trim_smithing_template, dune_armor_trim_smithing_template, wayfinder_armor_trim_smithing_template, raiser_armor_trim_smithing_template, shaper_armor_trim_smithing_template, host_armor_trim_smithing_template, ward_armor_trim_smithing_template, silence_armor_trim_smithing_template, tide_armor_trim_smithing_template, snout_armor_trim_smithing_template, rib_armor_trim_smithing_template, eye_armor_trim_smithing_template, spire_armor_trim_smithing_template, flow_armor_trim_smithing_template, bolt_armor_trim_smithing_template*
 
 [!badge variant="secondary" text="**%aei%**"] **Alle Töpferscherben**\
-*angler_pottery_sherd, miner_pottery_sherd, brewer_pottery_sherd, explorer_pottery_sherd, burn_pottery_sherd, friend_pottery_sherd, sheaf_pottery_sherd, arms_up_pottery_sherd, danger_pottery_sherd, howl_pottery_sherd, heart_pottery_sherd, heartbreak_pottery_sherd, prize_pottery_sherd, blade_pottery_sherd, plenty_pottery_sherd, snort_pottery_sherd, archer_pottery_sherd, skull_pottery_sherd, mourner_pottery_sherd, shelter_pottery_sherd*
+*angler_pottery_sherd,miner_pottery_sherd,brewer_pottery_sherd,explorer_pottery_sherd,burn_pottery_sherd,friend_pottery_sherd,sheaf_pottery_sherd,arms_up_pottery_sherd,danger_pottery_sherd,howl_pottery_sherd,heart_pottery_sherd,heartbreak_pottery_sherd,prize_pottery_sherd,blade_pottery_sherd,plenty_pottery_sherd,snort_pottery_sherd,archer_pottery_sherd,skull_pottery_sherd,mourner_pottery_sherd,shelter_pottery_sherd,flow_pottery_sherd,guster_pottery_sherd,scrape_pottery_sherd, flow_pottery_sherd, guster_pottery_sherd, scrape_pottery_sherd*
