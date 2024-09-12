@@ -173,6 +173,9 @@ Um nach einer spezifischen Sammelvariable zu suchen, kannst du die Suche deines 
 [!badge variant="secondary" text="**%zh%**"] **Alle Falltüren**\
 *oak_trapdoor, spruce_trapdoor, birch_trapdoor, jungle_trapdoor, acacia_trapdoor, dark_oak_trapdoor, iron_trapdoor, crimson_trapdoor, warped_trapdoor, mangrove_trapdoor, cherry_trapdoor, bamboo_trapdoor*
 
+[!badge variant="secondary" text="**%ahp%**"] **Alle Falltüren (1.21+)**\
+*oak_trapdoor, spruce_trapdoor, birch_trapdoor, jungle_trapdoor, acacia_trapdoor, dark_oak_trapdoor, iron_trapdoor, crimson_trapdoor, warped_trapdoor, mangrove_trapdoor, cherry_trapdoor, bamboo_trapdoor, copper_trapdoor, exposed_copper_trapdoor, weathered_copper_trapdoor, oxidized_copper_trapdoor, waxed_copper_trapdoor, waxed_exposed_copper_trapdoor, waxed_weathered_copper_trapdoor, waxed_oxidized_copper_trapdoor*
+
 [!badge variant="secondary" text="**%zi%**"] **Alle Knöpfe**\
 *stone_button, dark_oak_button, acacia_button, jungle_button, birch_button, spruce_button, oak_button, crimson_button, warped_button, mangrove_button, polished_blackstone_button, cherry_button, bamboo_button*
 
@@ -181,6 +184,9 @@ Um nach einer spezifischen Sammelvariable zu suchen, kannst du die Suche deines 
 
 [!badge variant="secondary" text="**%zg%**"] **Alle Türen**\
 *oak_door, spruce_door, birch_door, jungle_door, acacia_door, dark_oak_door, crimson_door, warped_door, iron_door, mangrove_door, cherry_door, bamboo_door*
+
+[!badge variant="secondary" text="**%ahp%**"] **Alle Falltüren (1.21+)**\
+*oak_door, spruce_door, birch_door, jungle_door, acacia_door, dark_oak_door, crimson_door, warped_door, iron_door, mangrove_door, cherry_door, bamboo_door, copper_door, exposed_copper_door, weathered_copper_door, oxidized_copper_door, waxed_copper_door, waxed_exposed_copper_door, waxed_weathered_copper_door, waxed_oxidized_copper_door*
 
 [!badge variant="secondary" text="**%zk%**"] **Alle Zäune**\
 *oak_fence, birch_fence, spruce_fence, jungle_fence, acacia_fence, dark_oak_fence, nether_brick_fence, crimson_fence, warped_fence, mangrove_fence, cherry_fence, bamboo_fence*
@@ -304,6 +310,9 @@ Um nach einer spezifischen Sammelvariable zu suchen, kannst du die Suche deines 
 
 [!badge variant="secondary" text="**%aac%**"] **Alle polierten Schwarzsteinerzeugnisse**\
 *polished_blackstone_wall, polished_blackstone_brick_wall, polished_blackstone_button, polished_blackstone_pressure_plate, polished_blackstone, polished_blackstone_slab, polished_blackstone_stairs, chiseled_polished_blackstone, polished_blackstone_bricks, polished_blackstone_brick_slab, polished_blackstone_brick_stairs, cracked_polished_blackstone_bricks*
+
+[!badge variant="secondary" text="**%aho%**"] **Alle Tuffblöcke- & Erzeugnisse**\
+*tuff, tuff_stairs, tuff_slab, tuff_wall, chiseled_tuff, polished_tuff, polished_tuff_stairs, polished_tuff_slab, polished_tuff_wall, tuff_bricks,tuff_brick_stairs, tuff_brick_slab, tuff_brick_wall, chiseled_tuff_bricks*
 
 ### Tiefenschiefer
 [!badge variant="secondary" text="**%sk%**"] **Alle Tiefenschiefererzeugnisse**\
@@ -470,6 +479,21 @@ Um nach einer spezifischen Sammelvariable zu suchen, kannst du die Suche deines 
 [!badge variant="secondary" text="**%rx%**"] **Alle gewachsten, geschnittenen Kupferblockerzeugnisse**\
 *waxed_cut_copper_slab, waxed_exposed_cut_copper_slab, waxed_weathered_cut_copper_slab, waxed_oxidized_cut_copper_slab, waxed_cut_copper_stairs, waxed_exposed_cut_copper_stairs, waxed_weathered_cut_copper_stairs, waxed_oxidized_cut_copper_stairs*
 
+[!badge variant="secondary" text="**%ahj%**"] **Alle Kupferleuchten**\
+*copper_bulb, exposed_copper_bulb, weathered_copper_bulb, oxidized_copper_bulb, waxed_copper_bulb, waxed_exposed_copper_bulb, waxed_weathered_copper_bulb, waxed_oxidized_copper_bulb*
+
+[!badge variant="secondary" text="**%ahk%**"] **Alle gemeißelten Kupferblöcke**\
+*chiseled_copper, exposed_chiseled_copper, weathered_chiseled_copper, oxidized_chiseled_copper, waxed_chiseled_copper, waxed_exposed_chiseled_copper, waxed_weathered_chiseled_copper, waxed_oxidized_chiseled_copper*
+
+[!badge variant="secondary" text="**%ahl%**"] **Alle Kupferrost-Blöcke**\
+*copper_grate, exposed_copper_grate, weathered_copper_grate, oxidized_copper_grate, waxed_copper_grate, waxed_exposed_copper_grate, waxed_weathered_copper_grate, waxed_oxidized_copper_grate*
+
+[!badge variant="secondary" text="**%ahm%**"] **Alle Kupfertüren**\
+*copper_door, exposed_copper_door, weathered_copper_door, oxidized_copper_door, waxed_copper_door, waxed_exposed_copper_door, waxed_weathered_copper_door, waxed_oxidized_copper_door*
+
+[!badge variant="secondary" text="**%ahn%**"] **Alle Kupferfalltüren**\
+*copper_trapdoor, exposed_copper_trapdoor, weathered_copper_trapdoor, oxidized_copper_trapdoor, waxed_copper_trapdoor, waxed_exposed_copper_trapdoor, waxed_weathered_copper_trapdoor, waxed_oxidized_copper_trapdoor*
+
 ### Dekorationen und sonstige Baublöcke
 [!badge variant="secondary" text="**%wq%**"] **Diverse Dekorationen (ohne 1.17+)**\
 *armor_stand, scaffolding, painting, item_frame, bell, chain, campfire, soul_campfire, cobweb, dragon_egg, lead, name_tag, flower_pot*
@@ -494,6 +518,9 @@ Um nach einer spezifischen Sammelvariable zu suchen, kannst du die Suche deines 
 
 [!badge variant="secondary" text="**%aab%**"] **Alle Lichtquellen**\
 *torch, soul_torch, lantern, soul_lantern, end_rod, glowstone, shroomlight, ochre_froglight, verdant_froglight, pearlescent_froglight, sea_lantern, redstone_lamp*
+
+[!badge variant="secondary" text="**%aen%**"] **Alle Lichtquellen (1.21+)**\
+*torch, soul_torch, lantern, soul_lantern, end_rod, glowstone, shroomlight, ochre_froglight, verdant_froglight, pearlescent_froglight, sea_lantern, redstone_lamp, copper_bulb, exposed_copper_bulb, weathered_copper_bulb, oxidized_copper_bulb, waxed_copper_bulb, waxed_exposed_copper_bulb, waxed_weathered_copper_bulb, waxed_oxidized_copper_bulb*
 
 [!badge variant="secondary" text="**%wp%**"] **Alle Kopfvarianten**\
 !!!warning
