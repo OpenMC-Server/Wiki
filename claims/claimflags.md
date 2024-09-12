@@ -61,7 +61,7 @@ NoSnowForm              | Bildung von Schnee deaktivieren. | 50k $
 NoStructureGrowth       | Das Wachstum von Setzlingen, Pilzen und Chorusfrüchten deaktivieren. | 50k $
 NoVineGrowth            | Das Wachstum von Ranken und Leuchtbeeren deaktivieren. | 50k $
 ProtectNamedMobs        | Benannte Mobs dürfen nur mit ContainerTrust geschlagen werden. Gilt auch für Owner. | 30k $
-RaidMemberOnly          | Fremde Spieler können keine Raids auf dem Claim starten. | 35k $
+RaidMemberOnly          | Fremde Spieler können keine Raids auf dem Claim starten. | 25k $
 ReadLecterns            | Das Lesen signierter Bücher in Lesepulten erlauben. | 20k $
 NoEnter [Industriewelt] | Das Betreten des Claims durch fremde Spieler deaktivieren. | 0 $
 NoMapMaking             | Das Erstellen von Maps durch fremde Spieler deaktivieren. | 0 $
