@@ -27,4 +27,16 @@ Verlierst du deine Items durch einen Bug oder anderweitig vom Server ausgelöste
 Bist du für längere Zeit inaktiv, so kannst du uns über ein Ticket im [Discord](https://discord.com/invite/ecqPF34) oder auch jemandem einzelnen durch eine Privatnachricht Bescheid geben, dass du dich für den entsprechenden Zeitraum abmeldest. Dadurch werden deine Claims für bis zu 3 Monate für dich geschützt.
 ==- Kann ich einen Claim von einem inaktiven Spieler übernehmen?
 Dies ist grundlegend möglich! Beachte dazu bitte die Vorgaben zu den [Claimvergaben](https://wiki.openmc.net/sonstiges/richtlinien/#claimvergaben).
-==-
+==- Wie kann ich mit dem Serverteam in Kontakt treten?
+Wir freuen uns über deine Nachrichten! Ob per Ingame MSG, öffentlich im Chat, als Discord Ticket, im Talk oder im Zuge eines Spielertreffens. Natürlich steht dir auch unser Forum als Austauschplattform zur Verfügung.
+Du kannst jederzeit mit deinen Anliegen und Themen, seien es Ideen, Beschwerden oder Feedback an uns herantreten.
+(Beachtet hierbei bitte unsere Teamstruktur. Die Spielerkommunikation zählt nicht zu den Hauptaufgaben unseres Eventteams)
+==- Wie kann ich Feedback geben/mich einbringen?
+Konstruktives Feedback ist sehr gerne gesehen. Dieses hilft uns mögliche Schwachpunkte aufzudecken und das Spielerlebnis auf OpenMC noch weiter verbessern zu können.
+Dir stehen dafür die oben genannten Kommunikationswege zur Verfügung.
+Insbesondere genaue Ausführungen zu den Einzelheiten und detaillierte Vorschläge, wie dies deiner Meinung nach verbessert werden könnte helfen uns auf unserem Optimierungsprozess.
+Feedback bewerten wir innerhalb des Teams und entscheiden dann unter Berücksichtigung verschiedener Kriterien, ob wir dieses umsetzen können und möchten.
+==- Wie werden neue Vorschläge umgesetzt?
+Ideen, welche an uns herangetragen oder durch uns erdacht werden, werden in unseren monatlichen Teambesprechungen betrachtet.
+Hierbei achten wir insbesondere darauf, ob diese Idee technisch umsetzbar ist und ob der nötige Aufwand dazu in einem vertrebaren Verhältnis zum daraus resultieren Nutzen und Spielspaß steht.
+Natürlich betrachten wir auch, ob unsere Vorstellung von OpenMC von dieser Idee profitiert und inwiefern diese in langfristige Projekte integriert werden kann.
