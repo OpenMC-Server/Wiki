@@ -183,7 +183,7 @@ Gewinn                      | Wahrscheinlichkeit in %
 {.compact}
 Gewinn                          | Wahrscheinlichkeit in %
 ---                             | ---
-Universelles Petfutter¹         | 8,00
+Universelles Petfutter          | 8,00
 Rückstoß II Stock               | 3,00
 Rückstoß V Stock                | 2,00
 Rückstoß X Stock                | 1,00
@@ -216,7 +216,6 @@ Saison Kopf                     | 3,00
 Joris Wuerfel                   | 1,00
 Eules Feder                     | 1,00
 
-¹ Du erhältst das Petfutter nicht direkt, sondern einen Gutschein. Diesen kannst du direkt beim Dorfbewohner, der sich hinter der Collector-Chest befindet, einlösen.
 ==-
 
 ---
