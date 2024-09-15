@@ -932,7 +932,7 @@ Um nach einer spezifischen Variable zu suchen, kannst du die Suche deines Browse
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
 | ---                                               | ---                                       | ---                   | ---           |
-| Kupfertür                                         | copper_trapdoor                               | %cpr_door%            | %afu%         |
+| Kupferfalltür                                         | copper_trapdoor                               | %cpr_door%            | %afu%         |
 | Angelaufene Kupferfalltür                         | exposed_copper_trapdoor                   | %e_cpr_trap%          | %afv%         |
 | Verwitterte Kupferfalltür                         | weathered_copper_trapdoor                 | %w_cpr_trap%          | %afw%         |
 | Oxidierte Kupferfalltür                           | oxidized_copper_trapdoor                  | %o_cpr_trap%          | %afx%         |
