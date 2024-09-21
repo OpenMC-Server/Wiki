@@ -391,10 +391,10 @@ Um nach einer spezifischen Sammelvariable zu suchen, kannst du die Suche deines 
 *brick, bricks, brick_slab, brick_stairs, brick_wall*
 
 [!badge variant="secondary" text="**%wg%**"] **Gras (Pflanze) + Variationen (ohne 1.17+)**\
-*grass, tall_grass, fern, large_fern, dead_bush, lily_pad, seagrass, tall_seagrass*
+*short_grass, tall_grass, fern, large_fern, dead_bush, lily_pad, seagrass, tall_seagrass*
 
 [!badge variant="secondary" text="**%sl%**"] **Gras (Pflanze) + Variationen (inkl. 1.17+)**\
-*grass, tall_grass, fern, large_fern, dead_bush, lily_pad, seagrass, tall_seagrass, big_dripleaf, small_dripleaf, glow_lichen, hanging_roots*
+*short_grass, tall_grass, fern, large_fern, dead_bush, lily_pad, seagrass, tall_seagrass, big_dripleaf, small_dripleaf, glow_lichen, hanging_roots*
 
 [!badge variant="secondary" text="**%wh%**"] **Gras (Pflanze) + Variationen mit Nether (ohne 1.17+)**\
 *grass, tall_grass, fern, large_fern, dead_bush, lily_pad, seagrass, tall_seagrass, nether_sprouts, crimson_roots, warped_roots*
@@ -415,7 +415,7 @@ Um nach einer spezifischen Sammelvariable zu suchen, kannst du die Suche deines 
 *sugar_cane, cactus, bamboo*
 
 ### Redstone
-[!badge variant="secondary" text="**%vr%**"] **Alle Loren**\
+[!badge variant="secondary" text="**%vt%**"] **Alle Loren**\
 *minecart, chest_minecart, furnace_minecart, hopper_minecart, tnt_minecart*
 
 [!badge variant="secondary" text="**%vu%**"] **Alle Schienen**\
@@ -678,7 +678,7 @@ Zu gesonderten Infos rund um `player_head` kannst du [hier](https://wiki.openmc.
 *rotten_flesh, gunpowder, arrow, bone, slime_ball, string, spider_eye, nautilus_shell, blaze_rod, ender_pearl, ghast_tear, totem_of_undying, magma_cream, shulker_shell, nether_star, phantom_membrane, breeze_rod*
 
 [!badge variant="secondary" text="**%xc%**"] **Alle Tier-Drops**\
-*egg, feather, leather, ink_sac, rabbit_hide, rabbit_foot*
+*egg, feather, leather, ink_sac, rabbit_hide, rabbit_foot, glow_ink_sac*
 
 ### Andere Items
 [!badge variant="secondary" text="**%yj%**"] **Alle Eimer (ohne 1.17+)**\
