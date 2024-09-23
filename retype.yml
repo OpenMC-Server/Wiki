@@ -55,6 +55,12 @@ branding:
   logo: /images/Logo_Transparent.png
   logoDark: /images/Logo_Transparent_Weiß.png
   logoAlign: left
+  label: MC 1.21.1
+
+  colors:
+   label:                    # Label colors
+      text: "#1f7aff"         # Custom color for the label text
+      background: "#e1edff"   # Custom color for the label background
 
 # -----------------------------------------------------------------------------
 
