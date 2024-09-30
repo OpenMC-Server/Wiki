@@ -45,7 +45,7 @@ ExitMessage             | Nachricht beim Verlassen des Claims anzeigen. | 30k $
 NoBlockForm             | Das Formen von Schnee, Eis, Obsidian/Cobblestone (Wasser/Lava), Betonpulver/Wasser deaktivieren. | 60k $
 NoBlockSpread           | Die Ausbreitung von Blöcken deaktivieren. | 60k $
 NoChorusFruit           | Die Verwendung von Chorusfrüchten deaktivieren. | 25k $
-NoCoralDecay            | Den Verfall von Korallen deaktivieren. | 75k $
+NoCoralDeath            | Den Verfall von Korallen deaktivieren. | 75k $
 NoDripstoneSpread       | Die Ausbreitung von Dripstones deaktivieren. | 50k $
 NoEnderPearl            | Die Verwendung von Enderperlen deaktivieren. | 25k $
 NoFallDamage            | Fallschaden deaktivieren. | 15k $
