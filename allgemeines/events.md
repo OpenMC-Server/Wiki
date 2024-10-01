@@ -12,9 +12,9 @@ Auf dieser Seite findest du Erläuterungen zu den Events, die regelmäßig auf O
 
 ## Bauevent
 !!! Aktuelles Bauevent:
-*Thema:* Turm\
-*Dauer:* 2. - 28. September\
-*Bewertungsevent:* 28.09., 15 Uhr - 21 Uhr
+*Thema:* Halloween/Horror\
+*Dauer:* 1. - 26. Oktober\
+*Bewertungsevent:* 26.10., 15 Uhr - 21 Uhr
 !!!
 
 ### Über das Bauevent
