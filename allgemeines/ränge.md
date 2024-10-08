@@ -76,6 +76,7 @@ Partikel                    |         |         | ✓     | ✓     |           
 /hat                        |         | ✓       | ✓     | ✓     |           | ✓
 /heal                       |         |         |       |       | ✓         | ✓
 /ptime & /pweather          |         |         | ✓     | ✓     |           | ✓
+/pistonclap                 |         |         | ✓     | ✓     |           | ✓
 
 ¹ Auch beim Wechsel auf einen niedrigeren Rang bleiben bereits gesetzte Homes erhalten, können aber nicht mehr umgesetzt werden.\
 ² Auch beim Wechsel auf einen niedrigeren Rang bleiben bereits gespeicherte Pets erhalten, können aber nicht mehr eingelagert werden.\
