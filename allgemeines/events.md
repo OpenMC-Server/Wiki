@@ -12,9 +12,9 @@ Auf dieser Seite findest du Erläuterungen zu den Events, die regelmäßig auf O
 
 ## Bauevent
 !!! Aktuelles Bauevent:
-*Thema:* Halloween/Horror\
-*Dauer:* 1. - 26. Oktober\
-*Bewertungsevent:* 26.10., 15 Uhr - 21 Uhr
+*Thema:* Historisch\
+*Dauer:* 1. - 30. November\
+*Bewertungsevent:* 30.11., 15 Uhr - 21 Uhr
 !!!
 
 ### Über das Bauevent
