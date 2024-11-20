@@ -30,8 +30,8 @@ In deiner ausgewählten Kategorie kannst du nun deine Farm auswählen, um die An
 Zuletzt wählst du aus, ob deine Farm halbautomatisch oder vollautomatisch ist, um die Anmeldung abzuschließen. Unter welche Definition deine Farm genau fällt, kannst du dir in den [Richtlinien](https://wiki.openmc.net/sonstiges/richtlinien/#farmen) ansehen.
 
 
-## Farm anschauen
-Über den Befehl `/farmen anschauen` kannst du eine GUI öffnen, in welcher du alle deine angemeldeten Farmen inklusive Koordinaten, Welt und Distanz zum Spawn anschauen kannst.
+## Angemeldete Farmen anschauen
+Über den Befehl `/farmen anschauen` kannst du eine GUI öffnen, in welcher du alle deine angemeldeten Farmen inklusive Koordinaten, Welt u.v.m. anschauen kannst.
 
 ## Farm abmelden
 Die Funktion zum Abmelden deiner Farmen erfolgt bald!
