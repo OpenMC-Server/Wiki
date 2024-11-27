@@ -106,13 +106,6 @@ Im folgenden findest du alle aktiven Teammitglieder und ihre Aufgabenbereiche.
  Erbauen von Maps\
  Claimverwaltung
 |||
-||| Jacero
--![](/images/jacero.png)
-**Aufgaben:**\
- Event-Entwicklung\
- Erbauen von Maps\
- Petsystem
-|||
 ||| Useflo
 -![](/images/useflo.png)
 **Aufgaben:**\
@@ -127,7 +120,7 @@ Im folgenden findest du alle aktiven Teammitglieder und ihre Aufgabenbereiche.
 |||
 ||| Krempii
 -![](/images/krempii.png)
-**ufgaben:**\
+**Aufgaben:**\
  Event-Entwicklung\
  Erbauen von Maps
 |||
