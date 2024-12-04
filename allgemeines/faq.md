@@ -40,3 +40,5 @@ Feedback bewerten wir innerhalb des Teams und entscheiden dann unter Berücksich
 Ideen, welche an uns herangetragen oder durch uns erdacht werden, werden in unseren monatlichen Teambesprechungen betrachtet.
 Hierbei achten wir insbesondere darauf, ob diese Idee technisch umsetzbar ist und ob der nötige Aufwand dazu in einem vertrebaren Verhältnis zum daraus resultieren Nutzen und Spielspaß steht.
 Natürlich betrachten wir auch, ob unsere Vorstellung von OpenMC von dieser Idee profitiert und inwiefern diese in langfristige Projekte integriert werden kann.
+==- Werden meine privaten Chatnachrichten mitgelesen?
+Wir lesen grundsätzlich keine private Kommunikationen unbegründet mit. Aufgrund der technischen Infrastruktur von Minecraft Servern wird der Nachrichtenverkehr unverschlüsselt an den Server übertragen. Im Fall von bestehenden Anlässen können diese Nachrichten zur Durchsetzung des Regelwerks rückwirkend eingesehen werden. Diese Einsicht können ausschließlich die Owner & Admins auf OpenMC tätigen.
