@@ -42,6 +42,9 @@ Teleportiert dich in den Nether der Industriewelt.
 `/events`\
 Teleportiert dich in die Eventwelt.
 
+### Serverwechsel-Befehl
+`/serverwechsel [server]`
+Teleportiere dich auf einen ausgewählten Server, um an die gleiche Stelle zu kommen wo du vorher gewesen bist. Stehst du also in der Bauwelt an deinem Haus und in der Farmwelt in deiner Höhle, kannst du mit `/serverwechsel Farmwelt` zu deiner Höhle und anderums genau so nach Hause. Während der Nutzung des Befehls wird kein `/back` registriert: Verwendest du `/serverwechsel` ohne einem bestimmten Server, wird dir eine Liste der für dich möglichen Server angezeigt.
 ---
 
 ## Homes
