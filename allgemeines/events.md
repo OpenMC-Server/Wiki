@@ -12,13 +12,13 @@ Auf dieser Seite findest du Erläuterungen zu den Events, die regelmäßig auf O
 
 ## Bauevent
 !!! Aktuelles Bauevent:
-*Thema:* Historisch\
-*Dauer:* 1. - 30. November\
-*Bewertungsevent:* 30.11., 15 Uhr - 21 Uhr
+*Thema:* Dungeon\
+*Dauer:* 1. - 25. Januar\
+*Bewertungsevent:* 25.01., 15 Uhr - 21 Uhr
 !!!
 
 ### Über das Bauevent
-Das Bauevent findet jeden Monat statt. Es beginnt immer am 1. und endet am letzten Samstag des Monats mit einem Bewertungsevent. In diesem Zeitraum haben Teilnehmer Zeit, ein zum vorgegebenen Thema passendes Bauwerk zu erschaffen.
+Das Bauevent findet jeden zweiten Monat statt. Es beginnt immer am 1. und endet am letzten Samstag des Monats mit einem Bewertungsevent. In diesem Zeitraum haben Teilnehmer Zeit, ein zum vorgegebenen Thema passendes Bauwerk zu erschaffen.
 
 Am letzten Samstag des Monats findet das Bewertungsevent statt. Dort werden zur Abstimmung eingereichte Bauwerke nach mehreren Kriterien beurteilt.
 
@@ -177,18 +177,3 @@ Der genaue Zeitpunkt wird einige Tage vor dem End-Reset im Discord verkündet.
 - Die Stärke des Enderdrachens ist an die Teilnehmeranzahl angepasst.
 - Weitere Mobs unterstützen den Enderdrachen in seinem Kampf.
 - Ein Teleport-Delay ist aktiv und bestimmte Funktionen sind nicht verfügbar.
-
----
-
-## Spleef
-Hier erhältst du in Kürze Informationen zu weiteren Events.
-
----
-
-## Paintball
-Hier erhältst du in Kürze Informationen zu weiteren Events.
-
----
-
-## Smash
-Hier erhältst du in Kürze Informationen zu weiteren Events.
