@@ -164,7 +164,7 @@ Deine Fähigkeiten im Kit-Mobevent liegen üblicherweise immer auf dem zweiten u
 
 ## End-Reset
 
-[!badge variant="info" text=":large_green_circle: Nächster End-Reset: Juli/August 2024"]
+[!badge variant="info" text=":large_red_circle: Nächster End-Reset: Aktuell wird das Event überarbeitet"]
 
 Der quartalsweise Reset der End-Farmwelt wird mit dem Kampf ums Drachenei zelebriert, welches nur über dieses Event zu erhalten und somit eines der wertvollsten Items auf dem Server ist.
 
