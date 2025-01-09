@@ -24,7 +24,7 @@ Zeigt den Link zum OpenMC-Wiki oder einer spezifischen Seite.
 `/map`\
 Zeigt den Link zur [Livemap](https://map.openmc.net/).
 
-`/maphide`\
+`/maphide`\ (#maphide)
 Schaltet deine Sichtbarkeit auf den Livemaps um.
 
 `/seen <spielername>`\
