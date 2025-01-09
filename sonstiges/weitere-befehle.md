@@ -24,8 +24,8 @@ Zeigt den Link zum OpenMC-Wiki oder einer spezifischen Seite.
 `/map`\
 Zeigt den Link zur [Livemap](https://map.openmc.net/).
 
-`/dynmap <show/hide>`\
-Zeigt / Versteckt dich auf der Livemap.
+`/maphide`\
+Schaltet deine Sichtbarkeit auf den Livemaps um.
 
 `/seen <spielername>`\
 Zeigt, wann der Spieler zuletzt online war.
