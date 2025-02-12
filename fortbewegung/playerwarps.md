@@ -28,7 +28,7 @@ Um deinen erstellten Warp anschließend einer Kategorie zuzuweisen, nutze den Be
 ## PlayerWarp Schilder
 PlayerWarps können durch ein Schild zugänglich gemacht werden. Dazu muss folgendes Format auf dem Schild angewandt werden:
 1. Zeile: [PW]
-2. Zeile: <PlayerWarp Name>
+2. Zeile: Warp Name
 3. Zeile:
 4. Zeile:
 
