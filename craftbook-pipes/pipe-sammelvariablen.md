@@ -185,9 +185,6 @@ Um nach einer spezifischen Sammelvariable zu suchen, kannst du die Suche deines 
 [!badge variant="secondary" text="**%zg%**"] **Alle Türen**\
 *oak_door, spruce_door, birch_door, jungle_door, acacia_door, dark_oak_door, crimson_door, warped_door, iron_door, mangrove_door, cherry_door, bamboo_door*
 
-[!badge variant="secondary" text="**%ahp%**"] **Alle Falltüren (1.21+)**\
-*oak_door, spruce_door, birch_door, jungle_door, acacia_door, dark_oak_door, crimson_door, warped_door, iron_door, mangrove_door, cherry_door, bamboo_door, copper_door, exposed_copper_door, weathered_copper_door, oxidized_copper_door, waxed_copper_door, waxed_exposed_copper_door, waxed_weathered_copper_door, waxed_oxidized_copper_door*
-
 [!badge variant="secondary" text="**%zk%**"] **Alle Zäune**\
 *oak_fence, birch_fence, spruce_fence, jungle_fence, acacia_fence, dark_oak_fence, nether_brick_fence, crimson_fence, warped_fence, mangrove_fence, cherry_fence, bamboo_fence*
 
