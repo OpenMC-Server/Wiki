@@ -12,7 +12,7 @@ icon: squirrel
 Das MyPet-Plugin erlaubt es dir, Mobs jeglicher Art (mit wenigen Ausnahmen) zu fangen und als Haustier zu halten. Diese unterstützen dich durch Kampfkraft, Beacon-ähnliche Effekte oder dienen als Reit- bzw. Flugtier.
 
 Jeder Mobtyp ist einer Stärkekategorie (S0-S5) zugeordnet und erhält basierend auf seiner Art eine individuelle Fähigkeitsklasse.
-Eine detaillierte Übersicht findet sich hier: [Stärke-Kategorien](#stärke-kategorien)
+Eine detaillierte Übersicht findet sich hier: [Stärke-Kategorien](#stärke-kategorien).
 ---
 
 ## Mobs einfangen/zähmen
@@ -40,9 +40,45 @@ Cow             | -                 | 60%       | 100%      | -             | - 
 Creaking        | -                 | 10%       | 20%       | 500           | Zähmen        | Holzfällen    | -             | -
 Creeper         | -                 | 50%       | 80%       | 100           | Zähmen        | Schwert       | -             | -
 Dolphin         | -                 | 20%       | 30%       | 400           | Zähmen        | Angeln        | Kräuterkunde  | -
-Donkey          | Gezähmt           | 50%       | 80%       | 100           | Zähmen        | Kräuterkunde  | Akrobatik     |
-Drowned         | -                 | 50%       | 65%       | 200           |        
-
+Donkey          | Gezähmt           | 50%       | 80%       | 100           | Zähmen        | Kräuterkunde  | Akrobatik     | -
+Drowned         | -                 | 50%       | 65%       | 200           | Tridents      | Zähmen        | Schwert       | Angeln
+Elder Guardian  | -                 | 20%       | 30%       | 400           | Tridents      | Zähmen        | -             | -
+Enderman        | -                 | 40%       | 65%       | 200           | Zähmen        | Schwert       | -             | -
+Endermite       | -                 | 50%       | 80%       | 100           | Zähmen        | Graben        | Schwert       | -
+Evoker          | -                 | 20%       | 30%       | 400           | Zähmen        | Kräuterkunde  | Alchemie      | -
+Fox             | -                 | 50%       | 80%       | 100           | Zähmen        | Kräuterkunde  | -             | -
+Frog            | -                 | 40%       | 65%       | 200           | Zähmen        | Angeln        | Kräuterkunde  | -
+Ghast           | -                 | 20%       | 30%       | 400           | Zähmen        | Schwert       | Alchemie      | -
+Glow Squid      | -                 | 40%       | 65%       | 200           | Zähmen        | Angeln        | Kräuterkunde  | -
+Goat            | -                 | 40%       | 65%       | 200           | Zähmen        | Akrobatik     | Kräuterkunde  | -
+Guardian        | -                 | 40%       | 65%       | 200           | Tridents      | Zähmen        | -             | -
+Hoglin          | -                 | 30%       | 50%       | 300           | Zähmen        | Schwert       | Alchemie      | Akrobatik
+Horse           | Gezähmt           | 40%       | 65%       | 200           | Zähmen        | Akrobatik     | Kräuterkunde  | -
+Husk            | -                 | 30%       | 50%       | 300           | Zähmen        | Schwert       | -             | -
+Iron Golem      | Erschaffen        | 20%       | 30%       | 400           | Zähmen        | Reparatur     | -             | -
+Llama           | Gezähmt           | 50%       | 80%       | 100           | Zähmen        | Akrobatik     | Kräuterkunde  | -
+Magma Cube      | -                 | 40%       | 65%       | 200           | Zähmen        | Schwert       | Alchemie      | -
+Mooshroom       | -                 | 40%       | 65%       | 200           | Zähmen        | Akrobatik     | Kräuterkunde  | -
+Mule            | Gezähmt           | 50%       | 80%       | 100           | Zähmen        | Kräuterkunde  | Akrobatik     | -
+Ocelot          | -                 | 30%       | 50%       | 300           | Zähmen        | Kräuterkunde  | -             | -
+Panda           | -                 | 30%       | 50%       | 200           | Zähmen        | Akrobatik     | Kräuterkunde  | -
+Parrot          | Gezähmt           | 30%       | 50%       | 200           | Akrobatik     | Kräuterkunde  | -             | -
+Phantom         | -                 | 30%       | 50%       | 200           | Zähmen        | Akrobatik     | Schwert       | -
+Pig             | -                 | 60%       | 100%      | -             | -             | -             | -             | - 
+Piglin          | -                 | 30%       | 50%       | 300           | Zähmen        | Schwert       | Alchemie      | -
+Piglin Brute    | -                 | 20%       | 30%       | 400           | Zähmen        | Schwert       | Alchemie      | -
+Pillager        | -                 | 30%       | 50%       | 200           | Zähmen        | Kräuterkunde  | Faustkampf    | -
+Polar Bear      | -                 | 30%       | 50%       | 300           | Zähmen        | Akrobatik     | Kräuterkunde  | -
+Pufferfish      | -                 | 30%       | 50%       | 300           | Zähmen        | Angeln        | Kräuterkunde  | -
+Rabbit          | -                 | 50%       | 80%       | 100           | Zähmen        | Kräuterkunde  | -             | -
+Ravanger        | -                 | 10%       | 20%       | 500           | Zähmen        | Schwert       | Aktobatik     | -
+Salmon          | -                 | 50%       | 80%       | 100           | Zähmen        | Angeln        | Kräuterkunde  | -
+Sheep           | -                 | 60%       | 100%      | -             | -             | -             | -             | -
+Silverfish      | -                 | 50%       | 80%       | 100           | Zähmen        | Graben        | Schwert       | -
+Skeleton        | -                 | 50%       | 80%       | 100           | Zähmen        | Bogenschießen | -             | -
+Skeleton Horse  | Gezähmt           | 30%       | 50%       | 300           | Zähmen        | Akrobatik     | -             | -
+Slime           | -                 | 50%       | 80%       | 100           | Zähmen        | Schwert       | Akrobatik     | -
+Sniffer         | -                 | 20%       | 30%       | 400           | Zähmen        | Akrobatik     | Kräuterkunde  | -
 
 
 Folgende Tiere sind nicht einfangbar:
@@ -50,6 +86,10 @@ Folgende Tiere sind nicht einfangbar:
 - Enderdrache
 - Ghast
 - Shulker
+
+Verschwinden beim Freilassen:
+- Ghast
+
 
 Gefangene Mobs können eingelagert, getauscht, gehandelt oder auch wieder freigelassen werden. Weitere Infos dazu findest du unter [Befehle](#befehle).
 
