@@ -10,15 +10,20 @@ icon: squirrel
 [!badge :white_check_mark: Ingame-Tutorial verfügbar: `/warp tutorial_pets`]
 
 Das MyPet-Plugin erlaubt es dir, Mobs jeglicher Art (mit wenigen Ausnahmen) zu fangen und als Haustier zu halten. Diese unterstützen dich durch Kampfkraft, Beacon-ähnliche Effekte oder dienen als Reit- bzw. Flugtier.
-
+---
 Jeder Mobtyp ist einer Stärkekategorie (S0-S5) zugeordnet und erhält basierend auf seiner Art eine individuelle Fähigkeitsklasse.
 Eine detaillierte Übersicht findet sich hier: [Stärke-Kategorien](#stärke-kategorien).
 ---
 
 ## Mobs einfangen/zähmen
-Je nach Mobart unterscheidet sich die Fangmethode. Monster müssen solange mit einer Leine geschlagen werden, bis ihr Leben 10% vom Maximum beträgt. Anschließend werden sie in Pets umgewandelt. Zähmbare Tiere müssen zunächst gezähmt werden. Anschließend genügt ein Schlag mit einer Leine, und sie werden in Pets umgewandelt.
+Je nach Mob-Typ und Stärke-Kategorie unterscheiden sich die Anforderungen zum Einfangen des Pets:
+- Erreichen nötiger mcMMO-Level in bestimmten Skills
+- Der Mob muss unter einer definierten Prozentzahl an Lebenspunkten liegen (HP-Grenze)
+- Je nach Stärke des Mobs variiert die Wahrscheinlichkeit den Mob mit einem Schlag tatsächlich einzufangen (Chance)
 
-Je nach Mob-Typ und Stärke-Kategorie unterscheiden sich die Anforderungen zum Einfangen des Pets.
+Zähmbare Tiere müssen zunächst gezähmt werden. Mobs, welche durch einen Spieler erzeugt werden können (Eisengolem/Schneegolem) müssen eigenständig erbaut werden.
+
+Wenn alle Anforderungen erfüllt sind, können die Mobs solange mit einer Leine geschlagen werden, bis diese in ein Pet umgewandelt werden.
 
 {.compact}
 Mob-Typ         | Anforderung       | HP-Grenze | Chance    | mcMMO-Level   | Skill         | Skill         | Skill         | Skill
@@ -79,16 +84,41 @@ Skeleton        | -                 | 50%       | 80%       | 100           | Z�
 Skeleton Horse  | Gezähmt           | 30%       | 50%       | 300           | Zähmen        | Akrobatik     | -             | -
 Slime           | -                 | 50%       | 80%       | 100           | Zähmen        | Schwert       | Akrobatik     | -
 Sniffer         | -                 | 20%       | 30%       | 400           | Zähmen        | Akrobatik     | Kräuterkunde  | -
-
+Snow Golem      | Erschaffen        | 30%       | 50%       | 200           | Zähmen        | Reparatur     | -             | -
+Spider          | -                 | 50%       | 80%       | 100           | Zähmen        | Graben        | Schwert       | Akrobatik
+Squid           | -                 | 50%       | 80%       | 100           | Zähmen        | Angeln        | Kräuterkunde  | -
+Stray           | -                 | 30%       | 50%       | 300           | Zähmen        | Bogenschießen | -             | -
+Strider         | -                 | 30%       | 50%       | 200           | Zähmen        | Schwert       | Alchemie      | Akrobatik
+Tadpole         | -                 | 50%       | 80%       | 100           | Zähmen        | Angeln        | Kräuterkunde  | -
+Trader Llama    | Gezähmt           | 30%       | 50%       | 200           | Zähmen        | Akrobatik     | Kräuterkunde  | -
+Tropical Fish   | -                 | 30%       | 50%       | 200           | Zähmen        | Angeln        | Kräuterkunde  | -
+Turtle          | -                 | 30%       | 50%       | 200           | Zähmen        | Angeln        | Akrobatik     | -
+Vex             | -                 | 30%       | 50%       | 300           | Zähmen        | Akrobatik     | Schwert       | -
+Villager        | -                 | 60%       | 100%      | -             | -             | -             | -             | -
+Vindicator      | -                 | 10%       | 20%       | 500           | Zähmen        | Kräuterkunde  | Faustkampf    | -
+Wandering Trader| -                 | 50%       | 80%       | 100           | Zähmen        | Kräuterkunde  | -             | -
+Warden          | -                 | 10%       | 20%       | 500           | Zähmen        | Holzfällen    | -             | -
+Witch           | -                 | 30%       | 50%       | 300           | Zähmen        | Kräuterkunde  | Alchemie      | -
+Wither          | -                 | 10%       | 20%       | 500           | Zähmen        | Schwert       | Alchemie      | -
+Wither Skeleton | -                 | 20%       | 30%       | 400           | Zähmen        | Schwert       | Alchemie      | -
+Wolf            | Gezähmt           | 30%       | 50%       | 300           | Zähmen        | Akrobatik     | Kräuterkunde  | -
+Zoglin          | -                 | 20%       | 30%       | 400           | Zähmen        | Schwert       | Alchemie      | -
+Zombie          | -                 | 50%       | 80%       | 100           | Zähmen        | Schwert       | -             | -
+Zombie Horse    | Gezähmt           | 20%       | 30%       | 400           | Zähmen        | Akrobatik     | -             | -
+Zombie Villager | -                 | 30%       | 50%       | 200           | Zähmen        | Schwert       | -             | -
+Zombified Piglin| -                 | 30%       | 50%       | 200           | Zähmen        | Schwert       | Alchemie      | -
 
 Folgende Tiere sind nicht einfangbar:
-- Wither
-- Enderdrache
-- Ghast
+- Illusioner
+- Dragon
 - Shulker
 
-Verschwinden beim Freilassen:
+Folgende Tiere verschwinden beim Freilassen:
 - Ghast
+- Wandering Trader
+- Warden
+- Wither
+- Wither Skeleton
 
 
 Gefangene Mobs können eingelagert, getauscht, gehandelt oder auch wieder freigelassen werden. Weitere Infos dazu findest du unter [Befehle](#befehle).
@@ -158,101 +188,19 @@ Dorfbewohner    | Händler           | Plünderer                     | Hexe    
 ---
 ## Klassen
 ![](/images/mypet_klassen.png)
-Klassen verändern die Stärke (bzw. Fähigkeiten) eines Haustiers. Die Art der Bewegung, Erscheinung oder das Level-System des Haustiers ändert sich hierbei nicht. Jede Klasse legt seinen Fokus auf ein anderes Gebiet.
+Klassen verändern die Stärke (bzw. Fähigkeiten) eines Haustiers. Die Art der Bewegung, Erscheinung oder das Level-System des Haustiers ändert sich hierbei nicht. Jede Petklasse bietet unterschiedliche Fähigkeiten.
 
-Steigt das Level deines Haustiers, so werden unterschiedliche Fähigkeiten gesteigert:
+Steigt das Level deines Haustiers, so können unterschiedliche Fähigkeiten gesteigert werden:
 - Schaden
 - Maximales Leben
 - Lebensregeneration über Zeit
-- Stärke, Dauer und Reichweite der Beacon-Effekte
-- Reitgeschwindigkeit/Flugreichweite (Reitklasse)
-- Vergrößertes Inventar (Farmklasse)
+- Leuchtfeuer-Effekte
+- Reitgeschwindigkeit/Flugreichweite
+- Vergrößertes Inventar
 
 Viele Fähigkeiten und Zustände werden erst im späteren Verlauf freigeschaltet.
 
-### Klasse auswählen
-!!!primary Bitte beachten:
-Sobald eine Klasse für ein Pet gewählt wurde, ist diese zwar ggf. erweiterbar, aber nicht revidierbar.
-!!!
-
-Um eine Klasse ("Skilltree") auszuwählen, nutze den Befehl `/petchooseskilltree` oder `/pcst`.
-
-Bis auf wenige Ausnahmen (siehe Grafik) kann jedes Pet jede Klasse annehmen. Bei den unterschiedlichen Klassen spielt der Mobtyp keine Rolle, sondern alles wird über die einzelnen Klassen freigeschaltet.
-
-### Grundklassen
-+++ Reittier
-Reittiere ermöglichen es dir, auf einem Mob zu reiten oder kurze Strecken zu fliegen. Sie eignen sich aber nur mäßig im Kampf. Um zu reiten, muss ein Rechtsklick mit einer Leine auf das Pet erfolgen (ab Level 5)
-
-Mögliche Beacon-Effekte:
-- Regeneration
-- Geschwindigkeit
-
-Maximales Level (inkl. Spezialisierungen):\
-50 - 70
-
-Pferde, Esel und Verwüster können diese Klasse nicht annehmen.
-
-==- Spezialisierungen
-#### Flugtier
-Nur bei Mobs mit Flügeln möglich.\
-Ermöglicht es, auf dem Reittier unendliche Strecken zu fliegen.
-
-#### Pegasus
-Eine Mischung zwischen Flug- und Landtier. Ermöglicht das verlängerte Fliegen, erhöhte Reitgeschwindigkeit gegenüber dem Flugtier.
-
-#### Landtier
-Das schnellste Reittier, kann jedoch nicht fliegen.
-==-
-
-+++ Kampftier
-Nachts und in Duellen sind Kampftiere die besten Begleiter, da sie die höchste Kampfkraft besitzen.
-
-Mögliche Beacon-Effekte:
-- Stärke
-- Feuerresistenz
-
-Maximales Level (inkl. Spezialisierungen):\
-70 - 80
-
-==- Spezialisierungen
-#### Krieger
-Schnell, starker Nahkampf. Allgemeine Verbesserung der Grundklasse.
-
-#### Schütze
-Fernkampf der Kampfklasse. Hoher Schaden, hält aber vergleichsweise wenig aus. Keine Beacon-Effekte möglich.
-
-#### Tank
-Langsam, dafür umso robuster. Steckt einiges ein und leitet Schaden von seinem Besitzer auf sich um. Neben einer Verbesserung der Beacon-Effekte, zusätzlich Absorption.
-==-
-
-+++ Farmtier
-Farmtiere helfen dem Spieler durch ein erweitertes Inventar, nützliche Effekte und eine mittlere Kampfkraft. Bei höhrerm Level können sie Items auch selbstständig aufsammeln.
-
-Mögliche Beacon-Effekte:
-- Absorption
-- Eile
-- Feuerresistenz
-
-Maximales Level (inkl. Spezialisierungen):\
-30 - 35
-+++
-
-### Spezialklassen
-Bestimmte Mobarten besitzen besondere Klassen:
-
-{.compact}
-Mob/Klasse      | Erweiterung von...    | Fähigkeiten                                   | Beacon-Effekt
-:---:           | :---:                 | ---                                           | ---
-Husk            | Kriegerklasse         | Vegiftet seine Gegner zusätzlich.             | 
-Eiswanderer     | Schützenklasse        | Verlangsamt seine Gegner zusätzlich.          | 
-Lohe            | Schützenklasse        | Verbrennt seine Gegner zusätzlich.            | Feuerresistenz
-Verwüster       | Tankklasse            | Stampft seine Gegner in Grund und Boden.      | 
-Witherskelett   | Kriegerklasse         | Vergiftet einen Gegner mit dem Withereffekt.  | 
-Ertrunkener     |                       |                                               | Unterwasseratmung
-Hase            |                       |                                               | Sprungkraft, Schnelligkeit, Glück
-Enderman        |                       |                                               | Nachtsicht
-
-Wardens und Witherkelette verschwinden beim Verwenden von /petrelease. Es gibt dann keine Möglichkeit, das freigelassene Pet erneut zu zähmen.
+Eine Übersicht über die verschiedenen Petklassen kann [hier](https://docs.google.com/spreadsheets/d/1-OIfTc-EogHypyZgFHk6HFBQd_LuoNDw50PtR9IuBOI/edit?usp=sharing) gefunden werden.
 
 ---
 
