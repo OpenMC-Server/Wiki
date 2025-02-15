@@ -11,10 +11,39 @@ icon: squirrel
 
 Das MyPet-Plugin erlaubt es dir, Mobs jeglicher Art (mit wenigen Ausnahmen) zu fangen und als Haustier zu halten. Diese unterstützen dich durch Kampfkraft, Beacon-ähnliche Effekte oder dienen als Reit- bzw. Flugtier.
 
+Jeder Mobtyp ist einer Stärkekategorie (S0-S5) zugeordnet und erhält basierend auf seiner Art eine individuelle Fähigkeitsklasse.
+Eine detaillierte Übersicht findet sich hier: [Stärke-Kategorien](#stärke-kategorien)
 ---
 
 ## Mobs einfangen/zähmen
 Je nach Mobart unterscheidet sich die Fangmethode. Monster müssen solange mit einer Leine geschlagen werden, bis ihr Leben 10% vom Maximum beträgt. Anschließend werden sie in Pets umgewandelt. Zähmbare Tiere müssen zunächst gezähmt werden. Anschließend genügt ein Schlag mit einer Leine, und sie werden in Pets umgewandelt.
+
+Je nach Mob-Typ und Stärke-Kategorie unterscheiden sich die Anforderungen zum Einfangen des Pets.
+
+{.compact}
+Mob-Typ         | Anforderung       | HP-Grenze | Chance    | mcMMO-Level   | Skill         | Skill         | Skill         | Skill
+:---:           | :---:             | ---       | ---       | ---           | ---           | ---           | ---           | ---        
+Allay           | -                 | 20%       | 30%       | 400           | Zähmen        | Kräuterkunde  | Akrobatik     | -
+Armadillo       | -                 | 30%       | 50%       | 200           | Zähmen        | Kräuterkunde  | -             | -
+Axolotl         | -                 | 30%       | 50%       | 200           | Zähmen        | Angeln        | Kräuterkunde  | -
+Bat             | -                 | 50%       | 80%       | 100           | Zähmen        | Kräuterkunde  | Akrobatik     | -
+Bee             | -                 | 40%       | 65%       | 200           | Zähmen        | Graben        | Akrobatik     | -
+Blaze           | -                 | 30%       | 50%       | 300           | Zähmen        | Alchemie      | Akrobatik     | Schwert
+Bogged          | -                 | 30%       | 50%       | 300           | Zähmen        | Bogenschießen | -             | -
+Breeze          | -                 | 30%       | 50%       | 300           | Zähmen        | Akrobatik     | Schwert       | -
+Camel           | -                 | 30%       | 50%       | 300           | Zähmen        | Akrobatik     | Kräuterkunde  | -
+Cat             | Gezähmt           | 40%       | 65%       | 200           | Zähmen        | Kräuterkunde  | -             | -
+Cave Spider     | -                 | 40%       | 65%       | 200           | Zähmen        | Graben        | Schwert       | Aktobatik
+Chicken         | -                 | 60%       | 100%      | -             | -             | -             | -             | -
+Cod             | -                 | 50%       | 80%       | 100           | Zähmen        | Angeln        | Kräuterkunde  | -
+Cow             | -                 | 60%       | 100%      | -             | -             | -             | -             | -
+Creaking        | -                 | 10%       | 20%       | 500           | Zähmen        | Holzfällen    | -             | -
+Creeper         | -                 | 50%       | 80%       | 100           | Zähmen        | Schwert       | -             | -
+Dolphin         | -                 | 20%       | 30%       | 400           | Zähmen        | Angeln        | Kräuterkunde  | -
+Donkey          | Gezähmt           | 50%       | 80%       | 100           | Zähmen        | Kräuterkunde  | Akrobatik     |
+Drowned         | -                 | 50%       | 65%       | 200           |        
+
+
 
 Folgende Tiere sind nicht einfangbar:
 - Wither
@@ -29,8 +58,64 @@ Gefangene Mobs können eingelagert, getauscht, gehandelt oder auch wieder freige
 ## Pet leveln
 Um ein Pet zu leveln, muss dieses aktiv mit dir mitlaufen, während du Monster tötest. Das Pet erhält hierbei mehr Erfahrung, sollte es Mobs selbst töten.
 
----
+Dabei sammelt dein Pets in den verschiedenen Welten unterschiedlich schnell Erfahrung:
+- Industriewelt: 50%
+- Bauwelt: 100%
+- Farmwelt: 125%
 
+Jede Klasse kann bis Level 80 aufsteigen.
+
+---
+## Stärke-Kategorien
+
+Die Stärke der verschiedenen Mobs werden in fünf Kategorien (S0-schwach bis S5-stark) gegliedert.
+Mobs, welche in der gleichen Zeile gelistet sind bauen in gewissem Maße aufeinander auf.
+
+{.compact}
+S0              | S1                | S2                            | S3                | S4                | S5            
+:---:           | :---:             | ---                           | ---               | ---               | ---
+                |                   |                               |                   | Witherskelett     | Wither
+                |                   |                               | Böe               |                   |
+                |                   | Schreiter                     |                   |                   |
+                |                   |                               | Lohe              | Ghast             |
+                |                   |                               | Hoglin            | Zoglin            |
+                |                   |                               | Plagegeist        | Hilfsgeist        |
+                | Endermite         | Enderman                      |                   |                   |
+                |                   | Ertrunkener                   |                   |                   |
+                | Zombie            | Zombifizierter Dorfbewohner   | Wüstenzombie      |                   |
+                | Creeper           |                               |                   |                   |
+                |                   |                               | Sumpfskelett      |                   | Knarz
+                | Schleim           | Magmawürfel                   |                   |                   |
+                | Spinne            | Höhlenspinne                  |                   |                   |
+                | Skelett           |                               | Eiswanderer       |                   |
+                |                   |                               | Eisbär            |                   |
+                |                   | Wächter                       |                   | Großwächter       |
+                |                   | Phantom                       |                   |                   |
+                | Silberfisch       |                               |                   |                   |
+                |                   | Schneemann                    |                   | Golem             | Wärter
+Schaf           |                   |                               |                   |                   |
+Schwein         |                   | Zombifizierter Piglin         | Piglin            | Piglin Barbar     |
+Kuh             |                   | Pilzkuh                       |                   |                   | Verwüster
+Huhn            |                   | Papagei                       |                   |                   |
+Dorfbewohner    | Händler           | Plünderer                     | Hexe              | Magier            | Diener
+                |                   | Schildkröte                   |                   | Schnüffler        |
+                |                   | Katze                         | Ozelot            |                   |
+                | Lama              | Händlerlama                   | Kamel             |                   |
+                |                   | Axolotl                       |                   |                   |
+                |                   | Biene                         |                   |                   |
+                | Kabeljau, Lachs   | Tropischer Fisch              | Kugelfisch        | Delfin            |
+                | Esel, Maultier    | Pferd                         | Skelettpferd      | Zombiepferd       |
+                | Tintenfisch       | Leuchttintenfisch             |                   |                   |
+                |                   | Panda                         |                   |                   |
+                | Kaulquappe        | Frosch                        |                   |                   |
+                | Fledermaus        |                               |                   |                   |
+                | Hase              |                               |                   |                   |
+                |                   |                               | Wolf              |                   |
+                |                   | Ziege                         |                   |                   |
+                | Fuchs             |                               |                   |                   |
+                |                   | Gürteltier                    |                   |                   |
+
+---
 ## Klassen
 ![](/images/mypet_klassen.png)
 Klassen verändern die Stärke (bzw. Fähigkeiten) eines Haustiers. Die Art der Bewegung, Erscheinung oder das Level-System des Haustiers ändert sich hierbei nicht. Jede Klasse legt seinen Fokus auf ein anderes Gebiet.
