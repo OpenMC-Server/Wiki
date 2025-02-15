@@ -10,12 +10,13 @@ icon: squirrel
 [!badge :white_check_mark: Ingame-Tutorial verfügbar: `/warp tutorial_pets`]
 
 Das MyPet-Plugin erlaubt es dir, Mobs jeglicher Art (mit wenigen Ausnahmen) zu fangen und als Haustier zu halten. Diese unterstützen dich durch Kampfkraft, Beacon-ähnliche Effekte oder dienen als Reit- bzw. Flugtier.
----
-Jeder Mobtyp ist einer Stärkekategorie (S0-S5) zugeordnet und erhält basierend auf seiner Art eine individuelle Fähigkeitsklasse.
-Eine detaillierte Übersicht findet sich hier: [Stärke-Kategorien](#stärke-kategorien).
+
 ---
 
 ## Mobs einfangen/zähmen
+Jeder Mobtyp ist einer Stärkekategorie (S0-S5) zugeordnet und erhält basierend auf seiner Art eine individuelle Fähigkeitsklasse.
+Eine detaillierte Übersicht findet sich hier: [Stärke-Kategorien](#stärke-kategorien).
+
 Je nach Mob-Typ und Stärke-Kategorie unterscheiden sich die Anforderungen zum Einfangen des Pets:
 - Erreichen nötiger mcMMO-Level in bestimmten Skills
 - Der Mob muss unter einer definierten Prozentzahl an Lebenspunkten liegen (HP-Grenze)
@@ -24,6 +25,7 @@ Je nach Mob-Typ und Stärke-Kategorie unterscheiden sich die Anforderungen zum E
 Zähmbare Tiere müssen zunächst gezähmt werden. Mobs, welche durch einen Spieler erzeugt werden können (Eisengolem/Schneegolem) müssen eigenständig erbaut werden.
 
 Wenn alle Anforderungen erfüllt sind, können die Mobs solange mit einer Leine geschlagen werden, bis diese in ein Pet umgewandelt werden.
+
 
 {.compact}
 Mob-Typ         | Anforderung       | HP-Grenze | Chance    | mcMMO-Level   | Skill         | Skill         | Skill         | Skill
@@ -187,7 +189,6 @@ Dorfbewohner    | Händler           | Plünderer                     | Hexe    
 
 ---
 ## Klassen
-![](/images/mypet_klassen.png)
 Klassen verändern die Stärke (bzw. Fähigkeiten) eines Haustiers. Die Art der Bewegung, Erscheinung oder das Level-System des Haustiers ändert sich hierbei nicht. Jede Petklasse bietet unterschiedliche Fähigkeiten.
 
 Steigt das Level deines Haustiers, so können unterschiedliche Fähigkeiten gesteigert werden:
