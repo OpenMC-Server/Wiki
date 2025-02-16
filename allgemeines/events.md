@@ -12,24 +12,22 @@ Auf dieser Seite findest du Erläuterungen zu den Events, die regelmäßig auf O
 
 ## Bauevent
 !!! Aktuelles Bauevent:
-*Thema:* Dungeon\
-*Dauer:* 1. - 25. Januar\
-*Bewertungsevent:* 25.01., 15 Uhr - 21 Uhr
+*Thema:* TBA\
+*Dauer:* 01.03. - 15.04.\
+*Bewertungsevent:* 18.04. - 23.04.
 !!!
 
 ### Über das Bauevent
-Das Bauevent findet jeden zweiten Monat statt. Es beginnt immer am 1. und endet am letzten Samstag des Monats mit einem Bewertungsevent. In diesem Zeitraum haben Teilnehmer Zeit, ein zum vorgegebenen Thema passendes Bauwerk zu erschaffen.
+Das Bauevent beginnt immer am 1. des Monats und endet am 15. des Folgemonats, sodass alle zwei Monate ein neues Bauevent stattfindet. In dem Bauzeitraum von eineinhalb Monaten haben Teilnehmer Zeit, ein zum vorgegebenen Thema passendes Bauwerk zu erschaffen  (Details: siehe "Ablauf").
 
-Am letzten Samstag des Monats findet das Bewertungsevent statt. Dort werden zur Abstimmung eingereichte Bauwerke nach mehreren Kriterien beurteilt.
+Vom 18. des Folgemonats bis zum 23. des Folgemonats findet der Bewertungszeitraum statt. Dort können die am Bauevent teilgenommenen Bauwerke von allen Spielern auf dem Server nach mehreren Kriterien beurteilt werden  (Details: siehe "Ablauf").
 
-Die Teilnehmer erhalten Belohnungen, welche sich aus der Gesamtplatzierung und der Teilnahmebelohnung zusammensetzt (siehe "Preise").
+Je nach Ergebnis der Bewertung erhalten die Teilnehmer Belohnungen, welche sich aus der Gesamtplatzierung und der Teilnahmebelohnung zusammensetzt (Details: siehe "Preise").
 
 ### Teilnahme
-Zu Beginn ist keine Anmeldung erforderlich. Du kannst einfach drauf losbauen, musst dabei aber die Teilnahmebedingungen beachten.
+Zu Beginn ist keine Anmeldung erforderlich. Du kannst einfach nach der Ankündigung des Themas drauf losbauen, musst dabei aber die Teilnahmebedingungen beachten. Du kannst ein Team mit bis zu zwei weiteren Teilnehmern bilden. Bitte beachte dabei die Informationen unter "Preise", wie der Gewinn aufgeteilt wird.
 
-Du kannst ein Team mit bis zu zwei weiteren Teilnehmern bilden. Bitte beachte dabei die Informationen unter "Preise", wie der Gewinn aufgeteilt wird.
-
-Suche dir einen freien Platz in der Bauwelt und baue etwas zum Thema. Sei kreativ! Die Bauwerke werden beim Bewertungsevent von den Spielern nach drei Faktoren bewertet:
+Suche dir einen freien Platz in der **Bauwelt** und baue etwas zum Thema. Sei kreativ! Die Bauwerke werden beim Bewertungsevent von den Spielern nach drei Faktoren bewertet:
 - Detailreichtum
 - Kreativität
 - Ästhetik
@@ -41,16 +39,16 @@ Wird eine NoEnter-Claimflag für den Bauzeitraum gewünscht, kann diese bei der 
 ### Ablauf
 1. Das Thema des Bauevents wird am 1. des Monats bekanntgegeben.
 
-2. Spieler haben bis zum letzten Samstag des Monats Zeit zum Bauen. Eine Anmeldung muss zunächst nicht erfolgen. Beim Bau sollten die Bewertungsaspekte beachtet werden.
+2. Spieler haben bis zum 15. des Folgemonats Zeit zum Bauen. Eine Anmeldung muss zunächst nicht erfolgen. Beim Bau sollten die Bewertungsaspekte beachtet werden.
 
-3. Bis zum Freitag vor dem Bewertungsevent erfolgt die verbindliche Anmeldung des Bauwerks über ein Discord-Ticket. Dabei akzeptiert der Teilnehmer auch die Teilnahmebedingungen. Bitte formuliere folgende und andere Wünsche, falls vorhanden, ebenfalls im Ticket:
+3. Bis zum 15. des Folgemonats erfolgt die verbindliche Anmeldung des Bauwerks über ein Discord-Ticket. Dabei akzeptiert der Teilnehmer auch die Teilnahmebedingungen. Bitte formuliere folgende und andere Wünsche, falls vorhanden, ebenfalls im Ticket:
 - Blickrichtung des Warps
 - Die gewünschten Claimflags während der Besichtigung
 - Eine NoEnter Claimflag für den Bauzeitraum
 - Wenn Bücher während der Besichtigung ausgegeben werden sollen, kann der Autor durch das Team durch einen neutralen Autor ersetzt werden (Koordinaten angeben)
 - Falls keine keine Aufnahme in die Bauevent-Historie gewünscht ist
 
-4. Mit dem Bewertungsevent am letzten Samstag des Monats wird der Champion (Sieger) des Events bestimmt. Hierbei wird jedes Exponat mit einer anonymen ID versehen und zum Erkunden/Begutachten freigegeben. Die Spieler stimmen für jedes Bauwerk ab, dabei kann jeweils für die oben genannten Kriterien eine Punktzahl von 1-8 vergeben werden. Daraus ergibt sich schlussendlich eine Gesamtpunktzahl.
+4. Mit dem Bewertungszeitraum vom 18. bis 23. des Folgemonats wird der Champion (Sieger) des Events bestimmt. Hierbei wird jedes Exponat mit einer anonymen ID versehen und zum Erkunden/Begutachten freigegeben. Die Spieler stimmen für jedes Bauwerk ab, dabei kann jeweils für die oben genannten Kriterien eine Punktzahl von 1-8 vergeben werden. Daraus ergibt sich schlussendlich eine Gesamtpunktzahl.
 
 5. Das Gewinnerteam erhält den Rang "Champion", mit dem dieser im TAB und Chat entsprechend gekennzeichnet wird. Weitere Preise für Platz 1 - 5 sind unten (Preise) angeführt. Außerdem gibt es eine Teilnahmebelohnung. Das Gewinnerteam nennt dem Team innerhalb eines Tages einen Themenvorschlag für das nächste Bauevent. Vor Beginn des nächsten Bauevents stimmen die Spieler über das neue Thema ab.
 
@@ -105,18 +103,17 @@ Teilnehmer...
 - [x] ...dürfen Schematics/Litematica nur verwenden, wenn sämtliche Blöcke von Hand platziert werden.
 - [x] ...dürfen sich nur an einem Bauwerk beteiligen.
 
-### Bauwerk anmelden
-Du kannst dein Bauwerk auf Discord im #bauevent Channel anmelden. Die Frist ist standardmäßig am Freitag vor dem Bewertungsevent.
-
-[!button icon=":white_check_mark:" target="blank" text="Bauevent im Discord anmelden"](https://discord.com/invite/ecqPF34)
-
-
-### Nachfolgendes zum Bauevent
+### Weitere Hinweise
 #### Bauwerk-Historie
 Sobald das Bauevent vollständig abgeschlossen ist, werden die Bauwerke in die dafür vorgesehene `/bauevent history` eingetragen. Dort kannst du dir die vergangenen Bauwerke dann nochmals anschauen. Sofern du der Besitzer eines Bauwerkes bist, kannst du dich auch über ein Ticket auf dem Discord an das Team wenden, um den Zugang durch die Historie bei Bedarf auszustellen.
 
 #### Denkmalschutz für dein Bauwerk
 Solltest du das Grundstück nicht länger behalten wollen, besteht die Möglichkeit, dich ebenfalls über ein Ticket auf dem Discord an uns zu wenden und Denkmalschutz anzufragen. In dem Falle übergibst du das Bauwerk an den Server, sodass es zu einem Adminclaim wird. Dadurch entfallen die Zugriffsrechte auf dem Grundstück für die Erbauer. Wenn du davon keinen Gebrauch machen möchtest, erhältst du das Grundstück wie üblich nach Ende der Abstimmung wieder zurück übertragen.
+
+### Bauwerk anmelden
+Du kannst dein Bauwerk auf Discord im #bauevent Channel anmelden. Die Frist ist der 15. des Folgemonats nach Eventbeginn (letzter Bautag).
+
+[!button icon=":white_check_mark:" target="blank" text="Bauevent im Discord anmelden"](https://discord.com/invite/ecqPF34)
 
 ---
 
@@ -143,37 +140,3 @@ Um die Belohnungen zu erhalten, muss ein Slot im Inventar freigehalten werden.
 
 Es wird ein Gutschein, der alle Belohnungen enthält (kann per Rechtsklick eingelöst werden) vergeben.\
 Die ersten drei Plätze, die das Event auch überlebt haben, erhalten nach dem Event eine einzigartige Trophäe, die den Sieg des Events würdigt.
-
----
-
-## Kit-Mobevent
-!!!danger Aktuell nicht verfügbar.
-Das Kit-Mobevent ist aktuell nicht verfügbar. Die folgenden Erläuterungen kommen daher nicht zur Anwendung.
-!!!
-
-Im Kit-Mobevent werden dir eine Reihe von Klassen zur Verfügung gestellt, welche du auswählen und im Event benutzen kannst. Die verschiedenen Klassen haben ein "Mana-System" welches es ermöglicht, einzigartige Fähigkeiten an den Monstern im Kit-Mobevent auszuführen.
-
-Beim Kit-Mobevent kämpfst du zusammen mit deinen Mitspielern gegen eine Reihe an Wellen von Mobs. Dabei erhältst du mit jeder überlebten Welle weitere Belohnungen. Da keine eigenen Items benötigt werden kann jeder bei Bedarf mit einem leeren Inventar zum Event erscheinen.
-
-Sowohl die Teilnahmebedingungen, als auch die Belohnungen des Kit-Mobevents sind mit dem Mobevent identisch. Das Mitführen von eigenen Items ist nicht möglich.
-
-### Nutzung von Fähigkeiten
-Deine Fähigkeiten im Kit-Mobevent liegen üblicherweise immer auf dem zweiten und dritten Slot deiner Hotbar. Um sie zu verwenden, solltest du abhängig von den Fähigkeiten die Taste 2 oder 3 auf der Tastatur betätigen. Während des ganzen Events wird das Inventar den Spieler bewusst von diesen zwei Slots wieder zu seinem Ursprungsslot führen, somit sind hier wirklich nur die Fähigkeiten ausführbar. Du hast eine Fähigkeit erfolgreich verwendet, wenn das Fähigkeits-Icon beginnt einen Cooldown im Inventar runterzuzählen.
-
----
-
-## End-Reset
-
-[!badge variant="info" text=":large_red_circle: Nächster End-Reset: Aktuell wird das Event überarbeitet"]
-
-Der quartalsweise Reset der End-Farmwelt wird mit dem Kampf ums Drachenei zelebriert, welches nur über dieses Event zu erhalten und somit eines der wertvollsten Items auf dem Server ist.
-
-Ab dem Eventbeginn werden die normalerweise geltenden PvP Regeln (/regeln Punkt 3) im Farmwelt-End außer Kraft gesetzt. Items und Erfahrungspunkte, die durch einen Tod verloren gehen (egal ob durch Eigen- oder Fremdverschulden) müssen nicht zurückerstattet werden. Die Teilnahme erfolgt auf eigene Gefahr!
-
-Der genaue Zeitpunkt wird einige Tage vor dem End-Reset im Discord verkündet.
-
-### Besonderheiten
-- Euch erwartet ein überarbeitetes End mit besonderem Aufbau von Türmen und Kristallen.
-- Die Stärke des Enderdrachens ist an die Teilnehmeranzahl angepasst.
-- Weitere Mobs unterstützen den Enderdrachen in seinem Kampf.
-- Ein Teleport-Delay ist aktiv und bestimmte Funktionen sind nicht verfügbar.
