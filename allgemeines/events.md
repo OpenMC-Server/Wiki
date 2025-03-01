@@ -12,7 +12,7 @@ Auf dieser Seite findest du Erläuterungen zu den Events, die regelmäßig auf O
 
 ## Bauevent
 !!! Aktuelles Bauevent:
-*Thema:* TBA\
+*Thema:* Restaurant/Café\
 *Dauer:* 01.03. - 15.04.\
 *Bewertungsevent:* 18.04. - 23.04.
 !!!
