@@ -48,7 +48,7 @@ Um nach einer spezifischen Variable zu suchen, kannst du die Suche deines Browse
 | Mangrovenstamm                                    | mangrove\_log             				| %mangrove%            | %xh%          |
 | Kirschstamm										| cherry\_log								| %cherry%				| %abl%		    |
 | Bambusblock                                       | bamboo\_block             				| %bambooblock%         | %aax%       	|
-
+| Blasseichenstamm                                  |pale_oak_log                               | %poak_l%              | %aht%         |
 ### Entrindete Baumstämme
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
@@ -64,6 +64,7 @@ Um nach einer spezifischen Variable zu suchen, kannst du die Suche deines Browse
 | Entrindeter Mangrovenstamm                        | stripped\_mangrove\_log    				| %s\_mangrove%         | %xe%			|
 | Entrindeter Kirschstamm							| stripped\_cherry\_log						| %s\_cherry%		    | %abm%		    |
 | Entrindeter Bambusblock                           | stripped\_bamboo\_block    				| %s\_bamboo%           | %aay%		    |				
+| Entrindeter Blasseichenstamm                      | stripped_pale_oak_log                     | %spoak_l%             | %ahv%         |
 
 ### Holzblöcke
 {.compact}
@@ -79,6 +80,7 @@ Um nach einer spezifischen Variable zu suchen, kannst du die Suche deines Browse
 | Wirrhyphen                                        | warped\_hyphae                            | %warped\_hy%          | %ax%          |
 | Mangrovenholz                                     | mangrove\_wood                            | %mangrove\_wd%        | %xi%			|
 | Kirschholz	 									| cherry\_wood								| %cherry\_wd%			| %abn% 		|
+|Blasseichenholz                                    |pale_oak_wood                              |%poak_w%               |%ahu%          |
 
 ### Entrindete Holzblöcke
 {.compact}
@@ -94,6 +96,7 @@ Um nach einer spezifischen Variable zu suchen, kannst du die Suche deines Browse
 | Geschälte Wirrhyphen                              | stripped\_warped\_hyphae                  | %s\_warped\_hy%       | %bl%          |
 | Entrindetes Mangrovenholz                         | stripped\_mangrove_wood                   | %s\_mangrove\_wd%     | %xf%			|
 | Entrindetes Kirschholz							| stripped\_cherry_wood					    | %s\_cherry\_wd%		| %abo%			|
+| Entrindetes Blasseichenholz                        stripped_pale_oak_wood                     | %spoak_w%             | %ahw%         |
 
 ### Holzbretter und Stöcke
 {.compact}
@@ -111,6 +114,7 @@ Um nach einer spezifischen Variable zu suchen, kannst du die Suche deines Browse
 | Kirschholzbretter                 	            | cherry\_planks                       	    | %cherry\_pl%          | %abb%		 	|
 | Bambusbretter                 			        | bamboo\_planks                       	    | %bamboo\_pl%          | %aal%			|
 | Bambusmosaik                 				        | bamboo\_mosaic                       	    | %bamboo\_mo%     	    | %aak%		    |
+| Blasseichenholzbretter                            | pale_oak_planks                           | %poak_pl%             | %ahx%         |
 | Stock                                             | stick                                     | %stick%               | 280           |
 
 ### Holzstufen
@@ -130,6 +134,7 @@ Um nach einer spezifischen Variable zu suchen, kannst du die Suche deines Browse
 | Bambusstufe                  				        | bamboo\_slab                              | %bamboo\_sl%          | %aap%			|
 | Bambusmosaikstufe                  	            | bamboo\_mosaic\_slab                      | %bamboo\_mo\_sl%      | %aao%			|
 | Versteinerte Eichenholzstufe                      | petrified\_oak\_slab                      | %p\_oak\_sl%          | %a5%			|
+Blasseichenholzstufe pale_oak_slap %poak_sl% %ahz%
 
 ### Holztreppen
 {.compact}
@@ -147,6 +152,7 @@ Um nach einer spezifischen Variable zu suchen, kannst du die Suche deines Browse
 | Kirschholztreppe									| cherry\_stairs							| %cherry\_st%			| %abc%		    |
 | Bambustreppe                 				        | bamboo\_stairs          					| %bamboo\_st%          | %aan%			|
 | Bambusmosaiktreppe                                | bamboo\_mosaic_stairs          			| %bamboo\_mo\_st%      | %aam%			|
+Blasseichenholztreppe pale_oak_stairs %poak_st% %ahy%
 
 ### Zäune
 {.compact}
@@ -164,6 +170,7 @@ Um nach einer spezifischen Variable zu suchen, kannst du die Suche deines Browse
 | Mangrovenholzzaun                                 | mangrove\_fence                           | %mangrove\_fc%        | %xr%			|
 | Kirschholzzaun								    | cherry\_fence								| %cherry\_fc%			| %abg% 		|
 | Bambuszaun										| bamboo\_fence								| %bamboo\_fc%			| %aas% 		|
+| Blasseichenholzzaun                               | pale_oak_fence                            | %poak_fe%             | %aia%         |       
 
 ### Zauntore
 {.compact}
@@ -180,6 +187,7 @@ Um nach einer spezifischen Variable zu suchen, kannst du die Suche deines Browse
 | Mangrovenholzzauntor                              | mangrove\_fence\_gate                     | %mangrove\_fg%        | %xq%			|
 | Kirschholzzauntor								    | cherry\_fence\_gate						| %cherry\_fg%			| %abh% 		|
 | Bambuszauntor										| bamboo\_fence\_gate						| %bamboo\_fg%			| %aat% 		|
+| Blasseichenholzzauntor                            | pale_oak_fence_gate                       | %poak_fega%           | %aib%         |
 
 ### Laub
 {.compact}
@@ -927,6 +935,7 @@ Um nach einer spezifischen Variable zu suchen, kannst du die Suche deines Browse
 | Mangrovenholzfalltür 								| mangrove_trapdoor                         | %mangrove_trap 		| %xj%			|
 | Kirschholzfalltür								    | cherry_trapdoor							| %cherry_trap%			| %abk% 		|
 | Bambusfalltür										| bamboo_trapdoor					        | %bamboo_trap%			| %aaw% 		|
+| Blasseichenholzfalltür  							| pale_oak_trapdoor  		                | %poak_trdo%			| %aid% 		|
 
 #### Kupferfalltüren
 {.compact}
@@ -978,7 +987,7 @@ Um nach einer spezifischen Variable zu suchen, kannst du die Suche deines Browse
 | Mangrovenholzdruckplatte 						    | mangrove_pressure_plate                   | %mangrove_prpl%       | %xn% 			|
 | Kirschholzdruckplatte								| cherry_pressure_plate 					| %cherry_prpl%			| %abi%			|
 | Bambusdruckplatte									| bamboo_pressure_plate						| %bamboo_prpl%			| %aau%			|
-
+| Blasseichenholzdruckplatte                        | pale_oak_pressure_plate                   | %poak_prpl%           | %aie%         |
 ### Boote und Minecarts
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
