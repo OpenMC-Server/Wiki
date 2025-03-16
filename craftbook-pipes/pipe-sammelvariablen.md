@@ -34,16 +34,16 @@ Um nach einer spezifischen Sammelvariable zu suchen, kannst du die Suche deines 
 ### Holz, Laub, Setzlinge
 #### Stämme + Holz (gemischte Holztypen)
 [!badge variant="secondary" text="**%za%**"] **Alle Holzstämme**\
-*oak_log,spruce_log, birch_log, jungle_log, acacia_log, dark_oak_log, crimson_stem, warped_stem, mangrove_log, cherry_log*
+*oak_log,spruce_log, birch_log, jungle_log, acacia_log, dark_oak_log, crimson_stem, warped_stem, mangrove_log, cherry_log, pale_oak_log*
 
 [!badge variant="secondary" text="**%wx%**"] **Alle Hölzer**\
-*oak_wood, spruce_wood, birch_wood, jungle_wood, acacia_wood, dark_oak_wood, mangrove_wood,crimson_hyphae, warped_hyphae, cherry_wood, bamboo_block*
+*oak_wood, spruce_wood, birch_wood, jungle_wood, acacia_wood, dark_oak_wood, mangrove_wood,crimson_hyphae, warped_hyphae, cherry_wood, bamboo_block, pale_oak_wood*
 
 [!badge variant="secondary" text="**%zb%**"] **Alle entrindeten Holzstämme**\
-*stripped_oak_log, stripped_spruce_log, stripped_birch_log, stripped_acacia_log, stripped_jungle_log, stripped_dark_oak_log, stripped_crimson_stem, stripped_warped_stem, stripped_mangrove_log, stripped_cherry_log*
+*stripped_oak_log, stripped_spruce_log, stripped_birch_log, stripped_acacia_log, stripped_jungle_log, stripped_dark_oak_log, stripped_crimson_stem, stripped_warped_stem, stripped_mangrove_log, stripped_cherry_log, stripped_pale_oak_log*
 
 [!badge variant="secondary" text="**%ww%**"] **Alle entrindeten Hölzer**\
-*stripped_oak_wood, stripped_spruce_wood, stripped_birch_wood, stripped_acacia_wood, stripped_jungle_wood, stripped_dark_oak_wood, stripped_crimson_hyphae, stripped_warped_hyphae, stripped_mangrove_wood, stripped_cherry_wood, stripped_bamboo_block*
+*stripped_oak_wood, stripped_spruce_wood, stripped_birch_wood, stripped_acacia_wood, stripped_jungle_wood, stripped_dark_oak_wood, stripped_crimson_hyphae, stripped_warped_hyphae, stripped_mangrove_wood, stripped_cherry_wood, stripped_bamboo_block, stripped_pale_oak_wood*
 
 #### Stämme + Holz (einzelne Holztypen)
 [!badge variant="secondary" text="**%aa%**"] **Alle Eichenstämme/hölzer**\
@@ -110,6 +110,9 @@ Um nach einer spezifischen Sammelvariable zu suchen, kannst du die Suche deines 
 [!badge variant="secondary" text="**%aef%**"] **Alle Bambusblöcke + Erzeugnisse**\
 *bamboo_block, stripped_bamboo_block, bamboo_planks, bamboo_slab, bamboo_stairs, bamboo_pressure_plate, bamboo_fence, bamboo_trapdoor, bamboo_fence_gate, bamboo_fence, bamboo_button, bamboo_door, bamboo_raft, bamboo_sign, bamboo_hanging_sign, bamboo_mosaic, bamboo_mosaic_stairs, bamboo_mosaic_slab*
 
+[!badge variant="secondary" text="**%peh%**"] **Alle Blasseichenholzstämme/Hölzer + Erzeugnisse**\
+*pale_oak_log,pale_oak_wood,stripped_pale_oak_log,stripped_pale_oak_wood,pale_oak_planks,pale_oak_stairs,pale_oak_slap,pale_oak_fence,pale_oak_fence_gate,pale_oak_door,pale_oak_trapdoor,pale_oak_pressure_plate,pale_oak_button,pale_oak_sign,pale_oak_hanging_sign,pale_oak_boat,pale_oak_chest_boat,pale_oak_sapling, pale_oak_leaves*
+
 #### Alle Holzerzeugnisse (ohne Stämme, einzelne Holztypen)
 [!badge variant="secondary" text="**%kc%**"] **Alle Eichenerzeugnisse**\
 *oak_planks, oak_slab, oak_stairs, oak_pressure_plate, oak_fence, oak_trapdoor, oak_fence_gate, oak_fence, oak_button, oak_door, oak_boat, oak_sign, oak_hanging_sign*
@@ -146,62 +149,65 @@ Um nach einer spezifischen Sammelvariable zu suchen, kannst du die Suche deines 
 
 #### Bretter, Setzlinge, Laub, Holzstufen und Treppen
 [!badge variant="secondary" text="**%zc%**"] **Alle Holzbretter**\
-*oak_planks, spruce_planks, birch_planks, jungle_planks, acacia_planks, dark_oak_planks, crimson_planks, warped_planks, mangrove_planks, cherry_planks, bamboo_planks*
+*oak_planks, spruce_planks, birch_planks, jungle_planks, acacia_planks, dark_oak_planks, crimson_planks, warped_planks, mangrove_planks, cherry_planks, bamboo_planks, pale_oak_planks*
 
 [!badge variant="secondary" text="**%zd%**"] **Alle Setzlinge**\
-*oak_sapling, spruce_sapling, birch_sapling, jungle_sapling, acacia_sapling, dark_oak_sapling, mangrove_propagule, cherry_sapling*
+*oak_sapling, spruce_sapling, birch_sapling, jungle_sapling, acacia_sapling, dark_oak_sapling, mangrove_propagule, cherry_sapling, pale_oak_sapling*
 
 [!badge variant="secondary" text="**%ze%**"] **Alle Blätter (ohne 1.17+)**\
-*oak_leaves, dark_oak_leaves, spruce_leaves, birch_leaves, jungle_leaves, acacia_leaves, mangrove_leaves, cherry_leaves*
+*oak_leaves, dark_oak_leaves, spruce_leaves, birch_leaves, jungle_leaves, acacia_leaves, mangrove_leaves, cherry_leaves, pale_oak_leaves*
 
 [!badge variant="secondary" text="**%rr%**"] **Alle Blätter (inkl. 1.17+)**\
-*oak_leaves, dark_oak_leaves, spruce_leaves, birch_leaves, jungle_leaves, acacia_leaves, mangrove_leaves, azalea_leaves, flowering_azalea_leaves, cherry_leaves*
+*oak_leaves, dark_oak_leaves, spruce_leaves, birch_leaves, jungle_leaves, acacia_leaves, mangrove_leaves, azalea_leaves, flowering_azalea_leaves, cherry_leaves, pale_oak_leaves*
 
 [!badge variant="secondary" text="**%ts%**"] **Alle Holzstufen**\
-*oak_slab, spruce_slab, birch_slab, jungle_slab, acacia_slab, dark_oak_slab, crimson_slab, warped_slab, mangrove_slab, cherry_slab, bamboo_slab, bamboo_mosaic_slab*
+*oak_slab, spruce_slab, birch_slab, jungle_slab, acacia_slab, dark_oak_slab, crimson_slab, warped_slab, mangrove_slab, cherry_slab, bamboo_slab, bamboo_mosaic_slab, pale_oak_slap*
 
 [!badge variant="secondary" text="**%tt%**"] **Alle Holztreppen**\
-*oak_stairs, spruce_stairs, birch_stairs, jungle_stairs, acacia_stairs, dark_oak_stairs, crimson_stairs, warped_stairs, mangrove_stairs, cherry_stairs, bamboo_stairs, bamboo_mosaic_stairs*
+*oak_stairs, spruce_stairs, birch_stairs, jungle_stairs, acacia_stairs, dark_oak_stairs, crimson_stairs, warped_stairs, mangrove_stairs, cherry_stairs, bamboo_stairs, bamboo_mosaic_stairs, pale_oak_stairs*
 
 ### Schilder, Türen, etc.
 [!badge variant="secondary" text="**%zf%**"] **Alle Schilder**\
-*oak_sign, spruce_sign, birch_sign, jungle_sign, acacia_sign, dark_oak_sign, crimson_sign, warped_sign, mangrove_sign, cherry_sign, bamboo_sign*
+*oak_sign, spruce_sign, birch_sign, jungle_sign, acacia_sign, dark_oak_sign, crimson_sign, warped_sign, mangrove_sign, cherry_sign, bamboo_sign, pale_oak_sign*
 
 [!badge variant="secondary" text="**%aeg%**"] **Alle Hängechilder**\
 *oak_hanging_sign, spruce_hanging_sign, birch_hanging_sign, jungle_hanging_sign, acacia_hanging_sign, dark_oak_hanging_sign, mangrove_hanging_sign, crimson_hanging_sign, warped_hanging_sign, cherry_hanging_sign, bamboo_hanging_sign*
 
 [!badge variant="secondary" text="**%zh%**"] **Alle Falltüren**\
-*oak_trapdoor, spruce_trapdoor, birch_trapdoor, jungle_trapdoor, acacia_trapdoor, dark_oak_trapdoor, iron_trapdoor, crimson_trapdoor, warped_trapdoor, mangrove_trapdoor, cherry_trapdoor, bamboo_trapdoor*
+*oak_trapdoor, spruce_trapdoor, birch_trapdoor, jungle_trapdoor, acacia_trapdoor, dark_oak_trapdoor, iron_trapdoor, crimson_trapdoor, warped_trapdoor, mangrove_trapdoor, cherry_trapdoor, bamboo_trapdoor, pale_oak_trapdoor*
 
 [!badge variant="secondary" text="**%ahp%**"] **Alle Falltüren (1.21+)**\
-*oak_trapdoor, spruce_trapdoor, birch_trapdoor, jungle_trapdoor, acacia_trapdoor, dark_oak_trapdoor, iron_trapdoor, crimson_trapdoor, warped_trapdoor, mangrove_trapdoor, cherry_trapdoor, bamboo_trapdoor, copper_trapdoor, exposed_copper_trapdoor, weathered_copper_trapdoor, oxidized_copper_trapdoor, waxed_copper_trapdoor, waxed_exposed_copper_trapdoor, waxed_weathered_copper_trapdoor, waxed_oxidized_copper_trapdoor*
+*oak_trapdoor, spruce_trapdoor, birch_trapdoor, jungle_trapdoor, acacia_trapdoor, dark_oak_trapdoor, iron_trapdoor, crimson_trapdoor, warped_trapdoor, mangrove_trapdoor, cherry_trapdoor, bamboo_trapdoor, copper_trapdoor, exposed_copper_trapdoor, weathered_copper_trapdoor, oxidized_copper_trapdoor, waxed_copper_trapdoor, waxed_exposed_copper_trapdoor, waxed_weathered_copper_trapdoor, waxed_oxidized_copper_trapdoor, pale_oak_trapdoor*
 
 [!badge variant="secondary" text="**%zi%**"] **Alle Knöpfe**\
-*stone_button, dark_oak_button, acacia_button, jungle_button, birch_button, spruce_button, oak_button, crimson_button, warped_button, mangrove_button, polished_blackstone_button, cherry_button, bamboo_button*
+*stone_button, dark_oak_button, acacia_button, jungle_button, birch_button, spruce_button, oak_button, crimson_button, warped_button, mangrove_button, polished_blackstone_button, cherry_button, bamboo_button, pale_oak_button*
 
 [!badge variant="secondary" text="**%py%**"] **Alle Druckplatten**\
 *light_weighted_pressure_plate, heavy_weighted_pressure_plate, stone_pressure_plate, polished_blackstone_pressure_plate, oak_pressure_plate, spruce_pressure_plate, birch_pressure_plate, jungle_pressure_plate, acacia_pressure_plate, dark_oak_pressure_plate, crimson_pressure_plate, warped_pressure_plate*
 
 [!badge variant="secondary" text="**%zg%**"] **Alle Türen**\
-*oak_door, spruce_door, birch_door, jungle_door, acacia_door, dark_oak_door, crimson_door, warped_door, iron_door, mangrove_door, cherry_door, bamboo_door*
+*oak_door, spruce_door, birch_door, jungle_door, acacia_door, dark_oak_door, crimson_door, warped_door, iron_door, mangrove_door, cherry_door, bamboo_door, pale_oak_door*
+
+[!badge variant="secondary" text="**%ahp%**"] **Alle Türen (1.21+)**\
+*oak_door, spruce_door, birch_door, jungle_door,acacia_door, dark_oak_door, mangrove_door, crimson_door, warped_door, iron_door, cherry_door, bamboo_door, copper_door, exposed_copper_door, weathered_copper_door, oxidized_copper_door, waxed_copper_door, waxed_exposed_copper_door, waxed_weathered_copper_door, waxed_oxidized_copper_door, pale_oak_door*
 
 [!badge variant="secondary" text="**%zk%**"] **Alle Zäune**\
-*oak_fence, birch_fence, spruce_fence, jungle_fence, acacia_fence, dark_oak_fence, nether_brick_fence, crimson_fence, warped_fence, mangrove_fence, cherry_fence, bamboo_fence*
+*oak_fence, birch_fence, spruce_fence, jungle_fence, acacia_fence, dark_oak_fence, nether_brick_fence, crimson_fence, warped_fence, mangrove_fence, cherry_fence, bamboo_fence, pale_oak_fence*
 
 [!badge variant="secondary" text="**%zl%**"] **Alle Zauntore**\
-*oak_fence_gate, spruce_fence_gate, birch_fence_gate, jungle_fence_gate, acacia_fence_gate, dark_oak_fence_gate, crimson_fence_gate, warped_fence_gate, mangrove_fence_gate, cherry_fence_gate, bamboo_fence_gate*
+*oak_fence_gate, spruce_fence_gate, birch_fence_gate, jungle_fence_gate, acacia_fence_gate, dark_oak_fence_gate, crimson_fence_gate, warped_fence_gate, mangrove_fence_gate, cherry_fence_gate, bamboo_fence_gate, pale_oak_fence_gate*
 
 [!badge variant="secondary" text="**%zm%**"] **Alle Treppen**\
-*diorite_stairs, polished_andesite_stairs, red_nether_brick_stairs, andesite_stairs, granite_stairs, smooth_quartz_stairs, stone_stairs, end_stone_brick_stairs, mossy_cobblestone_stairs, jungle_stairs, birch_stairs, spruce_stairs, polished_diorite_stairs, sandstone_stairs, smooth_sandstone_stairs, mossy_stone_brick_stairs, dark_oak_stairs, mangrove_stairs, purpur_stairs, stone_brick_stairs, brick_stairs, cobblestone_stairs, oak_stairs, smooth_red_sandstone_stairs, polished_granite_stairs, red_sandstone_stairs, dark_prismarine_stairs, prismarine_brick_stairs, prismarine_stairs, nether_brick_stairs, acacia_stairs, quartz_stairs, crimson_stairs, warped_stairs, blackstone_stairs, polished_blackstone_stairs, polished_blackstone_brick_stairs, cobbled_deepslate_stairs, deepslate_brick_stairs, deepslate_tile_stairs, polished_deepslate_stairs, cherry_stairs, bamboo_stairs, bamboo_mosaic_stairs, mud_brick_stairs, tuff_stairs, polished_tuff_stairs, tuff_brick_stairs*
+*diorite_stairs, polished_andesite_stairs, red_nether_brick_stairs, andesite_stairs, granite_stairs, smooth_quartz_stairs, stone_stairs, end_stone_brick_stairs, mossy_cobblestone_stairs, jungle_stairs, birch_stairs, spruce_stairs, polished_diorite_stairs, sandstone_stairs, smooth_sandstone_stairs, mossy_stone_brick_stairs, dark_oak_stairs, mangrove_stairs, purpur_stairs, stone_brick_stairs, brick_stairs, cobblestone_stairs, oak_stairs, smooth_red_sandstone_stairs, polished_granite_stairs, red_sandstone_stairs, dark_prismarine_stairs, prismarine_brick_stairs, prismarine_stairs, nether_brick_stairs, acacia_stairs, quartz_stairs, crimson_stairs, warped_stairs, blackstone_stairs, polished_blackstone_stairs, polished_blackstone_brick_stairs, cobbled_deepslate_stairs, deepslate_brick_stairs, deepslate_tile_stairs, polished_deepslate_stairs, cherry_stairs, bamboo_stairs, bamboo_mosaic_stairs, mud_brick_stairs, tuff_stairs, polished_tuff_stairs, tuff_brick_stairs, pale_oak_stairs, resin_brick_stairs*
 
 [!badge variant="secondary" text="**%zn%**"] **Alle Stufen**\
-*smooth_stone_slab, oak_slab, spruce_slab, birch_slab, acacia_slab, jungle_slab, dark_oak_slab, mangrove_slab,stone_slab, sandstone_slab, cut_sandstone_slab, petrified_oak_slab, brick_slab, stone_brick_slab, nether_brick_slab, quartz_slab, red_sandstone_slab, cut_red_sandstone_slab, purpur_slab, prismarine_slab, prismarine_brick_slab, dark_prismarine_slab, polished_diorite_slab, smooth_red_sandstone_slab, mossy_stone_brick_slab, polished_granite_slab, mossy_cobblestone_slab, end_stone_brick_slab, smooth_sandstone_slab, smooth_quartz_slab, granite_slab, andesite_slab, red_nether_brick_slab, polished_andesite_slab, diorite_slab, cobblestone_slab, warped_slab, crimson_slab, blackstone_slab, polished_blackstone_slab, polished_blackstone_brick_slab, cobbled_deepslate_slab, deepslate_brick_slab, deepslate_tile_slab, polished_deepslate_slab, cherry_slab, bamboo_slab, bamboo_mosaic_slab, mud_brick_slab, tuff_slab, polished_tuff_slab, tuff_brick_slab*
+*smooth_stone_slab, oak_slab, spruce_slab, birch_slab, acacia_slab, jungle_slab, dark_oak_slab, mangrove_slab,stone_slab, sandstone_slab, cut_sandstone_slab, petrified_oak_slab, brick_slab, stone_brick_slab, nether_brick_slab, quartz_slab, red_sandstone_slab, cut_red_sandstone_slab, purpur_slab, prismarine_slab, prismarine_brick_slab, dark_prismarine_slab, polished_diorite_slab, smooth_red_sandstone_slab, mossy_stone_brick_slab, polished_granite_slab, mossy_cobblestone_slab, end_stone_brick_slab, smooth_sandstone_slab, smooth_quartz_slab, granite_slab, andesite_slab, red_nether_brick_slab, polished_andesite_slab, diorite_slab, cobblestone_slab, warped_slab, crimson_slab, blackstone_slab, polished_blackstone_slab, polished_blackstone_brick_slab, cobbled_deepslate_slab, deepslate_brick_slab, deepslate_tile_slab, polished_deepslate_slab, cherry_slab, bamboo_slab, bamboo_mosaic_slab, mud_brick_slab, tuff_slab, polished_tuff_slab, tuff_brick_slab, resin_brick_slap, pale_oak_slap*
 
 [!badge variant="secondary" text="**%zo%**"] **Alle Mauern**\
-*cobblestone_wall, mossy_cobblestone_wall, brick_wall, prismarine_wall, red_sandstone_wall, mossy_stone_brick_wall, granite_wall, stone_brick_wall, nether_brick_wall, andesite_wall, red_nether_brick_wall, sandstone_wall, end_stone_brick_wall, diorite_wall, blackstone_wall, polished_blackstone_wall, polished_blackstone_brick_wall, cobbled_deepslate_wall, deepslate_brick_wall, deepslate_tile_wall, polished_deepslate_wall, mud_brick_wall, tuff_wall, polished_tuff_wall, tuff_brick_wall*
+*cobblestone_wall, mossy_cobblestone_wall, brick_wall, prismarine_wall, red_sandstone_wall, mossy_stone_brick_wall, granite_wall, stone_brick_wall, nether_brick_wall, andesite_wall, red_nether_brick_wall, sandstone_wall, end_stone_brick_wall, diorite_wall, blackstone_wall, polished_blackstone_wall, polished_blackstone_brick_wall, cobbled_deepslate_wall, deepslate_brick_wall, deepslate_tile_wall, polished_deepslate_wall, mud_brick_wall, tuff_wall, polished_tuff_wall, tuff_brick_wall, resin_brick_wall*
 
 [!badge variant="secondary" text="**%vs%**"] **Alle Boote**\
-*oak_boat, spruce_boat, birch_boat, jungle_boat, acacia_boat, dark_oak_boat, cherry_boat, bamboo_raft*
+*oak_boat, spruce_boat, birch_boat, jungle_boat, acacia_boat, dark_oak_boat, cherry_boat, bamboo_raft, pale_oak_boat*
 
 ### Bunte Blöcke
 [!badge variant="secondary" text="**%zp%**"] **Alle Gläser (ohne 1.17+)**\
@@ -241,7 +247,7 @@ Um nach einer spezifischen Sammelvariable zu suchen, kannst du die Suche deines 
 *black_banner, white_banner, orange_banner, magenta_banner, light_blue_banner, yellow_banner, lime_banner, pink_banner, gray_banner, light_gray_banner, red_banner, green_banner, brown_banner, blue_banner, purple_banner, cyan_banner*
 
 [!badge variant="secondary" text="**%yi%**"] **Alle Bannervorlagen**\
-*flower_banner_pattern, creeper_banner_pattern, mojang_banner_pattern, globe_banner_pattern, piglin_banner_pattern, skull_banner_pattern, flow_banner_pattern, guster_banner_pattern*
+*flower_banner_pattern, creeper_banner_pattern, mojang_banner_pattern, globe_banner_pattern, piglin_banner_pattern, skull_banner_pattern, flow_banner_pattern, guster_banner_pattern, bordure_indented_banner_pattern, field_masoned_banner_pattern*
 
 [!badge variant="secondary" text="**%rz%**"] **Alle Kerzen**\
 *candle, white_candle, orange_candle, magenta_candle, light_blue_candle, yellow_candle, lime_candle, pink_candle, gray_candle, light_gray_candle, cyan_candle, purple_candle, blue_candle, brown_candle, green_candle, red_candle, black_candle*
@@ -272,7 +278,7 @@ Um nach einer spezifischen Sammelvariable zu suchen, kannst du die Suche deines 
 
 ### Blumen, Farben
 [!badge variant="secondary" text="**%yy%**"] **Alle Blumen**\
-*dandelion, poppy, blue_orchid, allium, azure_bluet, red_tulip, orange_tulip, white_tulip, pink_tulip, oxeye_daisy, cornflower, lily_of_the_valley, wither_rose, sunflower, lilac, rose_bush, peony, torchflower, pink_petals, pitcher_pod, pitcher_crop*
+*dandelion, poppy, blue_orchid, allium, azure_bluet, red_tulip, orange_tulip, white_tulip, pink_tulip, oxeye_daisy, cornflower, lily_of_the_valley, wither_rose, sunflower, lilac, rose_bush, peony, torchflower, pink_petals, pitcher_pod, pitcher_crop, closed_eyeblossom, open_eyeblossom*
 
 [!badge variant="secondary" text="**%zw%**"] **Alle Farben**\
 *white_dye, orange_dye, magenta_dye, light_blue_dye, yellow_dye, lime_dye, pink_dye, gray_dye, light_gray_dye, cyan_dye, purple_dye, blue_dye, green_dye, brown_dye, red_dye, black_dye*
@@ -367,7 +373,7 @@ Um nach einer spezifischen Sammelvariable zu suchen, kannst du die Suche deines 
 *seagrass, sea_pickle, kelp, lily_pad, grass, fern, dead_bush, brown_mushroom, red_mushroom, vine, weeping_vines, twisting_vines, crimson_fungus, warped_fungus, crimson_roots, warped_roots, nether_sprouts*
 
 [!badge variant="secondary" text="**%rq%**"] **Diverse Pflanzen (inkl. 1.17+)**\
-*seagrass, sea_pickle, kelp, lily_pad, short_grass, fern, dead_bush , brown_mushroom, red_mushroom, vine,weeping_vines, twisting_vines, crimson_fungus, warped_fungus, crimson_roots, warped_roots, nether_sprouts, azalea, flowering_azalea, big_dripleaf, small_dripleaf, glow_lichen, hanging_roots, spore_blossom*
+*seagrass, sea_pickle, kelp, lily_pad, short_grass, fern, dead_bush , brown_mushroom, red_mushroom, vine,weeping_vines, twisting_vines, crimson_fungus, warped_fungus, crimson_roots, warped_roots, nether_sprouts, azalea, flowering_azalea, big_dripleaf, small_dripleaf, glow_lichen, hanging_roots, spore_blossom, pale_hanging_moss*
 
 [!badge variant="secondary" text="**%aeb%**"] **Alle Wasserpflanzen**\
 *kelp, dried_kelp, dried_kelp_block, sea_pickle, seagrass, small_dripleaf, big_dripleaf, glow_lichen*
@@ -502,7 +508,7 @@ Um nach einer spezifischen Sammelvariable zu suchen, kannst du die Suche deines 
 *blast_furnace, cartography_table, brewing_stand, composter, barrel, fletching_table, cauldron, lectern, stonecutter, loom, smithing_table, grindstone*
 
 [!badge variant="secondary" text="**%vw%**"] **Diverse Nutzblöcke (ohne 1.17+)**\
-*crafting_table, ladder, chest, trapped_chest, ender_chest, furnace, smoker, hopper, enchanting_table, anvil, chipped_anvil, damaged_anvil, jukebox, note_block, lodestone, respawn_anchor, conduit, end_crystal, beacon*
+*crafting_table, ladder, chest, trapped_chest, ender_chest, furnace, smoker, hopper, enchanting_table, anvil, chipped_anvil, damaged_anvil, jukebox, note_block, lodestone, respawn_anchor, conduit, end_crystal, beacon, lightning_rod, crafter*
 
 [!badge variant="secondary" text="**%xz%**"] **Diverse Nutzblöcke (ohne Redstone, ohne 1.17+)**\
 *crafting_table, ladder, chest, ender_chest, furnace, smoker, enchanting_table, anvil, chipped_anvil, damaged_anvil, jukebox, lodestone, respawn_anchor, conduit, end_crystal, beacon*
@@ -707,3 +713,9 @@ Zu gesonderten Infos rund um `player_head` kannst du [hier](https://wiki.openmc.
 
 [!badge variant="secondary" text="**%aei%**"] **Alle Töpferscherben**\
 *angler_pottery_sherd, miner_pottery_sherd, brewer_pottery_sherd, explorer_pottery_sherd, burn_pottery_sherd, friend_pottery_sherd, sheaf_pottery_sherd, arms_up_pottery_sherd, danger_pottery_sherd, howl_pottery_sherd, heart_pottery_sherd, heartbreak_pottery_sherd, prize_pottery_sherd, blade_pottery_sherd, plenty_pottery_sherd, snort_pottery_sherd, archer_pottery_sherd, skull_pottery_sherd, mourner_pottery_sherd, shelter_pottery_sherd, flow_pottery_sherd, guster_pottery_sherd, scrape_pottery_sherd*
+
+[!badge variant="secondary" text="**%har%**"] **Alle Harz Erzeugnisse**\
+* creaking_heart,resin_clump,resin_brick,resin_block,resin_bricks,chiseled_resin_bricks,resin_brick_stairs,resin_brick_slap,resin_brick_wall*
+
+[!badge variant="secondary" text="**%bun%**"] **Alle Bündel*\
+* bundle,white_bundle,light_gray_bundle,gray_bundle,black_bundle,brown_bundle,red_bundle,orange_bundle,yellow_bundle,light_green_bundle,green_bundle,ligh_blue_bundle,cyan_bundle,blue_bundle,purple_bundle,magenta_bundle,pink_bundle*
