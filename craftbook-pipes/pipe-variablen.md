@@ -205,6 +205,7 @@ Blasseichenholztreppe pale_oak_stairs %poak_st% %ahy%
 | Blühendes Azaleenlaub 							| flowering\_azalea\_leaves 				| %fl\_azalea\_lv% 	    | %gf% 			|
 | Mangrovenlaub                                     | mangrove\_leaves                          | %mangrove\_lv%        | %xp%			|
 | Kirschlaub										| cherry\_leaves							| %cherry\_lv%			| %abp% 		|
+| Blasseichenlaub                                   | pale_oak_leaves %poak_le% %ail%
 
 ### Setzlinge
 {.compact}
@@ -218,6 +219,7 @@ Blasseichenholztreppe pale_oak_stairs %poak_st% %ahy%
 | Schwarzeichensetzling                             | dark\_oak\_sapling                        | %darkoak\_sp%         | 6:5           |
 | Mangroven-Keimling                                | mangrove\_propagule                       | %mangrove\_pp%        | %xv%			|
 | Kirschsetzling								    | cherry\_sapling							| %cherry\_sp%			| %abs% 		|
+| Blasseichensetzling                               | pale_oak_sapling                          | %poak_sa%             | %aik%
 
 ### Schilder (Schrift)
 {.compact}
@@ -234,6 +236,7 @@ Blasseichenholztreppe pale_oak_stairs %poak_st% %ahy%
 | Mangrovenholzschild                               | mangrove\_sign                            | %mangrove\_si%        | %xm%			|
 | Kirschholzschild									| cherry\_sign								| %cherry\_si%			| %abj%			|
 | Bambusschild										| bamboo\_sign								| %bamboo\_si%			| %aav%			|
+| Blasseichenholzschild                             | pale_oak_sign                             | %poak_si%             | %aig%         |
 
 ### Hängeschilder
 {.compact}
@@ -250,6 +253,7 @@ Blasseichenholztreppe pale_oak_stairs %poak_st% %ahy%
 | Magrovenholzhängeschild							| mangrove\_hanging\_sign					| %mangrove\_hg\_si%    | %acc%			|
 | Kirschholzhängeschild								| cherry\_hanging\_sign						| %cherry\_hg\_si%	    | %acd%			|
 | Bambushängeschild									| bamboo\_hanging\_sign						| %bamboo\_hg\_si%	    | %ace%			|
+| Blasseichenholzhängeschild                        | pale_oak_hanging_sign                     | %poak_hg_si%          | %aih%         |
 
 ### Bruchstein
 {.compact}
@@ -390,6 +394,20 @@ Blasseichenholztreppe pale_oak_stairs %poak_st% %ahy%
 | Schlammziegelstufe 								| mud\_brick\_slab                          | %mud\_br\_s% 			| %a6%			|
 | Schlammziegeltreppe 								| mud\_brick\_stairs                        | %m\_br\_st% 			| %e1%			|
 | Schlammziegelmauer 							    | mud\_brick\_wall                          | %mud\_br\_wl% 		| %f4%			|
+
+### Harz
+{.compact}
+| Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |                        
+| ---                                               | ---                                       | ---                   | ---           |    
+| Knarzherz                                         | creaking_heart                            | %c_heart%             | %aim%         |
+| Harzklumpen                                       | resin_clump                               | %r_clu%               | %ais%         |
+| Harzziegel                                        | resin_brick                               | %r_bri%               | %ait%         |
+| Harzblock                                         | resin_block                               | %r_blo%               | %aiu%         |
+| Harzziegel                                        | resin_bricks                              | %r_bris%              | %aiv%         |   
+| Gemeißelter Harzziegel                            | chiseled_resin_bricks                     | %c_r_bris%            | %aiw%         |
+| Harzziegeltreppe                                  | resin_brick_stairs                        | %r_bri_st%            | %aix%         |
+| Harzziegelstufe                                   | resin_brick_slap                          | %r_bri_sl%            | %aiy%         |
+| Harzziegelmauer                                   | resin_brick_wall                          | %r_bri_wa%            | %aiz%         |
 
 ### Sandstein
 {.compact}
@@ -693,6 +711,8 @@ Blasseichenholztreppe pale_oak_stairs %poak_st% %ahy%
 | Myzel                                             | mycelium                                  | %mycelium%            | 110           |
 | Moosblock 										| moss_block 								| %moss_bl% 			| %qx% 		    |
 | Mossteppich 									    | moss_carpet 								| %moss_carpet% 	    | %qy% 			|
+| Blassmoosblock                                    | pale_moss_block                           | %pmoss_b%             | %ain%         |
+| Blassmoosteppich                                  | pale_moss_carpet                          | %pmoss_c%             | %aio%         |
 | Wurzelerde 										| rooted_dirt 								| %ro_dirt% 			| %qz% 			|
 
 ### Sand und Kies
@@ -967,6 +987,7 @@ Blasseichenholztreppe pale_oak_stairs %poak_st% %ahy%
 | Mangrovenholzknopf                                | mangrove_button                           | %mangrove_btn% 	    | %xt%			|
 | Kirschholznopf									| cherry_button								| %cherry_btn%			| %abe%			|
 | Bambusknopf										| bamboo_button								| %bamboo_btn%			| %aaq%			|
+| Blasseichenholzknopf                              | pale_oak_button                           | %poak_bu%             | %aif%         |
 
 ### Druckplatten
 {.compact}
@@ -1001,6 +1022,7 @@ Blasseichenholztreppe pale_oak_stairs %poak_st% %ahy%
 | Mangrovenholzboot                  	            | mangrove_boat                				| %mangrove_boat%  	    | %xu%			|
 | Kirschholzboot								    | cherrye_boat								| %cherry_boat% 	    | %abq% 		|
 | Bambusfloß										| bamboo_raft								| %bamboo_raft%			| %aaz% 		|
+| Blasseichenholzboot                               | pale_oak_boat                             | %poak_bo%             | %aii% 
 | Eichenholztruhenboot            		            | oak_chest_boat                            | %oak_c_boat%          | %yl%   		| 
 | Fichtenholztruhenboot          			        | spruce_chest_boat                         | %spruce_c_boat%       | %ym%   		| 
 | Birkenholztruhenboot          			        | birch_chest_boat                          | %birch_c_boat%        | %zj%  	    | 
@@ -1010,6 +1032,7 @@ Blasseichenholztreppe pale_oak_stairs %poak_st% %ahy%
 | Schwarzeichenholztruhenboot      		            | dark_oak_chest_boat                       | %darkoak_c_boat%      | %a4%   		|
 | Kirschholztruhenboot								| cherry_chest_boat							| %cherry_c_boat%		| %abr% 		|
 | Bambus-Truhenfloß									| bamboo_chest_raft							| %bamboo_c_boat%		| %aba% 		|
+| Blasseichenholztruhenboot                         | pale_oak_chest_boat                       | %poak_chbo%           | %aij%         |
 | Lore                                              | minecart                                  | %minecart%            | 328           |
 | Güterlore                                         | chest\_minecart                           | %minecart\_che%       | 342           |
 | Antriebslore                                      | furnace\_minecart                         | %minecart\_fur%       | 343           |
@@ -1179,6 +1202,8 @@ Blasseichenholztreppe pale_oak_stairs %poak_st% %ahy%
 | Flieder                                           | lilac                                     | %lilac%               | %jl%          |
 | Rosenstrauch                                      | rose\_bush                                | %rosebush%            | %jm%          |
 | Pfingstrose                                       | peony                                     | %peony%               | %jn%          |
+| Geschlossene Augenblüte                           | closed_eyeblossom                         | %c_eblos%             | %aiq%         |
+| Geöffnete Augenblüte                              | open_eyeblossom                           | %o_eblos%             | %air%         |
 
 ### Bienen
 {.compact}
@@ -1271,6 +1296,7 @@ Blasseichenholztreppe pale_oak_stairs %poak_st% %ahy%
 | Trauerranken                                      | weeping\_vines                            | %weep\_vine%          | %kg%          |
 | Leuchtflechte 								    | glow_lichen 								| %gl_lichen% 			| %qu% 			|
 | Hängewurzeln 										| hanging_roots 							| %hang_roots% 			| %qv% 			|
+| Hängendes Blassmoos                               | pale_hanging_moss                         | %p_hg_moss%           | %aip%         |
 | Netherwarze                                       | nether\_wart                              | %netwart%             | 372           |
 | Roter Pilz                                        | red\_mushroom                             | %shroom\_red%         | 40            |
 | Brauner Pilz                                      | brown\_mushroom                           | %shroom\_bro%         | 39            |
@@ -1364,6 +1390,7 @@ Blasseichenholztreppe pale_oak_stairs %poak_st% %ahy%
 | Shulkerschale                                     | shulker\_shell                            | %shulkshell%          | 450           |
 | Echoscherbe                 			            | echo_shard                                | %echoshard%           | %uk% 			|
 | Böenrute                 			                | breeze_rod                                | %brzrod%              | %agt% 		|
+| Gürteltier-Hornschild                             | armadillo_scute                           | %arm_scute%           | %ahr%         |
 
 ### Farbstoffe
 {.compact}
@@ -1414,6 +1441,8 @@ Blasseichenholztreppe pale_oak_stairs %poak_st% %ahy%
 | Bannervorlage Piglin                              | piglin\_banner\_pattern                   | %banpat\_piglin%      | %mn%          |
 | Bannervorlage Fluss                               | flow_banner_pattern                       | %banpat_flow%         | %ahd%         |
 | Bannervorlage Windstoßer                          | guster_banner_pattern                     | %banpat_guster%       | %ahe%         |
+| Bannervorlage Spickelbord                         | bordure_indented_banner_pattern           | %banpat_boin%         | %aja%         |
+| Bannervorlage Mauerung                            | field_masoned_banner_pattern              | %banpat_fima%         | %ajb%         |
 
 ### Betten
 {.compact}
@@ -1637,7 +1666,7 @@ modifizierten Items kennen.
 | Eiserner Rossharnisch                             | iron\_horse\_armor                        | %ir\_horsearmor%      | 417           |
 | Goldener Rossharnisch                             | golden\_horse\_armor                      | %go\_horsearmor%      | 418           |
 | Diamantener Rossharnisch                          | diamond\_horse\_armor                     | %di\_horsearmor%      | 419           |
-
+| Wolfspanzer                                       | wolf_armor                                | %wolfarmor%           | %ahs%         |
 ### Schallplatten
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
@@ -1714,6 +1743,28 @@ modifizierten Items kennen.
 | Schmiedevorlage Turmspitzen					    | spire_armor_trim_smithing_template		| %spire_t_stmp%		| %aea%         |
 | Schmiedevorlage Fluss-Rüstungsbesatz				| flow_armor_trim_smithing_template		    | %flow_t_stmp%		    | %agy%         |
 | Schmiedevorlage Bolzen-Rüstungsbesatz				| bolt_armor_trim_smithing_template		    | %bolt_t_stmp%		    | %agz%         |
+
+### Bündel
+{.compact}
+| Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
+| ---                                               | ---                                       | ---                   | ---           |
+| Bündel                                            | bundle                                    | %bdle%                | %ajc%         |
+| Weißes Bündel                                     | white_bundle                              | %w_bdle%              | %ajd%         |
+| Hellgraues Bündel                                 | light_gray_bundle                         | %lgra_bdle%           | %aje%         |
+| Graues Bündel                                     | gray_bundle                               | %g_bdle%              | %ajf%         |
+| Schwarzes Bündel                                  | black_bundle                              | %bl_bdle%             | %ajg%         |
+| Braunes Bündel                                    | brown_bundle                              | %br_bdle%             | %ajh%         |
+| Rotes Bündel                                      | red_bundle                                | %r_bdle%              | %aji%         |
+| Oranges Bündel                                    | orange_bundle                             | %o_bdle%              | %ajj%         |
+| Gelbes Bündel                                     | yellow_bundle                             | %y_bdle%              | %ajk%         |
+| Hellgründes Bündel                                | light_green_bundle                        | %lgre_bdle%           | %ajl%         |
+| Grünes Bündel                                     | green_bundle                              | %g_bdle%              | %ajm%         |   
+| Hellblaues Bündel                                 | ligh_blue_bundle                          | %lb_bdle%             | %ajn%         |
+| Türkises Bündel                                   | cyan_bundle                               | %c_bdle%              | %ajo%         |
+| Blaues Bündel                                     | blue_bundle                               | %b_bdle%              | %ajp%         |
+| Violettes Bündel                                  | purple_bundle                             | %pu_bdle%             | %ajq%         |
+| Magenta Bündel                                    | magenta_bundle                            | %m_bdle%              | %ajr%         |
+| Rosa Bündel                                       | pink_bundle                               | %pi_bdle%             | %ajs%         |
 
 ### Bedrock
 {.compact}
