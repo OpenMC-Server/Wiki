@@ -64,7 +64,7 @@ Um nach einer spezifischen Variable zu suchen, kannst du die Suche deines Browse
 | Entrindeter Mangrovenstamm                        | stripped\_mangrove\_log    				| %s\_mangrove%         | %xe%			|
 | Entrindeter Kirschstamm							| stripped\_cherry\_log						| %s\_cherry%		    | %abm%		    |
 | Entrindeter Bambusblock                           | stripped\_bamboo\_block    				| %s\_bamboo%           | %aay%		    |				
-| Entrindeter Blasseichenstamm                      | stripped_pale_oak_log                     | %spoak_l%             | %ahv%         |
+| Entrindeter Blasseichenstamm                      | stripped\_pale_oak\_log                   | %spoak\_l%            | %ahv%         |
 
 ### Holzblöcke
 {.compact}
