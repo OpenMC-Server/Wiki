@@ -134,7 +134,7 @@ Um nach einer spezifischen Variable zu suchen, kannst du die Suche deines Browse
 | Bambusstufe                  				        | bamboo\_slab                              | %bamboo\_sl%          | %aap%			|
 | Bambusmosaikstufe                  	            | bamboo\_mosaic\_slab                      | %bamboo\_mo\_sl%      | %aao%			|
 | Versteinerte Eichenholzstufe                      | petrified\_oak\_slab                      | %p\_oak\_sl%          | %a5%			|
-Blasseichenholzstufe pale_oak_slap %poak_sl% %ahz%
+| Blasseichenholzstufe                              | pale\_oak\_slap                           | %poak\_sl%            | %ahz%         | 
 
 ### Holztreppen
 {.compact}
@@ -152,7 +152,7 @@ Blasseichenholzstufe pale_oak_slap %poak_sl% %ahz%
 | Kirschholztreppe									| cherry\_stairs							| %cherry\_st%			| %abc%		    |
 | Bambustreppe                 				        | bamboo\_stairs          					| %bamboo\_st%          | %aan%			|
 | Bambusmosaiktreppe                                | bamboo\_mosaic_stairs          			| %bamboo\_mo\_st%      | %aam%			|
-Blasseichenholztreppe pale_oak_stairs %poak_st% %ahy%
+| Blasseichenholztreppe                             | pale\_oak\_\stairs                        | %poak\_st%            | %ahy%         |
 
 ### Zäune
 {.compact}
