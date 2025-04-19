@@ -76,3 +76,10 @@ Industriewelt   | 8             | 8
 
 ## Schwerkraft von Rüstungsständern
 Armorstands unterliegen nicht den normalen Minecraft Gravitationsregeln und haben somit keine Schwerkraft.
+
+## Netherportale in der Industriewelt
+Die Blockreichweite zwischen der Oberfläche und dem Nether beträgt in Minecraft bekanntlich eine Aufteilung von 1:8. Das heißt, dass 8 Blöcke an der Oberfläche etwa 1 Block im Nether entsprechen.
+
+In der Industriewelt besteht die Besonderheit, dass vom Spawn aus 1000 Blöcke nicht geclaimt werden kann. Darüber hinaus ist die Industriewelt mit einer Border von zurzeit 35k limitiert. Das bedeutet auf das Verhältnis hinaus:
+- dass im Nether zu den Koordinaten < 8000 Blöcke die Chance bestehen könnte, dass ein Portal nicht funktioniert (`8000 / 8` entspricht den 1000 Blöcken vom Spawn, in denen man nicht bauen kann).
+- dass ein Portal im Nether, was zu weit hinter der Border an der Oberfläche nach dem Verhältnis ist, womöglich ebenfalls nicht funktionieren wird (Die Koordinate `7000 * 8` entspricht 56.000 Blöcken, was an der Oberfläche bereits hinter der Border ist.).
