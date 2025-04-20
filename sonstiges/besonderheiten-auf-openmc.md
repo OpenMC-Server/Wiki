@@ -35,6 +35,8 @@ Limits in den Welten:
 - Bauwelt: 100 Mobs im Bereich des Spielers (3x3 Chunks)
 - Industriewelt: 400 Mobs im Bereich des Spielers (3x3 Chunks)
 
+Überprüfbar ist das ganze zusätzlich mit dem Befehl `/chunkinfo`.
+
 Wir möchten euch bitten, grundsätzlich die Performance zu beachten und die Einschränkungen bzgl. Farmen in der Bauwelt zu respektieren.
 
 ---
