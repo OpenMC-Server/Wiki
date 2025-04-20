@@ -205,7 +205,7 @@ Um nach einer spezifischen Variable zu suchen, kannst du die Suche deines Browse
 | Blühendes Azaleenlaub 							| flowering\_azalea\_leaves 				| %fl\_azalea\_lv% 	    | %gf% 			|
 | Mangrovenlaub                                     | mangrove\_leaves                          | %mangrove\_lv%        | %xp%			|
 | Kirschlaub										| cherry\_leaves							| %cherry\_lv%			| %abp% 		|
-| Blasseichenlaub                                   | pale_oak_leaves %poak_le% %ail%
+| Blasseichenlaub                                   | pale_oak_leaves | %poak_le% | %ail%
 
 ### Setzlinge
 {.compact}

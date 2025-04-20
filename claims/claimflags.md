@@ -72,3 +72,13 @@ KeepInventory           | Items werden nach dem Tod im Inventar beibehalten | Be
 RespawnLocation         | Setze den Respawn-Punkt nach dem Tod auf dem Grundstück | Beim Team beantragbar für **Arenen**
 
 Sollte eine Flag aus technischen oder konzeptionellen Gründen einmal entfernt werden, kann eine Rückerstattung beantragt werden.
+
+---
+
+## Claimflag-Schilder
+Claimflags können ebenfalls über Schilder an- & ausgeschaltet werden. Dazu gilt folgende Syntax auf dem Schild:<br>
+- Zeile 1:
+- Zeile 2: [Claimflag]
+- Zeile 3: Flag-Name
+- Zeile 4: <br>
+

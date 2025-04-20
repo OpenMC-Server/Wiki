@@ -98,3 +98,6 @@ Zeigt unsichtbare Bilderrahmen an.
 
 `/unsichtbares`\
 Zeigt unsichtbare Bilderrahmen an.
+
+`/chunkinfo`\
+Zeigt alle Mobs und liegenden Items in einem 3x3 Radius um dich herum an.
