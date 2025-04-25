@@ -42,10 +42,12 @@ BuyContainerTrust       | Spieler können mit `/buycontainertrust` für einen ei
 BuySubclaim             | Spieler können mit `/buysubclaim` für einen einstellbaren Betrag den Subclaim kaufen, in welchem die Flag aktiviert wurde. Der Käufer erhält vollständigen Trust im Subclaim. Nach dem Kauf wird die Flag automatisch entfernt, damit der Subclaim nicht erneut erworben werden kann. | 65k $
 EnterMessage            | Nachricht beim Betreten des Claims anzeigen. | 30k $
 ExitMessage             | Nachricht beim Verlassen des Claims anzeigen. | 30k $
+NoBlockFade             | Das Verblassen, Schmelzen oder Verschwinden von Blöcken deaktivieren. | 100k $
 NoBlockForm             | Das Formen von Schnee, Eis, Obsidian/Cobblestone (Wasser/Lava), Betonpulver/Wasser deaktivieren. | 60k $
 NoBlockSpread           | Die Ausbreitung von Blöcken deaktivieren. | 60k $
 NoChorusFruit           | Die Verwendung von Chorusfrüchten deaktivieren. | 25k $
 NoCoralDeath            | Den Verfall von Korallen deaktivieren. | 75k $
+NoCropTrampling         | Das Zertrampeln von Pflanzen deaktivieren. | 75k $
 NoDripstoneSpread       | Die Ausbreitung von Dripstones deaktivieren. | 50k $
 NoEnderPearl            | Die Verwendung von Enderperlen deaktivieren. | 25k $
 NoFallDamage            | Fallschaden deaktivieren. | 15k $
@@ -57,7 +59,7 @@ NoMcMMOSkills           | Aktive Skill-Aktivierung (z.B. Faustkampf) deaktiviere
 NoMobSpawns             | Das Spawning von allen Mobs deaktivieren. Bestehende Mobs bleiben erhalten. | 150k $
 NoMonsters              | Monster deaktivieren. Alle bestehenden Monster despawnen. | 150k $
 NoMonsterSpawns         | Das Spawning von Monstern deaktivieren. Bestehende Monster bleiben erhalten. | 150k $
-NoPotionEffects         | Trankeffekte deaktivieren. | 100k $
+NoPotionEffects [Bauwelt] | Trankeffekte deaktivieren. | 100k $
 NoSnowForm              | Bildung von Schnee deaktivieren. | 50k $
 NoStructureGrowth       | Das Wachstum von Setzlingen, Pilzen und Chorusfrüchten deaktivieren. | 50k $
 NoVineGrowth            | Das Wachstum von Ranken und Leuchtbeeren deaktivieren. | 50k $
