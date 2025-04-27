@@ -179,7 +179,7 @@ In Ergänzung zur [Regel 0.2](https://wiki.openmc.net/allgemeines/serverregeln/#
 
 ### Inaktive Shop-PlayerWarps
 Shops, die über eine längere Zeit nicht mehr verwaltet werden, können vom Team bei Gelegenheit in die Kategorie "inaktiv" gesetzt werden, um die GUI für verbleibende Shops organisiert zu halten und einen besseren Überblick zu verschaffen. Folgende Kriterien sind grob aussagekräftig für das versetzen in die inaktive Kategorie:
-- Der Besitzer/Die Besitzer eines Shops sind ~60 Tage bereits selbst inaktiv
+- Besitzer eines Shops sind ~60 Tage bereits selbst inaktiv
 - Die Shops sind maßgeblich leer und bieten kaum Inhalt zum Erwerben. Der Ankauf ist von dieser Überprüfung unabhängig und wird nicht zu Rate gezogen. Shops mit Ver- & Ankauf sind also nicht zwingend aktive Shops und wir richten uns eher an dem reinen Inhalt der Kisten.
 
 Warps können jedoch jederzeit vom Besitzer mit `/pw category set <warpname> <bauwerke/farmen/shop/sonstiges>` zurück verschoben werden.
