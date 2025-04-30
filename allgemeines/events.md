@@ -12,9 +12,9 @@ Auf dieser Seite findest du Erläuterungen zu den Events, die regelmäßig auf O
 
 ## Bauevent
 !!! Aktuelles Bauevent:
-*Thema:* Restaurant/Café\
-*Dauer:* 01.03. - 15.04.\
-*Bewertungsevent:* 18.04. - 23.04.
+*Thema:* Haus\
+*Dauer:* 01.05. - 15.06.\
+*Bewertungsevent:* 18.06. - 23.06.
 !!!
 
 ### Über das Bauevent
