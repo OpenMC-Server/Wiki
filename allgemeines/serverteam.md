@@ -17,7 +17,7 @@ Das Team arbeitet in einer hierarchischen Struktur, die in der folgenden Grafik 
 Im Anschluss erfolgt eine präzisere Beschreibung der jeweiligen Tätigkeiten.
 
 ### Owner
-Die Owner leiten den Server und behalten stets die Finanzen im Blick. Zudem achten sie darauf, dass auf dem Server EULA-konforme Entscheidungen getroffen werden. Ein Großteil ihrer Arbeit, insbesondere im Zusammenhang mit dem Backend und den Plugins, findet im Hintergrund statt. Außerdem arbeiten sie häufig mit externen Plattformen wie Discord und dem Forum.
+Der Owner leitet den Server und behält stets die Finanzen im Blick. Zudem achtet er darauf, dass auf dem Server EULA-konforme Entscheidungen getroffen werden. Ein Großteil der Arbeit, insbesondere im Zusammenhang mit dem Backend und den Plugins, findet im Hintergrund statt. Außerdem arbeitet er häufig mit externen Plattformen wie Discord und dem Forum.
 
 ### Admins
 Der mittlere Abschnitt repräsentiert die Admins. Hier unterteilen wir uns neben den allgemeinen Tätigkeiten auch in spezifische Rollen mit klaren Verantwortungen, wie die Serververwaltung, Supportleitung und Eventleitung. Bei allen Verantwortungsbereichen spielt die interne Organisation eine wichtige Rolle.
