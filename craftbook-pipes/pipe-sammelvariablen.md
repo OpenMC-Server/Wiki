@@ -525,7 +525,7 @@ Um nach einer spezifischen Sammelvariable zu suchen, kannst du die Suche deines 
 [!badge variant="secondary" text="**%aen%**"] **Alle Lichtquellen (1.21+)**\
 *torch, soul_torch, lantern, soul_lantern, end_rod, glowstone, shroomlight, ochre_froglight, verdant_froglight, pearlescent_froglight, sea_lantern, redstone_lamp, copper_bulb, exposed_copper_bulb, weathered_copper_bulb, oxidized_copper_bulb, waxed_copper_bulb, waxed_exposed_copper_bulb, waxed_weathered_copper_bulb, waxed_oxidized_copper_bulb*
 
-[!badge variant="secondary" text="**%wp%**"] **Alle Kopfvarianten**\
+[!badge variant="secondary" text="**%wp%**"] **Alle Kopfvarianten**
 !!!warning
 Zu gesonderten Infos rund um `player_head` kannst du [hier](https://wiki.openmc.net/craftbook-pipes/pipe-variablen/#k%C3%B6pfe) vorbeischauen.
 !!!
@@ -715,7 +715,7 @@ Zu gesonderten Infos rund um `player_head` kannst du [hier](https://wiki.openmc.
 *angler_pottery_sherd, miner_pottery_sherd, brewer_pottery_sherd, explorer_pottery_sherd, burn_pottery_sherd, friend_pottery_sherd, sheaf_pottery_sherd, arms_up_pottery_sherd, danger_pottery_sherd, howl_pottery_sherd, heart_pottery_sherd, heartbreak_pottery_sherd, prize_pottery_sherd, blade_pottery_sherd, plenty_pottery_sherd, snort_pottery_sherd, archer_pottery_sherd, skull_pottery_sherd, mourner_pottery_sherd, shelter_pottery_sherd, flow_pottery_sherd, guster_pottery_sherd, scrape_pottery_sherd*
 
 [!badge variant="secondary" text="**%har%**"] **Alle Harz Erzeugnisse**\
-* creaking_heart,resin_clump,resin_brick,resin_block,resin_bricks,chiseled_resin_bricks,resin_brick_stairs,resin_brick_slap,resin_brick_wall*
+*creaking_heart,resin_clump,resin_brick,resin_block,resin_bricks,chiseled_resin_bricks,resin_brick_stairs,resin_brick_slap,resin_brick_wall*
 
-[!badge variant="secondary" text="**%bun%**"] **Alle Bündel*\
-* bundle,white_bundle,light_gray_bundle,gray_bundle,black_bundle,brown_bundle,red_bundle,orange_bundle,yellow_bundle,light_green_bundle,green_bundle,ligh_blue_bundle,cyan_bundle,blue_bundle,purple_bundle,magenta_bundle,pink_bundle*
+[!badge variant="secondary" text="**%bun%**"] **Alle Bündel**\
+*bundle,white_bundle,light_gray_bundle,gray_bundle,black_bundle,brown_bundle,red_bundle,orange_bundle,yellow_bundle,light_green_bundle,green_bundle,ligh_blue_bundle,cyan_bundle,blue_bundle,purple_bundle,magenta_bundle,pink_bundle*

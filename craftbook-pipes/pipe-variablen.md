@@ -1776,7 +1776,7 @@ modifizierten Items kennen.
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
 | ---                                               | ---                                       | ---                   | ---           |
-| Prüfungsschlüssel                                 | trial_key                                 | %tri_key%             | %agr%        |
+| Prüfungsschlüssel                                 | trial_key                                 | %tri_key%             | %agr%         |
 | Unheilvoller Prüfungsschlüssel                    | ominous_trial_key                         | %omi_key%             | %ags%         |
 | Windkugel                                         | wind_charge                               | %w_charge%            | %agw%         |
 
