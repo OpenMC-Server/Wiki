@@ -81,8 +81,7 @@ Im folgenden findest du alle aktiven Teammitglieder und ihre Aufgabenbereiche.
 ||| flowflower
 -![](/images/flowflower.png)
 **Aufgaben:**\
- Serverleitung\
- Eventleitung
+ Eventverwaltung
 |||
 
 ### Moderatoren
