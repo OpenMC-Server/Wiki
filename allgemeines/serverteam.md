@@ -56,12 +56,6 @@ Im folgenden findest du alle aktiven Teammitglieder und ihre Aufgabenbereiche.
  Serverleitung\
   Backend
 |||
-||| flowflower
--![](/images/flowflower.png)
-**Aufgaben:**\
- Serverleitung\
- Eventleitung
-|||
 
 ### Admins
 ||| LPBoy_HD
@@ -84,6 +78,12 @@ Im folgenden findest du alle aktiven Teammitglieder und ihre Aufgabenbereiche.
  Supportleitung\
  Spielerfeedback
 |||
+||| flowflower
+-![](/images/flowflower.png)
+**Aufgaben:**\
+ Serverleitung\
+ Eventleitung
+|||
 
 ### Moderatoren
 ||| Cupcake7506
@@ -98,14 +98,13 @@ Im folgenden findest du alle aktiven Teammitglieder und ihre Aufgabenbereiche.
  Spielersupport\
  Farmen
 |||
+||| Adrxxian
+-![](/images/adrxxian.png)
+**Aufgaben:**\
+ Spielersupport
+|||
 
 ### Eventler
-||| Groesste_Minerin
--![](/images/groesste_minerin.png)
-**Aufgaben:**\
- Erbauen von Maps\
- Claimverwaltung
-|||
 ||| Useflo
 -![](/images/useflo.png)
 **Aufgaben:**\
