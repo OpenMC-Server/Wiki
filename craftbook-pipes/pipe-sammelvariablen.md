@@ -111,7 +111,7 @@ Um nach einer spezifischen Sammelvariable zu suchen, kannst du die Suche deines 
 *bamboo_block, stripped_bamboo_block, bamboo_planks, bamboo_slab, bamboo_stairs, bamboo_pressure_plate, bamboo_fence, bamboo_trapdoor, bamboo_fence_gate, bamboo_fence, bamboo_button, bamboo_door, bamboo_raft, bamboo_sign, bamboo_hanging_sign, bamboo_mosaic, bamboo_mosaic_stairs, bamboo_mosaic_slab*
 
 [!badge variant="secondary" text="**%peh%**"] **Alle Blasseichenholzstämme/Hölzer + Erzeugnisse**\
-*pale_oak_log,pale_oak_wood,stripped_pale_oak_log,stripped_pale_oak_wood,pale_oak_planks,pale_oak_stairs,pale_oak_slap,pale_oak_fence,pale_oak_fence_gate,pale_oak_door,pale_oak_trapdoor,pale_oak_pressure_plate,pale_oak_button,pale_oak_sign,pale_oak_hanging_sign,pale_oak_boat,pale_oak_chest_boat,pale_oak_sapling, pale_oak_leaves*
+*pale_oak_log, pale_oak_wood, stripped_pale_oak_log, stripped_pale_oak_wood, pale_oak_planks, pale_oak_stairs, pale_oak_slab, pale_oak_fence, pale_oak_fence_gate, pale_oak_door, pale_oak_trapdoor, pale_oak_pressure_plate, pale_oak_button, pale_oak_sign, pale_oak_hanging_sign, pale_oak_boat, pale_oak_chest_boat, pale_oak_sapling, pale_oak_leaves*
 
 #### Alle Holzerzeugnisse (ohne Stämme, einzelne Holztypen)
 [!badge variant="secondary" text="**%kc%**"] **Alle Eichenerzeugnisse**\
