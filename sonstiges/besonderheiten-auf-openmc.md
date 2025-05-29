@@ -50,7 +50,7 @@ Ausgenommen sind:
 
 ---
 
-## Phantomspawn
+## Phantome
 Phantome sind in der gesamten Bauwelt deaktiviert. In der Industrie- und Farmwelt lässt sich das Spawning mit `/phantomspawn` steuern.
 
 ---
@@ -78,6 +78,8 @@ Industriewelt   | 8             | 8
 
 ## Schwerkraft von Rüstungsständern
 Armorstands unterliegen nicht den normalen Minecraft Gravitationsregeln und haben somit keine Schwerkraft.
+
+---
 
 ## Netherportale in der Industriewelt
 Die Blockreichweite zwischen der Oberfläche und dem Nether beträgt in Minecraft bekanntlich eine Aufteilung von 1:8. Das heißt, dass 8 Blöcke an der Oberfläche etwa 1 Block im Nether entsprechen.
