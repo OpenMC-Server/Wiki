@@ -176,7 +176,7 @@ Um nach einer spezifischen Sammelvariable zu suchen, kannst du die Suche deines 
 [!badge variant="secondary" text="**%zh%**"] **Alle Falltüren**\
 *oak_trapdoor, spruce_trapdoor, birch_trapdoor, jungle_trapdoor, acacia_trapdoor, dark_oak_trapdoor, iron_trapdoor, crimson_trapdoor, warped_trapdoor, mangrove_trapdoor, cherry_trapdoor, bamboo_trapdoor, pale_oak_trapdoor*
 
-[!badge variant="secondary" text="**%ahp%**"] **Alle Falltüren (1.21+)**\
+[!badge variant="secondary" text="**%ahq%**"] **Alle Falltüren (1.21+)**\
 *oak_trapdoor, spruce_trapdoor, birch_trapdoor, jungle_trapdoor, acacia_trapdoor, dark_oak_trapdoor, iron_trapdoor, crimson_trapdoor, warped_trapdoor, mangrove_trapdoor, cherry_trapdoor, bamboo_trapdoor, copper_trapdoor, exposed_copper_trapdoor, weathered_copper_trapdoor, oxidized_copper_trapdoor, waxed_copper_trapdoor, waxed_exposed_copper_trapdoor, waxed_weathered_copper_trapdoor, waxed_oxidized_copper_trapdoor, pale_oak_trapdoor*
 
 [!badge variant="secondary" text="**%zi%**"] **Alle Knöpfe**\
@@ -718,4 +718,4 @@ Zu gesonderten Infos rund um `player_head` kannst du [hier](https://wiki.openmc.
 *creaking_heart, resin_clump, resin_brick, resin_block, resin_bricks, chiseled_resin_bricks, resin_brick_stairs, resin_brick_slap, resin_brick_wall*
 
 [!badge variant="secondary" text="**%bun%**"] **Alle Bündel**\
-*bundle, white_bundle, light_gray_bundle, gray_bundle, black_bundle, brown_bundle, red_bundle, orange_bundle, yellow_bundle, light_green_bundle, green_bundle, light_blue_bundle, cyan_bundle, blue_bundle, purple_bundle, magenta_bundle, pink_bundle*
+*bundle, white_bundle, light_gray_bundle, gray_bundle, black_bundle, brown_bundle, red_bundle, orange_bundle, yellow_bundle, lime_bundle, green_bundle, light_blue_bundle, cyan_bundle, blue_bundle, purple_bundle, magenta_bundle, pink_bundle*
