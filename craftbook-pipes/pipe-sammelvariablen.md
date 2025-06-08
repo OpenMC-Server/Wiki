@@ -149,7 +149,7 @@ Um nach einer spezifischen Sammelvariable zu suchen, kannst du die Suche deines 
 
 #### Bretter, Setzlinge, Laub, Holzstufen und Treppen
 [!badge variant="secondary" text="**%zc%**"] **Alle Holzbretter**\
-*oak_planks, spruce_planks, birch_planks, jungle_planks, acacia_planks, dark_oak_planks, crimson_planks, warped_planks, mangrove_planks, cherry_planks, bamboo_planks, pale_oak_planks*
+*oak_planks, spruce_planks, birch_planks, jungle_planks, acacia_planks, dark_oak_planks, crimson_planks, warped_planks, mangrove_planks, cherry_planks, bamboo_planks, bamboo_mosaic, pale_oak_planks,*
 
 [!badge variant="secondary" text="**%zd%**"] **Alle Setzlinge**\
 *oak_sapling, spruce_sapling, birch_sapling, jungle_sapling, acacia_sapling, dark_oak_sapling, mangrove_propagule, cherry_sapling, pale_oak_sapling*
@@ -183,7 +183,10 @@ Um nach einer spezifischen Sammelvariable zu suchen, kannst du die Suche deines 
 *stone_button, dark_oak_button, acacia_button, jungle_button, birch_button, spruce_button, oak_button, crimson_button, warped_button, mangrove_button, polished_blackstone_button, cherry_button, bamboo_button, pale_oak_button*
 
 [!badge variant="secondary" text="**%py%**"] **Alle Druckplatten**\
-*light_weighted_pressure_plate,heavy_weighted_pressure_plate,stone_pressure_plate,polished_blackstone_pressure_plate,oak_pressure_plate,spruce_pressure_plate,birch_pressure_plate,jungle_pressure_plate,acacia_pressure_plate,dark_oak_pressure_plate,mangrove_pressure_plate,crimson_pressure_plate,warped_pressure_plate,bamboo_pressure_plate*
+*light_weighted_pressure_plate, heavy_weighted_pressure_plate, stone_pressure_plate, polished_blackstone_pressure_plate, oak_pressure_plate, spruce_pressure_plate, birch_pressure_plate, jungle_pressure_plate, acacia_pressure_plate, dark_oak_pressure_plate, mangrove_pressure_plate, crimson_pressure_plate, warped_pressure_plate, bamboo_pressure_plate*
+
+[!badge variant="secondary" text="**%ajt%**"] **Alle Druckplatten (1.21+)**\
+*light_weighted_pressure_plate, heavy_weighted_pressure_plate, stone_pressure_plate, polished_blackstone_pressure_plate, oak_pressure_plate, spruce_pressure_plate, birch_pressure_plate, jungle_pressure_plate, acacia_pressure_plate, dark_oak_pressure_plate, mangrove_pressure_plate, crimson_pressure_plate, warped_pressure_plate, bamboo_pressure_plate, cherry_presure_plate, pale_oak_pressure_plate*
 
 [!badge variant="secondary" text="**%zg%**"] **Alle Türen**\
 *oak_door, spruce_door, birch_door, jungle_door, acacia_door, dark_oak_door, crimson_door, warped_door, iron_door, mangrove_door, cherry_door, bamboo_door, pale_oak_door*
