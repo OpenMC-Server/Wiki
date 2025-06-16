@@ -59,8 +59,8 @@ VoteCoins haben ab sofort dieses Symbol: :icon-ruby:
 !!!
 #### 1. Platz:
 - 4 Wochen "Champion" Rang (VIP und +-Upgrade, 4 Votecoins pro Vote) - für jedes Teammitglied
-- 600.000 ✪ - Gleichmäßige Aufteilung auf alle Teammitglieder
-- 35 :icon-ruby: - für jedes Teammitglied
+- 600.000✪ - Gleichmäßige Aufteilung auf alle Teammitglieder
+- 35:icon-ruby: - für jedes Teammitglied
 
 #### 2. Platz:
 - 360.000 ✪ - Gleichmäßige Aufteilung auf alle Teammitglieder

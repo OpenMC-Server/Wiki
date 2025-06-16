@@ -80,7 +80,7 @@ Um einen Claim erstellen zu können, benötigst du eine ausreichende Anzahl an C
 Zeigt alle deine Claims sowie die verbrauchten & verfügbaren Claimblöcke an.
 
 `/buyclaimblocks <anzahl>`\
-Mit diesem Befehl kannst du Claimblöcke für 5✪ pro Stück kaufen.
+Mit diesem Befehl kannst du Claimblöcke für 5 ✪ pro Stück kaufen.
 
 ### Claimblöcke in die Industriewelt übertragen
 Um in der Industriewelt bauen zu können, muss vorher ein Bereich geclaimt werden.
