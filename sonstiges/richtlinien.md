@@ -202,3 +202,5 @@ Bedenkt stets, dass diese Kriterien auch nur Richtlinien sind und nicht auf Tag/
 ### Mehrere Warps an einem Ort
 Das Erstellen von mehreren PlayerWarps an einem Ort ist nicht erlaubt. Ausgenommen sind voneinander getrennte Bereiche, die nicht zu Fuß erreichbar sind.
 
+###Werbung
+Das werben für Shops jeglicher Art ist maximal ein Mal pro Stunde erlaubt - es sei denn,sie ist eine Reaktion auf eine konkrete Anfrage.
