@@ -40,37 +40,37 @@ VoteCoins haben ab sofort dieses Symbol: :icon-ruby:
 
 Flag                    | Erklärung | Preis
 ---                     | ---       | ---
-AllowBlockExplosions    | Blockeplosionen dauerhaft aktivieren. | 50k ✪
-BuyAccessTrust          | Spieler können mit `/buyaccesstrust` für einen einstellbaren Betrag AccessTrust auf dem Claim kaufen. | 65k ✪
-BuyBuildTrust           | Spieler können mit `/buybuildtrust` für einen einstellbaren Betrag BuildTrust auf dem Claim kaufen. | 65k ✪
-BuyContainerTrust       | Spieler können mit `/buycontainertrust` für einen einstellbaren Betrag ContainerTrust auf dem Claim kaufen. | 65k ✪
-BuySubclaim             | Spieler können mit `/buysubclaim` für einen einstellbaren Betrag den Subclaim kaufen, in welchem die Flag aktiviert wurde. Der Käufer erhält vollständigen Trust im Subclaim. Nach dem Kauf wird die Flag automatisch entfernt, damit der Subclaim nicht erneut erworben werden kann. | 65k ✪
-EnterMessage            | Nachricht beim Betreten des Claims anzeigen. | 30k ✪
-ExitMessage             | Nachricht beim Verlassen des Claims anzeigen. | 30k ✪
-NoBlockFade             | Das Verblassen, Schmelzen oder Verschwinden von Blöcken deaktivieren. | 100k ✪
-NoBlockForm             | Das Formen von Schnee, Eis, Obsidian/Cobblestone (Wasser/Lava), Betonpulver/Wasser deaktivieren. | 60k ✪
-NoBlockSpread           | Die Ausbreitung von Blöcken deaktivieren. | 60k ✪
-NoChorusFruit           | Die Verwendung von Chorusfrüchten deaktivieren. | 25k ✪
-NoCoralDeath            | Den Verfall von Korallen deaktivieren. | 75k ✪
-NoCropTrampling         | Das Zertrampeln von Pflanzen deaktivieren. | 75k ✪
-NoDripstoneSpread       | Die Ausbreitung von Dripstones deaktivieren. | 50k ✪
-NoEnderPearl            | Die Verwendung von Enderperlen deaktivieren. | 25k ✪
-NoFallDamage            | Fallschaden deaktivieren. | 15k ✪
-NoGrowth                | Das Wachstum von Erntepflanzen (Crops) deaktivieren. | 60k ✪
-NoHunger                | Hunger deaktivieren. | 60k ✪
-NoIceForm               | Bildung von Eis deaktivieren. | 50k ✪
-NoLeafDecay             | Das Verschwinden von Blättern deaktivieren. | 40k ✪
-NoMcMMOSkills           | Aktive Skill-Aktivierung (z.B. Faustkampf) deaktivieren. | 100k ✪
-NoMobSpawns             | Das Spawning von allen Mobs deaktivieren. Bestehende Mobs bleiben erhalten. | 150k ✪
-NoMonsters              | Monster deaktivieren. Alle bestehenden Monster despawnen. | 150k ✪
-NoMonsterSpawns         | Das Spawning von Monstern deaktivieren. Bestehende Monster bleiben erhalten. | 150k ✪
-NoPotionEffects [Bauwelt] | Trankeffekte deaktivieren. | 100k ✪
-NoSnowForm              | Bildung von Schnee deaktivieren. | 50k ✪
-NoStructureGrowth       | Das Wachstum von Setzlingen, Pilzen und Chorusfrüchten deaktivieren. | 50k ✪
-NoVineGrowth            | Das Wachstum von Ranken und Leuchtbeeren deaktivieren. | 50k ✪
-ProtectNamedMobs        | Benannte Mobs dürfen nur mit ContainerTrust geschlagen werden. Gilt auch für Owner. | 30k ✪
-RaidMemberOnly          | Fremde Spieler können keine Raids auf dem Claim starten. | 25k ✪
-ReadLecterns            | Das Lesen signierter Bücher in Lesepulten erlauben. | 20k ✪
+AllowBlockExplosions    | Blockeplosionen dauerhaft aktivieren. | 50 Tsd. ✪
+BuyAccessTrust          | Spieler können mit `/buyaccesstrust` für einen einstellbaren Betrag AccessTrust auf dem Claim kaufen. | 65 Tsd. ✪
+BuyBuildTrust           | Spieler können mit `/buybuildtrust` für einen einstellbaren Betrag BuildTrust auf dem Claim kaufen. | 65 Tsd. ✪
+BuyContainerTrust       | Spieler können mit `/buycontainertrust` für einen einstellbaren Betrag ContainerTrust auf dem Claim kaufen. | 65 Tsd. ✪
+BuySubclaim             | Spieler können mit `/buysubclaim` für einen einstellbaren Betrag den Subclaim kaufen, in welchem die Flag aktiviert wurde. Der Käufer erhält vollständigen Trust im Subclaim. Nach dem Kauf wird die Flag automatisch entfernt, damit der Subclaim nicht erneut erworben werden kann. | 65 Tsd. ✪
+EnterMessage            | Nachricht beim Betreten des Claims anzeigen. | 30 Tsd. ✪
+ExitMessage             | Nachricht beim Verlassen des Claims anzeigen. | 30 Tsd. ✪
+NoBlockFade             | Das Verblassen, Schmelzen oder Verschwinden von Blöcken deaktivieren. | 100 Tsd. ✪
+NoBlockForm             | Das Formen von Schnee, Eis, Obsidian/Cobblestone (Wasser/Lava), Betonpulver/Wasser deaktivieren. | 60 Tsd. ✪
+NoBlockSpread           | Die Ausbreitung von Blöcken deaktivieren. | 60 Tsd. ✪
+NoChorusFruit           | Die Verwendung von Chorusfrüchten deaktivieren. | 25 Tsd. ✪
+NoCoralDeath            | Den Verfall von Korallen deaktivieren. | 75 Tsd. ✪
+NoCropTrampling         | Das Zertrampeln von Pflanzen deaktivieren. | 75 Tsd. ✪
+NoDripstoneSpread       | Die Ausbreitung von Dripstones deaktivieren. | 50 Tsd. ✪
+NoEnderPearl            | Die Verwendung von Enderperlen deaktivieren. | 25 Tsd. ✪
+NoFallDamage            | Fallschaden deaktivieren. | 15 Tsd. ✪
+NoGrowth                | Das Wachstum von Erntepflanzen (Crops) deaktivieren. | 60 Tsd. ✪
+NoHunger                | Hunger deaktivieren. | 60 Tsd. ✪
+NoIceForm               | Bildung von Eis deaktivieren. | 50 Tsd. ✪
+NoLeafDecay             | Das Verschwinden von Blättern deaktivieren. | 40 Tsd. ✪
+NoMcMMOSkills           | Aktive Skill-Aktivierung (z.B. Faustkampf) deaktivieren. | 100 Tsd. ✪
+NoMobSpawns             | Das Spawning von allen Mobs deaktivieren. Bestehende Mobs bleiben erhalten. | 150 Tsd. ✪
+NoMonsters              | Monster deaktivieren. Alle bestehenden Monster despawnen. | 150 Tsd. ✪
+NoMonsterSpawns         | Das Spawning von Monstern deaktivieren. Bestehende Monster bleiben erhalten. | 150 Tsd. ✪
+NoPotionEffects [Bauwelt] | Trankeffekte deaktivieren. | 100 Tsd. ✪
+NoSnowForm              | Bildung von Schnee deaktivieren. | 50 Tsd. ✪
+NoStructureGrowth       | Das Wachstum von Setzlingen, Pilzen und Chorusfrüchten deaktivieren. | 50 Tsd. ✪
+NoVineGrowth            | Das Wachstum von Ranken und Leuchtbeeren deaktivieren. | 50 Tsd. ✪
+ProtectNamedMobs        | Benannte Mobs dürfen nur mit ContainerTrust geschlagen werden. Gilt auch für Owner. | 30 Tsd. ✪
+RaidMemberOnly          | Fremde Spieler können keine Raids auf dem Claim starten. | 25 Tsd. ✪
+ReadLecterns            | Das Lesen signierter Bücher in Lesepulten erlauben. | 20 Tsd. ✪
 NoEnter [Industriewelt] | Das Betreten des Claims durch fremde Spieler deaktivieren. | 0 ✪
 NoMapMaking             | Das Erstellen von Maps durch fremde Spieler deaktivieren. | 0 ✪
 CommandBlacklist        | Die Verwendung bestimmter Befehle deaktivieren. | Beim Team beantragbar

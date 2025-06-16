@@ -28,7 +28,7 @@ Der Siedler Rang wird an ausgewählte Spieler vergeben, die bereits seit langer 
 ### :green_heart: VIS [!badge variant="info" text="5€/Monat"]
 Der VIS Rang erweitert den Siedler Rang um viele Funktionen ([siehe Tabelle](#vorteile)) und wird nach einer Spende an den Server für den jeweiligen Zeitraum vergeben.
 
-### :heavy_plus_sign: Plus - Upgrade [!badge variant="info" text="70.000✪/Monat"]
+### :heavy_plus_sign: Plus - Upgrade [!badge variant="info" text="70 Tsd. ✪/Monat"]
 Das Plus-Upgrade gewährt weitere Rechte, die nicht in den oberen Rängen enthalten sind ([siehe Tabelle](#vorteile)). Diese Rechte sind unabhängig von den Grundrängen. Das bedeutet, dass die Rechte, die durch das Plus-Upgrade vergeben werden, nicht zwischen Spieler, Siedler, VIP und VIS unterscheiden. Das Plus-Upgrade kann ausschließlich mit Sternis (✪) erworben werden.
 
 ### :shopping_bags: Shop

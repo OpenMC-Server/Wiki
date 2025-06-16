@@ -12,7 +12,7 @@ PlayerWarps sind Warps, die von Spielern gesetzt werden können. Mit diesen kann
 ---
 
 ## PlayerWarp erstellen
-Mit `/pwarp set <warpname>` wird ein PlayerWarp an der Stelle, wo du den Befehl eingibst, erstellt. Dies kostet je PlayerWarp 5000$. Wie viele PlayerWarps du erstellen kannst, kannst du der folgenden Tabelle entnehmen:
+Mit `/pwarp set <warpname>` wird ein PlayerWarp an der Stelle, wo du den Befehl eingibst, erstellt. Dies kostet je PlayerWarp 5000 ✪. Wie viele PlayerWarps du erstellen kannst, kannst du der folgenden Tabelle entnehmen:
 
 {.compact}
 Feature                     | Spieler | Siedler | VIP   | VIS   | + Upgrade | Champion

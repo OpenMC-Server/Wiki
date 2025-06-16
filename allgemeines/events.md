@@ -63,24 +63,24 @@ VoteCoins haben ab sofort dieses Symbol: :icon-ruby:
 - 35 :icon-ruby: - für jedes Teammitglied
 
 #### 2. Platz:
-- 360.000 ✪ - Gleichmäßige Aufteilung auf alle Teammitglieder
+- 360 Tsd. ✪ - Gleichmäßige Aufteilung auf alle Teammitglieder
 - 25 :icon-ruby: - für jedes Teammitglied
 
 #### 3. Platz:
-- 240.000 ✪ - Gleichmäßige Aufteilung auf alle Teammitglieder
+- 240 Tsd. ✪ - Gleichmäßige Aufteilung auf alle Teammitglieder
 - 15 :icon-ruby: - für jedes Teammitglied
 
 #### 4. Platz:
-- 120.000 ✪ - Gleichmäßige Aufteilung auf alle Teammitglieder
+- 120 Tsd. ✪ - Gleichmäßige Aufteilung auf alle Teammitglieder
 - 10 :icon-ruby: - für jedes Teammitglied
 
 #### 5. Platz:
-- 60.000 ✪ - Gleichmäßige Aufteilung auf alle Teammitglieder
+- 60 Tsd. ✪ - Gleichmäßige Aufteilung auf alle Teammitglieder
 - 5 :icon-ruby: - für jedes Teammitglied
 
 #### Teilnahmebelohnung:
 Alle Teilnehmer, welche mit Ernsthaftigkeit, Kreativität und angemessenem Aufwand (unter Berücksichtigung der Eventdauer von einem Monat) am Event teilnehmen, erhalten unabhängig von der Platzierung eine Teilnahmebelohnung:
-- 25k ✪
+- 25 Tsd. ✪
 - 10 :icon-ruby:
 - Sammelitem
 

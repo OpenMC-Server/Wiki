@@ -71,7 +71,7 @@ Füllt die angegebene Anzahl an XP in eine einzelne Flasche. Diese Flasche kann 
 ## Bedrock-Glättung
 Es ist möglich, Bedrock in der Bauwelt für Ingamegeld glätten zu lassen. Der Bedrock wird dabei auf die letzte Ebene reduziert.
 
-Der Service kann für 25$ pro Block von einem Admin ausgeführt werden.
+Der Service kann für 25 ✪ pro Block von einem Admin ausgeführt werden.
 
 Die Anzahl an Blöcken wird in diesem Kontext als die Ausdehnung in x-z-Richtung interpretiert. Für eine horizontale Fläche von 10*10 Blöcken wird daher der Preis für 100 Blöcke verrechnet, auch wenn mehr als 100 Bedrock-Blöcke entfernt werden.
 
