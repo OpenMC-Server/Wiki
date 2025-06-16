@@ -58,13 +58,9 @@ Auf OpenMC haben wir jetzt Sternis (✪)! Diese ersetzen das bisherige $ Symbol.
 VoteCoins haben ab sofort dieses Symbol: :icon-ruby:
 !!!
 #### 1. Platz:
-- Eine Baumspende an PlanetTree
-  - Das Team darf den Pflanzort selbst auswählen
-  - Das Team erhält eine Urkunde mit den genauen Koordinaten der Pflanzfläche
-  - Die Urkunde wird zusammen mit einem Foto des Bauwerks [hier veröffentlicht](https://openmc.net/baumevent-gewinner/).
 - 4 Wochen "Champion" Rang (VIP und +-Upgrade, 4 Votecoins pro Vote) - für jedes Teammitglied
 - 600.000 ✪ - Gleichmäßige Aufteilung auf alle Teammitglieder
-- 35 VoteCoins - für jedes Teammitglied
+- 35 :icon-ruby: - für jedes Teammitglied
 
 #### 2. Platz:
 - 360.000 ✪ - Gleichmäßige Aufteilung auf alle Teammitglieder

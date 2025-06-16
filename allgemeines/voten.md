@@ -64,6 +64,10 @@ Mit diesem Befehl kannst du eine beliebige Anzahl an Votecoins an eine andere Pe
 
 ### Wahrscheinlichkeiten
 ==- Resource Chest [!badge variant="info" text="1 VC"]
+!!! Neue Währungssymbole
+Auf OpenMC haben wir jetzt Sternis (✪)! Diese ersetzen das bisherige $ Symbol.\
+VoteCoins haben ab sofort dieses Symbol: :icon-ruby:
+!!!
 
 {.compact}
 Gewinn                  | Wahrscheinlichkeit in %
@@ -87,11 +91,11 @@ Gewinn                  | Wahrscheinlichkeit in %
 5 Lapislazuliblöcke     | 3,14 
 10 Lapislazuliblöcke    | 1,57 
 1 Netheritbarren        | 0,31
-500 $	                | 4,70
-1000 $                  | 9,43 
-5000 $                  | 3,14 
-10000 $                 | 1,57 
-15000 $                 | 0,31 
+500 ✪	                | 4,70
+1000 ✪                  | 9,43 
+5000 ✪                  | 3,14 
+10000 ✪                 | 1,57 
+15000 ✪                 | 0,31 
 3 Shard I               | 1,67
 
 ==- Combat Chest [!badge variant="info" text="6 VC"]
