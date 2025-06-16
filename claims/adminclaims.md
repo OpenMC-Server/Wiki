@@ -43,4 +43,4 @@ Hierbei behalten wir uns ebenfalls die Entscheidung vor, ob ein Adminclaim für 
 ## Void Flächen für Maparts
 Um Maparts mit unsichtbaren Elementen/Flächen erstellen zu können, möchten wir euch ab sofort Mapart Bauflächen anbieten.
 Dabei handelt es sich um ausgehobene Gebiete (128x128), welche keinen Bedrock Boden besitzen.
-Gegen eine Gebühr von 50k$ können diese über die Claimtickets auf unserem Discord Server beantragt werden.
+Gegen eine Gebühr von 50k ✪ können diese über die Claimtickets auf unserem Discord Server beantragt werden.

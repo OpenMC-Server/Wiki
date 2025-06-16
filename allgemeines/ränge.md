@@ -29,7 +29,7 @@ Der Siedler Rang wird an ausgewählte Spieler vergeben, die bereits seit langer 
 Der VIS Rang erweitert den Siedler Rang um viele Funktionen ([siehe Tabelle](#vorteile)) und wird nach einer Spende an den Server für den jeweiligen Zeitraum vergeben.
 
 ### :heavy_plus_sign: Plus - Upgrade [!badge variant="info" text="70k ✪/Monat"]
-Das Plus-Upgrade gewährt weitere Rechte, die nicht in den oberen Rängen enthalten sind ([siehe Tabelle](#vorteile)). Diese Rechte sind unabhängig von den Grundrängen. Das bedeutet, dass die Rechte, die durch das Plus-Upgrade vergeben werden, nicht zwischen Spieler, Siedler, VIP und VIS unterscheiden. Das Plus-Upgrade kann ausschließlich mit Ingamegeld (✪) erworben werden.
+Das Plus-Upgrade gewährt weitere Rechte, die nicht in den oberen Rängen enthalten sind ([siehe Tabelle](#vorteile)). Diese Rechte sind unabhängig von den Grundrängen. Das bedeutet, dass die Rechte, die durch das Plus-Upgrade vergeben werden, nicht zwischen Spieler, Siedler, VIP und VIS unterscheiden. Das Plus-Upgrade kann ausschließlich mit Sternis (✪) erworben werden.
 
 ### :shopping_bags: Shop
 Der Shop-Rang kann als Ausnahme auf einem zweiten Account beantragt werden, welcher als Shop-Account für die Verwaltung von [ChestShops](https://wiki.openmc.net/geld-level/chestshop/) hinzugezogen wird. Einem Shop-Account steht es nicht zu, sich am Spielgeschehen aktiv zu beteiligen, weshalb dieser ausschließlich mit den notwendigen Rechten zur Shopverwaltung versehen ist.

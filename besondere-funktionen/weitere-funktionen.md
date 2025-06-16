@@ -82,7 +82,7 @@ Eine Anfrage für eine Bedrock-Glättung kann mit den Koordinaten der zu glätte
 ---
 
 ## Fehlende Advancements freischalten
-Aufgrund des Multi-Server-Setups von OpenMC befinden sich die Farmwelt und Industriewelt auf separaten Servern. Da es in der Bauwelt kein End gibt, ist es nicht möglich, bestimmte Advancements auf natürlichem Weg zu erhalten. Die fehlenden Advancements können für einen Geldbetrag dennoch freigeschaltet werden, um die eigene Sammlung zu vervollständigen.
+Aufgrund des Multi-Server-Setups von OpenMC befinden sich die Farmwelt und Industriewelt auf separaten Servern. Da es in der Bauwelt kein End gibt, ist es nicht möglich, bestimmte Advancements auf natürlichem Weg zu erhalten. Die fehlenden Advancements können für Sternis (✪) dennoch freigeschaltet werden, um die eigene Sammlung zu vervollständigen.
 
 !!!warning Wichtiger Hinweis:
 Das Menü prüft nicht, ob du ein Advancement bereits besitzt. Prüfe deshalb bitte vor dem Kauf, ob dies der Fall ist, da Mehrfachkäufe nicht verhindert oder erstattet werden können.
