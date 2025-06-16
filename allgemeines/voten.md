@@ -225,7 +225,7 @@ Eules Feder                     | 1,00
 ---
 
 ## Belohnung durch NameMC
-Über NameMC besteht die Möglichkeit, sich einmalig eine kleine Extra-Belohnung von 20 VoteCoins zu verdienen!
+Über NameMC besteht die Möglichkeit, sich einmalig eine kleine Extra-Belohnung von 20 :icon-ruby: zu verdienen!
 
 !!!warning Wichtiger Hinweis:
 Die Belohnung wird nur in der Bauwelt registriert. Für das Beanspruchen deines Profiles muss ein externer Server besucht werden, um deinen Account zu verifizieren. Alle Infos dazu findest du auf der Seite von NameMC.
