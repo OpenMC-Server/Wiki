@@ -54,7 +54,8 @@ Wird eine NoEnter-Claimflag für den Bauzeitraum gewünscht, kann diese bei der 
 
 ### Preise
 !!! Neue Währungssymbole
-Auf OpenMC haben wir jetzt Sternis ✪ (vorher $)! Und VoteCoins haben ab sofort dieses Symbol: 💎
+Auf OpenMC haben wir jetzt Sternis (✪)! Diese ersetzen das bisherige $ Symbol.\
+VoteCoins haben ab sofort dieses Symbol: :icon-ruby:
 !!!
 #### 1. Platz:
 - Eine Baumspende an PlanetTree
@@ -67,24 +68,24 @@ Auf OpenMC haben wir jetzt Sternis ✪ (vorher $)! Und VoteCoins haben ab sofort
 
 #### 2. Platz:
 - 360.000 ✪ - Gleichmäßige Aufteilung auf alle Teammitglieder
-- 25 VoteCoins - für jedes Teammitglied
+- 25 :icon-ruby: - für jedes Teammitglied
 
 #### 3. Platz:
 - 240.000 ✪ - Gleichmäßige Aufteilung auf alle Teammitglieder
-- 15 VoteCoins - für jedes Teammitglied
+- 15 :icon-ruby: - für jedes Teammitglied
 
 #### 4. Platz:
 - 120.000 ✪ - Gleichmäßige Aufteilung auf alle Teammitglieder
-- 10 VoteCoins - für jedes Teammitglied
+- 10 :icon-ruby: - für jedes Teammitglied
 
 #### 5. Platz:
 - 60.000 ✪ - Gleichmäßige Aufteilung auf alle Teammitglieder
-- 5 VoteCoins - für jedes Teammitglied
+- 5 :icon-ruby: - für jedes Teammitglied
 
 #### Teilnahmebelohnung:
 Alle Teilnehmer, welche mit Ernsthaftigkeit, Kreativität und angemessenem Aufwand (unter Berücksichtigung der Eventdauer von einem Monat) am Event teilnehmen, erhalten unabhängig von der Platzierung eine Teilnahmebelohnung:
 - 25k ✪
-- 10 VoteCoins
+- 10 :icon-ruby:
 - Sammelitem
 
 Eine Zwischeneinschätzung, ob der bisher erbaute Beitrag allen oben genannten Punkten entspricht, kann jederzeit per Ticket angefragt werden.
