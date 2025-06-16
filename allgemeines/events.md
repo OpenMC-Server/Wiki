@@ -53,6 +53,9 @@ Wird eine NoEnter-Claimflag für den Bauzeitraum gewünscht, kann diese bei der 
 5. Das Gewinnerteam erhält den Rang "Champion", mit dem dieser im TAB und Chat entsprechend gekennzeichnet wird. Weitere Preise für Platz 1 - 5 sind unten (Preise) angeführt. Außerdem gibt es eine Teilnahmebelohnung. Das Gewinnerteam nennt dem Team innerhalb eines Tages einen Themenvorschlag für das nächste Bauevent. Vor Beginn des nächsten Bauevents stimmen die Spieler über das neue Thema ab.
 
 ### Preise
+!!! Neue Währungssymbole
+Auf OpenMC haben wir jetzt Sternis ✪ (vorher $)! Und VoteCoins haben ab sofort dieses Symbol: 💎
+!!!
 #### 1. Platz:
 - Eine Baumspende an PlanetTree
   - Das Team darf den Pflanzort selbst auswählen
@@ -60,27 +63,27 @@ Wird eine NoEnter-Claimflag für den Bauzeitraum gewünscht, kann diese bei der 
   - Die Urkunde wird zusammen mit einem Foto des Bauwerks [hier veröffentlicht](https://openmc.net/baumevent-gewinner/).
 - 4 Wochen "Champion" Rang (VIP und +-Upgrade, 4 Votecoins pro Vote) - für jedes Teammitglied
 - 600.000 ✪ - Gleichmäßige Aufteilung auf alle Teammitglieder
-- 35 :gem: VoteCoins - für jedes Teammitglied
+- 35 VoteCoins - für jedes Teammitglied
 
 #### 2. Platz:
-- 360.000 ✪ Sternis - Gleichmäßige Aufteilung auf alle Teammitglieder
+- 360.000 ✪ - Gleichmäßige Aufteilung auf alle Teammitglieder
 - 25 VoteCoins - für jedes Teammitglied
 
 #### 3. Platz:
-- 240.000 ✪ Sternis - Gleichmäßige Aufteilung auf alle Teammitglieder
+- 240.000 ✪ - Gleichmäßige Aufteilung auf alle Teammitglieder
 - 15 VoteCoins - für jedes Teammitglied
 
 #### 4. Platz:
-- 120.000 ✪ Sternis - Gleichmäßige Aufteilung auf alle Teammitglieder
+- 120.000 ✪ - Gleichmäßige Aufteilung auf alle Teammitglieder
 - 10 VoteCoins - für jedes Teammitglied
 
 #### 5. Platz:
-- 60.000 ✪ Sternis - Gleichmäßige Aufteilung auf alle Teammitglieder
+- 60.000 ✪ - Gleichmäßige Aufteilung auf alle Teammitglieder
 - 5 VoteCoins - für jedes Teammitglied
 
 #### Teilnahmebelohnung:
 Alle Teilnehmer, welche mit Ernsthaftigkeit, Kreativität und angemessenem Aufwand (unter Berücksichtigung der Eventdauer von einem Monat) am Event teilnehmen, erhalten unabhängig von der Platzierung eine Teilnahmebelohnung:
-- 25k ✪ Sternis
+- 25k ✪
 - 10 VoteCoins
 - Sammelitem
 
