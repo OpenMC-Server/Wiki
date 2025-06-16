@@ -59,29 +59,29 @@ Wird eine NoEnter-Claimflag für den Bauzeitraum gewünscht, kann diese bei der 
   - Das Team erhält eine Urkunde mit den genauen Koordinaten der Pflanzfläche
   - Die Urkunde wird zusammen mit einem Foto des Bauwerks [hier veröffentlicht](https://openmc.net/baumevent-gewinner/).
 - 4 Wochen "Champion" Rang (VIP und +-Upgrade, 4 Votecoins pro Vote) - für jedes Teammitglied
-- 600.000 $ - Gleichmäßige Aufteilung auf alle Teammitglieder
-- 35 VoteCoins - für jedes Teammitglied
+- 600.000 ✪ - Gleichmäßige Aufteilung auf alle Teammitglieder
+- 35 💎 VoteCoins - für jedes Teammitglied
 
 #### 2. Platz:
-- 360.000 $ - Gleichmäßige Aufteilung auf alle Teammitglieder
-- 25 VoteCoins - für jedes Teammitglied
+- 360.000 ✪ Sternis - Gleichmäßige Aufteilung auf alle Teammitglieder
+- 25 💎 VoteCoins - für jedes Teammitglied
 
 #### 3. Platz:
-- 240.000 $ - Gleichmäßige Aufteilung auf alle Teammitglieder
-- 15 VoteCoins - für jedes Teammitglied
+- 240.000 ✪ Sternis - Gleichmäßige Aufteilung auf alle Teammitglieder
+- 15 💎 VoteCoins - für jedes Teammitglied
 
 #### 4. Platz:
-- 120.000 $ - Gleichmäßige Aufteilung auf alle Teammitglieder
-- 10 VoteCoins - für jedes Teammitglied
+- 120.000 ✪ Sternis - Gleichmäßige Aufteilung auf alle Teammitglieder
+- 10 💎 VoteCoins - für jedes Teammitglied
 
 #### 5. Platz:
-- 60.000 $ - Gleichmäßige Aufteilung auf alle Teammitglieder
-- 5 VoteCoins - für jedes Teammitglied
+- 60.000 ✪ Sternis - Gleichmäßige Aufteilung auf alle Teammitglieder
+- 5 💎 VoteCoins - für jedes Teammitglied
 
 #### Teilnahmebelohnung:
 Alle Teilnehmer, welche mit Ernsthaftigkeit, Kreativität und angemessenem Aufwand (unter Berücksichtigung der Eventdauer von einem Monat) am Event teilnehmen, erhalten unabhängig von der Platzierung eine Teilnahmebelohnung:
-- 25k $
-- 10 VoteCoins
+- 25k ✪ Sternis
+- 10 💎 VoteCoins
 - Sammelitem
 
 Eine Zwischeneinschätzung, ob der bisher erbaute Beitrag allen oben genannten Punkten entspricht, kann jederzeit per Ticket angefragt werden.
