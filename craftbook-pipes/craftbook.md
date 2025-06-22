@@ -66,6 +66,10 @@ Die beiden Schaltungen MC1110 und MC1111 geben dir die Möglichkeit, „Wireless
 
 Beachte: Vor dem „Transmitter“ muss die Redstone Leitung mindestens zwei Blöcke lang sein, da die Schaltung ansonsten unter Umständen nicht funktioniert. Am Receiver muss ggf. ein “s” ergänzt werden ("[MC1111]s"), um die Funktionalität zu gewährleisten.
 
+||| Schilder „Sender" und „Empfänger"
+![](/images/SenderEmpfänger.png)
+||| Weiterleitung vom Signal
+![](/images/SignalEmpfang.png)
 ---
 
 ## Redstone-Jukebox
