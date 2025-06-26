@@ -60,15 +60,15 @@ branding:
 
 links:
 
-  - text: :globe: Website
+  - text: ":globe: Website"
     link: https://openmc.net/
-  - text: :comment-discussion: Forum
+  - text: :comment-discussion: Forum"
     link: https://openmc.net/forum/
-  - text: :location: Livemap
+  - text: ":location: Livemap"
     link: https://map.openmc.net/
-  - text: :device-desktop: Discord
+  - text: ":device-desktop: Discord"
     link: https://discord.com/invite/ecqPF34
-  - text: :image: Instagram
+  - text: ":image: Instagram"
     link: https://instagram.com/openmc/
 
 # -----------------------------------------------------------------------------
