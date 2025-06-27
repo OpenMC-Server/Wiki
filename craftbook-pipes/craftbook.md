@@ -17,7 +17,7 @@ Pipes werden auf einer [eigenen Seite](/craftbook-pipes/pipes.md) erklärt. Alle
 ## Lift-Schilder
 Die Lift-Schilder ermöglichen es dir, mithilfe zweier Schilder eine Art Aufzug zu erzeugen, welcher dich zwischen verschiedenen Stockwerken teleportieren kann.
 
-Um einen solchen Lift zu erzeugen, werden zwei Schilder benötigt, welche übereinander platziert werden müssen (Zwischenblöcke spielen dabei keine Rolle). Auf das obere Schild, in der zweiten Zeile muss hierbei `[Lift Down]` und auf das untere Schild in die zweite Zeile `[Lift Up]` geschrieben werden.
+Um einen solchen Lift zu erzeugen, werden zwei Schilder benötigt, welche übereinander platziert werden müssen (Zwischenblöcke spielen dabei keine Rolle). Auf das obere Schild, in der zweiten Zeile muss hierbei `[Lift Down]` und auf das untere Schild in die zweite Zeile `[Lift Up]` geschrieben werden. Ebenfalls kann `[Lift UpDown]` genutzt werden, um einen Transport in beide Richtungen zu ermöglichen.
 
 Die erste Zeile des Schildes kann genutzt werden, um das entsprechende Stockwerk zu benennen und dies im Chat anzeigen zu lassen. Lift-Schilder können außerdem durch einen Knopf aktiviert werden, welcher sich auf der gegenüberliegenden Seite des Blocks befinden muss, an welchem das Schild platziert wurde.
 
@@ -30,16 +30,16 @@ Die Gate-Schilder ermöglichen es dir, mithilfe eines Schildes (oder zweien, sol
 
 Um ein Gate zu erstellen, müssen Zäune übereinander platziert werden, wobei die Oberseite des gewünschten Tores mit anderen Blöcken abzudecken ist. Die Größe und Form der Tore kann variieren, hierbei beträgt die Breite maximal 14 und die Höhe maximal 12 Blöcke. Daneben wird ein Schild platziert, in dessen zweite Zeile `[Gate]` geschrieben wird. Soll das Tor von beiden Seiten aus bedient werden können, kann auf der anderen Seite am selben Block des ersten Gate-Schildes ein weiteres platziert werden.
 
-Die Zahl in der 4. Zeile des Schildes gibt an, wie viele Zäune im Gate-Lager vorhanden sind, um dieses wiederaufzubauen. Es ist möglich, die Gate-Schilder mittels Redstone-Signal zu betätigen – ein aktiver Input erstellt dabei das Gate, ein inaktiver entfernt es.
+Es ist möglich, die Gate-Schilder mittels Redstone-Signal zu betätigen – ein aktiver Input erstellt dabei das Gate, ein inaktiver entfernt es.
 
 Für ein Gate können alle Zäune sowie Glasscheiben, Mauern und Eisengitter verwendet werden. Das Gate darf nur aus einem Material bestehen, z.B. verschiedene Zaunarten in einem Gate zu mischen funktioniert nicht.
+
+Sollten nicht ausreichend Blöcke für das Gate zur Verfügung stehen, können diese mit einem Klick auf das Schild mit dem Item nachgefüllt werden.
 
 ||| Geschlossenes Gate
 ![](/images/gate_closed.png)
 ||| Geöffnetes Gate
-![](/images/gate_open.png)
-||| Geöffnetes Gate ohne Umrandung
-![](/images/gate_open_2.png)
+![](/images/gate_opened.png)
 |||
 
 ---
@@ -47,9 +47,13 @@ Für ein Gate können alle Zäune sowie Glasscheiben, Mauern und Eisengitter ver
 ## Bridge-Schilder
 Die Bridge-Schilder ermöglichen es dir, mithilfe eines Schildes (oder zweien, sollte die Bridge von beiden Seiten aus verwendet werden können) eine Brücke zu erstellen, welche per Rechtsklick auf das zugehörige Schild ausgefahren oder eingefahren werden kann.
 
-Um eine Bridge zu erstellen, ist es wichtig, dass der unter dem Schild gesetzte Block auch dem Material entspricht, mit dem die Brücke gebaut wird. Das Schild darüber erhält in der zweiten Zeile die Beschriftung `[Bridge]`, wodurch automatisch die Blockart in der ersten Zeile nun ausgefüllt werden sollte. Das gleiche kann bei Bedarf auf der anderen Seite der Brücke vorgenommen werden, sodass eine Breite von 5 Blöcken vorgegeben ist und eine Länge von maximal 30 Blöcken möglich ist.
+Um eine Bridge zu erstellen, ist es wichtig, dass der unter dem Schild gesetzte Block auch dem Material entspricht, mit dem die Brücke gebaut wird. Das Material sollte sich dabei von anderen Blöcken links und rechts von der Brücke unterscheiden.
+
+Das Schild wird in der zweiten Zeile mit `[Bridge]` beschriftet.  Das gleiche kann bei Bedarf auf der anderen Seite der Brücke vorgenommen werden, sodass eine Breite von 5 Blöcken vorgegeben ist und eine Länge von maximal 30 Blöcken möglich ist. Das zweite Schild kann auch mit `[Bridge End]` beschriftet werden, um die Brücke nur von einer Seite aus umschaltbar zu machen.
 
 Für eine Brücke kann eine Vielzahl an Blöcken (auch Stufen) benutzt werden. Solltest du eine sinnvolle Blockart im Sortiment vermissen, kannst du diese gerne über das Forum als Vorschlag einreichen.
+
+Sollten nicht ausreichend Blöcke für die Bridge zur Verfügung stehen, können diese mit einem Klick auf das Schild mit dem Item nachgefüllt werden.
 
 ||| Ausgefahrene Bridge
 ![](/images/bridge_opened.png)
