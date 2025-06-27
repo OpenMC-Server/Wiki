@@ -55,10 +55,10 @@ Für eine Brücke kann eine Vielzahl an Blöcken (auch Stufen) benutzt werden. S
 
 Sollten nicht ausreichend Blöcke für die Bridge zur Verfügung stehen, können diese mit einem Klick auf das Schild mit dem Item nachgefüllt werden.
 
-||| Ausgefahrene Bridge
-![](/images/bridge_opened.png)
-||| Eingefahrene Bridge
+||| Geschlossene Bridge
 ![](/images/bridge_closed.png)
+||| Geöffnete Bridge
+![](/images/bridge_opened.png)
 |||
 
 ---
