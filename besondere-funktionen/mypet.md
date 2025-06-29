@@ -143,6 +143,90 @@ Jede Klasse kann bis Level 80 aufsteigen.
 Die Stärke der verschiedenen Mobs werden in fünf Kategorien (S0-schwach bis S5-stark) gegliedert.
 Mobs, welche in der gleichen Zeile gelistet sind bauen in gewissem Maße aufeinander auf.
 
++++ S0
+Der Shard I kann über zwei Wege erhalten werden:
+- Belohnungen des Mobevents
+- Gewinne in den VoteChests
+- Belohnungen weiterer Events
+
++++ S1
+- Schaf
+- Schwein
+- Kuh
+- Huhn
+- Dorfbewohner
+
++++ S2
+- Endermite
+- Zombie
+- Creeper
+- Schleim
+- Spinne
+- Skelett
+- Silberfisch
+- Papagei
+- Händler
+- Lama
+- Kabeljau, Lachs
+- Esel, Maultier
+- Tintenfisch
+- Kaulquappe
+- Fledermaus
+- Hase
+- Fuch
+
++++ S3
+- Schreiter
+- Enderman
+- Ertrunkener
+- Zombifizierter Dorfbewohner
+- Magmawürfel
+- Höhlenspinne
+- Wächter
+- Phantom
+- Schneemann
+- Zombifizierter Piglin
+- Pilzkuh
+- Plünderer
+- Schildkröte
+- Katze
+- Händlerlama
+- Axolotl
+- Biene
+- Tropischer Fisch
+- Pferd
+- Leuchttintenfisch
+- Panda
+- Frosch
+- Ziege
+- Gürteltier
+
++++ S4
+- Böe
+- Lohe
+- Hoglin
+- Plagegeist
+- Wüstenzombie
+- Skumpskelett
+- Eiswanderer
+- Eisbär
+- Piglin
+- Hexe
+- Ozelot
+- Kamel
+- Kugelfisch
+- Skelettpferd
+- Wolf
+
++++ S5
+- Wither
+- Knarz
+- Wärter
+- Verwüster
+- Diener
+
++++
+
 {.compact}
 S0              | S1                | S2                            | S3                | S4                | S5            
 :---:           | :---:             | ---                           | ---               | ---               | ---
