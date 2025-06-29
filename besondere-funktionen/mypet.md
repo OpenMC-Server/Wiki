@@ -221,6 +221,14 @@ Mobs, welche in der gleichen Zeile gelistet sind bauen in gewissem Maße aufeina
 - Golem
 - Großwächter
 - Hilfsgeist
+  - Grundleben: 20 (max. 55)
+  - Schaden: 0 (max. 15)
+  - Leuchtfeuereffekte: Geschinwdigkeit II, Stärker II, Resistenz I, Regeneration I, Abbaugeschwindigkeit II
+  - Inventar: 3 Reihen
+  - Fähigkeiten: Ride/Fly
+  - Kann aufsammeln: nein
+  - Geschwindigkeit: 0.3 (max. 0.35)
+  - Nahrung: Amethystscherbe, Obsidian, Smaragdblock
 - Magier
 - Piglin Barbar
 - Schnüffler
