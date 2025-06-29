@@ -144,132 +144,98 @@ Die Stärke der verschiedenen Mobs werden in fünf Kategorien (S0-schwach bis S5
 Mobs, welche in der gleichen Zeile gelistet sind bauen in gewissem Maße aufeinander auf.
 
 +++ S0
-Der Shard I kann über zwei Wege erhalten werden:
-- Belohnungen des Mobevents
-- Gewinne in den VoteChests
-- Belohnungen weiterer Events
-
-+++ S1
+- Dorfbewohner
+- Huhn
+- Kuh
 - Schaf
 - Schwein
-- Kuh
-- Huhn
-- Dorfbewohner
 
-+++ S2
-- Endermite
-- Zombie
+
++++ S1
 - Creeper
-- Schleim
-- Spinne
-- Skelett
-- Silberfisch
+- Endermite
+- Esel
+- Fledermaus
+- Fuch
+- Hase
+- Kabeljau
+- Kaulquappe
 - Papagei
 - Händler
+- Lachs
 - Lama
-- Kabeljau, Lachs
-- Esel, Maultier
+- Maultier
+- Schleim
+- Silberfisch
+- Skelett
+- Spinne
 - Tintenfisch
-- Kaulquappe
-- Fledermaus
-- Hase
-- Fuch
+- Zombie
 
-+++ S3
-- Schreiter
++++ S2
+- Axolotl
+- Biene
 - Enderman
 - Ertrunkener
-- Zombifizierter Dorfbewohner
-- Magmawürfel
+- Frosch
+- Gürteltier
+- Händlerlama
 - Höhlenspinne
-- Wächter
+- Katze
+- Leuchttintenfisch
+- Magmawürfel
+- Panda
+- Pferd
 - Phantom
-- Schneemann
-- Zombifizierter Piglin
 - Pilzkuh
 - Plünderer
 - Schildkröte
-- Katze
-- Händlerlama
-- Axolotl
-- Biene
+- Schneemann
+- Schreiter
 - Tropischer Fisch
-- Pferd
-- Leuchttintenfisch
-- Panda
-- Frosch
+- Wächter
 - Ziege
-- Gürteltier
+- Zombifizierter Dorfbewohner
+- Zombifizierter Piglin
 
-+++ S4
++++ S3
 - Böe
-- Lohe
-- Hoglin
-- Plagegeist
-- Wüstenzombie
-- Skumpskelett
-- Eiswanderer
 - Eisbär
-- Piglin
+- Eiswanderer
 - Hexe
-- Ozelot
+- Hoglin
 - Kamel
 - Kugelfisch
+- Lohe
+- Ozelot
+- Piglin
+- Plagegeist
 - Skelettpferd
+- Skumpskelett
 - Wolf
+- Wüstenzombie
+
++++ S4
+- Delfin
+- Ghast
+- Golem
+- Großwächter
+- Hilfsgeist
+- Magier
+- Piglin Barbar
+- Schnüffler
+- Witherskelett
+- Zoglin
+- Zombiepferd
 
 +++ S5
-- Wither
-- Knarz
-- Wärter
-- Verwüster
 - Diener
+- Knarz
+- Verwüster
+- Wärter
+- Wither
 
 +++
-
-{.compact}
-S0              | S1                | S2                            | S3                | S4                | S5            
-:---:           | :---:             | ---                           | ---               | ---               | ---
-                |                   |                               |                   | Witherskelett     | Wither
-                |                   |                               | Böe               |                   |
-                |                   | Schreiter                     |                   |                   |
-                |                   |                               | Lohe              | Ghast             |
-                |                   |                               | Hoglin            | Zoglin            |
-                |                   |                               | Plagegeist        | Hilfsgeist        |
-                | Endermite         | Enderman                      |                   |                   |
-                |                   | Ertrunkener                   |                   |                   |
-                | Zombie            | Zombifizierter Dorfbewohner   | Wüstenzombie      |                   |
-                | Creeper           |                               |                   |                   |
-                |                   |                               | Sumpfskelett      |                   | Knarz
-                | Schleim           | Magmawürfel                   |                   |                   |
-                | Spinne            | Höhlenspinne                  |                   |                   |
-                | Skelett           |                               | Eiswanderer       |                   |
-                |                   |                               | Eisbär            |                   |
-                |                   | Wächter                       |                   | Großwächter       |
-                |                   | Phantom                       |                   |                   |
-                | Silberfisch       |                               |                   |                   |
-                |                   | Schneemann                    |                   | Golem             | Wärter
-Schaf           |                   |                               |                   |                   |
-Schwein         |                   | Zombifizierter Piglin         | Piglin            | Piglin Barbar     |
-Kuh             |                   | Pilzkuh                       |                   |                   | Verwüster
-Huhn            |                   | Papagei                       |                   |                   |
-Dorfbewohner    | Händler           | Plünderer                     | Hexe              | Magier            | Diener
-                |                   | Schildkröte                   |                   | Schnüffler        |
-                |                   | Katze                         | Ozelot            |                   |
-                | Lama              | Händlerlama                   | Kamel             |                   |
-                |                   | Axolotl                       |                   |                   |
-                |                   | Biene                         |                   |                   |
-                | Kabeljau, Lachs   | Tropischer Fisch              | Kugelfisch        | Delfin            |
-                | Esel, Maultier    | Pferd                         | Skelettpferd      | Zombiepferd       |
-                | Tintenfisch       | Leuchttintenfisch             |                   |                   |
-                |                   | Panda                         |                   |                   |
-                | Kaulquappe        | Frosch                        |                   |                   |
-                | Fledermaus        |                               |                   |                   |
-                | Hase              |                               |                   |                   |
-                |                   |                               | Wolf              |                   |
-                |                   | Ziege                         |                   |                   |
-                | Fuchs             |                               |                   |                   |
-                |                   | Gürteltier                    |                   |                   |
 
 ---
 ## Klassen
