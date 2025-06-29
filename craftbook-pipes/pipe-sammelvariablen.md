@@ -154,10 +154,7 @@ Um nach einer spezifischen Sammelvariable zu suchen, kannst du die Suche deines 
 [!badge variant="secondary" text="**%zd%**"] **Alle Setzlinge**\
 *oak_sapling, spruce_sapling, birch_sapling, jungle_sapling, acacia_sapling, dark_oak_sapling, mangrove_propagule, cherry_sapling, pale_oak_sapling*
 
-[!badge variant="secondary" text="**%ze%**"] **Alle Blätter (ohne 1.17+)**\
-*oak_leaves, dark_oak_leaves, spruce_leaves, birch_leaves, jungle_leaves, acacia_leaves, mangrove_leaves, cherry_leaves, pale_oak_leaves*
-
-[!badge variant="secondary" text="**%rr%**"] **Alle Blätter (inkl. 1.17+)**\
+[!badge variant="secondary" text="**%rr%**"] **Alle Blätter**\
 *oak_leaves, dark_oak_leaves, spruce_leaves, birch_leaves, jungle_leaves, acacia_leaves, mangrove_leaves, azalea_leaves, flowering_azalea_leaves, cherry_leaves, pale_oak_leaves*
 
 [!badge variant="secondary" text="**%ts%**"] **Alle Holzstufen**\
@@ -173,25 +170,16 @@ Um nach einer spezifischen Sammelvariable zu suchen, kannst du die Suche deines 
 [!badge variant="secondary" text="**%aeg%**"] **Alle Hängechilder**\
 *oak_hanging_sign, spruce_hanging_sign, birch_hanging_sign, jungle_hanging_sign, acacia_hanging_sign, dark_oak_hanging_sign, mangrove_hanging_sign, crimson_hanging_sign, warped_hanging_sign, cherry_hanging_sign, bamboo_hanging_sign*
 
-[!badge variant="secondary" text="**%zh%**"] **Alle Falltüren**\
-*oak_trapdoor, spruce_trapdoor, birch_trapdoor, jungle_trapdoor, acacia_trapdoor, dark_oak_trapdoor, iron_trapdoor, crimson_trapdoor, warped_trapdoor, mangrove_trapdoor, cherry_trapdoor, bamboo_trapdoor, pale_oak_trapdoor*
-
-[!badge variant="secondary" text="**%ahq%**"] **Alle Falltüren (1.21+)**\
+[!badge variant="secondary" text="**%ahq%**"] **Alle Falltüren**\
 *oak_trapdoor, spruce_trapdoor, birch_trapdoor, jungle_trapdoor, acacia_trapdoor, dark_oak_trapdoor, iron_trapdoor, crimson_trapdoor, warped_trapdoor, mangrove_trapdoor, cherry_trapdoor, bamboo_trapdoor, copper_trapdoor, exposed_copper_trapdoor, weathered_copper_trapdoor, oxidized_copper_trapdoor, waxed_copper_trapdoor, waxed_exposed_copper_trapdoor, waxed_weathered_copper_trapdoor, waxed_oxidized_copper_trapdoor, pale_oak_trapdoor*
 
 [!badge variant="secondary" text="**%zi%**"] **Alle Knöpfe**\
 *stone_button, dark_oak_button, acacia_button, jungle_button, birch_button, spruce_button, oak_button, crimson_button, warped_button, mangrove_button, polished_blackstone_button, cherry_button, bamboo_button, pale_oak_button*
 
-[!badge variant="secondary" text="**%py%**"] **Alle Druckplatten**\
-*light_weighted_pressure_plate, heavy_weighted_pressure_plate, stone_pressure_plate, polished_blackstone_pressure_plate, oak_pressure_plate, spruce_pressure_plate, birch_pressure_plate, jungle_pressure_plate, acacia_pressure_plate, dark_oak_pressure_plate, mangrove_pressure_plate, crimson_pressure_plate, warped_pressure_plate, bamboo_pressure_plate*
-
-[!badge variant="secondary" text="**%ajt%**"] **Alle Druckplatten (1.21+)**\
+[!badge variant="secondary" text="**%ajt%**"] **Alle Druckplatten**\
 *light_weighted_pressure_plate, heavy_weighted_pressure_plate, stone_pressure_plate, polished_blackstone_pressure_plate, oak_pressure_plate, spruce_pressure_plate, birch_pressure_plate, jungle_pressure_plate, acacia_pressure_plate, dark_oak_pressure_plate, mangrove_pressure_plate, crimson_pressure_plate, warped_pressure_plate, bamboo_pressure_plate, cherry_presure_plate, pale_oak_pressure_plate*
 
-[!badge variant="secondary" text="**%zg%**"] **Alle Türen**\
-*oak_door, spruce_door, birch_door, jungle_door, acacia_door, dark_oak_door, crimson_door, warped_door, iron_door, mangrove_door, cherry_door, bamboo_door, pale_oak_door*
-
-[!badge variant="secondary" text="**%ahp%**"] **Alle Türen (1.21+)**\
+[!badge variant="secondary" text="**%ahp%**"] **Alle Türen**\
 *oak_door, spruce_door, birch_door, jungle_door,acacia_door, dark_oak_door, mangrove_door, crimson_door, warped_door, iron_door, cherry_door, bamboo_door, copper_door, exposed_copper_door, weathered_copper_door, oxidized_copper_door, waxed_copper_door, waxed_exposed_copper_door, waxed_weathered_copper_door, waxed_oxidized_copper_door, pale_oak_door*
 
 [!badge variant="secondary" text="**%zk%**"] **Alle Zäune**\
@@ -213,10 +201,7 @@ Um nach einer spezifischen Sammelvariable zu suchen, kannst du die Suche deines 
 *oak_boat, spruce_boat, birch_boat, jungle_boat, acacia_boat, dark_oak_boat, cherry_boat, bamboo_raft, pale_oak_boat*
 
 ### Bunte Blöcke
-[!badge variant="secondary" text="**%zp%**"] **Alle Gläser (ohne 1.17+)**\
-*glass, black_stained_glass, red_stained_glass, green_stained_glass, brown_stained_glass, blue_stained_glass, purple_stained_glass, cyan_stained_glass, light_gray_stained_glass, gray_stained_glass, pink_stained_glass, lime_stained_glass, yellow_stained_glass, light_blue_stained_glass, magenta_stained_glass, orange_stained_glass, white_stained_glass*
-
-[!badge variant="secondary" text="**%sp%**"] **Alle Gläser (inkl. 1.17+)**\
+[!badge variant="secondary" text="**%sp%**"] **Alle Gläser**\
 *glass, black_stained_glass, red_stained_glass, green_stained_glass, brown_stained_glass, blue_stained_glass, purple_stained_glass, cyan_stained_glass, light_gray_stained_glass, gray_stained_glass, pink_stained_glass, lime_stained_glass, yellow_stained_glass, light_blue_stained_glass, magenta_stained_glass, orange_stained_glass, white_stained_glass, tinted_glass*
 
 [!badge variant="secondary" text="**%zq%**"] **Alle Glasscheiben**\
@@ -372,19 +357,13 @@ Um nach einer spezifischen Sammelvariable zu suchen, kannst du die Suche deines 
 *sandstone, sandstone_slab, sandstone_stairs, sandstone_wall, smooth_sandstone, smooth_sandstone_slab, smooth_sandstone_stairs, cut_sandstone, cut_sandstone_slab, chiseled_sandstone, red_sandstone, red_sandstone_slab, red_sandstone_stairs, red_sandstone_wall, smooth_red_sandstone, smooth_red_sandstone_slab, smooth_red_sandstone_stairs, cut_red_sandstone, cut_red_sandstone_slab, chiseled_red_sandstone*
 
 ### Pflanzen, Erde, Gras, Sand, Kies, Ziegel
-[!badge variant="secondary" text="**%yz%**"] **Diverse Pflanzen (ohne 1.17+)**\
-*seagrass, sea_pickle, kelp, lily_pad, grass, fern, dead_bush, brown_mushroom, red_mushroom, vine, weeping_vines, twisting_vines, crimson_fungus, warped_fungus, crimson_roots, warped_roots, nether_sprouts*
-
-[!badge variant="secondary" text="**%rq%**"] **Diverse Pflanzen (inkl. 1.17+)**\
+[!badge variant="secondary" text="**%yz%**"] **Diverse Pflanzen**\
 *seagrass, sea_pickle, kelp, lily_pad, short_grass, fern, dead_bush , brown_mushroom, red_mushroom, vine,weeping_vines, twisting_vines, crimson_fungus, warped_fungus, crimson_roots, warped_roots, nether_sprouts, azalea, flowering_azalea, big_dripleaf, small_dripleaf, glow_lichen, hanging_roots, spore_blossom, pale_hanging_moss*
 
 [!badge variant="secondary" text="**%aeb%**"] **Alle Wasserpflanzen**\
 *kelp, dried_kelp, dried_kelp_block, sea_pickle, seagrass, small_dripleaf, big_dripleaf, glow_lichen*
 
-[!badge variant="secondary" text="**%vp%**"] **Erde + Variationen (ohne 1.17+)**\
-*dirt, coarse_dirt, grass_block, podzol, mycelium*
-
-[!badge variant="secondary" text="**%sn%**"] **Erde + Variationen (inkl. 1.17+)**\
+[!badge variant="secondary" text="**%sn%**"] **Erde + Variationen**\
 *dirt, coarse_dirt, grass_block, podzol, mycelium, moss_block, moss_carpet, rooted_dirt*
 
 [!badge variant="secondary" text="**%aaa%**"] **Alle Schlammerzeugnisse**\
@@ -396,16 +375,10 @@ Um nach einer spezifischen Sammelvariable zu suchen, kannst du die Suche deines 
 [!badge variant="secondary" text="**%uu%**"] **Alle Ziegelsteine und Ziegelsteinerzeugnisse**\
 *brick, bricks, brick_slab, brick_stairs, brick_wall*
 
-[!badge variant="secondary" text="**%wg%**"] **Gras (Pflanze) + Variationen (ohne 1.17+)**\
-*short_grass, tall_grass, fern, large_fern, dead_bush, lily_pad, seagrass, tall_seagrass*
-
-[!badge variant="secondary" text="**%sl%**"] **Gras (Pflanze) + Variationen (inkl. 1.17+)**\
+[!badge variant="secondary" text="**%sl%**"] **Gras (Pflanze) + Variationen**\
 *short_grass, tall_grass, fern, large_fern, dead_bush, lily_pad, seagrass, tall_seagrass, big_dripleaf, small_dripleaf, glow_lichen, hanging_roots*
 
-[!badge variant="secondary" text="**%wh%**"] **Gras (Pflanze) + Variationen mit Nether (ohne 1.17+)**\
-*grass, tall_grass, fern, large_fern, dead_bush, lily_pad, seagrass, tall_seagrass, nether_sprouts, crimson_roots, warped_roots*
-
-[!badge variant="secondary" text="**%sg%**"] **Gras (Pflanze) + Variationen mit Nether (inkl. 1.17+)**\
+[!badge variant="secondary" text="**%sg%**"] **Gras (Pflanze) + Variationen mit Nether**\
 *short_grass, tall_grass, fern, large_fern, dead_bush, lily_pad, seagrass, nether_sprouts, crimson_roots, warped_roots, big_dripleaf, small_dripleaf, glow_lichen, hanging_roots*
 
 [!badge variant="secondary" text="**%wv%**"] **Alle Azaleen-Items**\
@@ -427,16 +400,7 @@ Um nach einer spezifischen Sammelvariable zu suchen, kannst du die Suche deines 
 [!badge variant="secondary" text="**%vu%**"] **Alle Schienen**\
 *rail, powered_rail, detector_rail, activator_rail*
 
-[!badge variant="secondary" text="**%vy%**"] **Alle Redstone-Komponenten (ohne 1.17+)**\
-*redstone_torch, lever, repeater, comparator, dispenser, dropper, observer, daylight_detector, piston, sticky_piston, tripwire_hook, target*
-
-[!badge variant="secondary" text="**%so%**"] **Alle Redstone-Komponenten (inkl. 1.17+)**\
-*redstone_torch, lever, repeater, comparator, dispenser, dropper, observer, daylight_detector, piston, sticky_piston, tripwire_hook, target, sculk_sensor*
-
-[!badge variant="secondary" text="**%xy%**"] **Alle Redstone-Komponenten (erweitert, ohne 1.17+)**\
-*redstone_torch, lever, repeater, comparator, dispenser, dropper, observer, daylight_detector, piston, sticky_piston, tripwire_hook, target, hopper, note_block, trapped_chest*
-
-[!badge variant="secondary" text="**%sx%**"] **Alle Redstone-Komponenten (erweitert, inkl. 1.17+)**\
+[!badge variant="secondary" text="**%sx%**"] **Alle Redstone-Komponenten**\
 *redstone_torch, lever, repeater, comparator, dispenser, dropper, observer, daylight_detector, piston, sticky_piston, tripwire_hook, target, hopper, note_block, trapped_chest, sculk_sensor*
 
 ### Prismarin, Endstein, Purpur, Eis, Schnee
@@ -453,10 +417,7 @@ Um nach einer spezifischen Sammelvariable zu suchen, kannst du die Suche deines 
 [!badge variant="secondary" text="**%vm%**"] **Alle Purpurerzeugnisse**\
 *purpur_block, purpur_slab, purpur_stairs, purpur_pillar*
 
-[!badge variant="secondary" text="**%vr%**"] **Schnee + Eis (ohne 1.17+)**\
-*snowball, snow, snow_block, ice, packed_ice, blue_ice*
-
-[!badge variant="secondary" text="**%sv%**"] **Schnee + Eis (inkl. 1.17+)**\
+[!badge variant="secondary" text="**%sv%**"] **Schnee + Eis**\
 *snowball, snow, snow_block, ice, packed_ice, blue_ice, powder_snow_bucket*
 
 ### Kupfer
@@ -501,31 +462,22 @@ Um nach einer spezifischen Sammelvariable zu suchen, kannst du die Suche deines 
 *copper_trapdoor, exposed_copper_trapdoor, weathered_copper_trapdoor, oxidized_copper_trapdoor, waxed_copper_trapdoor, waxed_exposed_copper_trapdoor, waxed_weathered_copper_trapdoor, waxed_oxidized_copper_trapdoor*
 
 ### Dekorationen und sonstige Baublöcke
-[!badge variant="secondary" text="**%wq%**"] **Diverse Dekorationen (ohne 1.17+)**\
-*armor_stand, scaffolding, painting, item_frame, bell, chain, campfire, soul_campfire, cobweb, dragon_egg, lead, name_tag, flower_pot*
-
-[!badge variant="secondary" text="**%sw%**"] **Diverse Dekorationen (inkl. 1.17+)**\
+[!badge variant="secondary" text="**%sw%**"] **Diverse Dekorationen**\
 *armor_stand, scaffolding, painting, item_frame, bell, chain, campfire, soul_campfire, cobweb, dragon_egg, lead, name_tag, flower_pot, glow_item_frame*
 
 [!badge variant="secondary" text="**%vv%**"] **Alle Dorfbewohner-Arbeitsplatzblöcke**\
 *blast_furnace, cartography_table, brewing_stand, composter, barrel, fletching_table, cauldron, lectern, stonecutter, loom, smithing_table, grindstone*
 
-[!badge variant="secondary" text="**%vw%**"] **Diverse Nutzblöcke (ohne 1.17+)**\
-*crafting_table, ladder, chest, trapped_chest, ender_chest, furnace, smoker, hopper, enchanting_table, anvil, chipped_anvil, damaged_anvil, jukebox, note_block, lodestone, respawn_anchor, conduit, end_crystal, beacon, lightning_rod, crafter*
-
-[!badge variant="secondary" text="**%xz%**"] **Diverse Nutzblöcke (ohne Redstone, ohne 1.17+)**\
+[!badge variant="secondary" text="**%xz%**"] **Diverse Nutzblöcke (ohne Redstone)**\
 *crafting_table, ladder, chest, ender_chest, furnace, smoker, enchanting_table, anvil, chipped_anvil, damaged_anvil, jukebox, lodestone, respawn_anchor, conduit, end_crystal, beacon*
 
-[!badge variant="secondary" text="**%sm%**"] **Diverse Nutzblöcke (inkl. 1.17+)**\
+[!badge variant="secondary" text="**%sm%**"] **Diverse Nutzblöcke**\
 *crafting_table, ladder, chest, trapped_chest, ender_chest, furnace, smoker, hopper, enchanting_table, anvil, chipped_anvil, damaged_anvil, jukebox, note_block, lodestone, respawn_anchor, conduit, end_crystal, beacon, lightning_rod, crafter*
 
 [!badge variant="secondary" text="**%vz%**"] **Fackeln + Laternen**\
 *torch, soul_torch, lantern, soul_lantern*
 
-[!badge variant="secondary" text="**%aab%**"] **Alle Lichtquellen**\
-*torch, soul_torch, lantern, soul_lantern, end_rod, glowstone, shroomlight, ochre_froglight, verdant_froglight, pearlescent_froglight, sea_lantern, redstone_lamp*
-
-[!badge variant="secondary" text="**%aen%**"] **Alle Lichtquellen (1.21+)**\
+[!badge variant="secondary" text="**%aen%**"] **Alle Lichtquellen**\
 *torch, soul_torch, lantern, soul_lantern, end_rod, glowstone, shroomlight, ochre_froglight, verdant_froglight, pearlescent_froglight, sea_lantern, redstone_lamp, copper_bulb, exposed_copper_bulb, weathered_copper_bulb, oxidized_copper_bulb, waxed_copper_bulb, waxed_exposed_copper_bulb, waxed_weathered_copper_bulb, waxed_oxidized_copper_bulb*
 
 [!badge variant="secondary" text="**%wp%**"] **Alle Kopfvarianten**
@@ -612,10 +564,7 @@ Zu gesonderten Infos rund um `player_head` kannst du [hier](https://wiki.openmc.
 *wooden_sword, stone_sword, iron_sword, golden_sword, diamond_sword, netherite_sword, bow,crossbow, trident, flint_and_steel, shield, mace*
 
 ### Essen
-[!badge variant="secondary" text="**%wj%**"] **Alle Nutz- und essbaren Pflanzen (ohne 1.17+)**\
-*apple, potato, baked_potato, poisonous_potato, carrot, golden_carrot, beetroot, beetroot_seeds, beetroot_soup, wheat, wheat_seeds, hay_block, bread, melon, melon_slice, glistering_melon_slice, pumpkin, carved_pumpkin, pumpkin_seeds, pumpkin_pie, jack_o_lantern, cocoa_beans, cookie, sweet_berries, kelp, dried_kelp, dried_kelp_block, chorus_flower, chorus_fruit, popped_chorus_fruit*
-
-[!badge variant="secondary" text="**%su%**"] **Alle Nutz- und essbaren Pflanzen (inkl. 1.17+)**\
+[!badge variant="secondary" text="**%su%**"] **Alle Nutz- und essbaren Pflanzen**\
 *apple, potato, baked_potato, poisonous_potato, carrot, golden_carrot, beetroot, beetroot_seeds, beetroot_soup, wheat, wheat_seeds, hay_block, bread, melon, melon_slice, glistering_melon_slice, pumpkin, carved_pumpkin, pumpkin_seeds, pumpkin_pie, jack_o_lantern, cocoa_beans, cookie, sweet_berries, kelp, dried_kelp, dried_kelp_block, chorus_flower, chorus_fruit, popped_chorus_fruit, glow_berries*
 
 [!badge variant="secondary" text="**%wk%**"] **Alle rohen Fleischarten**\
@@ -628,25 +577,16 @@ Zu gesonderten Infos rund um `player_head` kannst du [hier](https://wiki.openmc.
 *cod, cooked_cod, salmon, cooked_salmon, pufferfish, tropical_fish*
 
 ### Mineralien
-[!badge variant="secondary" text="**%zv%**"] **Alle Erze (ohne 1.17+)**\
-*diamond_ore, iron_ore, lapis_ore, coal_ore, gold_ore, emerald_ore, redstone_ore, nether_quartz_ore, nether_gold_ore, ancient_debris, gilded_blackstone*
-
-[!badge variant="secondary" text="**%ry%**"] **Alle Erze (ink. 1.17+)**\
+[!badge variant="secondary" text="**%ry%**"] **Alle Erze**\
 *diamond_ore, iron_ore, lapis_ore, coal_ore, gold_ore, emerald_ore, redstone_ore, nether_quartz_ore, nether_gold_ore, ancient_debris, gilded_blackstone, copper_ore, deepslate_coal_ore, deepslate_iron_ore, deepslate_copper_ore, deepslate_gold_ore, deepslate_redstone_ore, deepslate_emerald_ore, deepslate_lapis_ore, deepslate_diamond_ore*
 
 [!badge variant="secondary" text="**%sj%**"] **Alle Tiefenschiefererze**\
 *deepslate_coal_ore, deepslate_iron_ore, deepslate_copper_ore, deepslate_gold_ore, deepslate_redstone_ore, deepslate_emerald_ore, deepslate_lapis_ore, deepslate_diamond_ore*
 
-[!badge variant="secondary" text="**%ka%**"] **Alle Mineralien (ohne 1.17+)**\
-*coal, charcoal, iron_nugget, iron_ingot, lapis_lazuli, gold_nugget, gold_ingot, redstone, diamond, emerald, netherite_scrap, netherite_ingot*
-
-[!badge variant="secondary" text="**%st%**"] **Alle Mineralien (inkl. 1.17+)**\
+[!badge variant="secondary" text="**%st%**"] **Alle Mineralien**\
 *coal, charcoal, iron_nugget, iron_ingot, lapis_lazuli, gold_nugget, gold_ingot, redstone, diamond, emerald, netherite_scrap, netherite_ingot, copper_ingot, raw_copper, raw_gold, raw_iron*
 
-[!badge variant="secondary" text="**%kb%**"] **Alle Mineralblöcke (ohne 1.17+)**\
-*coal_block, iron_block, lapis_block, iron_block, gold_block, redstone_block, diamond_block, emerald_block, netherite_block*
-
-[!badge variant="secondary" text="**%rs%**"] **Alle Mineralblöcke (inkl. 1.17+)**\
+[!badge variant="secondary" text="**%rs%**"] **Alle Mineralblöcke**\
 *coal_block, iron_block, lapis_block, iron_block, gold_block, redstone_block, diamond_block, emerald_block, netherite_block, copper_block, raw_copper_block, raw_gold_block, raw_iron_block*
 
 [!badge variant="secondary" text="**%rp%**"] **Amethyst**\
@@ -687,10 +627,7 @@ Zu gesonderten Infos rund um `player_head` kannst du [hier](https://wiki.openmc.
 *egg, feather, leather, ink_sac, rabbit_hide, rabbit_foot, glow_ink_sac*
 
 ### Andere Items
-[!badge variant="secondary" text="**%yj%**"] **Alle Eimer (ohne 1.17+)**\
-*bucket, water_bucket, lava_bucket, milk_bucket, pufferfish_bucket, salmon_bucket, cod_bucket, tropical_fish_bucket*
-
-[!badge variant="secondary" text="**%sq%**"] **Alle Eimer (inkl. 1.17+)**\
+[!badge variant="secondary" text="**%sq%**"] **Alle Eimer**\
 *bucket, water_bucket, lava_bucket, milk_bucket, pufferfish_bucket, salmon_bucket, cod_bucket, tropical_fish_bucket, axolotl_bucket, powder_snow_bucket*
 
 [!badge variant="secondary" text="**%yk%**"] **Alle Schallplatten**\
