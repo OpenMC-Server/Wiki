@@ -12,9 +12,9 @@ Auf dieser Seite findest du Erläuterungen zu den Events, die regelmäßig auf O
 
 ## Bauevent
 !!! Aktuelles Bauevent:
-*Thema:* Haus\
-*Dauer:* 01.05. - 15.06.\
-*Bewertungsevent:* 18.06. - 23.06.
+*Thema:* Apokalypse\
+*Dauer:* 01.07. - 15.08.\
+*Bewertungsevent:* 18.08. - 23.08.
 !!!
 
 ### Über das Bauevent
