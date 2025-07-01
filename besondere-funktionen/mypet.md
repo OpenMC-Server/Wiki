@@ -143,6 +143,11 @@ Jede Klasse kann bis Level 80 aufsteigen.
 Die Stärke der verschiedenen Mobs werden in fünf Kategorien (S0-schwach bis S5-stark) gegliedert.
 Mobs, welche in der gleichen Zeile gelistet sind bauen in gewissem Maße aufeinander auf.
 
+!!!warning Bereich in Arbeit
+Die Details zu den Mobs und ihren Stärke-Kategorien sind zurzeit noch in Arbeit.
+Zeitweise sind die Infos [hier](https://docs.google.com/spreadsheets/d/1-OIfTc-EogHypyZgFHk6HFBQd_LuoNDw50PtR9IuBOI/edit?gid=0#gid=0) zu entnehmen.
+!!!
+
 +++ S0
 - **Dorfbewohner**
   - Grundleben: 25 (max. 70)
@@ -193,29 +198,83 @@ Mobs, welche in der gleichen Zeile gelistet sind bauen in gewissem Maße aufeina
   - Fähigkeiten: Fly/Ride
   - Kann aufsammeln: Nein
   - Geschwindigkeit: 0.38
-  - Nahrung: Weizen, Karotte, Apfel, Rote Beete, Süßbeere, Getrockneter Seetang, Seetang, Seegrass, Melonenschreibe, Brot, Süßbeere, Leuchtbeere, 
+  - Nahrung: Weizen, Karotte, Apfel, Rote Beete, Süßbeere, Getrockneter Seetang, Seetang, Seegrass, Melonenschreibe, Brot, Süßbeere, Leuchtbeere 
 
 
 +++ S1
-- Creeper
-- Endermite
-- Esel
-- Fledermaus
-- Fuch
-- Hase
-- Kabeljau
-- Kaulquappe
-- Papagei
-- Händler
-- Lachs
-- Lama
-- Maultier
-- Schleim
-- Silberfisch
-- Skelett
-- Spinne
-- Tintenfisch
-- Zombie
+- **Creeper**
+  - Grundleben: 30 (max. 45)
+  - Kampftyp: Nahkampf
+  - Schaden: 0 (max. 18)
+  - Leuchtfeuereffekte: Resistenz II, Stärke II
+  - Inventar: 1 Reihen
+  - Fähigkeiten: Knockback, Fire
+  - Kann aufsammeln: Nein
+  - Geschwindigkeit: 0.25
+  - Nahrung: Schwarzpulver, Feuerstein, TnT
+- **Endermite**
+  - Grundleben: 25 (max. 66)
+  - Kampftyp: Nahkampf
+  - Schaden: 0 (max. 9)
+  - Leuchtfeuereffekte: Geschwindigkeit I, Regeneration I, Absorption II, Nachtsicht
+  - Inventar: 1 Reihen
+  - Fähigkeiten: Knockback, Fire
+  - Kann aufsammeln: Ja
+  - Geschwindigkeit: 0.28
+  - Nahrung: Chorusfrucht, Chorusblüte, Spinnenauge, Obsidian, Weinendes Obsidian
+- **Esel**
+  - Grundleben: 35 (max. 65)
+  - Kampftyp: Nahkampf
+  - Schaden: 0 (max. 6)
+  - Leuchtfeuereffekte: Geschwindigkeit II, Stärke I, Regeneration I
+  - Inventar: 3 Reihen
+  - Fähigkeiten: Fly/Ride
+  - Kann aufsammeln: Nein
+  - Geschwindigkeit: 0.38
+  - Nahrung: Weizen, Karotte, Apfel, Rote Beete, Süßbeere, Getrockneter Seetang, Seetang, Seegrass
+- **Fledermaus**
+  - Grundleben: 15 (max. 40)
+  - Kampftyp: Nahkampf
+  - Schaden: 0 (max. 10.5)
+  - Leuchtfeuereffekte: Regeneration III, Geschwindigkeit I
+  - Inventar: 2 Reihen
+  - Fähigkeiten: Fly/Ride
+  - Kann aufsammeln: Nein
+  - Geschwindigkeit: 0.35
+  - Nahrung: Spinnenauge, Honigwabe, Süßbeere, Leuchtbeere
+- **Fuchs**
+  - Grundleben: 20 (max. 57)
+  - Kampftyp: Nahkampf
+  - Schaden: 0 (max. 10.5)
+  - Leuchtfeuereffekte: Stärke II, Geschwindigkeit I, Resistenz II
+  - Inventar: 2 Reihen
+  - Fähigkeiten: N/A
+  - Kann aufsammeln: Ja
+  - Geschwindigkeit: 0.3
+  - Nahrung: Süßbeere, Leuchtbeere, Rohes Hünchen, Rohes Kaninchen
+- **Hase**
+  - Grundleben: 20 (max. 63)
+  - Kampftyp: Nahkampf
+  - Schaden: 0 (max. 6)
+  - Leuchtfeuereffekte: Sprungkraft II, Geschwindigkeit III
+  - Inventar: ! Reihen
+  - Fähigkeiten: N/A
+  - Kann aufsammeln: Nein
+  - Geschwindigkeit: 0.3
+  - Nahrung: Karotte, Apfel, Rote Beete, Süßbeere, Brot, Leuchtbeere
+- **Kabeljau**
+- **Kaulquappe**
+- **Papagei**
+- **Händler**
+- **Lachs**
+- **Lama**
+- **Maultier**
+- **Schleim**
+- **Silberfisch**
+- **Skelett**
+- **Spinne**
+- **Tintenfisch**
+- **Zombie**
 
 +++ S2
 - **Axolotl**
@@ -298,27 +357,27 @@ Mobs, welche in der gleichen Zeile gelistet sind bauen in gewissem Maße aufeina
 - **Zombifizierter Piglin**
 
 +++ S3
-- Böe
-- Eisbär
-- Eiswanderer
-- Hexe
-- Hoglin
-- Kamel
-- Kugelfisch
-- Lohe
-- Ozelot
-- Piglin
-- Plagegeist
-- Skelettpferd
-- Skumpskelett
-- Wolf
-- Wüstenzombie
+- **Böe**
+- **Eisbär**
+- **Eiswanderer**
+- **Hexe**
+- **Hoglin**
+- **Kamel**
+- **Kugelfisch**
+- **Lohe**
+- **Ozelot**
+- **Piglin**
+- **Plagegeist**
+- **Skelettpferd**
+- **Skumpskelett**
+- **Wolf**
+- **Wüstenzombie**
 
 +++ S4
-- Delfin
-- Ghast
-- Golem
-- Großwächter
+- **Delfin**
+- **Ghast**
+- **Golem**
+- **Großwächter**
 - **Hilfsgeist**
   - Grundleben: 15 (max. 55)
   - Kampftyp: Nahkampf
@@ -329,19 +388,64 @@ Mobs, welche in der gleichen Zeile gelistet sind bauen in gewissem Maße aufeina
   - Kann aufsammeln: Nein
   - Geschwindigkeit: 0.35
   - Nahrung: Amethystscherbe, Obsidian, Smaragdblock
-- Magier
-- Piglin Barbar
-- Schnüffler
-- Witherskelett
-- Zoglin
-- Zombiepferd
+- **Magier**
+- **Piglin Barbar**
+- **Schnüffler**
+- **Witherskelett**
+- **Zoglin**
+- **Zombiepferd**
 
 +++ S5
-- Diener
-- Knarz
-- Verwüster
-- Wärter
-- Wither
+- **Diener**
+  - Grundleben: 40 (max. 113)
+  - Kampftyp: Nahkampf
+  - Schaden: 0 (max. 18)
+  - Leuchtfeuereffekte: Resistenz II, Stärke II
+  - Inventar: 2 Reihen
+  - Fähigkeiten: Knockback, Slow, Thorn
+  - Kann aufsammeln: Ja
+  - Geschwindigkeit: 0.32
+  - Nahrung: Apfel, Melonenscheibe, Süßbeere, Leuchtbeere, Chorusfrucht, Karotte, Gebackene Kartoffel, Rote Beete, Getrockneter Seetang, Steak, Gebratenes Schweinefleisch, Gebratenes Hühnchen, Gebratenes Kaninchen, Gebratenes Hammelfleisch, Gebratener Kabeljau, Gebratener Lachs, Brot, Kekse, Kuchen, Kürbiskuchen, Kaninchenragout, Rote-Beete-Suppe, Pilzsuppe, Honigflasche
+- **Knarz**
+  - Grundleben: 50 (max. 148)
+  - Kampftyp: Nahkampf
+  - Schaden: 0 (max. 6.6)
+  - Leuchtfeuereffekte: Regeneration III, Resistenz II
+  - Inventar: 1 Reihen
+  - Fähigkeiten: Poison, Slow, Thorns
+  - Kann aufsammeln: Nein
+  - Geschwindigkeit: 0.2
+  - Nahrung: Honigwabe, Harzklumpen
+- **Verwüster**
+  - Grundleben: 45 (max. 124)
+  - Kampftyp: Nahkampf
+  - Schaden: 0 (max. 12)
+  - Leuchtfeuereffekte: Regeneration III, Stärke II
+  - Inventar: 4 Reihen
+  - Fähigkeiten: Fly/Ride, Stomp
+  - Kann aufsammeln: Ja
+  - Geschwindigkeit: 0.33
+  - Nahrung: Rote Beete, Karotten, Weizen, Blätter 
+- **Wärter**
+  - Grundleben: 50 (max. 155)
+  - Kampftyp: Fernkampf
+  - Schaden: 0 (max. 25)
+  - Leuchtfeuereffekte: Absorption III
+  - Inventar: 1 Reihen
+  - Fähigkeiten: Knockback, Shield
+  - Kann aufsammeln: Nein
+  - Geschwindigkeit: 0.2
+  - Nahrung: Leuchtbeere, Antiker Schrott, Sculk, Sculk-Kreischer
+- **Wither**
+  - Grundleben: 55 (max. 113)
+  - Kampftyp: Nahkampf
+  - Schaden: 0 (max. 20)
+  - Leuchtfeuereffekte: Feuerresistenz, Stärke III, Resistenz II
+  - Inventar: 1 Reihen
+  - Fähigkeiten: Knockback, Thorns, Wither
+  - Kann aufsammeln: Nein
+  - Geschwindigkeit: 0.25
+  - Nahrung: Seelensand, Seelenerde, Kohle, Holzkohle, Feuerstein, Scharzpulver
 
 +++
 
