@@ -446,7 +446,7 @@ Zeitweise sind die Infos [hier](https://docs.google.com/spreadsheets/d/1-OIfTc-E
   - Kann aufsammeln: Nein
   - Geschwindigkeit: 0.25
   - Nahrung: Seelensand, Seelenerde, Kohle, Holzkohle, Feuerstein, Scharzpulver
-
+  - **Verschwindet beim Freilassen**
 +++
 
 ---
