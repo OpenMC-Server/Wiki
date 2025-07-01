@@ -144,11 +144,56 @@ Die Stärke der verschiedenen Mobs werden in fünf Kategorien (S0-schwach bis S5
 Mobs, welche in der gleichen Zeile gelistet sind bauen in gewissem Maße aufeinander auf.
 
 +++ S0
-- Dorfbewohner
-- Huhn
-- Kuh
-- Schaf
-- Schwein
+- **Dorfbewohner**
+  - Grundleben: 25 (max. 70)
+  - Kampftyp: Nahkampf
+  - Schaden: 0 (max. 9)
+  - Leuchtfeuereffekte: Regeneration II, Stärke II
+  - Inventar: 1 Reihen
+  - Fähigkeiten: N/A
+  - Kann aufsammeln: Nein
+  - Geschwindigkeit: 0.3
+  - Nahrung: Apfel, Melonenscheibe, Süßbeere, Leuchtbeere, Chorusfrucht, Karotte, Gebackene Kartoffel, Rote Beete, Getrockneter Seetang, Steak, Gebratenes Schweinefleisch, Gebratenes Hühnchen, Gebratenes Kaninchen, Gebratenes Hammelfleisch, Gebratener Kabeljau, Gebratener Lachs, Brot, Kekse, Kuchen, Kürbiskuchen, Kaninchenragout, Rote-Beete-Suppe, Pilzsuppe, Honigflasche
+- **Huhn**
+  - Grundleben: 30 (max. 40)
+  - Kampftyp: Nahkampf/Fernkampf
+  - Schaden: 0 (max. 8)
+  - Leuchtfeuereffekte: Regeneration II, Stärke II
+  - Inventar: 1 Reihen
+  - Fähigkeiten: Fly/Ride
+  - Kann aufsammeln: Nein
+  - Geschwindigkeit: 0.43
+  - Nahrung: Weizensamen, Kürbissamen, Melonensamen, Rote-Beete-Samen, Fackelliliensamen, Süßbeere, Ei
+- **Kuh**
+  - Grundleben: 35 (max. 75)
+  - Kampftyp: Nahkampf
+  - Schaden: 0 (max. 6)
+  - Leuchtfeuereffekte: Regeneration II, Stärke II
+  - Inventar: 1 Reihen
+  - Fähigkeiten: Fly/Ride
+  - Kann aufsammeln: Nein
+  - Geschwindigkeit: 0.38
+  - Nahrung: Weizen, Karotte, Apfel, Rote Beete, Süßbeere, Getrockneter Seetang, Seetang, Seegrass, Melonenschreibe
+- **Schaf**
+  - Grundleben: 35 (max. 75)
+  - Kampftyp: Nahkampf
+  - Schaden: 0 (max. 6)
+  - Leuchtfeuereffekte: Regeneration II, Stärke II
+  - Inventar: 1 Reihen
+  - Fähigkeiten: N/A
+  - Kann aufsammeln: Nein
+  - Geschwindigkeit: 0.38
+  - Nahrung: Weizen, Karotte, Apfel, Rote Beete, Süßbeere, Getrockneter Seetang, Seetang, Seegrass
+- **Schwein**
+  - Grundleben: 35 (max. 75)
+  - Kampftyp: Nahkampf
+  - Schaden: 0 (max. 6)
+  - Leuchtfeuereffekte: Regeneration II, Stärke II
+  - Inventar: 1 Reihen
+  - Fähigkeiten: Fly/Ride
+  - Kann aufsammeln: Nein
+  - Geschwindigkeit: 0.38
+  - Nahrung: Weizen, Karotte, Apfel, Rote Beete, Süßbeere, Getrockneter Seetang, Seetang, Seegrass, Melonenschreibe, Brot, Süßbeere, Leuchtbeere, 
 
 
 +++ S1
@@ -173,30 +218,84 @@ Mobs, welche in der gleichen Zeile gelistet sind bauen in gewissem Maße aufeina
 - Zombie
 
 +++ S2
-- Axolotl
-- Biene
-- Enderman
-- Ertrunkener
-- Frosch
-- Gürteltier
-- Händlerlama
-- Höhlenspinne
-- Katze
-- Leuchttintenfisch
-- Magmawürfel
-- Panda
-- Pferd
-- Phantom
-- Pilzkuh
-- Plünderer
-- Schildkröte
-- Schneemann
-- Schreiter
-- Tropischer Fisch
-- Wächter
-- Ziege
-- Zombifizierter Dorfbewohner
-- Zombifizierter Piglin
+- **Axolotl**
+  - Grundleben: 15 (max. 62)
+  - Kampftyp: Nahkampf
+  - Schaden: 0 (max. 9)
+  - Leuchtfeuereffekte: Geschwindigkeit II, Regeneration II, Wasseratmung
+  - Inventar: 1 Reihen
+  - Fähigkeiten: Slow
+  - Kann aufsammeln: Ja
+  - Geschwindigkeit: 0.3
+  - Nahrung: Kabeljau, Lachs, Tropischer Fisch, Pufferfisch
+- **Biene**
+  - Grundleben: 15 (max. 56)
+  - Kampftyp: Nahkampf
+  - Schaden: 0 (max. 12)
+  - Leuchtfeuereffekte: Geschwindigkeit II, Resistenz II, Stärke II
+  - Inventar: 1 Reihen
+  - Fähigkeiten: Ride/Fly
+  - Kann aufsammeln: Nein
+  - Geschwindigkeit: 0.35
+  - Nahrung: Honigflasche, Blumen
+- **Enderman**
+  - Grundleben: 30 (max. 75)
+  - Kampftyp: Fernkampf
+  - Schaden: 0 (max. 19.5)
+  - Leuchtfeuereffekte: Geschwindigkeit I, Regeneration I, Absorption II, Nachtsicht
+  - Inventar: 1 Reihen
+  - Fähigkeiten: Knockback,Thorns
+  - Kann aufsammeln: Ja
+  - Geschwindigkeit: 0.23
+  - Nahrung: Chorusfrucht, Chorusblüte, Obsidian, Weinendes Obsidian
+- **Ertrunkener**
+  - Grundleben: 35 (max. 77)
+  - Kampftyp: Nahkampf/Fernkampf
+  - Schaden: 0 (max. 20.2)
+  - Leuchtfeuereffekte: Absorption I, Resistenz I, Stärke II, Wasseratmung
+  - Inventar: 1 Reihen
+  - Fähigkeiten: Knockback
+  - Kann aufsammeln: Nein
+  - Geschwindigkeit: 0.35
+  - Nahrung: Verrotetes Fleisch, Kabeljau, Lachs, Tropischer Fisch
+- **Frosch**
+  - Grundleben: 15 (max. 66)
+  - Kampftyp: Nahkampf
+  - Schaden: 0 (max. 6)
+  - Leuchtfeuereffekte: Absorption III
+  - Inventar: 1 Reihen
+  - Fähigkeiten: Knockback, Poison, Slow
+  - Kann aufsammeln: Ja
+  - Geschwindigkeit: 0.3
+  - Nahrung: Spinnenauge, Pahntommembrane, Schleimball, Magmacreme
+- **Gürteltier**
+  - Grundleben: 20 (max. 70)
+  - Kampftyp: Nahkampf
+  - Schaden: 0 (max. 6)
+  - Leuchtfeuereffekte: Absorption I, Resistenz I
+  - Inventar: 2 Reihen
+  - Fähigkeiten: Knockback, Slow, Shield
+  - Kann aufsammeln: Ja
+  - Geschwindigkeit: 0.3
+  - Nahrung: Spinnenauge, Apfel, Süßbeere, Leuchtbeere, Brauner Pilz
+- **Händlerlama**
+- **Höhlenspinne**
+- **Katze**
+- **Leuchttintenfisch**
+- **Magmawürfel**
+- **Panda**
+- **Pferd**
+- **Phantom**
+- **Pilzkuh**
+- **Plünderer**
+- **Schildkröte**
+- **Schneemann**
+- **Schreiter**
+- **Tropischer Fisch**
+- **Wächter**
+- **Ziege**
+- **Zombifizierter Dorfbewohner**
+- **Zombifizierter Piglin**
 
 +++ S3
 - Böe
@@ -221,13 +320,14 @@ Mobs, welche in der gleichen Zeile gelistet sind bauen in gewissem Maße aufeina
 - Golem
 - Großwächter
 - **Hilfsgeist**
-  - Grundleben: 20 (max. 55)
+  - Grundleben: 15 (max. 55)
+  - Kampftyp: Nahkampf
   - Schaden: 0 (max. 15)
   - Leuchtfeuereffekte: Geschinwdigkeit II, Stärker II, Resistenz I, Regeneration I, Abbaugeschwindigkeit II
   - Inventar: 3 Reihen
   - Fähigkeiten: Ride/Fly
-  - Kann aufsammeln: nein
-  - Geschwindigkeit: 0.3 (max. 0.35)
+  - Kann aufsammeln: Nein
+  - Geschwindigkeit: 0.35
   - Nahrung: Amethystscherbe, Obsidian, Smaragdblock
 - Magier
 - Piglin Barbar
