@@ -53,10 +53,6 @@ Wird eine NoEnter-Claimflag für den Bauzeitraum gewünscht, kann diese bei der 
 5. Das Gewinnerteam erhält den Rang "Champion", mit dem dieser im TAB und Chat entsprechend gekennzeichnet wird. Weitere Preise für Platz 1 - 5 sind unten (Preise) angeführt. Außerdem gibt es eine Teilnahmebelohnung. Das Gewinnerteam nennt dem Team innerhalb eines Tages einen Themenvorschlag für das nächste Bauevent. Vor Beginn des nächsten Bauevents stimmen die Spieler über das neue Thema ab.
 
 ### Preise
-!!! Neue Währungssymbole
-Auf OpenMC haben wir jetzt Sternis (✪)! Diese ersetzen das bisherige $ Symbol.\
-VoteCoins haben ab sofort dieses Symbol: :icon-ruby:
-!!!
 #### 1. Platz:
 - 4 Wochen "Champion" Rang (VIP und +-Upgrade, 4 Votecoins pro Vote) - für jedes Teammitglied
 - 600 Tsd. ✪ - Gleichmäßige Aufteilung auf alle Teammitglieder

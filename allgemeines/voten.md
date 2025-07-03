@@ -64,10 +64,6 @@ Mit diesem Befehl kannst du eine beliebige Anzahl an Votecoins an eine andere Pe
 
 ### Wahrscheinlichkeiten
 ==- Resource Chest [!badge variant="info" text="1 VC"]
-!!! Neue Währungssymbole
-Auf OpenMC haben wir jetzt Sternis (✪)! Diese ersetzen das bisherige $ Symbol.\
-VoteCoins haben ab sofort dieses Symbol: :icon-ruby:
-!!!
 
 {.compact}
 Gewinn                  | Wahrscheinlichkeit in %

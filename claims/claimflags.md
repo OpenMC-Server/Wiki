@@ -33,11 +33,6 @@ Zeigt alle aktiven Flags.
 
 ## Liste der Flags
 
-!!! Neue Währungssymbole
-Auf OpenMC haben wir jetzt Sternis (✪)! Diese ersetzen das bisherige $ Symbol.\
-VoteCoins haben ab sofort dieses Symbol: :icon-ruby:
-!!!
-
 Flag                    | Erklärung | Preis
 ---                     | ---       | ---
 AllowBlockExplosions    | Blockeplosionen dauerhaft aktivieren. | 50 Tsd. ✪
