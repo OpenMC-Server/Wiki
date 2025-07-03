@@ -115,6 +115,7 @@ Du kannst dein Bauwerk auf Discord im #bauevent Channel anmelden. Die Frist ist 
 
 [!button icon=":white_check_mark:" target="blank" text="Bauevent im Discord anmelden"](https://discord.com/invite/ecqPF34)
 
+Wenn ein Hinweisschild auf Inspirationen am Anfang des Bauwerks nicht gewünscht ist, kann dies im Ticket vermerkt werden. Stattdessen werden dann Hologramme eingesetzt, die die von anderen Quellen inspirierten Teile des Bauwerks im Detail kennzeichnen.
 ---
 
 ## Mobevent
