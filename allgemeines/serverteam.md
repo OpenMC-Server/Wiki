@@ -77,11 +77,13 @@ Im folgenden findest du alle aktiven Teammitglieder und ihre Aufgabenbereiche.
 **Aufgaben:**\
  Supportleitung\
  Spielerfeedback
+ Bauevent-Organisation
 |||
 ||| moonlightflora
 -![](/images/flowflower.png)
 **Aufgaben:**\
  Eventverwaltung
+ Bauevent-Organisation
 |||
 
 ### Moderatoren
