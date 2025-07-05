@@ -257,24 +257,141 @@ Zeitweise sind die Infos [hier](https://docs.google.com/spreadsheets/d/1-OIfTc-E
   - Kampftyp: Nahkampf
   - Schaden: 0 (max. 6)
   - Leuchtfeuereffekte: Sprungkraft II, Geschwindigkeit III
-  - Inventar: ! Reihen
+  - Inventar: 1 Reihen
   - Fähigkeiten: N/A
   - Kann aufsammeln: Nein
   - Geschwindigkeit: 0.3
   - Nahrung: Karotte, Apfel, Rote Beete, Süßbeere, Brot, Leuchtbeere
 - **Kabeljau**
+  - Grundleben: 15 (max. 60)
+  - Kampftyp: Nahkampf
+  - Schaden: 0 (max. 9)
+  - Leuchtfeuereffekte: Absorption III, Geschwindigkeit II, Wasseratmung
+  - Inventar: 1 Reihen
+  - Fähigkeiten: N/A
+  - Kann aufsammeln: Ja
+  - Geschwindigkeit: 0.3
+  - Nahrung: Getrockneter Seetang, Seetang, Seegras, Seegurke, Karotte, Kabeljau, Tropischer Fisch, Laschs
 - **Kaulquappe**
+  - Grundleben: 15 (max. 58)
+  - Kampftyp: Nahkampf
+  - Schaden: 0 (max. 6)
+  - Leuchtfeuereffekte: Absorption III
+  - Inventar: 1 Reihen
+  - Fähigkeiten: N/A
+  - Kann aufsammeln: Ja
+  - Geschwindigkeit: 0.3
+  - Nahrung: Schleimball, Seegras, Seegurke, Seetang
 - **Papagei**
-- **Händler**
+  - Grundleben: 15 (max. 65)
+  - Kampftyp: Nahkampf
+  - Schaden: 0 (max. 7.5)
+  - Leuchtfeuereffekte: Geschwindigkeit II, Regeneration II
+  - Inventar: 3 Reihen
+  - Fähigkeiten: Fly/Ride
+  - Kann aufsammeln: Ja
+  - Geschwindigkeit: 0.35
+  - Nahrung: Weizensamen, Kürbissamen, Melonensamen, Rote-Beete-Samen, Fackelliliensamen, Süßbeere, Leuchtbeere, Apfel, Melonenscheibe
+- **Wandernder Händler**
+  - Grundleben: 25 (max. 63)
+  - Kampftyp: Nahkampf
+  - Schaden: 0 (max. 6)
+  - Leuchtfeuereffekte: Resistenz II, Stärke II, Unsichtbarkeit
+  - Inventar: 2 Reihen
+  - Fähigkeiten: Knockback
+  - Kann aufsammeln: Ja
+  - Geschwindigkeit: 0.3
+  - Nahrung: Apfel, Melonenscheibe, Süßbeere, Leuchtbeere, Chorusfrucht, Karotte, Gebackene Kartoffel, Rote Beete, Getrockneter Seetang, Steak, Gebratenes Schweinefleisch, Gebratenes Hühnchen, Gebratenes Kaninchen, Gebratenes Hammelfleisch, Gebratener Kabeljau, Gebratener Lachs, Brot, Kekse, Kuchen, Kürbiskuchen, Kaninchenragout, Rote-Beete-Suppe, Pilzsuppe, Honigflasche
 - **Lachs**
+  - Grundleben: 15 (max. 60)
+  - Kampftyp: Nahkampf
+  - Schaden: 0 (max. 9)
+  - Leuchtfeuereffekte: Absorption III, Geschwindigkeit II, Wasseratmung
+  - Inventar: 1 Reihen
+  - Fähigkeiten: N/A
+  - Kann aufsammeln: Ja
+  - Geschwindigkeit: 0.3
+  - Nahrung: Getrockneter Seetang, Seetang, Seegras, Seegurke
 - **Lama**
+  - Grundleben: 35 (max. 59)
+  - Kampftyp: Nahkampf
+  - Schaden: 0 (max. 15)
+  - Leuchtfeuereffekte: Absorption II, Regenration II
+  - Inventar: 2 Reihen
+  - Fähigkeiten: Fly/Ride
+  - Kann aufsammeln: Nein
+  - Geschwindigkeit: 0.38
+  - Nahrung: Weizen, Karotte, Apfel, Rote Beete, Süßbeere, Getrockneter Seetang, Seetang, Seegrass, Melonenscheibe
 - **Maultier**
+  - Grundleben: 35 (max. 65)
+  - Kampftyp: Nahkampf
+  - Schaden: 0 (max. 15)
+  - Leuchtfeuereffekte: Geschwindigkeit II, Stärke I, Regenration I
+  - Inventar: 3 Reihen
+  - Fähigkeiten: Fly/Ride
+  - Kann aufsammeln: Nein
+  - Geschwindigkeit: 0.38
+  - Nahrung: Weizen, Karotte, Apfel, Rote Beete, Süßbeere, Getrockneter Seetang, Seetang, Seegrass
 - **Schleim**
+  - Grundleben: 45 (max. 76)
+  - Kampftyp: Nahkampf
+  - Schaden: 0 (max. 3.9)
+  - Leuchtfeuereffekte: Resistenz II, Regeneration II
+  - Inventar: 3 Reihen
+  - Fähigkeiten: Fly/Ride
+  - Kann aufsammeln: Nein
+  - Geschwindigkeit: 0.33
+  - Nahrung: Schleimball, Honigwabe, Spinnenauge, Glitzernde Melonenscheibe
 - **Silberfisch**
+  - Grundleben: 25 (max. 59)
+  - Kampftyp: Nahkampf
+  - Schaden: 0 (max. 9)
+  - Leuchtfeuereffekte: Regeneration I, Geschwindigkeit I, Absorption II, Resistenz II
+  - Inventar: 1 Reihen
+  - Fähigkeiten: Knockback, Poison
+  - Kann aufsammeln: Nein
+  - Geschwindigkeit: 0.3
+  - Nahrung: Spinnenauge, Zucker, Eisenklumpen, Steinziegel
 - **Skelett**
+  - Grundleben: 15 (max. 47)
+  - Kampftyp: Fernkampf
+  - Schaden: 0 (max. 20)
+  - Leuchtfeuereffekte: Regeneration III, Stärke I
+  - Inventar: 1 Reihen
+  - Fähigkeiten: Knockback
+  - Kann aufsammeln: Nein
+  - Geschwindigkeit: 0.35
+  - Nahrung: Knochenmehl, Milcheimer, Goldklumpen
 - **Spinne**
+  - Grundleben: 40 (max. 73)
+  - Kampftyp: Nahkampf
+  - Schaden: 0 (max. 9)
+  - Leuchtfeuereffekte: Geschwindigkeit II, Resistenz II
+  - Inventar: 1 Reihen
+  - Fähigkeiten: Knockback, Fly/Ride
+  - Kann aufsammeln: Nein
+  - Geschwindigkeit: 0.38
+  - Nahrung: Spinnenauge, Phantommembrane, Brauner Pilz, Roter Pilz, Rohe Hünchen
 - **Tintenfisch**
+  - Grundleben: 15 (max. 45)
+  - Kampftyp: Nahkampf
+  - Schaden: 0 (max. 9)
+  - Leuchtfeuereffekte: Resistenz II, Regeneration II, Geschwindigkeit II, Wasseratmung
+  - Inventar: 1 Reihen
+  - Fähigkeiten: Shield
+  - Kann aufsammeln: Nein
+  - Geschwindigkeit: 0.3
+  - Nahrung: Kabeljau, Lachs, Tropischer Fisch
 - **Zombie**
+  - Grundleben: 30 (max. 80)
+  - Kampftyp: Nahkampf
+  - Schaden: 0 (max. 9)
+  - Leuchtfeuereffekte: Stärke II, Regeneration II, Resistenz II
+  - Inventar: 1 Reihen
+  - Fähigkeiten: Slow
+  - Kann aufsammeln: Nein
+  - Geschwindigkeit: 0.25
+  - Nahrung: Steak, Gebratenes Scheinefleisch, Rohes Hammelfleisch, Rohes Hünchen, Rohes Kaninchen, Verrottetes Fleisch
 
 +++ S2
 - **Axolotl**
@@ -338,62 +455,450 @@ Zeitweise sind die Infos [hier](https://docs.google.com/spreadsheets/d/1-OIfTc-E
   - Geschwindigkeit: 0.3
   - Nahrung: Spinnenauge, Apfel, Süßbeere, Leuchtbeere, Brauner Pilz
 - **Händlerlama**
+  - Grundleben: 35 (max. 60)
+  - Kampftyp: Fernkampf
+  - Schaden: 0 (max. 6)
+  - Leuchtfeuereffekte: Absorption II, Regeneration II
+  - Inventar: 4 Reihen
+  - Fähigkeiten: Fly/Ride
+  - Kann aufsammeln: Ja
+  - Geschwindigkeit: 0.38
+  - Nahrung: Weizen, Karotte, Apfel, Rote Beete, Süßbeere, Getrockneter Seetang, Seetang, Seegrass, Melonenscheibe
 - **Höhlenspinne**
+  - Grundleben: 40 (max. 73)
+  - Kampftyp: Nahkampf
+  - Schaden: 0 (max. 7.5)
+  - Leuchtfeuereffekte: Fly/Ride, Geschwindigkeit II, Resistenz II
+  - Inventar: 1 Reihen
+  - Fähigkeiten: Knockback, Ride
+  - Kann aufsammeln: Nein
+  - Geschwindigkeit: 0.38
+  - Nahrung: Spinnenauge, Phantommembrane, Brauner Pilz, Roter Pilz, Rohe Hünchen
 - **Katze**
+  - Grundleben: 20 (max. 69)
+  - Kampftyp: Nahkampf
+  - Schaden: 0 (max. 13.2)
+  - Leuchtfeuereffekte: Geschwindigkeit II, Sprungkraft I, Stärke I, Resistenz II
+  - Inventar: 2 Reihen
+  - Fähigkeiten: Knockback
+  - Kann aufsammeln: Ja
+  - Geschwindigkeit: 0.3
+  - Nahrung: Kabeljau, Lachs, Tropischer Fisch, Steak, Gebratenes Schweinefleisch, Rohes Hammelfleisch
 - **Leuchttintenfisch**
+  - Grundleben: 15 (max. 60)
+  - Kampftyp: Nahkampf
+  - Schaden: 0 (max. 7.5)
+  - Leuchtfeuereffekte: Resistenz II, Regeneration II, Geschwindigkeit II, Wasseratmung
+  - Inventar: 1 Reihen
+  - Fähigkeiten: Shield
+  - Kann aufsammeln: Nein
+  - Geschwindigkeit: 0.3
+  - Nahrung: Leuchtbeere, Kabeljau, Lachs, Leuchtsteinstaub
 - **Magmawürfel**
+  - Grundleben: 55 (max. 86)
+  - Kampftyp: Nahkampf
+  - Schaden: 0 (max. 8.4)
+  - Leuchtfeuereffekte: Resistenz II, Regeneration II, Feuerresistenz
+  - Inventar: 3 Reihen
+  - Fähigkeiten: Fly/Ride, Fire, Knockback
+  - Kann aufsammeln: Nein
+  - Geschwindigkeit: 0.25
+  - Nahrung: Magmacreme, Honigwabe, Spinnenauge, Glitzernde Honigmelone
 - **Panda**
+  - Grundleben: 35 (max. 85)
+  - Kampftyp: Nahkampf
+  - Schaden: 0 (max. 7.5)
+  - Leuchtfeuereffekte: Regeneration II
+  - Inventar: 2 Reihen
+  - Fähigkeiten: Fly/Ride, Stomp
+  - Kann aufsammeln: Nein
+  - Geschwindigkeit: 0.38
+  - Nahrung: Bambus, Zuckerrohr
 - **Pferd**
+  - Grundleben: 35 (max. 70)
+  - Kampftyp: Nahkampf
+  - Schaden: 0 (max. 6)
+  - Leuchtfeuereffekte: Geschwindigkeit II, Stärke I, Regeneration I
+  - Inventar: 5 Reihen
+  - Fähigkeiten: Fly/Ride
+  - Kann aufsammeln: Nein
+  - Geschwindigkeit: 0.38
+  - Nahrung: Weizen, Karotte, Apfel, Rote Beete, Süßbeere, Getrockneter Seetang, Seetang, Seegrass, Melonenschreibe
 - **Phantom**
+  - Grundleben: 25 (max. 45)
+  - Kampftyp: Nahkampf
+  - Schaden: 0 (max. 13.5)
+  - Leuchtfeuereffekte: Geschwindigkeit II
+  - Inventar: 2 Reihen
+  - Fähigkeiten: Fly/Ride
+  - Kann aufsammeln: Ja
+  - Geschwindigkeit: 0.3
+  - Nahrung: Spinnenauge, Verrottetes Fleisch
 - **Pilzkuh**
+  - Grundleben: 35 (max. 77)
+  - Kampftyp: Nahkampf
+  - Schaden: 0 (max. 6)
+  - Leuchtfeuereffekte: Regeneration III, Stärke II
+  - Inventar: 3 Reihen
+  - Fähigkeiten: Fly/Ride
+  - Kann aufsammeln: Ja
+  - Geschwindigkeit: 0.38
+  - Nahrung: Brauner Pilz, Roter Pilz, Weizen, Karotte, Apfel, Rote Beete, Süßbeere, Getrockneter Seetang, Seetang, Seegrass, Myzelium
 - **Plünderer**
+  - Grundleben: 40 (max. 86)
+  - Kampftyp: Nahkampf
+  - Schaden: 0 (max. 10.5)
+  - Leuchtfeuereffekte: Resistenz II, Stärke II, Geschwindigkeit I
+  - Inventar: 2 Reihen
+  - Fähigkeiten: Knockback
+  - Kann aufsammeln: Ja
+  - Geschwindigkeit: 0.32
+  - Nahrung: Apfel, Melonenscheibe, Süßbeere, Leuchtbeere, Chorusfrucht, Karotte, Gebackene Kartoffel, Rote Beete, Getrockneter Seetang, Steak, Gebratenes Schweinefleisch, Gebratenes Hühnchen, Gebratenes Kaninchen, Gebratenes Hammelfleisch, Gebratener Kabeljau, Gebratener Lachs, Brot, Kekse, Kuchen, Kürbiskuchen, Kaninchenragout, Rote-Beete-Suppe, Pilzsuppe, Honigflasche
 - **Schildkröte**
+  - Grundleben: 30 (max. 90)
+  - Kampftyp: Nahkampf
+  - Schaden: 0 (max. 6.6)
+  - Leuchtfeuereffekte: Wasseratmung
+  - Inventar: 1 Reihen
+  - Fähigkeiten: Fly/Ride, Shield
+  - Kann aufsammeln: Ja
+  - Geschwindigkeit: 0.38
+  - Nahrung: Getrockneter Seetang, Seetang, Seegrass, Seegurke, Melonenscheibe, Kürbis, Karotte, Süßbeere, Leuchtbeere
 - **Schneemann**
+  - Grundleben: 60 (max. 124)
+  - Kampftyp: Fernkampf
+  - Schaden: 0 (max. 0.5)
+  - Leuchtfeuereffekte: Absorption III
+  - Inventar: 1 Reihen
+  - Fähigkeiten: Knockback, Slow
+  - Kann aufsammeln: Nein
+  - Geschwindigkeit: 0.2
+  - Nahrung: Schneeball, Karotte, Kürbis, Packeis
 - **Schreiter**
+  - Grundleben: 70 (max. 130)
+  - Kampftyp: Nahkampf
+  - Schaden: 0 (max. 9.6)
+  - Leuchtfeuereffekte: Resistenz II, Absorption II, Feuerresistenz
+  - Inventar: 1 Reihen
+  - Fähigkeiten: Fly/Ride
+  - Kann aufsammeln: Ja
+  - Geschwindigkeit: 0.33
+  - Nahrung: Wirrwurzeln, Wirrpilz, Netherwarzen, Karmesinwurzeln, Karmesinpilz
 - **Tropischer Fisch**
+  - Grundleben: 15 (max. 63)
+  - Kampftyp: Nahkampf
+  - Schaden: 0 (max. 9)
+  - Leuchtfeuereffekte: Absorption III, Geschwindigkeit II, Wasseratmung
+  - Inventar: 2 Reihen
+  - Fähigkeiten: Knockback
+  - Kann aufsammeln: Ja
+  - Geschwindigkeit: 0.3
+  - Nahrung: Getrockneter Seetang, Seetang, Seegras, Seegurke
 - **Wächter**
+  - Grundleben: 35 (max. 77)
+  - Kampftyp: Fernkampf
+  - Schaden: 0 (max. 13)
+  - Leuchtfeuereffekte: Absorption II, Resistenz II, Wasseratmung
+  - Fähigkeiten: Lightning, Slow
+  - Kann aufsammeln: Nein
+  - Geschwindigkeit: 0.35
+  - Nahrung: Kabeljau, Lachs, Tropischer Fisch
 - **Ziege**
+  - Grundleben: 35 (max. 74)
+  - Kampftyp: Nahkampf
+  - Schaden: 0 (max. 7.2)
+  - Leuchtfeuereffekte: Sprungkraft II, Resistenz II
+  - Inventar: 2 Reihen
+  - Fähigkeiten: Fly/Ride, Knockback
+  - Kann aufsammeln: Ja
+  - Geschwindigkeit: 0.38
+  - Nahrung: Weizen, Karotte, Apfel, Rote Beete, Süßbeere, Getrockneter Seetang, Seetang, Seegrass
 - **Zombifizierter Dorfbewohner**
+  - Grundleben: 30 (max. 90)
+  - Kampftyp: Nahkampf
+  - Schaden: 0 (max. 9)
+  - Leuchtfeuereffekte: Regeneration II, Stärke II, Resistenz II
+  - Inventar: 2 Reihen
+  - Fähigkeiten: Slow
+  - Kann aufsammeln: Nein
+  - Geschwindigkeit: 0.25
+  - Nahrung: Steak, Gebratenes Scheinefleisch, Rohes Hammelfleisch, Rohes Hünchen, Rohes Kaninchen, Verrottetes Fleisch
 - **Zombifizierter Piglin**
+  - Grundleben: 55 (max. 115)
+  - Kampftyp: Nahkampf
+  - Schaden: 0 (max. 12)
+  - Leuchtfeuereffekte: Regeneration II, Stärke II, Feuerresistenz
+  - Inventar: 1 Reihen
+  - Fähigkeiten: N/A
+  - Kann aufsammeln: Nein
+  - Geschwindigkeit: 0.25
+  - Nahrung: Wirrwurzeln, Wirrpilz, Netherwarzen, Karmesinwurzeln, Karmesinpilz, Steak, Rohes Scheinefleisch, Rohes Hammelfleisch, Verrottetes Fleisch
 
 +++ S3
 - **Böe**
+  - Grundleben: 25 (max. 54)
+  - Kampftyp: Fernkampf
+  - Schaden: 0 (max. 15)
+  - Leuchtfeuereffekte: Geschwindigkeit II, Sprungkraft II
+  - Inventar: 1 Reihen
+  - Fähigkeiten: Slow, Lightning, Knockback
+  - Kann aufsammeln: Nein
+  - Geschwindigkeit: 0.3
+  - Nahrung: Windkugel, Feder
 - **Eisbär**
+  - Grundleben: 35 (max. 96)
+  - Kampftyp: Nahkampf
+  - Schaden: 0 (max. 9)
+  - Leuchtfeuereffekte: Stärke II, Absorption II
+  - Inventar: 3 Reihen
+  - Fähigkeiten: Fly/Ride
+  - Kann aufsammeln: Ja
+  - Geschwindigkeit: 0.38
+  - Nahrung: Kabeljau, Lachs, Tropischer Fisch, Steak, Rohes Schweinefleisch, Rohes Hammelfleisch, Rohes Hühnchen, Rohes Kaninchen
 - **Eiswanderer**
+  - Grundleben: 15 (max. 59)
+  - Kampftyp: Fernkampf
+  - Schaden: 0 (max. 25)
+  - Leuchtfeuereffekte: Regeneration III, Stärke I
+  - Inventar: 1 Reihen
+  - Fähigkeiten: Knockback, Slow
+  - Kann aufsammeln: Nein
+  - Geschwindigkeit: 0.35
+  - Nahrung: Knochenmehl, Milcheimer, Goldklumpen
 - **Hexe**
+  - Grundleben: 35 (max. 73)
+  - Kampftyp: Fernkampf
+  - Schaden: 0 (max. 25)
+  - Leuchtfeuereffekte: Resistenz II, Stärke III, Geschwindigkeit I
+  - Inventar: 2 Reihen
+  - Fähigkeiten: Knockback, Lightning
+  - Kann aufsammeln: Nein
+  - Geschwindigkeit: 0.35
+  - Nahrung: Apfel, Melonenscheibe, Süßbeere, Leuchtbeere, Chorusfrucht, Karotte, Gebackene Kartoffel, Rote Beete, Getrockneter Seetang, Steak, Gebratenes Schweinefleisch, Gebratenes Hühnchen, Gebratenes Kaninchen, Gebratenes Hammelfleisch, Gebratener Kabeljau, Gebratener Lachs, Brot, Kekse, Kuchen, Kürbiskuchen, Kaninchenragout, Rote-Beete-Suppe, Pilzsuppe, Honigflasche
 - **Hoglin**
+  - Grundleben: 70 (max. 135)
+  - Kampftyp: Nahkampf
+  - Schaden: 0 (max. 9)
+  - Leuchtfeuereffekte: Regeneration II, Feuerresistenz
+  - Inventar: 3 Reihen
+  - Fähigkeiten: Fly/Ride, Stomp
+  - Kann aufsammeln: Nein
+  - Geschwindigkeit: 0.33
+  - Nahrung: Wirrwurzeln, Netherwarzen, Karmesinpilz, Rohes Scheinefleisch, Gebratenes Scheinefleisch
 - **Kamel**
+  - Grundleben: 35 (max. 70)
+  - Kampftyp: Nahkampf
+  - Schaden: 0 (max. 10.5)
+  - Leuchtfeuereffekte: Absorption II, Regeneration II
+  - Inventar: 5 Reihen
+  - Fähigkeiten: Fly/Ride
+  - Kann aufsammeln: Ja
+  - Geschwindigkeit: 0.38
+  - Nahrung: Sand, Cactus, Toter Busch, Apfle, Karotte, Rote Beete
 - **Kugelfisch**
+  - Grundleben: 15 (max. 75)
+  - Kampftyp: Nahkampf
+  - Schaden: 0 (max. 9)
+  - Leuchtfeuereffekte: Absorption III, Geschwindigkeit II, Wasseratmung
+  - Inventar: 2 Reihen
+  - Fähigkeiten: Knockback, Poison
+  - Kann aufsammeln: Ja
+  - Geschwindigkeit: 0.3
+  - Nahrung: Kabeljau, Lachs, Tropischer Fisch, Schwamm
 - **Lohe**
+  - Grundleben: 50 (max. 97)
+  - Kampftyp: Fernkampf
+  - Schaden: 0 (max. 15)
+  - Leuchtfeuereffekte: Stärke III, Feuerresistenz
+  - Inventar: 1 Reihen
+  - Fähigkeiten: Fire
+  - Kann aufsammeln: Nein
+  - Geschwindigkeit: 0.3
+  - Nahrung: Schwarzpulver, Kohle, Holzkohle, Feuerstein
 - **Ozelot**
+  - Grundleben: 20 (max. 76)
+  - Kampftyp: Nahkampf
+  - Schaden: 0 (max. 16.2)
+  - Leuchtfeuereffekte: Geschwindigkeit II, Sprungkraft I, Stärke I, Resistenz II, Nachtsicht
+  - Inventar: 2 Reihen
+  - Fähigkeiten: Knockback
+  - Kann aufsammeln: Ja
+  - Geschwindigkeit: 0.3
+  - Nahrung: Kabeljau, Lachs, Tropischer Fisch, Steak, Rohes Schweinefleisch, Rohes Hammelfleisch, Rohes Hühnchen, Rohes Kaninchen
 - **Piglin**
+  - Grundleben: 55 (max. 135)
+  - Kampftyp: Nahkampf
+  - Schaden: 0 (max. 13.5)
+  - Leuchtfeuereffekte: Regeneration II, Stärke II, Feuerresistenz
+  - Inventar: 2 Reihen
+  - Fähigkeiten: Fire
+  - Kann aufsammeln: Nein
+  - Geschwindigkeit: 0.25
+  - Nahrung: Wirrwurzeln, Wirrpilz, Netherwarzen, Karmesinwurzeln, Karmesinpilz, Rohes Scheinefleisch, Gebratenes Scheinefleisch
 - **Plagegeist**
+  - Grundleben: 25 (max. 62)
+  - Kampftyp: Nahkampf
+  - Schaden: 0 (max. 15)
+  - Leuchtfeuereffekte: Geschinwdigkeit II, Stärke III, Resistenz I, Regeneration I, Regeneration I
+  - Inventar: 1 Reihen
+  - Fähigkeiten: Ride/Fly, Lightning
+  - Kann aufsammeln: Nein
+  - Geschwindigkeit: 0.3
+  - Nahrung: Obsidian, Weinendes Obsidian, Enderperle
 - **Skelettpferd**
+  - Grundleben: 35 (max. 80)
+  - Kampftyp: Nahkampf
+  - Schaden: 0 (max. 10.5)
+  - Leuchtfeuereffekte: Geschwindigkeit II, Stärke I, Regeneration I
+  - Inventar: 5 Reihen
+  - Fähigkeiten: Fly/Ride
+  - Kann aufsammeln: Nein
+  - Geschwindigkeit: 0.38
+  - Nahrung: Knochenmehl, Milcheimer, Goldklumpen
 - **Skumpskelett**
+  - Grundleben: 15 (max. 59)
+  - Kampftyp: Fernkampf
+  - Schaden: 0 (max. 10.5)
+  - Leuchtfeuereffekte: Regeneration III, Resistenz II
+  - Inventar: 1 Reihen
+  - Fähigkeiten: Knockback, Poison, Thorns
+  - Kann aufsammeln: Nein
+  - Geschwindigkeit: 0.35
+  - Nahrung: Brauner Pilz, Roter Pilz, Knochenmehl, Milcheimer, Goldklumpen
 - **Wolf**
+  - Grundleben: 20 (max. 80)
+  - Kampftyp: Nahkampf
+  - Schaden: 0 (max. 12)
+  - Leuchtfeuereffekte: Absorption II, Stärke II, Resistenz II, Regeneration II
+  - Inventar: 1 Reihen
+  - Fähigkeiten: Knockback
+  - Kann aufsammeln: Ja
+  - Geschwindigkeit: 0.3
+  - Nahrung: Steak, Rohes Schweinefleisch, Rohes Hammelfleisch, Rohes Hühnchen, Rohes Kaninchen, Knochen
 - **Wüstenzombie**
+  - Grundleben: 30 (max. 100)
+  - Kampftyp: Nahkampf
+  - Schaden: 0 (max. 9)
+  - Leuchtfeuereffekte: Stärke II, Regeneration II, Resistenz II
+  - Inventar: 2 Reihen
+  - Fähigkeiten: Poison, Slow
+  - Kann aufsammeln: Nein
+  - Geschwindigkeit: 0.25
+  - Nahrung: Steak, Gebratenes Scheinefleisch, Rohes Hammelfleisch, Rohes Hünchen, Rohes Kaninchen, Verrottetes Fleisch
 
 +++ S4
 - **Delfin**
+  - Grundleben: 15 (max. 75)
+  - Kampftyp: Nahkampf
+  - Schaden: 0 (max. 7.5)
+  - Leuchtfeuereffekte: Absorption III, Geschwindigkeit II, Wasseratmung
+  - Inventar: 1 Reihen
+  - Fähigkeiten: Ride/Fly, Knockback
+  - Kann aufsammeln: Ja
+  - Geschwindigkeit: 0.3
+  - Nahrung: Kabeljau, Lachs, Tropischer Fisch
 - **Ghast**
-- **Golem**
+  - Grundleben: 55 (max. 102)
+  - Kampftyp: Fernkampf
+  - Schaden: 0 (max. 24)
+  - Leuchtfeuereffekte: Stärke III, Feuerresistenz
+  - Inventar: 1 Reihen
+  - Fähigkeiten: Fire
+  - Kann aufsammeln: Nein
+  - Geschwindigkeit: 0.25
+  - Nahrung: Schwarzpulver, Feuerstein, Antiker Schrott, Quartz
+  - **Verschwindet beim Freilassen**
+- **Eisengolem**
+  - Grundleben: 60 (max. 124)
+  - Kampftyp: Nahkampf
+  - Schaden: 0 (max. 11.1)
+  - Leuchtfeuereffekte: Absorption III
+  - Inventar: 1 Reihen
+  - Fähigkeiten: Knockback, Shield
+  - Kann aufsammeln: Nein
+  - Geschwindigkeit: 0.2
+  - Nahrung: Mohn, Roheisenblock
 - **Großwächter**
+  - Grundleben: 35 (max. 108)
+  - Kampftyp: Fernkampf
+  - Schaden: 0 (max. 19.5)
+  - Leuchtfeuereffekte: Geschwindigkeit I, Regeneration I, Absorption II, Nachtsicht
+  - Inventar: 1 Reihen
+  - Fähigkeiten: Knockback, Thorns
+  - Kann aufsammeln: Ja
+  - Geschwindigkeit: 0.23
+  - Nahrung: Chorusfrucht, Chorusblüte, Obsidian, Weinendes Obsidian
 - **Hilfsgeist**
   - Grundleben: 15 (max. 55)
   - Kampftyp: Nahkampf
   - Schaden: 0 (max. 15)
-  - Leuchtfeuereffekte: Geschinwdigkeit II, Stärker II, Resistenz I, Regeneration I, Abbaugeschwindigkeit II
+  - Leuchtfeuereffekte: Geschinwdigkeit II, Stärke II, Resistenz I, Regeneration I, Abbaugeschwindigkeit II
   - Inventar: 3 Reihen
   - Fähigkeiten: Ride/Fly
   - Kann aufsammeln: Nein
   - Geschwindigkeit: 0.35
   - Nahrung: Amethystscherbe, Obsidian, Smaragdblock
 - **Magier**
+  - Grundleben: 20 (max. 35)
+  - Kampftyp: Fernkampf
+  - Schaden: 0 (max. 17.5)
+  - Leuchtfeuereffekte: Resistenz II, Stärke II
+  - Inventar: 2 Reihen
+  - Fähigkeiten: Knockback, Lightning
+  - Kann aufsammeln: Ja
+  - Geschwindigkeit: 0.25
+  - Nahrung: Apfel, Melonenscheibe, Süßbeere, Leuchtbeere, Chorusfrucht, Karotte, Gebackene Kartoffel, Rote Beete, Getrockneter Seetang, Steak, Gebratenes Schweinefleisch, Gebratenes Hühnchen, Gebratenes Kaninchen, Gebratenes Hammelfleisch, Gebratener Kabeljau, Gebratener Lachs, Brot, Kekse, Kuchen, Kürbiskuchen, Kaninchenragout, Rote-Beete-Suppe, Pilzsuppe, Honigflasche
 - **Piglin Barbar**
+  - Grundleben: 55 (max. 125)
+  - Kampftyp: Nahkampf
+  - Schaden: 0 (max. 16.5)
+  - Leuchtfeuereffekte: Regeneration II, Stärke II, Feuerresistenz
+  - Inventar: 2 Reihen
+  - Fähigkeiten: Fire
+  - Kann aufsammeln: Nein
+  - Geschwindigkeit: 0.25
+  - Nahrung: Wirrwurzeln, Wirrpilz, Netherwarzen, Karmesinwurzeln, Karmesinpilz, Rohes Scheinefleisch, Gebratenes Scheinefleisch
 - **Schnüffler**
+  - Grundleben: 35 (max. 100)
+  - Kampftyp: Nahkampf
+  - Schaden: 0 (max. 6.6)
+  - Leuchtfeuereffekte: Absorption II
+  - Inventar: 4 Reihen
+  - Fähigkeiten: Fly/Ride, Shield, Stomp
+  - Kann aufsammeln: Nein
+  - Geschwindigkeit: 0.38
+  - Nahrung: Weizensamen, Kürbissamen, Melonensamen, Rote-Beete-Samen, Fackelliliensamen, Süßbeere, Leuchtbeere, Apfel, Moosblock
 - **Witherskelett**
+  - Grundleben: 55 (max. 111)
+  - Kampftyp: Nahkampf
+  - Schaden: 0 (max. 7.5)
+  - Leuchtfeuereffekte: Feuerresistenz, Stärke II
+  - Inventar: 1 Reihen
+  - Fähigkeiten: Knockback, Thorns, Wither
+  - Kann aufsammeln: Nein
+  - Geschwindigkeit: 0.2
+  - Nahrung: Seelensand, Seelenerde, Kohle, Holzkohle, Feuerstein, Knochenmehl, Milcheimer
+  - **Verschwindet beim Freilassen**
 - **Zoglin**
+  - Grundleben: 55 (max. 125)
+  - Kampftyp: Nahkampf
+  - Schaden: 0 (max. 9)
+  - Leuchtfeuereffekte: Regeneration II, Feuerresistenz, Resistenz II
+  - Inventar: 3 Reihen
+  - Fähigkeiten: Fly/Ride, Stomp
+  - Kann aufsammeln: Nein
+  - Geschwindigkeit: 0.25
+  - Nahrung: Wirrwurzeln, Netherwarzen, Karmesinpilz, Rohes Scheinefleisch, Gebratenes Scheinefleisch
 - **Zombiepferd**
+  - Grundleben: 35 (max. 105)
+  - Kampftyp: Nahkampf
+  - Schaden: 0 (max. 10.5)
+  - Leuchtfeuereffekte: Geschwindigkeit II, Stärke I, Regeneration I
+  - Inventar: 5 Reihen
+  - Fähigkeiten: Fly/Ride
+  - Kann aufsammeln: Nein
+  - Geschwindigkeit: 0.38
+  - Nahrung: Steak, Rohes Scheinefleisch, Rohes Hammelfleisch, Rohes Hühnchen, Rohes Kaninchen, Verrottetes Fleisch
 
 +++ S5
 - **Diener**
