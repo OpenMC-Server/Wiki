@@ -106,12 +106,17 @@ Sobald das Bauevent vollständig abgeschlossen ist, werden die Bauwerke in die d
 #### Denkmalschutz für dein Bauwerk
 Solltest du das Grundstück nicht länger behalten wollen, besteht die Möglichkeit, dich ebenfalls über ein Ticket auf dem Discord an uns zu wenden und Denkmalschutz anzufragen. In dem Falle übergibst du das Bauwerk an den Server, sodass es zu einem Adminclaim wird. Dadurch entfallen die Zugriffsrechte auf dem Grundstück für die Erbauer. Wenn du davon keinen Gebrauch machen möchtest, erhältst du das Grundstück wie üblich nach Ende der Abstimmung wieder zurück übertragen.
 
+#### Umgang mit Inspirationen
+Inspirationen müssen im Bauevent Ticket mit angegegebn werden. Diese werden für den Bewertungszeitraum mit einem Hinweisschild gekennzeichnet, um Transparenz zu schaffen und die Abstimmung fairer zu gestalten. Sollte aus persönlichen Gründen keine Angabe von Hinweisschildern erwünscht sein, kann auf folgende Alternative gegriffen werden:
+1. Baue am Spawn deines Bauwerks einen Lesepult auf
+2. Schreibe ein Buch mit allen Inspirationen (inkl. Quelle + Koordinate) in das Buch
+3. Lege das Buch in den Lesepult und mache diesen kenntlich
+
 ### Bauwerk anmelden
 Du kannst dein Bauwerk auf Discord im #bauevent Channel anmelden. Die Frist ist der 15. des Folgemonats nach Eventbeginn (letzter Bautag).
 
 [!button icon=":white_check_mark:" target="blank" text="Bauevent im Discord anmelden"](https://discord.com/invite/ecqPF34)
 
-Wenn ein Hinweisschild auf Inspirationen am Anfang des Bauwerks nicht gewünscht ist, kann dies im Ticket vermerkt werden. Stattdessen werden dann Hologramme eingesetzt, die die von anderen Quellen inspirierten Teile des Bauwerks im Detail kennzeichnen.
 ---
 
 ## Mobevent
