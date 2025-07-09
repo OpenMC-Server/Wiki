@@ -10,6 +10,8 @@ Das Serverteam ist dafür zuständig, dass alle Aspekte des Servers, sowohl von 
 
 Die Teammitglieder sind in vier Ränge unterteilt. Eventler kümmern sich um die Konzeption und Durchführung von Events sowie um den Mapbau. Die Moderatoren sind in erster Linie für das direkte Spielerlebnis auf dem Server verantwortlich. Sie sorgen dafür, dass die Regeln des Servers eingehalten werden, und helfen bei jeglichen Problemen. Die Admins und Owner bilden die Spitze des Serverteams. Sie sind eine Schnittstelle zwischen dem Frontend (dem Server selbst) und dem Backend (Plugins, Webseiten etc.). Das bedeutet konkret, dass sie teilweise auch Aufgaben eines Moderators übernehmen, jedoch auch für andere Aspekte des Spielerlebnisses verantwortlich sind, wie etwa die Verwaltung der Plugins.
 
+---
+
 ## Die Teamstruktur
 Das Team arbeitet in einer hierarchischen Struktur, die in der folgenden Grafik dargestellt ist:
 -![](/images/teamstruktur.png)
@@ -34,6 +36,8 @@ Die Moderatoren tragen die Verantwortung für die Einhaltung und Durchsetzung de
 ### Eventler
 Die Eventler bauen nicht nur die Maps für unsere Events, sondern führen diese auch durch. Dazu gehört selbstverständlich auch die Konzeption und Planung der Events. Wenn es um neue Serverstrukturen geht, die den Spielern außerhalb von Events auffallen (z.B. Spawns), sind diese meist von den Eventlern erbaut. Darüber hinaus melden die Eventler Unregelmäßigkeiten an die Moderation und deren Supportleitung und leiten bei Bedarf Konsequenzen ein. Eventler sind jedoch nicht verpflichtet, den Spielersupport der Moderation zu übernehmen. Falls kein Moderator anwesend ist, sollte ein Ticket erstellt werden, damit wir uns zentral um das Anliegen kümmern können.
 
+---
+
 ## Teambesprechungen
 Teambesprechungen dienen dem regelmäßigen Austausch im Team, um Fortschritte zu teilen und die zukünftige Entwicklung von OpenMC zu planen. Diese erfolgen je nach Verfügbarkeit ein- bis zweimal im Monat.
 
@@ -43,8 +47,12 @@ Nachdem die wichtigsten Punkte besprochen wurden, werden die Themen zwischen Mod
 
 Eine volle Teambesprechung dauert in der Regel zwischen zwei und vier Stunden. Während dieses Zeitraums werden die Ergebnisse intern protokolliert, um unsere Aufgabenplanung auf dem Server entsprechend zu aktualisieren. Wichtige Neuerungen werden nach ihrer Umsetzung in den News bekannt gegeben.
 
+---
+
 ## Spielertreffen
 Je nach zeitlicher Verfügbarkeit werden Spielertreffen in einem zweimonatigen Zyklus organisiert. Diese Treffen bieten die Gelegenheit, mit euch über anstehende Neuerungen und Themen rund um OpenMC zu sprechen und Raum für einen aktiven Meinungsaustausch zu schaffen. Eingebrachtes Feedback wird in einer weiteren Teambesprechung evaluiert und bei Übereinstimmung umgesetzt. Weitere Informationen zu den Spielertreffen sind jeweils in den News auf Discord zu finden.
+
+---
 
 ## Liste der Teamler
 Im folgenden findest du alle aktiven Teammitglieder und ihre Aufgabenbereiche.

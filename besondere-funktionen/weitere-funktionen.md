@@ -92,16 +92,16 @@ Nutze `/advancements`, um das Menü für die Freischaltung zu öffnen. Dort kann
 
 ### Freischaltbare Advancements
 +++ Minecraft
-- “The End?” (100k$)
+- “The End?” (100 Tsd. ✪)
 +++ The End
-- Free the End (150k$)
-- Remote Gateway (100k$)
-- The End… Again… (300k$)
-- The City at the End of the Game (100k$)
+- Free the End (150 Tsd. ✪)
+- Remote Gateway (100 Tsd. ✪)
+- The End… Again… (300 Tsd. ✪)
+- The City at the End of the Game (100 Tsd. ✪)
 +++ Adventure
-- Monsters Hunted (300k$)
-- Two Birds, One Arrow (200k$)
-- Is it a Plane? (300k$)
+- Monsters Hunted (300 Tsd. ✪)
+- Two Birds, One Arrow (200 Tsd. ✪)
+- Is it a Plane? (300 Tsd. ✪)
 +++
 
 ---

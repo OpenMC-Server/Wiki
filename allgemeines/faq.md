@@ -42,3 +42,4 @@ Hierbei achten wir insbesondere darauf, ob diese Idee technisch umsetzbar ist un
 Natürlich betrachten wir auch, ob unsere Vorstellung von OpenMC von dieser Idee profitiert und inwiefern diese in langfristige Projekte integriert werden kann.
 ==- Werden meine privaten Chatnachrichten mitgelesen?
 Wir lesen grundsätzlich keine private Kommunikationen unbegründet mit. Aufgrund der technischen Infrastruktur von Minecraft Servern wird der Nachrichtenverkehr unverschlüsselt an den Server übertragen. Im Fall von bestehenden Anlässen können diese Nachrichten zur Durchsetzung des Regelwerks rückwirkend eingesehen werden. Diese Einsicht können ausschließlich die Owner & Admins auf OpenMC tätigen.
+==-
