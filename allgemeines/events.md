@@ -122,6 +122,7 @@ Bauevent Warpschilder können durch ein Schild zugänglich gemacht werden. Dazu 
 Anschließend formatiert sich das Schild zu einem Warp-Schild und kann über einen Rechtsklick betätigt werden. Die `ThemaId` ist unter `/bauevent history` zu finden. Darüber hinaus ist die `BauwerkId` in den jeweiligen GUIs innerhalb eines Themas aufzufinden sind.
 
 ---
+
 ### Bauwerk anmelden
 Du kannst dein Bauwerk auf Discord im #bauevent Channel anmelden. Die Frist ist der 15. des Folgemonats nach Eventbeginn (letzter Bautag).
 
