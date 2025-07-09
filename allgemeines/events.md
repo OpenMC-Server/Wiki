@@ -112,6 +112,16 @@ Inspirationen müssen im Bauevent Ticket mit angegegebn werden. Diese werden fü
 2. Schreibe ein Buch mit allen Inspirationen (inkl. Quelle + Koordinate) in das Buch
 3. Lege das Buch in den Lesepult und mache diesen kenntlich
 
+#### Bauevent Warpschilder
+Bauevent Warpschilder können durch ein Schild zugänglich gemacht werden. Dazu muss folgendes Format auf dem Schild angewandt werden:
+1. Zeile: 
+2. Zeile: [BW]
+3. Zeile: (ThemaId):(BauwerkId)
+4. Zeile:
+
+Anschließend formatiert sich das Schild zu einem Warp-Schild und kann über einen Rechtsklick betätigt werden. Die `ThemaId` ist unter `/bauevent history` zu finden. Darüber hinaus ist die `BauwerkId` in den jeweiligen GUIs innerhalb eines Themas aufzufinden sind.
+
+---
 ### Bauwerk anmelden
 Du kannst dein Bauwerk auf Discord im #bauevent Channel anmelden. Die Frist ist der 15. des Folgemonats nach Eventbeginn (letzter Bautag).
 
