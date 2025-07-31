@@ -67,6 +67,7 @@ Im folgenden findest du alle aktiven Teammitglieder und ihre Aufgabenbereiche.
 ||| moonlightflora
 -![](/images/flowflower.png)
 **Aufgaben:**\
+ Serverleitung\
  Eventverwaltung\
  Bauevent-Organisation
 |||
