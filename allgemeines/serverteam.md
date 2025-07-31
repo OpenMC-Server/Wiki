@@ -65,7 +65,7 @@ Im folgenden findest du alle aktiven Teammitglieder und ihre Aufgabenbereiche.
   Backend
 |||
 ||| moonlightflora
--![](/images/flowflower.png)
+-![](/images/moonlightflora.png)
 **Aufgaben:**\
  Serverleitung\
  Eventverwaltung\
