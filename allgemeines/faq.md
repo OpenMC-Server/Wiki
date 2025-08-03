@@ -10,7 +10,7 @@ icon: light-bulb
 Hier findest du viele hilfreiche Antworten auf verschiedenste Fragen zum Server und dessen Besonderheiten. Sollte dir etwas fehlen, kannst du uns gerne deine Wunschergänzung in Form eines Tickets im [Discord](https://discord.com/invite/ecqPF34) oder auch per Privatchat ingame mitteilen.
 
 ==- Wofür werden die Spenden des VIP/VIS-Ranges verwendet?
-Deine Spenden für OpenMC werden direkt an LivingBots – unseren Hoster – weitergeleitet und dem Serverdepot hinzugefügt. Somit werden die Spenden rein für die Finanzierung der Server von OpenMC verwendet, um monatliche Kosten zu decken.
+Deine Spenden für OpenMC werden direkt an LivingBots – unseren Hoster – gezahlt und dem Serverdepot hinzugefügt. Somit werden die Spenden rein für die Finanzierung der Server von OpenMC verwendet, um monatliche Kosten zu decken.
 ==- Worin liegt der Unterschied zwischen dem VIP & VIS Rang?
 **VIP -> Very Important Player**
 Der VIP-Rang kann von Spielern erworben werden und dient dazu, dir einige kosmetische Funktionen als Dank für deine Spende zu geben. Zudem ist dein Name auf OpenMC gelb gekennzeichnet.
