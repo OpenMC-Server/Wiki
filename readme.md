@@ -12,9 +12,8 @@ icon: home
 **Herzlich Willkommen im OpenMC Wiki :wave:**
 
 !!!tip Mit dem Server verbinden
-1. Starte Minecraft mit der Version 1.21.4
-2. Öffne das Multiplayer-Menü und klicke auf "Server hinzufügen"
-3. Gib `openmc.net` als Adresse ein und klicke "Verbinden"
+Minecraft-Version: 1.21.4
+Server-IP: openmc.net
 !!!
 
 Hier findest du umfangreiche Informationen zu den Funkionen des Servers.\
