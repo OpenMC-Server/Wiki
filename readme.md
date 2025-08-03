@@ -12,7 +12,7 @@ icon: home
 **Herzlich Willkommen im OpenMC Wiki :wave:**
 
 !!!tip Mit dem Server verbinden
-Minecraft-Version: 1.21.4
+Minecraft-Version: 1.21.4\
 Server-IP: openmc.net
 !!!
 
