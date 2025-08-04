@@ -5,9 +5,9 @@ order: 1000
 icon: home
 ---
 
-![](/images/hero.png)
-
 # Home
+
+![](/images/hero.png)
 
 **Herzlich Willkommen im OpenMC Wiki :wave:**
 
