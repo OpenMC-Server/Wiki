@@ -1503,6 +1503,7 @@ modifizierten Items kennen.
 | Creeperkopf                                       | creeper\_head                             | %head\_creepr%        | 397:4         |
 | Witherskelettschädel                              | wither\_skeleton\_skull                   | %head\_witskel%       | 397:1         |
 | Drachenköpfe                                      | dragon\_head                              | %head\_dragon%        | 397:5         |
+| Piglinkopf                                        | piglin\_head                              | %head\_piglin%        | %aju%         |
 
 ### Sonstige Dekoration
 {.compact}
