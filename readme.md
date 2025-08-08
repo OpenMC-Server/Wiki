@@ -16,7 +16,7 @@ Nutze gerne die Suchfunktion oder das Menü auf der linken Seite.
 
 !!!tip Mit dem Server verbinden:
 Server-IP: openmc.net\
-Minecraft-Version: 1.21.4
+Minecraft-Version: 1.21.8
 !!!
 
 ---
