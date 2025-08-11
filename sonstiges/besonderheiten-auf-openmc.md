@@ -24,7 +24,7 @@ Um ein angenehmes Spielerlebnis für alle zu ermöglichen, unterscheidet sich di
 ### Mobspawning
 In allen Welten spawnen weniger Mobs als in der Vanilla-Version von Minecraft üblich. Ebenfalls despawnen Mobs schneller als normal, damit die Hardware nicht länger als notwendig belastet wird.
 
-Das Mob-Spawning in der Bauwelt ist am stätksten beschränkt, da sich dort die meisten Spieler aufhalten und der Fokus weniger auf der Interaktion mit Mobs liegt.\
+Das Mobspawning in der Bauwelt ist am stätksten beschränkt, da sich dort die meisten Spieler aufhalten und der Fokus weniger auf der Interaktion mit Mobs liegt.\
 In der Farm- und Industriewelt wurden die Spawnraten ebenfalls verringert, jedoch nicht so stark wie in der Bauwelt.
 
 ### Moblimits
