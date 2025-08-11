@@ -19,7 +19,7 @@ Die Explosionen in anderen Welten können auf dem eigenen Claim mit `/claimexplo
 ---
 
 ## Mobs
-Um ein angenehmes Spielerlebnis für alle zu ermöglichen, unterscheidet sich die Konfiguration des Mob-Verhaltens von der Vanilla-Version. Insbesondere beim Bau von Farmen ist dies zu berücksichtigen, da Funktionalität und Ertrag deutlich abweichen kann.
+Um ein angenehmes Spielerlebnis für alle zu ermöglichen, unterscheidet sich die Konfiguration des Mob-Verhaltens von der Vanilla-Version. Insbesondere beim Bau von Farmen ist dies zu berücksichtigen, da Funktionalität und Ertrag deutlich abweichen können.
 
 ### Mobspawning
 In allen Welten spawnen weniger Mobs als in der Vanilla-Version von Minecraft üblich. Ebenfalls despawnen Mobs schneller als normal, damit die Hardware nicht länger als notwendig belastet wird.
