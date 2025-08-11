@@ -18,16 +18,16 @@ Die Explosionen in anderen Welten können auf dem eigenen Claim mit `/claimexplo
 
 ---
 
-## Mobspawning
+## Mobs
+Um ein angenehmes Spielerlebnis für alle zu ermöglichen, unterscheidet sich die Konfiguration des Mob-Verhaltens von der Vanilla-Version. Insbesondere beim Bau von Farmen ist dies zu berücksichtigen, da Funktionalität und Ertrag deutlich abweichen kann.
+
+### Mobspawning
 In allen Welten spawnen weniger Mobs als in der Vanilla-Version von Minecraft üblich. Ebenfalls despawnen Mobs schneller als normal, damit die Hardware nicht länger als notwendig belastet wird.
 
-Die Bauwelt ist am stärksten von den Spawnlimits beschränkt, da sich dort die meisten Spieler aufhalten und der Fokus weniger auf der Interaktion mit Mobs liegt.
-In der Farm- und Industriewelt wurden die Spawnraten nur um ca. 25% verringert.
+Das Mob-Spawning in der Bauwelt ist am stätksten beschränkt, da sich dort die meisten Spieler aufhalten und der Fokus weniger auf der Interaktion mit Mobs liegt.\
+In der Farm- und Industriewelt wurden die Spawnraten ebenfalls verringert, jedoch nicht so stark wie in der Bauwelt.
 
----
-
-## Moblimits
-
+### Moblimits
 Im Gegensatz zum Mobspawning bezieht sich das Moblimit auf bereits bestehende Mobs im Bereich des Spielers.\
 Mobs, welche das Limit überschreiten, werden entfernt, es sei denn, sie sind gezähmt oder mit einem Nametag benannt.
 
@@ -37,7 +37,16 @@ Limits in den Welten:
 
 Überprüfbar ist das ganze zusätzlich mit dem Befehl `/chunkinfo`.
 
-Wir möchten euch bitten, grundsätzlich die Performance zu beachten und die Einschränkungen bzgl. Farmen in der Bauwelt zu respektieren.
+---
+
+## View- & Simulation-Distance
+
+{.compact}
+Welt            | View-Distance | Simulation-Distance
+:---:           | :---:         | :---:
+Bauwelt         | 6             | 4
+Industriewelt   | 8             | 8
+Farmwelt        | 10            | 10
 
 ---
 
@@ -60,19 +69,6 @@ Die Rezepte der Schmiedevorlagen wurden verteuert, um das Spielgeschehen anspruc
 Das angepasste Rezept findest du unter [CustomCrafting](/besondere-funktionen/customcrafting.md).
 
 Schmiedevorlagen für die Netherite-Aufwertung sind nicht vom neuen Rezept betroffen.
-
----
-
-## View- & Simulation-Distance
-
-{.compact}
-Welt            | View-Distance | Simulation-Distance
-:---:           | :---:         | :---:
-Bauwelt         | 4-8¹          | 6
-Farmwelt        | 10            | 10
-Industriewelt   | 8             | 8
-
-¹ Anpassung je nach TPS-Performance.
 
 ---
 
