@@ -459,3 +459,26 @@ Rezepte, die sonst nicht herstellbare Vanilla-Items erzeugen.
 *Formloses Rezept. Die Zutaten dürfen in einer beliebigen Form angeordnet werden.*
 
 ==-
+
+
+# Neues CustomCrafting
+!!!warning Aktuell nicht aktiv
+Das neue Craftingsystem ist noch in Arbeit und wir nur vorzeitig schon dokumentieren, um Arbeitsaufwände besser einzuteilen.
+!!!
+
+Als CustomCrafting betrachten wir auf dem Server die Einführung von neuen Items, sowie Rezepte die damit zusammenhängen. Somit bietet OpenMC dir die Möglichkeit, über neue Items ein individuelle und einzigartiges Spielerlebnis\
+
+## Aufbau
+Die Rezepte werden innerhalb von bestimmten Tätigkeiten ausgeführt. Für den Anfang bestehen die Tätigkeiten `Zutaten` und `Handwerkskunst`. Im Zutaten-Tätigkeit findest du alle Rezepte, welche Items für die Weiterverarbeitung liefern. Die finalen Produkte werden dann in der Handwerkskunst-Tätigkeit erzeugt. In der Regel hat jede Tätigkeit mehrere Kategorien, um die Übersicht der Rezept zu optimieren. [W.I.P.]
+## Befehle
+`/craft use <profession>`\
+Öffnet das Craftingmenü einer bestimmten Berufung.
+
+`/craft use <profession>:<category>`\
+Öffnet das Craftingmenü aus einer Kategorie einer bestimmten Berufung.
+
+`/craft stats`\
+Zeige dir das Level deiner aktiven Berufungen an.
+
+`/craft use <profession>`\
+Öffnet das Craftingmenü einer bestimmten Berufung. (Aktuell werden Berufe noch nicht gelevelt. Diese Funktionalität tritt mit dem neuen [Farmwelt-Konzept](https://discord.com/channels/593436350829690899/598209493444198424/1369789201976918127) in Zukunft auf.)
