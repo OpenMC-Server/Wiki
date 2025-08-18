@@ -463,32 +463,47 @@ Rezepte, die sonst nicht herstellbare Vanilla-Items erzeugen.
 ---
 
 # Neues CustomCrafting
-!!!warning Aktuell nicht aktiv
-Das neue Craftingsystem ist noch in Arbeit und wird nur vorzeitig schon dokumentieren, um Arbeitsaufwände besser einzuteilen.
+
+!!! warning
+**Aktuell nicht aktiv**  
+Das neue Craftingsystem befindet sich noch in Entwicklung. Diese Dokumentation dient lediglich der Vorbereitung und besseren Einteilung der Arbeitsaufwände.
 !!!
 
-Als CustomCrafting betrachten wir auf dem Server die Einführung von neuen Items, sowie Rezepte die damit zusammenhängen. Somit bietet OpenMC dir die Möglichkeit, über neue Items ein individuelle und einzigartiges Spielerlebnis\
+Auf dem Server verstehen wir unter *CustomCrafting* die Einführung neuer Items sowie der dazugehörigen Rezepte. Damit bietet OpenMC die Möglichkeit, über eigens entwickelte Items ein individuelles und einzigartiges Spielerlebnis zu schaffen.
+
+---
 
 ## Aufbau des Craftingsystems
-Die Rezepte werden innerhalb von bestimmten Kategorien zugeordnet. Für den Anfang bestehen die Kategorien `Zutaten` und `Handwerkskunst`. In der Zutaten-Kategorie findest du alle Rezepte, welche Items für die Weiterverarbeitung liefern. Die finalen Produkte werden dann in der Handwerkskunst-Kategorie erzeugt. In der Regel hat jede Kategorie mehrere Unter-Kategorien, um die Übersicht der Rezepte zu optimieren.
 
-Die Einordnung ist wie folgt:
+Die Rezepte sind in verschiedene Kategorien unterteilt. Zum Start existieren die Kategorien **Zutaten** und **Handwerkskunst**.  
+
+- In der Kategorie **Zutaten** findest du alle Rezepte, die Items für die Weiterverarbeitung liefern.  
+- In der Kategorie **Handwerkskunst** werden die finalen Produkte hergestellt.  
+
+Jede Kategorie kann in mehrere Unterkategorien aufgeteilt sein, um die Übersichtlichkeit zu gewährleisten.
+
+### Einordnung
+
 +++ Zutaten
-- Blaupausen (Vorlagen für Equipment)
-- Zutaten zur Weiterverarbeitung (Zutaten für Equipment)
-- Verschiedenes (Armor Trims, etc.)
+- **Blaupausen** (Vorlagen für Ausrüstung)  
+- **Zutaten zur Weiterverarbeitung** (Materialien für Ausrüstung)  
+- **Verschiedenes** (z. B. Armor Trims)  
 
 +++ Handwerkskunst
-- Rüstung
-- Waffen
-- Werkzeug
-- Verbrauchsgüter
+- **Rüstung**  
+- **Waffen**  
+- **Werkzeuge**  
+- **Verbrauchsgüter**  
 
 +++
 
+---
+
 ## Anwendung des Craftingsystems
+
 ### Öffnen des Craftingmenüs
-Über `/craft use zutaten` oder `/craft use handwerkskunst` gelangst du zum Craftingmenu, in welchem du die Unterkategorien ansteuern kannst. Das Menu ist darauf aufgebaut, zwischen `zutaten` und `handwerkskunst` nahtlos zwischen zu springen:
+
+Über die Befehle `/craft use zutaten` oder `/craft use handwerkskunst` gelangst du in das Craftingmenü. Dort kannst du zwischen den Kategorien nahtlos wechseln:
 
 +++ Zutaten-GUI
 ![](/images/customcrafting_zutaten_zu_handwerkskunst.png)
@@ -498,43 +513,65 @@ Die Einordnung ist wie folgt:
 
 +++
 
-Innerhalb einer Unterkategorie werden die Rezepte dann angezeigt:
+Innerhalb einer Unterkategorie werden die jeweiligen Rezepte angezeigt:  
 ![](/images/customcrafting_rezept_beispiel.png)
 
-### Rezept-Kosten und Voraussetzungen
-!!!warning Optische Trennung in Arbeit
-Die im oben angezeigten Kosten und Voraussetzungen eines Rezept sind optisch noch nicht optimal voneinander getrennt. Eine konkretere Aufteilung wird noch vorgenommen, sobald die technischen Grundlagen gelegt sind.
+---
+
+### Rezeptkosten und Voraussetzungen
+
+!!! warning
+Die optische Trennung zwischen **Kosten** und **Voraussetzungen** ist derzeit noch in Arbeit und wird mit einem späteren Update verbessert.
 !!!
 
-Rezeptkosten können Zutaten, Geld oder aber Vanilla-Exp sein, die für ein Rezept benötigt werden. Diese werden beim Craften des Items von dir **entzogen**.
+- **Rezeptkosten** sind die Materialien, das Geld oder die Vanilla-Exp, die für ein Rezept benötigt werden. Diese werden beim Craften **verbraucht**.  
+- **Rezeptvoraussetzungen** sind Bedingungen, die erfüllt sein müssen, um ein Rezept nutzen zu können. Diese bleiben dir auch nach dem Craften **erhalten**.  
 
-Rezeptvoraussetzungen sind an das Rezept verknüpfte Bedingungen, welche erfüllt sein müssen, bevor das Rezept überhaupt erst genutzt werden kann. Diese wirst nach dem Craften des Items **behalten**. Mögliche Voraussetzungen können sein:
-- McMMO-Level
-- Job-Level
-- Professions-Level (`zutaten`,`handwerkskunst`, siehe [Ausblick](##Ausblick))
-- Abenteurer-Level (siehe [Farmwelt-Konzept](https://discord.com/channels/593436350829690899/598209493444198424/1369789201976918127))
+Mögliche Voraussetzungen:  
+- McMMO-Level  
+- Job-Level  
+- Professions-Level (`zutaten`, `handwerkskunst`, siehe [Ausblick](#ausblick))  
+- Abenteurer-Level (siehe [Farmwelt-Konzept](https://discord.com/channels/593436350829690899/598209493444198424/1369789201976918127))  
+
+---
 
 ### Die Rezept-Warteschlange
-Jede Unterkategorie hat 3 Craftingslots, in welche die craftenden Rezepte in eine Warteschlange gelegt werden. Dort fängt das erste Rezept dann an, seinen Cooldown abzuarbeiten. Wird der Craftingslot mit einem Rezept for seinem Abschluss angeglickt, erhältst du die vorherigen Rezeptkosten ins Inventar (oder bei vollem Inventar gedroppt) zurück. Ist das Rezept abgeschlossen, wird der Klick das neu erworbene Item ins Inventar bringen. 
 
-In der Warteschlange je Unterkategorie kann immer nur ein Item gleichzeitig gecraftet werden, was bedeutet, dass sich die Craftingzeit für alle aufeinanderfolgenden Rezepte summieren werden. Auch wenn eine Warteschlange nur 3 optische Craftingslots hat, können insgesammt bis zu 10 Items gleichzeitig gecrafted werden. Die verbleibenden Slots kannst du dann über die Navigation daneben wechseln:
+Jede Unterkategorie verfügt über **3 Craftingslots**. Dort werden die Rezepte in eine Warteschlange gelegt.  
+
+- Das erste Rezept beginnt automatisch mit der Abarbeitung seines Cooldowns.  
+- Klickst du ein Rezept vor Abschluss erneut an, erhältst du die eingesetzten Ressourcen zurück (bei vollem Inventar werden diese gedroppt).  
+- Nach Abschluss kannst du das fertige Item durch einen Klick ins Inventar aufnehmen.  
+
+⚙️ **Wichtige Hinweise:**  
+- Pro Unterkategorie kann immer nur **ein Rezept gleichzeitig** bearbeitet werden.  
+- Auch wenn die Warteschlange nur 3 sichtbare Slots hat, können insgesamt **bis zu 10 Items** gleichzeitig gecraftet werden.  
+- Die restlichen Slots erreichst du über die Navigation am Rand:  
 ![](/images/customcrafting_warteschlange.png)
 
+---
+
 ## Befehle
-`/craft use <profession>`\
-Öffnet das Craftingmenü einer bestimmten Berufung.
 
-`/craft use <profession>:<category>`\
-Öffnet das Craftingmenü aus einer Kategorie einer bestimmten Berufung.
+- `/craft use <profession>`  
+  Öffnet das Craftingmenü einer bestimmten Berufung.  
 
-`/craft stats`\
-Zeige dir das Level deiner aktiven Berufungen an.
+- `/craft use <profession>:<category>`  
+  Öffnet das Craftingmenü einer spezifischen Kategorie einer Berufung.  
 
-`/craft use <profession>`\
-Öffnet das Craftingmenü einer bestimmten Berufung. (Aktuell werden Berufe noch nicht gelevelt. Diese Funktionalität tritt mit dem neuen [Farmwelt-Konzept](https://discord.com/channels/593436350829690899/598209493444198424/1369789201976918127) in Zukunft auf.)
+- `/craft stats`  
+  Zeigt das Level deiner aktiven Berufungen an.  
 
+!!! note
+Aktuell können Berufe noch nicht gelevelt werden. Diese Funktion wird im Zuge des neuen [Farmwelt-Konzepts](https://discord.com/channels/593436350829690899/598209493444198424/1369789201976918127) eingeführt.
+!!!
+
+---
 
 ## Ausblick
-Die Umstellung auf das neue Craftingsystem bringt an erster Stelle nur alle bestehenden Custom-Rezepte in das neue Plugin hinüber. Abseits von leichten Abweichungen der Zutaten hat sich damit also erstmal nicht viel verändert.
 
-Im Zuge des neuen Farmwelt-Konzepts (Dungeons, Skills, Quests, etc.) werden viele neue Zutaten ins Spiel hinzukommen und somit auch eine große Breite an neuen Rezepten und ggf. auch Kategorien. Im späteren Verlauf werden die dann sogenannten "Professionen" (Kategorien) levelbar sein, sodass bestimmte Level Voraussetzung für bestimmte Rezepte sein können.
+Die Umstellung auf das neue Craftingsystem bringt zunächst nur die bestehenden Custom-Rezepte in das neue Plugin. Abgesehen von leichten Änderungen bei den Zutaten bleibt alles weitgehend unverändert.  
+
+Mit der Einführung des Farmwelt-Konzepts (Dungeons, Skills, Quests, etc.) werden jedoch viele neue Zutaten und Rezepte hinzukommen. Auch neue Kategorien sind möglich.  
+
+Langfristig werden die Kategorien – dann **Professionen** genannt – **levelbar** sein. Bestimmte Rezepte werden erst ab einem bestimmten Level freigeschaltet.  
