@@ -548,7 +548,8 @@ Mögliche Voraussetzungen:
 - McMMO-Level  
 - Job-Level  
 - Professions-Level (`zutaten`, `handwerkskunst`, siehe [Ausblick](#ausblick))  
-- Abenteurer-Level (siehe [Farmwelt-Konzept](https://discord.com/channels/593436350829690899/598209493444198424/1369789201976918127))  
+- Abenteurer-Level (siehe [Farmwelt-Konzept](https://discord.com/channels/593436350829690899/598209493444198424/1369789201976918127))
+- Crafting-Limit (Ein Item darf nur `x` Mal gecraftet werden)  
 
 ---
 
