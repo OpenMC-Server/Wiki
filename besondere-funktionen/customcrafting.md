@@ -562,7 +562,7 @@ Jede Unterkategorie verfügt über **3 Craftingslots**. Dort werden die Rezepte 
 - `/craft stats`  
   Zeigt das Level deiner aktiven Berufungen an.  
 
-!!!note
+!!!warning
 Aktuell können Berufe noch nicht gelevelt werden. Diese Funktion wird im Zuge des neuen [Farmwelt-Konzepts](https://discord.com/channels/593436350829690899/598209493444198424/1369789201976918127) eingeführt.
 !!!
 
