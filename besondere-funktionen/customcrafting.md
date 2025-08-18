@@ -497,6 +497,21 @@ Die Einordnung ist wie folgt:
 
 +++
 
+Innerhalb einer Unterkategorie werden die Rezepte dann angezeigt:
+![](/images/customcrafting_rezept_beispiel.png)
+
+### Rezept-Kosten und Voraussetzungen
+!!!warning Optische Trennung in Arbeit
+Die im oben angezeigten Kosten und Voraussetzungen eines Rezept sind optisch noch nicht optimal voneinander getrennt. Eine konkretere Aufteilung wird noch vorgenommen, sobald die technischen Grundlagen gelegt sind.
+!!!
+
+Rezeptkosten können Zutaten, Geld oder aber Vanilla-Exp sein, die für ein Rezept benötigt werden. Diese werden beim Craften des Items von dir **entzogen**.
+
+Rezeptvoraussetzungen sind an das Rezept verknüpfte Bedingungen, welche erfüllt sein müssen, bevor das Rezept überhaupt erst genutzt werden kann. Diese wirst nach dem Craften des Items **behalten**. Mögliche Voraussetzungen können sein:
+- McMMO-Level
+- Job-Level
+- Professions-Level (`zutaten`,`handwerkskunst`, siehe [Ausblick](#Ausblick))
+- Abenteurer-Level (siehe [Farmwelt-Konzept](https://discord.com/channels/593436350829690899/598209493444198424/1369789201976918127))
 
 ## Befehle
 `/craft use <profession>`\
@@ -515,4 +530,4 @@ Zeige dir das Level deiner aktiven Berufungen an.
 ## Ausblick
 Die Umstellung auf das neue Craftingsystem bringt an erster Stelle nur alle bestehenden Custom-Rezepte in das neue Plugin hinüber. Abseits von leichten Abweichungen der Zutaten hat sich damit also erstmal nicht viel verändert.
 
-Im Zuge des neuen Farmwelt-Konzepts (Dungeons, Skills, Quests, etc.) werden viele neue Zutaten ins Spiel hinzukommen und somit auch eine große Breite an neuen Rezepten und ggf. auch Kategorien. 
+Im Zuge des neuen Farmwelt-Konzepts (Dungeons, Skills, Quests, etc.) werden viele neue Zutaten ins Spiel hinzukommen und somit auch eine große Breite an neuen Rezepten und ggf. auch Kategorien. Im späteren Verlauf werden die dann sogenannten "Professionen" (Kategorien) levelbar sein, sodass bestimmte Level Voraussetzung für bestimmte Rezepte sein können.
