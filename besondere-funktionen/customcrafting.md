@@ -464,7 +464,7 @@ Rezepte, die sonst nicht herstellbare Vanilla-Items erzeugen.
 
 # Neues CustomCrafting
 
-!!! warning
+!!!warning
 **Aktuell nicht aktiv**  
 Das neue Craftingsystem befindet sich noch in Entwicklung. Diese Dokumentation dient lediglich der Vorbereitung und besseren Einteilung der Arbeitsaufwände.
 !!!
@@ -520,7 +520,7 @@ Innerhalb einer Unterkategorie werden die jeweiligen Rezepte angezeigt:
 
 ### Rezeptkosten und Voraussetzungen
 
-!!! warning
+!!!warning
 Die optische Trennung zwischen **Kosten** und **Voraussetzungen** ist derzeit noch in Arbeit und wird mit einem späteren Update verbessert.
 !!!
 
@@ -562,7 +562,7 @@ Jede Unterkategorie verfügt über **3 Craftingslots**. Dort werden die Rezepte 
 - `/craft stats`  
   Zeigt das Level deiner aktiven Berufungen an.  
 
-!!! note
+!!!note
 Aktuell können Berufe noch nicht gelevelt werden. Diese Funktion wird im Zuge des neuen [Farmwelt-Konzepts](https://discord.com/channels/593436350829690899/598209493444198424/1369789201976918127) eingeführt.
 !!!
 
