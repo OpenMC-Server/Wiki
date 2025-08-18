@@ -462,7 +462,7 @@ Rezepte, die sonst nicht herstellbare Vanilla-Items erzeugen.
 
 ---
 
-# Neues CustomCrafting
+## Neues CustomCrafting
 
 !!!warning
 **Aktuell nicht aktiv**  
@@ -473,7 +473,24 @@ Auf dem Server verstehen wir unter *CustomCrafting* die Einführung neuer Items 
 
 ---
 
-## Aufbau des Craftingsystems
+### Migration von veralteten Items
+Um im neuen Craftingsystem weiterhin deine bestehenden Custom-Items verwenden zu können, müssen diese in das neue Plugin umziehen. Besonders wichtig sind alle Items, welche als `Zutat` oder `Ausrüstung` in CustomCrafting erhältlich sind wie zum Beispiel:
+- Shard I, II, III
+- Shulkerkerne, Schulker Beschwörungsstein
+- Phiole
+- Stürmischer Dreizack (ehemals `Verbesserter Dreizack`)
+- Wirbelsturm Brustplatte
+- Verdorrntes Schild (ehemals `Verbessertes Schild`)
+- Alle Custom-Items aus den **VoteChests**
+
+Sammelitems wie Bauevent-Belohnungen, Halloween- & Weinachtskram etc. können umgetauscht werden, müssen es aber **nur dann, wenn sie einzigartige Effekte** mit sich bringen (Kürbissoldatrüstung, Gamescom-Item, Elfenschuhe, etc.). Items wie Gebäck aus Weihnachten sind auch Umtauschbar, jedoch mit keinem großen Einfluss verbunden.
+
+*Darüber hinaus sehen wir im Umtauschprozess vor, missentwickelte Gegestände im angepassten Format zurückzugeben. Wenn diese für die zukünftige Konzeption vom System notwendig sind, können diese Items ebenfalls erzwungen umgetauscht werden.*
+
+#### Umtauschprozess
+Um deine veralteten Items umzutauschen, kannst du uns an einem Ort Kisten aufstellen und die Koordinaten über ein Ticket mitteilen. 
+
+### Aufbau des Craftingsystems
 
 Die Rezepte sind in verschiedene Kategorien unterteilt. Zum Start existieren die Kategorien **Zutaten** und **Handwerkskunst**.  
 
@@ -482,7 +499,7 @@ Die Rezepte sind in verschiedene Kategorien unterteilt. Zum Start existieren die
 
 Jede Kategorie kann in mehrere Unterkategorien aufgeteilt sein, um die Übersichtlichkeit zu gewährleisten.
 
-### Einordnung
+#### Einordnung
 
 +++ Zutaten
 - **Blaupausen** (Vorlagen für Ausrüstung)  
@@ -499,9 +516,9 @@ Jede Kategorie kann in mehrere Unterkategorien aufgeteilt sein, um die Übersich
 
 ---
 
-## Anwendung des Craftingsystems
+### Anwendung des Craftingsystems
 
-### Öffnen des Craftingmenüs
+#### Öffnen des Craftingmenüs
 
 Über die Befehle `/craft use zutaten` oder `/craft use handwerkskunst` gelangst du in das Craftingmenü. Dort kannst du zwischen den Kategorien nahtlos wechseln:
 
@@ -518,7 +535,7 @@ Innerhalb einer Unterkategorie werden die jeweiligen Rezepte angezeigt:
 
 ---
 
-### Rezeptkosten und Voraussetzungen
+#### Rezeptkosten und Voraussetzungen
 
 !!!warning
 Die optische Trennung zwischen **Kosten** und **Voraussetzungen** ist derzeit noch in Arbeit und wird mit einem späteren Update verbessert.
@@ -535,7 +552,7 @@ Mögliche Voraussetzungen:
 
 ---
 
-### Die Rezept-Warteschlange
+#### Die Rezept-Warteschlange
 
 Jede Unterkategorie verfügt über **3 Craftingslots**. Dort werden die Rezepte in eine Warteschlange gelegt.  
 
@@ -551,7 +568,7 @@ Jede Unterkategorie verfügt über **3 Craftingslots**. Dort werden die Rezepte 
 
 ---
 
-## Befehle
+### Befehle
 
 - `/craft use <profession>`  
   Öffnet das Craftingmenü einer bestimmten Berufung.  
@@ -568,7 +585,7 @@ Aktuell können Berufe noch nicht gelevelt werden. Diese Funktion wird im Zuge d
 
 ---
 
-## Ausblick
+### Ausblick
 
 Die Umstellung auf das neue Craftingsystem bringt zunächst nur die bestehenden Custom-Rezepte in das neue Plugin. Abgesehen von leichten Änderungen bei den Zutaten bleibt alles weitgehend unverändert.  
 
