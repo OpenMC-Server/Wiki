@@ -490,6 +490,8 @@ Sammelitems wie Bauevent-Belohnungen, Halloween- & Weinachtskram etc. können um
 #### Umtauschprozess
 Um deine veralteten Items umzutauschen, kannst du uns an einem Ort Kisten aufstellen und die Koordinaten über ein Ticket mitteilen. 
 
+*Die veralteten Items sind bis einschließlich Dezember 2025 noch funktionsfähig. Danach wird das alte Plugin abgeschaltet, sodass nur noch der Umtausch die Itemfunktion wiederherstellen kann.*
+
 ### Aufbau des Craftingsystems
 
 Die Rezepte sind in verschiedene Kategorien unterteilt. Zum Start existieren die Kategorien **Zutaten** und **Handwerkskunst**.  
