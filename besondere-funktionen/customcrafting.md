@@ -464,13 +464,26 @@ Rezepte, die sonst nicht herstellbare Vanilla-Items erzeugen.
 
 # Neues CustomCrafting
 !!!warning Aktuell nicht aktiv
-Das neue Craftingsystem ist noch in Arbeit und wir nur vorzeitig schon dokumentieren, um Arbeitsaufwände besser einzuteilen.
+Das neue Craftingsystem ist noch in Arbeit und wird nur vorzeitig schon dokumentieren, um Arbeitsaufwände besser einzuteilen.
 !!!
 
 Als CustomCrafting betrachten wir auf dem Server die Einführung von neuen Items, sowie Rezepte die damit zusammenhängen. Somit bietet OpenMC dir die Möglichkeit, über neue Items ein individuelle und einzigartiges Spielerlebnis\
 
 ## Aufbau
-Die Rezepte werden innerhalb von bestimmten Tätigkeiten ausgeführt. Für den Anfang bestehen die Tätigkeiten `Zutaten` und `Handwerkskunst`. In der Zutaten-Tätigkeit findest du alle Rezepte, welche Items für die Weiterverarbeitung liefern. Die finalen Produkte werden dann in der Handwerkskunst-Tätigkeit erzeugt. In der Regel hat jede Tätigkeit mehrere Kategorien, um die Übersicht der Rezept zu optimieren. [W.I.P.]
+Die Rezepte werden innerhalb von bestimmten Kategorien zugeordnet. Für den Anfang bestehen die Kategorien `Zutaten` und `Handwerkskunst`. In der Zutaten-Kategorie findest du alle Rezepte, welche Items für die Weiterverarbeitung liefern. Die finalen Produkte werden dann in der Handwerkskunst-Kategorie erzeugt. In der Regel hat jede Kategorie mehrere Unter-Kategorien, um die Übersicht der Rezept zu optimieren.
+
+Die Einordnung ist wie folgt:
++++ Zutaten
+- Blaupausen
+- Zutaten zur Weiterverarbeitung
+- Verschiedenes
+
++++ Handwerkskunst
+- Rüstung
+- Waffen
+- Werkzeug
+- Verbrauchsgüter
+
 ## Befehle
 `/craft use <profession>`\
 Öffnet das Craftingmenü einer bestimmten Berufung.
