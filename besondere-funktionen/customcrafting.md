@@ -487,6 +487,7 @@ Die Einordnung ist wie folgt:
 +++
 
 ## Anwendung des Craftingsystems
+### Öffnen des Craftingmenüs
 Über `/craft use zutaten` oder `/craft use handwerkskunst` gelangst du zum Craftingmenu, in welchem du die Unterkategorien ansteuern kannst. Das Menu ist darauf aufgebaut, zwischen `zutaten` und `handwerkskunst` nahtlos zwischen zu springen:
 
 +++ Zutaten-GUI
@@ -510,8 +511,14 @@ Rezeptkosten können Zutaten, Geld oder aber Vanilla-Exp sein, die für ein Reze
 Rezeptvoraussetzungen sind an das Rezept verknüpfte Bedingungen, welche erfüllt sein müssen, bevor das Rezept überhaupt erst genutzt werden kann. Diese wirst nach dem Craften des Items **behalten**. Mögliche Voraussetzungen können sein:
 - McMMO-Level
 - Job-Level
-- Professions-Level (`zutaten`,`handwerkskunst`, siehe [Ausblick](#Ausblick))
+- Professions-Level (`zutaten`,`handwerkskunst`, siehe [Ausblick](##Ausblick))
 - Abenteurer-Level (siehe [Farmwelt-Konzept](https://discord.com/channels/593436350829690899/598209493444198424/1369789201976918127))
+
+### Die Rezept-Warteschlange
+Jede Unterkategorie hat 3 Craftingslots, in welche die craftenden Rezepte in eine Warteschlange gelegt werden. Dort fängt das erste Rezept dann an, seinen Cooldown abzuarbeiten. Wird der Craftingslot mit einem Rezept for seinem Abschluss angeglickt, erhältst du die vorherigen Rezeptkosten ins Inventar (oder bei vollem Inventar gedroppt) zurück. Ist das Rezept abgeschlossen, wird der Klick das neu erworbene Item ins Inventar bringen. 
+
+In der Warteschlange je Unterkategorie kann immer nur ein Item gleichzeitig gecraftet werden, was bedeutet, dass sich die Craftingzeit für alle aufeinanderfolgenden Rezepte summieren werden. Auch wenn eine Warteschlange nur 3 optische Craftingslots hat, können insgesammt bis zu 10 Items gleichzeitig gecrafted werden. Die verbleibenden Slots kannst du dann über die Navigation daneben wechseln:
+![](/images/customcrafting_warteschlange.png)
 
 ## Befehle
 `/craft use <profession>`\
