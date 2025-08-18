@@ -490,9 +490,11 @@ Die Einordnung ist wie folgt:
 Über `/craft use zutaten` oder `/craft use handwerkskunst` gelangst du zum Craftingmenu, in welchem du die Unterkategorien ansteuern kannst. Das Menu ist darauf aufgebaut, zwischen `zutaten` und `handwerkskunst` nahtlos zwischen zu springen:
 
 +++ Zutaten-GUI
-![](/images/customcrafting_zutaten_zu_handwerkskunst.png)-
+![](/images/customcrafting_zutaten_zu_handwerkskunst.png)
+
 +++ Handwerkskunst-GUI
-![](/images/customcrafting_handwerkskunst_zu_zutaten.png)-
+![](/images/customcrafting_handwerkskunst_zu_zutaten.png)
+
 +++
 
 
