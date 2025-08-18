@@ -469,20 +469,32 @@ Das neue Craftingsystem ist noch in Arbeit und wird nur vorzeitig schon dokument
 
 Als CustomCrafting betrachten wir auf dem Server die Einführung von neuen Items, sowie Rezepte die damit zusammenhängen. Somit bietet OpenMC dir die Möglichkeit, über neue Items ein individuelle und einzigartiges Spielerlebnis\
 
-## Aufbau
-Die Rezepte werden innerhalb von bestimmten Kategorien zugeordnet. Für den Anfang bestehen die Kategorien `Zutaten` und `Handwerkskunst`. In der Zutaten-Kategorie findest du alle Rezepte, welche Items für die Weiterverarbeitung liefern. Die finalen Produkte werden dann in der Handwerkskunst-Kategorie erzeugt. In der Regel hat jede Kategorie mehrere Unter-Kategorien, um die Übersicht der Rezept zu optimieren.
+## Aufbau des Craftingsystems
+Die Rezepte werden innerhalb von bestimmten Kategorien zugeordnet. Für den Anfang bestehen die Kategorien `Zutaten` und `Handwerkskunst`. In der Zutaten-Kategorie findest du alle Rezepte, welche Items für die Weiterverarbeitung liefern. Die finalen Produkte werden dann in der Handwerkskunst-Kategorie erzeugt. In der Regel hat jede Kategorie mehrere Unter-Kategorien, um die Übersicht der Rezepte zu optimieren.
 
 Die Einordnung ist wie folgt:
 +++ Zutaten
-- Blaupausen
-- Zutaten zur Weiterverarbeitung
-- Verschiedenes
+- Blaupausen (Vorlagen für Equipment)
+- Zutaten zur Weiterverarbeitung (Zutaten für Equipment)
+- Verschiedenes (Armor Trims, etc.)
 
 +++ Handwerkskunst
 - Rüstung
 - Waffen
 - Werkzeug
 - Verbrauchsgüter
+
++++
+
+## Anwendung des Craftingsystems
+Über `/craft use zutaten` oder `/craft use handwerkskunst` gelangst du zum Craftingmenu, in welchem du die Unterkategorien ansteuern kannst. Das Menu ist darauf aufgebaut, zwischen `zutaten` und `handwerkskunst` nahtlos zwischen zu springen:
+
++++ Zutaten-GUI
+![](/images/customcrafting_zutaten_zu_handwerkskunst.png)-
++++ Handwerkskunst-GUI
+![](/images/customcrafting_handwerkskunst_zu_zutaten.png)-
++++
+
 
 ## Befehle
 `/craft use <profession>`\
@@ -496,3 +508,9 @@ Zeige dir das Level deiner aktiven Berufungen an.
 
 `/craft use <profession>`\
 Öffnet das Craftingmenü einer bestimmten Berufung. (Aktuell werden Berufe noch nicht gelevelt. Diese Funktionalität tritt mit dem neuen [Farmwelt-Konzept](https://discord.com/channels/593436350829690899/598209493444198424/1369789201976918127) in Zukunft auf.)
+
+
+## Ausblick
+Die Umstellung auf das neue Craftingsystem bringt an erster Stelle nur alle bestehenden Custom-Rezepte in das neue Plugin hinüber. Abseits von leichten Abweichungen der Zutaten hat sich damit also erstmal nicht viel verändert.
+
+Im Zuge des neuen Farmwelt-Konzepts (Dungeons, Skills, Quests, etc.) werden viele neue Zutaten ins Spiel hinzukommen und somit auch eine große Breite an neuen Rezepten und ggf. auch Kategorien. 
