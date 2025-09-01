@@ -12,9 +12,9 @@ Auf dieser Seite findest du Erläuterungen zu den Events, die regelmäßig auf O
 
 ## Bauevent
 !!! Aktuelles Bauevent:
-*Thema:* Apokalypse\
-*Dauer:* 01.07. - 15.08.\
-*Bewertungsevent:* 18.08. - 23.08.
+*Thema:* Dorf\
+*Dauer:* 01.09. - 15.10.\
+*Bewertungsevent:* 18.10. - 23.10.
 !!!
 
 ### Über das Bauevent
