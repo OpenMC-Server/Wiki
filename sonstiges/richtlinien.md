@@ -170,29 +170,21 @@ Auf OpenMC möchten wir ein faires und transparentes Spielerlebnis bieten. Um di
 
 ### Nicht erlaubt sind Mods, die:
 - das Bauen unnatürlich erleichtern<br>
-**Beispiele:** AccurateBlockPlacement, EasyPlace, FastBlockPlacement usw.
-
+    - **Beispiele:** AccurateBlockPlacement, EasyPlace, FastBlockPlacement usw.
 - das Farmen erleichtern<br>
-**Beispiele:** X-Ray, Block-Highlighting, Freecam, BlockTypeBreakRestriction
-
+    - **Beispiele:** X-Ray, Block-Highlighting, Freecam, BlockTypeBreakRestriction
 - das Klicken oder Kämpfen automatisieren<br>
-**Beispiele:** Autoclicker, Scripts, Killaura, automatische Mob-Erkennung.
-
+    - **Beispiele:** Autoclicker, Scripts, Killaura, automatische Mob-Erkennung.
 - Treffer oder Zielen erleichtern<br>
-**Beispiele:** Aimbot, Triggerbot, Reichweitenverlängerungen (Reach), Auto-Bow, automatische Projektiljustierung.
-
+    - **Beispiele:** Aimbot, Triggerbot, Reichweitenverlängerungen (Reach), Auto-Bow, automatische Projektiljustierung.
 - die Bewegung manipulieren<br>
-**Beispiele:** Fly-Hack, Speed-Hack, NoSlow, Bunnyhop.
-
+    - **Beispiele:** Fly-Hack, Speed-Hack, NoSlow, Bunnyhop.
 - Radar- oder Tracking-Funktionen bieten<br>
-**Beispiele:** Entity-Radar, Spieler-/Mob-/Kisten-Tracker.
-
+    - **Beispiele:** Entity-Radar, Spieler-/Mob-/Kisten-Tracker.
 - bei Events Vorteile verschaffen<br>
-**Beispiele:** automatisches Nachlegen von speziellen Items (z. B. XP-Flaschen), Elytra-Autoswap, Deaktivieren von Dunkelheitseffekten, PlayerHealthIndicators, Visible Barriers
-
+    - **Beispiele:** automatisches Nachlegen von speziellen Items (z. B. XP-Flaschen), Elytra-Autoswap, Deaktivieren von Dunkelheitseffekten, PlayerHealthIndicators, Visible Barriers
 - Automatisierung von Spielmechaniken ermöglichen<br>
-**Beispiele:** AutoFish, AntiAFK.
-
+    - **Beispiele:** AutoFish, AntiAFK.
 
 
 ### Erlaubt sind Mods, die:
