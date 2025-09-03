@@ -189,14 +189,11 @@ Auf OpenMC möchten wir ein faires und transparentes Spielerlebnis bieten. Um di
 
 ### Erlaubt sind Mods, die:
 - kosmetische oder komfortsteigernde Funktionen bieten<br>
-**Beispiele:** OptiFine, MiniMaps, Inventory Sorter, Sodium. Gamma, Zoom
-
+    - **Beispiele:** OptiFine, MiniMaps, Inventory Sorter, Sodium. Gamma, Zoom
 - die Benutzeroberfläche anpassen<br>
-**Beispiele:** Mods, die das Inventar sortieren oder die Hotbar übersichtlicher gestalten.
-
+    - **Beispiele:** Mods, die das Inventar sortieren oder die Hotbar übersichtlicher gestalten.
 - die Kommunikation erleichtern<br>
-**Beispiele:** Makros für den Chat, MoreChatHistory, CrashReports
-
+    - **Beispiele:** Makros für den Chat, MoreChatHistory, CrashReports
 
 **Hinweis:**
 Solltest du dir unsicher sein, ob eine bestimmte Modifikation erlaubt ist, zögere nicht, uns zu kontaktieren. Wir stehen dir gerne zur Verfügung, um Klarheit zu schaffen und sicherzustellen, dass dein Spielerlebnis fair und regelkonform bleibt.
