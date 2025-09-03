@@ -169,23 +169,23 @@ Im Regelfall werden nicht mehr als zwei Chancen gewährt.
 Auf OpenMC möchten wir ein faires und transparentes Spielerlebnis bieten. Um dies zu gewährleisten, haben wir klare Richtlinien für die Nutzung von Modifikationen. Diese sollen sicherstellen, dass alle Spieler gleiche Chancen haben und keine unfaire Vorteile durch technische Hilfsmittel erlangen.
 
 ### Nicht erlaubt sind Mods, die:
-das Bauen unnatürlich erleichtern
-Beispiele: AccurateBlockPlacement, EasyPlace, FastBlockPlacement usw.
+das Bauen unnatürlich erleichtern\
+Beispiele: AccurateBlockPlacement, EasyPlace, FastBlockPlacement usw.\
 
-das Farmen erleichtern
-Beispiele: X-Ray, Block-Highlighting, Freecam, BlockTypeBreakRestriction
+das Farmen erleichtern\
+Beispiele: X-Ray, Block-Highlighting, Freecam, BlockTypeBreakRestriction\
 
-das Klicken oder Kämpfen automatisieren
-Beispiele: Autoclicker, Scripts, Killaura, automatische Mob-Erkennung.
+das Klicken oder Kämpfen automatisieren\
+Beispiele: Autoclicker, Scripts, Killaura, automatische Mob-Erkennung.\
 
-Treffer oder Zielen erleichtern
-Beispiele: Aimbot, Triggerbot, Reichweitenverlängerungen (Reach), Auto-Bow, automatische Projektiljustierung.
+Treffer oder Zielen erleichtern\
+Beispiele: Aimbot, Triggerbot, Reichweitenverlängerungen (Reach), Auto-Bow, automatische Projektiljustierung.\
 
-die Bewegung manipulieren
-Beispiele: Fly-Hack, Speed-Hack, NoSlow, Bunnyhop.
+die Bewegung manipulieren\
+Beispiele: Fly-Hack, Speed-Hack, NoSlow, Bunnyhop.\
 
-Radar- oder Tracking-Funktionen bieten
-Beispiele: Entity-Radar, Spieler-/Mob-/Kisten-Tracker.
+Radar- oder Tracking-Funktionen bieten\
+Beispiele: Entity-Radar, Spieler-/Mob-/Kisten-Tracker.\
 
 bei Events Vorteile verschaffen
 Beispiele: automatisches Nachlegen von speziellen Items (z. B. XP-Flaschen), Elytra-Autoswap, Deaktivieren von Dunkelheitseffekten, PlayerHealthIndicators, Visible Barriers
