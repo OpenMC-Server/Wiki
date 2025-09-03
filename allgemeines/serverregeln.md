@@ -7,8 +7,10 @@ icon: log
 
 # Serverregeln
 
-**Mit dem Spielen auf unserem Server und/oder dem Beitritt auf unserem Discord akzeptierst du die Regeln.**\
-[!badge variant="info" text=":large_green_circle: Letzte Aktualisierung: 24.03.2024"]
+[!badge variant="info" text=":large_green_circle: Letzte Aktualisierung: 03.09.2025"]
+
+Mit dem Spielen auf unserem Server und/oder dem Beitritt auf unserem Discord akzeptierst du die Regeln.\
+Zusätzlich sind unsere [Richtlinien](/sonstiges/richtlinien.md) zu beachten. Diese gehen detaillierter auf bestimmte Aspekte und Einzelfälle ein.
 
 ---
 
@@ -34,10 +36,11 @@ icon: log
 ---
 
 ## §2 Modifikationen
-**2.1** Die Verwendung von Clientmods, die dem Verwender einen unfairen Vorteil verschaffen, ist verboten (X-Ray, Freecam, Killaura, …).\
-**2.2** Die Verwendung von Autoclickern (Software oder Hardware) sowie von jeglichen Skripten und Einstellungen mit vergleichbaren Resultaten ist untersagt. Ausgenommen davon ist die Verwendung bei Chatnachrichten und -befehlen.\
-**2.3** Bei der Verwendung von Litematica sind ausschließlich Hologramme zum Nachbau von Kreationen gestattet – alle weiteren Funktionen sind untersagt (z.B. EasyPlacemode). Beim Bauevent ist Litematica ebengleich nutzbar, dabei jedoch ausschließlich zum Nachbau eigener Kreationen – keineswegs jene Anderer.\
-**2.4** Bei Unsicherheiten freut sich das Team über Nachfragen. (Badlion, Optifine, MiniMaps und Inventory Sorter sind ausdrücklich erlaubt.)
+**2.1** Die Verwendung von Modifikationen, die dem Verwender einen unfairen Vorteil verschaffen, ist verboten.\
+**2.2** Eine beispielhafte Auflistung an verbotenen sowie erlaubten Modifikationen ist in den [Richtlinien](https://wiki.openmc.net/sonstiges/richtlinien/#modifikationen) zu finden.\
+**2.3** Die Verwendung von Autoclickern (Software oder Hardware) sowie von jeglichen Skripten und Einstellungen mit vergleichbaren Resultaten ist untersagt. Ausgenommen davon ist die Verwendung bei Chatnachrichten und -befehlen.\
+**2.4** Bei der Verwendung von Litematica sind ausschließlich Hologramme zum Nachbau von Kreationen gestattet – alle weiteren Funktionen sind untersagt (z.B. EasyPlacemode). Beim Bauevent ist Litematica ebengleich nutzbar, dabei jedoch ausschließlich zum Nachbau eigener Kreationen – keineswegs jene Anderer.\
+**2.5** Bei Unsicherheiten, ob eine Modifikation erlaubt ist, kann das Serverteam gerne zu Rate gezogen werden. 
 
 ---
 
@@ -50,7 +53,7 @@ icon: log
 ## §4 Redstone und Farmen
 **4.1** Wir bitten alle Spieler, unsere Serverhardware nicht mehr als nötig oder vertretbar zu belasten.\
 **4.2** Das Erbauen und Verwenden von Mechaniken, welche durch automatisierten Einfluss Geld mithilfe des Job-Systems generieren, ist nicht erlaubt. Bei Unsicherheiten steht euch das Team gerne für Fragen zur Verfügung.\
-**4.3** Die Benutzung von halb- und vollautomatischen Farmen ist ausschließlich in der Industriewelt erlaubt. Details findest du in den [Richtlinien](https://wiki.openmc.net/sonstiges/richtlinien/#farmen).\
+**4.3** Die Benutzung von halb- und vollautomatischen Farmen ist ausschließlich in der Industriewelt erlaubt. Definitionen sind in den [Richtlinien](https://wiki.openmc.net/sonstiges/richtlinien/#farmen) zu finden.\
 **4.4** Größere Lager- und Sortiersysteme sollten bevorzugt in der Industriewelt errichtet werden. Es sind Pipes zu verwenden (siehe Wiki), wann immer möglich. Sollte die TPS durch ein solches System stärker beeinflusst werden, kann der Betrieb in der Bauwelt verboten werden, dies wird im Einzelfall entschieden.\
 **4.5** Größere halb- und vollautomatische Farmen sowie größere Lager- und Sortiersysteme müssen grundsätzlich vor Baubeginn [angemeldet und abgenommen](https://wiki.openmc.net/sonstiges/farmanmeldungen/) werden (`/farmanmeldung` am Ort der Farm).\
 **4.6** Vorrichtungen zum Farmen von Witherskelettköpfen (z.B. Plattformen) sind in der Farmwelt verboten.\
@@ -63,8 +66,8 @@ icon: log
 ## §5 Bauen
 **5.1** Griefing und Diebstahl ist ein Vertrauensbruch und in allen Welten verboten.\
 **5.2** Das Zerstören der Landschaft ohne erkennbaren Zweck ist verboten.\
-**5.3** Unbestreitbar unschöne oder langfristig unfertige Bauten können vom Team entfernt werden. In Spawnnähe gibt es besondere Regelungen, diese findest unter unseren Richtlinien zur [Claimvergabe](https://wiki.openmc.net/sonstiges/richtlinien/#claimvergaben).\
-**5.4** Für Grundstücke von Spielern, die ohne Abmeldung länger als 30 Tage inaktiv sind, kann eine Entfernung oder Weitergabe beantragt werden. In Spawnnähe gibt es besondere Regelungen, diese findest unter unseren Richtlinien zur [Claimvergabe](https://wiki.openmc.net/sonstiges/richtlinien/#claimvergaben).\
+**5.3** Unbestreitbar unschöne oder langfristig unfertige Bauten können vom Team entfernt werden. In Spawnnähe gibt es besondere Regelungen(siehe [Richtlinien](https://wiki.openmc.net/sonstiges/richtlinien/#claimvergaben))\
+**5.4** Für Grundstücke von Spielern, die ohne Abmeldung länger als 30 Tage inaktiv sind, kann eine Entfernung oder Weitergabe beantragt werden. In Spawnnähe gibt es besondere Regelungen (siehe [Richtlinien](https://wiki.openmc.net/sonstiges/richtlinien/#claimvergaben)).\
 **5.5** Das Abfarmen und Plündern von natürlichen Ressourcen und Strukturen ist nur in der `/farmwelt` erlaubt.\
 **5.6** Das Wegenetz des Servers soll ohne Absprache mit apv1313 nicht verändert werden.\
 **5.7** [Chestshops](https://wiki.openmc.net/geld-level/chestshop/) dürfen unbegrenzt ab mindestens 1000 Blöcken vom Spawn erstellt werden. Ab 250 Blöcken Entfernung vom Spawn sind max. 12 Chestshops pro Spielerorganisation erlaubt, unter 250 Blöcken Entfernung sind Chestshops verboten.\
