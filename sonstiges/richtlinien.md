@@ -169,40 +169,40 @@ Im Regelfall werden nicht mehr als zwei Chancen gewährt.
 Auf OpenMC möchten wir ein faires und transparentes Spielerlebnis bieten. Um dies zu gewährleisten, haben wir klare Richtlinien für die Nutzung von Modifikationen. Diese sollen sicherstellen, dass alle Spieler gleiche Chancen haben und keine unfaire Vorteile durch technische Hilfsmittel erlangen.
 
 ### Nicht erlaubt sind Mods, die:
-das Bauen unnatürlich erleichtern
+- das Bauen unnatürlich erleichtern<br>
 Beispiele: AccurateBlockPlacement, EasyPlace, FastBlockPlacement usw.
 
-das Farmen erleichtern
+- das Farmen erleichtern<br>
 Beispiele: X-Ray, Block-Highlighting, Freecam, BlockTypeBreakRestriction
 
-das Klicken oder Kämpfen automatisieren
+- das Klicken oder Kämpfen automatisieren<br>
 Beispiele: Autoclicker, Scripts, Killaura, automatische Mob-Erkennung.
 
-Treffer oder Zielen erleichtern
+- Treffer oder Zielen erleichtern<br>
 Beispiele: Aimbot, Triggerbot, Reichweitenverlängerungen (Reach), Auto-Bow, automatische Projektiljustierung.
 
-die Bewegung manipulieren
+- die Bewegung manipulieren<br>
 Beispiele: Fly-Hack, Speed-Hack, NoSlow, Bunnyhop.
 
-Radar- oder Tracking-Funktionen bieten
+- Radar- oder Tracking-Funktionen bieten<br>
 Beispiele: Entity-Radar, Spieler-/Mob-/Kisten-Tracker.
 
-bei Events Vorteile verschaffen
+- bei Events Vorteile verschaffen<br>
 Beispiele: automatisches Nachlegen von speziellen Items (z. B. XP-Flaschen), Elytra-Autoswap, Deaktivieren von Dunkelheitseffekten, PlayerHealthIndicators, Visible Barriers
 
-Automatisierung von Spielmechaniken ermöglichen
+- Automatisierung von Spielmechaniken ermöglichen<br>
 Beispiele: AutoFish, AntiAFK.
 
 
 
 ### Erlaubt sind Mods, die:
-kosmetische oder komfortsteigernde Funktionen bieten
+- kosmetische oder komfortsteigernde Funktionen bieten<br>
 Beispiele: OptiFine, MiniMaps, Inventory Sorter, Sodium. Gamma, Zoom
 
-die Benutzeroberfläche anpassen
+- die Benutzeroberfläche anpassen<br>
 Beispiele: Mods, die das Inventar sortieren oder die Hotbar übersichtlicher gestalten.
 
-die Kommunikation erleichtern
+- die Kommunikation erleichtern<br>
 Beispiele: Makros für den Chat, MoreChatHistory, CrashReports
 
 
