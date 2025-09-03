@@ -170,31 +170,31 @@ Auf OpenMC möchten wir ein faires und transparentes Spielerlebnis bieten. Um di
 
 ### Nicht erlaubt sind Mods, die:
 - das Bauen unnatürlich erleichtern
-    Beispiele: AccurateBlockPlacement, EasyPlace, FastBlockPlacement usw.
+Beispiele: AccurateBlockPlacement, EasyPlace, FastBlockPlacement usw.
 - das Farmen erleichtern
-    Beispiele: X-Ray, Block-Highlighting, Freecam, BlockTypeBreakRestriction
+Beispiele: X-Ray, Block-Highlighting, Freecam, BlockTypeBreakRestriction
 - das Klicken oder Kämpfen automatisieren
-    Beispiele: Autoclicker, Scripts, Killaura, automatische Mob-Erkennung.
+Beispiele: Autoclicker, Scripts, Killaura, automatische Mob-Erkennung.
 - Treffer oder Zielen erleichtern
-    Beispiele: Aimbot, Triggerbot, Reichweitenverlängerungen (Reach), Auto-Bow, automatische Projektiljustierung.
+Beispiele: Aimbot, Triggerbot, Reichweitenverlängerungen (Reach), Auto-Bow, automatische Projektiljustierung.
 - die Bewegung manipulieren
-    Beispiele: Fly-Hack, Speed-Hack, NoSlow, Bunnyhop.
+Beispiele: Fly-Hack, Speed-Hack, NoSlow, Bunnyhop.
 - Radar- oder Tracking-Funktionen bieten
-    Beispiele: Entity-Radar, Spieler-/Mob-/Kisten-Tracker.
+Beispiele: Entity-Radar, Spieler-/Mob-/Kisten-Tracker.
 - bei Events Vorteile verschaffen
-    Beispiele: automatisches Nachlegen von speziellen Items (z. B. XP-Flaschen), Elytra-Autoswap, Deaktivieren von Dunkelheitseffekten, PlayerHealthIndicators, Visible Barriers
+Beispiele: automatisches Nachlegen von speziellen Items (z. B. XP-Flaschen), Elytra-Autoswap, Deaktivieren von Dunkelheitseffekten, PlayerHealthIndicators, Visible Barriers
 - Automatisierung von Spielmechaniken ermöglichen
-    Beispiele: AutoFish, AntiAFK.
+Beispiele: AutoFish, AntiAFK.
 
 
 
 ### Erlaubt sind Mods, die:
 - kosmetische oder komfortsteigernde Funktionen bieten
-    Beispiele: OptiFine, MiniMaps, Inventory Sorter, Sodium. Gamma, Zoom
+Beispiele: OptiFine, MiniMaps, Inventory Sorter, Sodium. Gamma, Zoom
 - die Benutzeroberfläche anpassen
-    Beispiele: Mods, die das Inventar sortieren oder die Hotbar übersichtlicher gestalten.
+Beispiele: Mods, die das Inventar sortieren oder die Hotbar übersichtlicher gestalten.
 - die Kommunikation erleichtern
-    Beispiele: Makros für den Chat, MoreChatHistory, CrashReports
+Beispiele: Makros für den Chat, MoreChatHistory, CrashReports
 
 
 **Hinweis:**
