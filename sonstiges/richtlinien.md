@@ -170,7 +170,7 @@ Auf OpenMC möchten wir ein faires und transparentes Spielerlebnis bieten. Um di
 
 ### Nicht erlaubt sind Mods, die:
 - das Bauen unnatürlich erleichtern<br>
-Beispiele: AccurateBlockPlacement, EasyPlace, FastBlockPlacement usw.
+**Beispiele:** AccurateBlockPlacement, EasyPlace, FastBlockPlacement usw.
 
 - das Farmen erleichtern<br>
 **Beispiele:** X-Ray, Block-Highlighting, Freecam, BlockTypeBreakRestriction
