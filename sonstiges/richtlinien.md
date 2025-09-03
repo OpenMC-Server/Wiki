@@ -169,7 +169,8 @@ Im Regelfall werden nicht mehr als zwei Chancen gewährt.
 Auf OpenMC möchten wir ein faires und transparentes Spielerlebnis bieten. Um dies zu gewährleisten, haben wir klare Richtlinien für die Nutzung von Modifikationen. Diese sollen sicherstellen, dass alle Spieler gleiche Chancen haben und keine unfaire Vorteile durch technische Hilfsmittel erlangen.
 
 ### Nicht erlaubt sind Mods, die:
-- das Bauen unnatürlich erleichtern<br>
+{.list-icon}
+- :icon-check-circle: das Bauen unnatürlich erleichtern<br>
 Beispiele: AccurateBlockPlacement, EasyPlace, FastBlockPlacement usw.
 
 - das Farmen erleichtern<br>
