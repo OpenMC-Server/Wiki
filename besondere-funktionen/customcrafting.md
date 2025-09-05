@@ -18,6 +18,7 @@ Shards sind zurzeit ein wichtiger Bestandteil der meisten CustomCrafting-Rezepte
 
 Die einzige Besonderheit dabei sind Shard III. Er ist als Drop bei [Bosskämpfen](/geld-level/bosskampf.md) erhältlich und ist deshalb für die seltensten und teuersten Rezepte reserviert.
 Unter `/craft use zutaten:weiterverarbeitung` kannst du unter anderem viele Zutaten entdecken, welche Shards als Grundzutat verwenden.
+
 ---
 
 <!--
