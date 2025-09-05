@@ -465,12 +465,6 @@ Rezepte, die sonst nicht herstellbare Vanilla-Items erzeugen.
 -->
 
 ## Neues CustomCrafting
-
-!!!warning
-**Aktuell nicht aktiv**  
-Das neue Craftingsystem befindet sich noch in Entwicklung. Diese Dokumentation dient lediglich der Vorbereitung und besseren Einteilung der Arbeitsaufwände.
-!!!
-
 Auf dem Server verstehen wir unter *CustomCrafting* die Einführung neuer Items sowie der dazugehörigen Rezepte. Damit bietet OpenMC die Möglichkeit, über eigens entwickelte Items ein individuelles und einzigartiges Spielerlebnis zu schaffen.
 
 ---
@@ -571,16 +565,19 @@ Jede Unterkategorie verfügt über **3 Craftingslots**. Dort werden die Rezepte 
 ### Befehle
 
 - `/craft use <profession>`  
-  Öffnet das Craftingmenü einer bestimmten Berufung.  
+  Öffnet das Craftingmenü eines bestimmten Rezeptpfades.  
 
 - `/craft use <profession>:<category>`  
-  Öffnet das Craftingmenü einer spezifischen Kategorie einer Berufung.  
+  Öffnet das Craftingmenü einer spezifischen Kategorie eines Rezeptpfads.  
 
 - `/craft stats`  
-  Zeigt das Level deiner aktiven Berufungen an.  
+  Zeigt das Level deines aktiven Rezeptpfads an.  
+
+- `/craft show`  
+  Das Item, welches du in der Hand hältst wird nach allen möglichen Custom-Rezepten überprüft. Danach kannst du über einen Linksklick auf den jeweiligen Rezeptpfad gelangen.
 
 !!!warning
-Aktuell können Berufe noch nicht gelevelt werden. Diese Funktion wird im Zuge des neuen [Farmwelt-Konzepts](https://discord.com/channels/593436350829690899/598209493444198424/1369789201976918127) eingeführt.
+Aktuell können Rezeptpfade noch nicht gelevelt werden. Diese Funktion wird im Zuge des neuen [Farmwelt-Konzepts](https://discord.com/channels/593436350829690899/598209493444198424/1369789201976918127) eingeführt.
 !!!
 
 ---
