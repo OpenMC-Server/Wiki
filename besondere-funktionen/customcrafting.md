@@ -42,6 +42,7 @@ Er ist als Drop bei [Bosskämpfen](/geld-level/bosskampf.md) erhältlich und ist
 
 ---
 
+<!--
 ## Rezepte
 Im Folgenden findest du eine Auflistung aller CustomCrafting Rezepte.
 
@@ -461,6 +462,7 @@ Rezepte, die sonst nicht herstellbare Vanilla-Items erzeugen.
 ==-
 
 ---
+-->
 
 ## Neues CustomCrafting
 
@@ -538,13 +540,8 @@ Innerhalb einer Unterkategorie werden die jeweiligen Rezepte angezeigt:
 ---
 
 #### Rezeptkosten und Voraussetzungen
-
-!!!warning
-Die optische Trennung zwischen **Kosten** und **Voraussetzungen** ist derzeit noch in Arbeit und wird mit einem späteren Update verbessert.
-!!!
-
 - **Rezeptkosten** sind die Materialien, das Geld oder die Vanilla-Exp, die für ein Rezept benötigt werden. Diese werden beim Craften **verbraucht**.  
-- **Rezeptvoraussetzungen** sind Bedingungen, die erfüllt sein müssen, um ein Rezept nutzen zu können. Diese bleiben dir auch nach dem Craften **erhalten**.  
+- **Voraussetzungen** sind Bedingungen, die erfüllt sein müssen, um ein Rezept nutzen zu können. Diese bleiben dir auch nach dem Craften **erhalten**.  
 
 Mögliche Voraussetzungen:  
 - McMMO-Level  
