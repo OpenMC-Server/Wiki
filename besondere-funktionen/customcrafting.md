@@ -34,7 +34,7 @@ Um deine veralteten Items umzutauschen, kannst du uns an einem Ort Kisten aufste
 
 ---
 
-### Aufbau des Craftingsystems
+## Aufbau des Craftingsystems
 
 Die Rezepte sind in verschiedene Kategorien unterteilt. Zum Start existieren die Kategorien **Zutaten** und **Handwerkskunst**.  
 
@@ -43,7 +43,7 @@ Die Rezepte sind in verschiedene Kategorien unterteilt. Zum Start existieren die
 
 Jede Kategorie kann in mehrere Unterkategorien aufgeteilt sein, um die Übersichtlichkeit zu gewährleisten.
 
-#### Einordnung
+### Einordnung
 
 +++ Zutaten
 - **Blaupausen** (Vorlagen für Ausrüstung)  
@@ -60,9 +60,9 @@ Jede Kategorie kann in mehrere Unterkategorien aufgeteilt sein, um die Übersich
 
 ---
 
-## Anwendung des Craftingsystems
+### Anwendung des Craftingsystems
 
-### Öffnen des Craftingmenüs
+#### Öffnen des Craftingmenüs
 
 Über die Befehle `/craft use zutaten` oder `/craft use handwerkskunst` gelangst du in das Craftingmenü. Dort kannst du zwischen den Kategorien nahtlos wechseln:
 
@@ -79,7 +79,7 @@ Innerhalb einer Unterkategorie werden die jeweiligen Rezepte angezeigt:
 
 ---
 
-### Rezeptkosten und Voraussetzungen
+#### Rezeptkosten und Voraussetzungen
 - **Rezeptkosten** sind die Materialien, das Geld oder die Vanilla-Exp, die für ein Rezept benötigt werden. Diese werden beim Craften **verbraucht**.  
 - **Voraussetzungen** sind Bedingungen, die erfüllt sein müssen, um ein Rezept nutzen zu können. Diese bleiben dir auch nach dem Craften **erhalten**.  
 
@@ -92,7 +92,7 @@ Mögliche Voraussetzungen:
 
 ---
 
-### Die Rezept-Warteschlange
+#### Die Rezept-Warteschlange
 
 Jede Unterkategorie verfügt über **3 Craftingslots**. Dort werden die Rezepte in eine Warteschlange gelegt.  
 
