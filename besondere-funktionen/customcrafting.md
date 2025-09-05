@@ -9,31 +9,15 @@ icon: cpu
 
 [!badge :white_check_mark: Ingame-Tutorial verfügbar: `/warp tutorial_customcrafting (in Arbeit)`]
 
-Auf dem Server verstehen wir unter *CustomCrafting* die Einführung neuer Items sowie der dazugehörigen Rezepte. Damit bietet OpenMC die Möglichkeit, über eigens entwickelte Items ein individuelles und einzigartiges Spielerlebnis zu schaffen.
+Auf dem Server verstehen wir unter **CustomCrafting** die Einführung neuer Items sowie der dazugehörigen Rezepte. Damit bietet OpenMC die Möglichkeit, über eigens entwickelte Items ein individuelles und einzigartiges Spielerlebnis zu schaffen.
 
 ---
 
 ## Shard-System
-Shards sind ein wichtiger Bestandteil der meisten CustomCrafting-Rezepte. Es gibt drei Stufen an Shards, “Shard I”, “Shard II” und Shard “III”. Diese bauen aufeinander auf – das bedeutet, dass Shards einer niedrigeren Stufe benötigt werden, um Shards einer höheren Stufe zu craften.
+Shards sind zurzeit ein wichtiger Bestandteil der meisten CustomCrafting-Rezepte. Es gibt drei Stufen an Shards, “Shard I”, “Shard II” und Shard “III”. Diese bauen aufeinander auf – das bedeutet, dass Shards einer niedrigeren Stufe benötigt werden, um Shards einer höheren Stufe zu erhalten.
 
-+++ Shard I
-Der Shard I kann über zwei Wege erhalten werden:
-- Belohnungen des Mobevents
-- Gewinne in den VoteChests
-- Belohnungen weiterer Events
-
-+++ Shard-Essenz
-Die Shard-Essenz kann über das [entsprechende Rezept](#rezept-zutaten) gecraftet werden.
-
-+++ Shard II
-Der Shard II kann über das [entsprechende Rezept](#rezept-zutaten) gecraftet werden.
-
-+++ Shard III
-Der Shard III kann nicht gecraftet werden.\
-Er ist als Drop bei [Bosskämpfen](/geld-level/bosskampf.md) erhältlich und ist deshalb für die seltensten und teuersten Rezepte reserviert.
-
-+++
-
+Die einzige Besonderheit dabei sind Shard III. Er ist als Drop bei [Bosskämpfen](/geld-level/bosskampf.md) erhältlich und ist deshalb für die seltensten und teuersten Rezepte reserviert.
+Unter `/craft use zutaten:weiterverarbeitung` kannst du unter anderem viele Zutaten entdecken, welche Shards als Grundzutat verwenden.
 ---
 
 <!--
