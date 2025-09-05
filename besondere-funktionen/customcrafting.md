@@ -7,15 +7,9 @@ icon: cpu
 
 # CustomCrafting
 
-[!badge :white_check_mark: Ingame-Tutorial verfügbar: `/warp tutorial_customcrafting`]
+[!badge :white_check_mark: Ingame-Tutorial verfügbar: `/warp tutorial_customcrafting (in Arbeit)`]
 
-Mit CustomCrafting hast du die Möglichkeit, an eine Reihe von Items zu gelangen, welche nur auf OpenMC existieren.\
-Um mit dem Craften beginnen zu können, genügt eine einfache Werkbank. Die möglichen Rezepte und benötigten Zutaten findest du auf dieser Seite.
-
-!!!warning Ausfall einzelner Items
-Aufgrund von Unstimmigkeiten in bestimmten Custom-Items kann es zum Aussetzen der speziellen Funktion kommen.\
-Zurzeit betroffen: Wiederbelebungstotem-Set, Mutetag
-!!!
+Auf dem Server verstehen wir unter *CustomCrafting* die Einführung neuer Items sowie der dazugehörigen Rezepte. Damit bietet OpenMC die Möglichkeit, über eigens entwickelte Items ein individuelles und einzigartiges Spielerlebnis zu schaffen.
 
 ---
 
@@ -570,11 +564,11 @@ Jede Unterkategorie verfügt über **3 Craftingslots**. Dort werden die Rezepte 
 - `/craft use <profession>:<category>`  
   Öffnet das Craftingmenü einer spezifischen Kategorie eines Rezeptpfads.  
 
-- `/craft stats`  
-  Zeigt das Level deines aktiven Rezeptpfads an.  
-
 - `/craft show`  
   Das Item, welches du in der Hand hältst wird nach allen möglichen Custom-Rezepten überprüft. Danach kannst du über einen Linksklick auf den jeweiligen Rezeptpfad gelangen.
+  
+- `/craft stats`  
+  Zeigt das Level deines aktiven Rezeptpfads an.  
 
 !!!warning
 Aktuell können Rezeptpfade noch nicht gelevelt werden. Diese Funktion wird im Zuge des neuen [Farmwelt-Konzepts](https://discord.com/channels/593436350829690899/598209493444198424/1369789201976918127) eingeführt.
