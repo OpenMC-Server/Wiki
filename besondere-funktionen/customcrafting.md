@@ -32,6 +32,60 @@ Um deine veralteten Items umzutauschen, kannst du uns an einem Ort Kisten aufste
 
 *Die veralteten Items sind bis einschließlich Dezember 2025 noch funktionsfähig. Danach wird das alte Plugin abgeschaltet, sodass nur noch der Umtausch die Itemfunktion wiederherstellen kann.*
 
+### Liste mit notwendigem Umtausch
++++ Event-Items / Sammelitems
+- Kürbissoldaten-Rüstung (Helm, Brustplatte, Hose, Schuhe)
+  - Geschwindigkeit hängt davon ab
+- Gamescom-Item
+  - Geschwindigkeit hängt davon ab
+- Elfenschuhe
+  - Sprungkraft hängt davon ab
+- Werwolfsrüstung (Helm, Brustplatte, Hose, Schuhe)
+ - Schaden hängt davon ab
+- Vampirrüstung (Helm, Brustplatte, Hose, Schuhe)
+ - Schaden & Extra-Effekte hängen davon ab
+- Weihnachtstools (Spitzhacke, Axt, Schaufel, Angel, Schwert)
+  - Geschwindigkeit hängt davon ab
+- Schaufel des Schneemans
+  - Schneeball-Schuss hängt davon ab
+- Seelensense
+  - Effekte hängen davon ab
+- Tarnmantel
+  - Effekte hängen davon ab
+- Finsterauge
+  - Funktionalität hängen davon ab
+- Magische Miesmuschel
+  - Funktionalität hängen davon ab
+
+
++++ Ausrüstung & Verbrauchsgüter
+- Mighty X Brustplatte
+  - Benötigt für Weiterverarbeitung
+- Deepslate-Spitzhacke
+  - Geschwindigkeit hängt davon ab
+- Verbesserter Dreizack I, II & III
+  - Überarbeitung
+- Verbessertes Schild I, II & III
+  - Überarbeitung
+- Wirbelsturm Brustplatte I, II & III
+  - Überarbeitung
+- Unsichtbare Itemframes
+  - Überarbeitung, Sichtbarkeit hängt ab
+- MuteTags
+  - Muting von Entities hängt davon ab
+- Beschwörungsstein: Schulker
+  - Shulkerbeschwörung hängt davon ab
+
+
++++ Ressourcen & Sonstiges
+- Shard I, II & III
+- Stramme Seide
+- Phiole
+- Shardessenz
+- Shulker-Kern
+
+-> Benötigt für Weiterverarbeitung
+
 ---
 
 ## Aufbau des Craftingsystems
