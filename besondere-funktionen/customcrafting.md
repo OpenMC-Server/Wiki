@@ -93,6 +93,7 @@ Falls ihr eure Items mit besonderen **Features** (siehe unten) nicht wiederfinde
 - Phiole
 - Shardessenz
 - Shulker-Kern
+- Collector Chest Blumen (Freedom, Hope, Justice, Love, Faith)
 
 -> Benötigt für Weiterverarbeitung
 
