@@ -33,6 +33,13 @@ Um deine veralteten Items umzutauschen, kannst du uns an einem Ort Kisten aufste
 *Die veralteten Items sind bis einschließlich Dezember 2025 noch funktionsfähig. Danach wird das alte Plugin abgeschaltet, sodass nur noch der Umtausch die Itemfunktion wiederherstellen kann.*
 
 ### Liste mit notwendigem Umtausch
+
+!!!warning
+Die Liste ist fortlaufend und kann sich mit der Zeit erweitern. Wenn ihr eure Sachen bei Items mit richtigen "Features" wie unten aufgelistet nicht wiederfindet, gebt gerne Bescheid damit diese Liste aktualisiert werden kann.
+
+Diese Items sind **notwendig** andere Items können *optional* umgetauscht werden, wenn sie zB für Shops etc. einheitlich benötigt werden.
+!!!
+
 +++ Event-Items / Sammelitems
 - Kürbissoldaten-Rüstung (Helm, Brustplatte, Hose, Schuhe)
   - Geschwindigkeit hängt davon ab
@@ -85,6 +92,8 @@ Um deine veralteten Items umzutauschen, kannst du uns an einem Ort Kisten aufste
 - Shulker-Kern
 
 -> Benötigt für Weiterverarbeitung
+
++++
 
 ---
 
