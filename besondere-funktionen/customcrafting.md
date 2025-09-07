@@ -35,9 +35,12 @@ Um deine veralteten Items umzutauschen, kannst du uns an einem Ort Kisten aufste
 ### Liste mit notwendigem Umtausch
 
 !!!warning
-Die Liste ist fortlaufend und kann sich mit der Zeit erweitern. Wenn ihr eure Sachen bei Items mit richtigen "Features" wie unten aufgelistet nicht wiederfindet, gebt gerne Bescheid damit diese Liste aktualisiert werden kann.
+Die Liste ist fortlaufend und wird mit der Zeit erweitert.
+Falls ihr eure Items mit besonderen **Features** (siehe unten) nicht wiederfindet, gebt mir bitte Bescheid, damit die Liste aktualisiert werden kann.
 
-Diese Items sind **notwendig** andere Items können *optional* umgetauscht werden, wenn sie zB für Shops etc. einheitlich benötigt werden.
+**Wichtig:**
+* Diese Items sind notwendig.
+* Andere Items können **optional** umgetauscht werden, zum Beispiel wenn sie für Shops oder ähnliche Zwecke einheitlich benötigt werden.
 !!!
 
 +++ Event-Items / Sammelitems
