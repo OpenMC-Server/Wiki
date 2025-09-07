@@ -51,17 +51,19 @@ Falls ihr eure Items mit besonderen **Features** (siehe unten) nicht wiederfinde
 - Elfenschuhe
   - Sprungkraft hängt davon ab
 - Werwolfsrüstung (Helm, Brustplatte, Hose, Schuhe)
- - Schaden hängt davon ab
+  - Schaden hängt davon ab
 - Vampirrüstung (Helm, Brustplatte, Hose, Schuhe)
- - Schaden & Extra-Effekte hängen davon ab
+  - Schaden & Extra-Effekte hängen davon ab
 - Weihnachtstools (Spitzhacke, Axt, Schaufel, Angel, Schwert)
   - Geschwindigkeit hängt davon ab
+- Weihnachtsrüstung
+  - Extra-Herzen hängen davon ab
 - Schaufel des Schneemans
   - Schneeball-Schuss hängt davon ab
 - Seelensense
-  - Effekte hängen davon ab
+  - Funktionalität hängen davon ab
 - Tarnmantel
-  - Effekte hängen davon ab
+  - Funktionalität hängen davon ab
 - Finsterauge
   - Funktionalität hängen davon ab
 - Magische Miesmuschel
