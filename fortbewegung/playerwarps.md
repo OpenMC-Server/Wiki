@@ -69,6 +69,9 @@ Mit diesem Befehl kannst du eine Beschreibung zu deinem PlayerWarp eingeben, wel
 `/pwarp category set <warpname> <kategorie>`\
 Sortiert den PlayerWarp in eine der vier Kategorien ein.
 
+`/pwarp open <kategorie>`\
+Öffnet die PlayerWarps einer bestimmten Kategorie direkt.
+
 `/pwarp favourites <warpname>`\
 Fügt den angegebenen PlayerWarp zu deinen Favoriten hinzu oder entfernt ihn wieder.
 
