@@ -101,3 +101,6 @@ Zeigt unsichtbare Bilderrahmen an.
 
 `/chunkinfo`\
 Zeigt alle Mobs und liegenden Items in einem 3x3 Radius um dich herum an.
+
+`/dmtoggle`\
+Schaltet die Anzeige von Todesnachrichten aus. Muss in jeder Welt separat umgeschaltet werden.
