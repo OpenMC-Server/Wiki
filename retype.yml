@@ -52,8 +52,8 @@ url: wiki.openmc.net      # The base URL of your website
 
 branding:
   title: Wiki
-  logo: /images/Logo_Transparent.png
-  logoDark: /images/Logo_Transparent_Weiß.png
+  logo: /images/Logo_Text_Schwarz.png
+  logoDark: /images/Logo_Text_Weiß.png
   logoAlign: left
 
 # -----------------------------------------------------------------------------

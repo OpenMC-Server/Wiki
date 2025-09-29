@@ -7,7 +7,7 @@ icon: home
 
 # Home
 
-![](/images/hero.png)
+![](/images/Wiki_Hero.png)
 
 **Herzlich Willkommen im OpenMC Wiki :wave:**
 
