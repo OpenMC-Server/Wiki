@@ -7,6 +7,12 @@ icon: home
 
 # Home
 
+!!!danger Wichtiger Hinweis: Der Server ist aktuell aufgrund technischer Probleme vorübergehend nicht erreichbar.
+Wir haben auf dem Discord-Server aktuelle Informationen dazu veröffentlicht.\
+Ein Ende der Einschränkungen können wir aktuell noch nicht festlegen. Bitte rechnet frühestens am Mittwoch, den 08.10. mit einer Freigabe.\
+Wir bitten vielmals um euer Verständnis. Informationen zur Handhabung von Ranglaufzeiten oder Events findet ihr im Discord.
+!!!
+
 ![](/images/Wiki_Hero.png)
 
 **Herzlich Willkommen im OpenMC Wiki :wave:**
