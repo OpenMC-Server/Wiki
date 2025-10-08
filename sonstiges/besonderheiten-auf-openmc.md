@@ -28,8 +28,12 @@ Das Mobspawning in der Bauwelt ist am stätksten beschränkt, da sich dort die m
 In der Farm- und Industriewelt wurden die Spawnraten ebenfalls verringert, jedoch nicht so stark wie in der Bauwelt.
 
 ### Moblimits
+!!!warning Korrekturhinweis
+Bisher wurde hier angegeben, dass alle Mobs, die mit einem Nametag benannt wurden, vom Moblimit ausgenommen sind. Dies bezieht sich tatsächlich aber nur auf Tiere, d.h. bei allen anderen Mobs ist ein Nametag wirkungslos.
+!!!
+
 Im Gegensatz zum Mobspawning bezieht sich das Moblimit auf bereits bestehende Mobs im Bereich des Spielers.\
-Mobs, welche das Limit überschreiten, werden entfernt, es sei denn, sie sind gezähmt oder mit einem Nametag benannt.
+Mobs, welche das Limit überschreiten, werden entfernt. Eine Ausnahme stellen Tiere dar, die mit einem Nametag benannt wurden. Diese sind vom Moblimit ausgenommen.
 
 Limits in den Welten:
 - Bauwelt: 100 Mobs im Bereich des Spielers (3x3 Chunks)
