@@ -72,7 +72,7 @@ CommandBlacklist        | Die Verwendung bestimmter Befehle deaktivieren. | Beim
 ViewContainer           | Kisten können geöffnet werden, aber es ist nicht möglich Items zu entnehmen. | Beim Team beantragbar
 KeepInventory           | Items werden nach dem Tod im Inventar beibehalten | Beim Team beantragbar für **Arenen**
 RespawnLocation         | Setze den Respawn-Punkt nach dem Tod auf dem Grundstück | Beim Team beantragbar für **Arenen**
-No Elytra               | Items werden nach dem Tod im Inventar beibehalten | Beim Team beantragbar für **berechtigte Projekte**
+No Elytra               | Deaktiviere das Fliegen mit der Elytra auf dem Claim | Beim Team beantragbar für **berechtigte Projekte**
 CommandBlacklist        | Deaktiviere bestimmte Befehle auf dem Claim | Beim Team beantragbar für **berechtigte Projekte**
 
 Sollte eine Flag aus technischen oder konzeptionellen Gründen einmal entfernt werden, kann eine Rückerstattung beantragt werden.
