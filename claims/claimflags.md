@@ -69,11 +69,10 @@ ReadLecterns            | Das Lesen signierter Bücher in Lesepulten erlauben. |
 NoEnter [Industriewelt] | Das Betreten des Claims durch fremde Spieler deaktivieren. | 0 ✪
 NoMapMaking             | Das Erstellen von Maps durch fremde Spieler deaktivieren. | 0 ✪
 CommandBlacklist        | Die Verwendung bestimmter Befehle deaktivieren. | Beim Team beantragbar
+NoElytra               | Deaktiviere das Fliegen mit der Elytra auf dem Claim | Beim Team beantragbar
 ViewContainer           | Kisten können geöffnet werden, aber es ist nicht möglich Items zu entnehmen. | Beim Team beantragbar
 KeepInventory           | Items werden nach dem Tod im Inventar beibehalten | Beim Team beantragbar für **Arenen**
 RespawnLocation         | Setze den Respawn-Punkt nach dem Tod auf dem Grundstück | Beim Team beantragbar für **Arenen**
-No Elytra               | Deaktiviere das Fliegen mit der Elytra auf dem Claim | Beim Team beantragbar für **berechtigte Projekte**
-CommandBlacklist        | Deaktiviere bestimmte Befehle auf dem Claim | Beim Team beantragbar für **berechtigte Projekte**
 
 Sollte eine Flag aus technischen oder konzeptionellen Gründen einmal entfernt werden, kann eine Rückerstattung beantragt werden.
 
