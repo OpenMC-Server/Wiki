@@ -234,3 +234,11 @@ Um an der Unterstützung teilzunehmen, sind folgende Schritte notwendig:
 2. [Navigiere zu OpenMC auf NameMC](https://de.namemc.com/server/openmc.net).
 3. Hinterlasse ein Herz auf dem Profil von OpenMC.
 4. Warte Ingame auf deine Belohnung. Diese wird innerhalb von 10 Minuten im Chat erscheinen.
+
+## Belohnungen durch Instagram
+Für das erreichen einer bestimmten Follower-Anzahl auf Instagram schalten wir nacheinander Kits frei. Diese beinhalten zum Dank für die erreichte Bandbreite einige Sammelitems, die von jedem 1x eingesammelt werden können.
+
+Aktuell bestehen folgende Kits:
+|Anzahl Follower | Kit                |
+|----------------|--------------------|
+| 50             | `/kit Instagram_50`|
