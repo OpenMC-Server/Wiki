@@ -1,4 +1,4 @@
----
+<---
 label: MyPet
 layout: default
 order: 398
@@ -739,7 +739,7 @@ Zeitweise sind die Infos [hier](https://docs.google.com/spreadsheets/d/1-OIfTc-E
   - Grundleben: 25 (max. 62)
   - Kampftyp: Nahkampf
   - Schaden: 0 (max. 15)
-  - Leuchtfeuereffekte: Geschinwdigkeit II, Stärke III, Resistenz I, Regeneration I, Regeneration I
+  - Leuchtfeuereffekte: Geschinwdigkeit II, Stärke III, Resistenz I, Regeneration I
   - Inventar: 1 Reihen
   - Fähigkeiten: Ride/Fly, Lightning
   - Kann aufsammeln: Nein
@@ -755,7 +755,7 @@ Zeitweise sind die Infos [hier](https://docs.google.com/spreadsheets/d/1-OIfTc-E
   - Kann aufsammeln: Nein
   - Geschwindigkeit: 0.38
   - Nahrung: Knochenmehl, Milcheimer, Goldklumpen
-- **Skumpskelett**
+- **Sumpfskelett**
   - Grundleben: 15 (max. 59)
   - Kampftyp: Fernkampf
   - Schaden: 0 (max. 10.5)
