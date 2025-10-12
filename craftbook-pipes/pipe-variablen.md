@@ -205,7 +205,8 @@ Um nach einer spezifischen Variable zu suchen, kannst du die Suche deines Browse
 | Blühendes Azaleenlaub 							| flowering\_azalea\_leaves 				| %fl\_azalea\_lv% 	    | %gf% 			|
 | Mangrovenlaub                                     | mangrove\_leaves                          | %mangrove\_lv%        | %xp%			|
 | Kirschlaub										| cherry\_leaves							| %cherry\_lv%			| %abp% 		|
-| Blasseichenlaub                                   | pale_oak_leaves | %poak_le% | %ail%
+| Blasseichenlaub                                   | pale\_oak\_leaves                         | %poak\_le%            | %ail%         |
+| Laubhaufen                                        | leaf\_litter                              | %le_li%               | %yj%          |
 
 ### Setzlinge
 {.compact}
@@ -1168,9 +1169,13 @@ Um nach einer spezifischen Variable zu suchen, kannst du die Suche deines Browse
 | ---                                               | ---                                       | ---                   | ---           |
 | Gras                                              | grass                                     | %grassplant%          | 31:1          |
 | Hohes Gras                                        | tall\_grass                               | %t\_grassplant%       | %iu%          |
+| Niedriges Trockengras                             | short\_dry\_grass                         | %sho\_\d_\grass%      | %vr%          |
+| Hohes Trockengras                                 | tall\_dry\_grass                          | %ta\_d\_grass%        | %wj%         |
 | Farn                                              | fern                                      | %fern%                | 31:2          |
 | Großer Farn                                       | large\_fern                               | %t\_fern%             | %iv%          |
 | Toter Busch                                       | dead\_bush                                | %deadbush%            | 32            |
+| Busch                                             | bush                                      | %bush%                | %kb%          |
+| Glühwürmchenbusch                                 | firefly\_bush                             | %fi\_bush%            | %ka%          |
 | Seerosenblatt                                     | lily\_pad                                 | %lilypad%             | 111           |
 | Seegras                                           | seagrass                                  | %seagrass%            | %iw%          |
 | Nethersprossen                                    | nether\_sprouts                           | %nsprouts%            | %iy%          |
@@ -1204,6 +1209,7 @@ Um nach einer spezifischen Variable zu suchen, kannst du die Suche deines Browse
 | Pfingstrose                                       | peony                                     | %peony%               | %jn%          |
 | Geschlossene Augenblüte                           | closed_eyeblossom                         | %c_eblos%             | %aiq%         |
 | Geöffnete Augenblüte                              | open_eyeblossom                           | %o_eblos%             | %air%         |
+| Wildblumen                                        | wildflowers                               | %wflow%               | %wh%          |
 
 ### Bienen
 {.compact}
@@ -1280,6 +1286,8 @@ Um nach einer spezifischen Variable zu suchen, kannst du die Suche deines Browse
 | Kugelfisch                                        | pufferfish                                | %pufferfish%          | %x%           |
 | Tropenfisch                                       | tropical\_fish                            | %tropicalfish%        | %w%           |
 | Ei                                                | egg                                       | %egg%                 | 344           |
+| Blaues Ei                                         | blue\_egg                                 | %egg\_blu%            | %rq%          |
+| Braunes Ei                                        | brown\_egg                                | %egg\_bro%            | %ze%          |
 | Kuchen                                            | cake                                      | %cake%                | 354           |
 
 ### Nicht essbare Pflanzen
@@ -1290,6 +1298,7 @@ Um nach einer spezifischen Variable zu suchen, kannst du die Suche deines Browse
 | Zucker                                            | sugar                                     | %sugar%               | 353           |
 | Bambus                                            | bamboo                                    | %bamboo%              | %jx%          |
 | Kaktus                                            | cactus                                    | %cactus%              | 81            |
+|Kaktusblüte                                        |cactus\_flower                             |%cac\_flow%            |%zv%           |
 | Meeresgurke                                       | sea\_pickle                               | %seapickle%           | %jy%          |
 | Ranken                                            | vine                                      | %vine%                | 106           |
 | Zwirbelranken                                     | twisting\_vines                           | %twist\_vine%         | %jz%          |
@@ -1523,6 +1532,22 @@ modifizierten Items kennen.
 | Spinnennetz                                       | cobweb                                    | %cobweb%              | 30            |
 | Drachenei                                         | dragon\_egg                               | %dragonegg%           | 122           |
 | Sattel                                            | saddle                                    | %saddle%              | 329           |
+| Weißes Geschirr                                   | white\_harness                            | %w\_harn%             | %wq%          |
+| Hellgraues Geschirr                               | light\_gray\_harness                      | %lgra\_harn%          | %vy%          |
+| Graues Geschirr                                   | gray\_harness                             | %g\_harn%             | %xy%          |
+| Schwarzes geschirr                                | black\_harness                            | %bl\_harn%            | %so%          |
+| Braunes Geschirr                                  | brown\_harness                            | %br\_harn%            | %zg%          |
+| Rotes Geschirr                                    | red\_harness                              | %r\_harn%             | %zh%          |
+| Oranges Geschirr                                  | orange\_harness                           | %o\_harn%             | %aab%         |
+| Gelbes Geschirr                                   | yellow\_harness                           | %y\_harn%             | %py%          |
+| Hellgrünes Geschirr                               | lime\_harness                             | %lgre\_harn%          | %ajv%         |
+| Grünes Geschirr                                   | green\_harness                            | %g\_harn%             | %ajw%         |
+| Türkises Geschirr                                 | cyan_harness                              | %c_harn%              | %ajx%         |           
+| Hellblaues Geschirr                               | light_blue_harness                        | %lb_harn%             | %ajy%         |
+| Blaues Geschirr                                   | blue_harness                              | %b_harn%              | %ajz%         |
+| Violettes geschirr                                | purple_harness                            | %pu_harn%             | %aka%         |
+| Magenta Geschirr                                  | magenta\_harness                          | %m\_harn%             | %aku%         |
+| Rosa Geschirr                                     | pink\_harness                             | %pi\_harn%            | %akc%         |
 | Leine                                             | lead                                      | %lead%                | 420           |
 | Namensschild                                      | name\_tag                                 | %nametag%             | 421           |
 | Schwerer Kern                                     | heavy_core                                | %hevcore%             | %agu%         |
@@ -1668,6 +1693,7 @@ modifizierten Items kennen.
 | Goldener Rossharnisch                             | golden\_horse\_armor                      | %go\_horsearmor%      | 418           |
 | Diamantener Rossharnisch                          | diamond\_horse\_armor                     | %di\_horsearmor%      | 419           |
 | Wolfspanzer                                       | wolf_armor                                | %wolfarmor%           | %ahs%         |
+
 ### Schallplatten
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
@@ -1692,6 +1718,8 @@ modifizierten Items kennen.
 | Schallplatte Aaron Cherof - Precipice				| music_disc_precipice						| %disc_precipice%		| %ahg% 		|
 | Schallplatte Lena Raine - Creator					| music_disc_creator						| %disc_creator%		| %ahh% 		|
 | Schallplatte Lena Raine - Creator (Music Box)		| music_disc_creator_music_box				| %disc_creator_mb%		| %ahi% 		|
+| Schallplatte Amos Roffy - Tears                   | music\_disc\_tears                        | %disc\_tears%         | %vp%          |
+| Schalltplatte Hyper Potions - Lava Chicken        | music\_disc\_lava\_chicken                | %disc\_lchicken%      | %zp%          |
 
 ### Töpferscherben
 {.compact}
