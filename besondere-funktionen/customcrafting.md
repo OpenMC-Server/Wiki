@@ -167,11 +167,13 @@ Jede Unterkategorie verfügt über **3 Craftingslots**. Dort werden die Rezepte 
 
 - Das erste Rezept beginnt automatisch mit der Abarbeitung seines Cooldowns.  
 - Klickst du ein Rezept vor Abschluss erneut an, erhältst du die eingesetzten Ressourcen zurück (bei vollem Inventar werden diese gedroppt).  
-- Nach Abschluss kannst du das fertige Item durch einen Klick ins Inventar aufnehmen.  
+- Nach Abschluss kannst du das fertige Item durch einen **Linksklick** ins Inventar aufnehmen.  
+- Über einen **Rechtsklick** hingegen werden alle Items aufgesammelt, welche schon abgeschlossen sind.
 
 ⚙️ **Wichtige Hinweise:**  
 - Pro Unterkategorie kann immer nur **ein Rezept gleichzeitig** bearbeitet werden.  
 - Auch wenn die Warteschlange nur 3 sichtbare Slots hat, können insgesamt **bis zu 10 Items** gleichzeitig gecraftet werden.  
+- Bei vollem Inventar werden die Resultate auf dem Boden gedropped.
 - Die restlichen Slots erreichst du über die Navigation am Rand:  
 ![](/images/customcrafting_warteschlange.png)
 
