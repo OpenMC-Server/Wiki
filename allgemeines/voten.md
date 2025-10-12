@@ -239,6 +239,7 @@ Um an der Unterstützung teilzunehmen, sind folgende Schritte notwendig:
 Für das erreichen einer bestimmten Follower-Anzahl auf Instagram schalten wir nacheinander Kits frei. Diese beinhalten zum Dank für die erreichte Bandbreite einige Sammelitems, die von jedem 1x eingesammelt werden können.
 
 Aktuell bestehen folgende Kits:
+
 |Anzahl Follower | Kit                |
 |----------------|--------------------|
 | 50             | `/kit Instagram_50`|
