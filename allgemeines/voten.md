@@ -13,7 +13,9 @@ Mit einem Vote unterstützt du den Server und erhältst tolle Belohnungen über 
 ## Votelinks
 Du kannst täglich auf zwei Seiten voten, um Belohnungen zu erhalten und den Server kostenfrei zu unterstützen.
 
-!!!warning Wichtiger Hinweis:
+!!!warning Achtung:
+Wir möchten euch darauf hinweisen, dass auf minecraft-server.eu teilweise eine Weiterleitung auf Scam-Websiten erfolgt. Daher empfehlen wir, sämtliche **Cookies abzulehnen** und bestenfalls einen **Adblocker** zu nutzen.
+
 Bitte vote während Restarts und Wartungsarbeiten **nicht** für den Server. Dies kann zum Verlust von Votes und der VoteStreak führen.
 !!!
 
