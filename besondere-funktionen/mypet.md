@@ -1,4 +1,4 @@
-<---
+---
 label: MyPet
 layout: default
 order: 398
