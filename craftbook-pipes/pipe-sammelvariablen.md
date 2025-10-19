@@ -225,13 +225,13 @@ Um nach einer spezifischen Sammelvariable zu suchen, kannst du die Suche deines 
 [!badge variant="secondary" text="**%zy%**"] **Alle Wollen**\
 *black_wool, blue_wool, brown_wool, cyan_wool, gray_wool, green_wool, light_blue_wool, light_gray_wool, lime_wool, magenta_wool, orange_wool, pink_wool, purple_wool, red_wool, white_wool, yellow_wool*
 
-[!badge variant="secondary" text="**%zz%**"] **Alle Alle Teppiche**\
+[!badge variant="secondary" text="**%zz%**"] **Alle Teppiche**\
 *white_carpet, orange_carpet, magenta_carpet, light_blue_carpet, yellow_carpet, lime_carpet, pink_carpet, gray_carpet, light_gray_carpet, cyan_carpet, purple_carpet, blue_carpet, brown_carpet, green_carpet, red_carpet, black_carpet*
 
 [!badge variant="secondary" text="**%yg%**"] **Alle Betten**\
 *white_bed, orange_bed, magenta_bed, light_blue_bed, yellow_bed, lime_bed, pink_bed, gray_bed, light_gray_bed, cyan_bed, purple_bed, blue_bed, brown_bed, green_bed, red_bed, black_bed*
 
-[!badge variant="secondary" text="**%yh%**"] **Alle Alle Banner**\
+[!badge variant="secondary" text="**%yh%**"] **Alle Banner**\
 *black_banner, white_banner, orange_banner, magenta_banner, light_blue_banner, yellow_banner, lime_banner, pink_banner, gray_banner, light_gray_banner, red_banner, green_banner, brown_banner, blue_banner, purple_banner, cyan_banner*
 
 [!badge variant="secondary" text="**%yi%**"] **Alle Bannervorlagen**\
