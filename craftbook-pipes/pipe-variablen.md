@@ -1529,6 +1529,7 @@ modifizierten Items kennen.
 | Kette                                             | chain                                     | %chain%               | %mq%          |
 | Lagerfeuer                                        | campfire                                  | %campfire%            | %mr%          |
 | Seelenlagerfeuer                                  | soul\_campfire                            | %soul\_campfire%      | %ms%          |
+| Ausgetrockneter Ghast                             | dried\_ghast                              | %d\_ghast%            | %vw%          |
 | Spinnennetz                                       | cobweb                                    | %cobweb%              | 30            |
 | Drachenei                                         | dragon\_egg                               | %dragonegg%           | 122           |
 | Sattel                                            | saddle                                    | %saddle%              | 329           |
