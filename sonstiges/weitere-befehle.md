@@ -39,8 +39,8 @@ Antwortet demjenigen, der dir zuletzt eine private Nachricht geschrieben hat.
 `/hc <nachricht/on/off>`\
 Sendet eine Nachricht in den Handelschat oder schaltet diesen für dich an oder aus.
 
-`/mail <send/news> [name] [nachricht]`\
-Sendet eine Mail an einen Spieler. /mail news schaltet die Discord-News Ankündigungen per Mail an oder aus.
+`/mail <list/send/news> [name] [nachricht]`\
+Zeigt die ungelesenen Mails an bzw. sendet eine Mail an einen Spieler. /mail news schaltet die Discord-News Ankündigungen per Mail an oder aus.
 
 `/sit`\
 Setze dich auf den Block.
