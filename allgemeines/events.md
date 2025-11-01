@@ -12,9 +12,9 @@ Auf dieser Seite findest du Erläuterungen zu den Events, die regelmäßig auf O
 
 ## Bauevent
 !!! Aktuelles Bauevent:
-*Thema:* Dorf\
-*Dauer:* 01.09. - 15.10.\
-*Bewertungsevent:* 18.10. - 23.10.
+*Thema:* Portal zu einer anderen Welt/Dimension\
+*Dauer:* 01.11. - 15.12.\
+*Bewertungsevent:* 18.12. - 23.12.
 !!!
 
 ### Über das Bauevent
