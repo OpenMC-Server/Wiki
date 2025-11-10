@@ -64,7 +64,7 @@ Ausgenommen sind:
 ---
 
 ## Phantome
-Phantome sind in der gesamten Bauwelt deaktiviert. In der Industrie- und Farmwelt lässt sich das Spawning mit `/phantomspawn` steuern.
+Phantome sind in der gesamten Bauwelt deaktiviert. In der Industrie- und Farmwelt lässt sich das Spawning mit `/phantoms toggle` steuern.
 
 ---
 
