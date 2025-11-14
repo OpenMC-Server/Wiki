@@ -60,15 +60,14 @@ Im folgenden findest du alle aktiven Teammitglieder und ihre Aufgabenbereiche.
 ### Owner
 ||| kev2k2
 -![](https://mc-heads.net/body/4ff1d3ce-ffd6-44c9-8dfe-d04255162300/100)
+**Aufgaben:**
 
-Aufgaben:
-- Serverleitung
-- Backend
+Serverleitung\
+Backend\
 ||| flowflower
 -![](/images/moonlightflora.png)
+**Aufgaben:**
 
-
-**Aufgaben:**\
  Serverleitung\
  Eventverwaltung\
  Bauevent-Organisation
