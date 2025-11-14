@@ -65,7 +65,7 @@ Im folgenden findest du alle aktiven Teammitglieder und ihre Aufgabenbereiche.
 Serverleitung\
 Backend\
 ||| flowflower
--![](https://mc-heads.net/body/46b48f65-05a5-4402-af0f-de03c4694071/100)
+-![](https://crafatar.com/renders/body/46b48f65-05a5-4402-af0f-de03c4694071?size=100)
 **Aufgaben:**
 
  Serverleitung\
