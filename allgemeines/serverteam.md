@@ -94,6 +94,8 @@ Backend
  Erbauen von Maps
 |||
 
+### Supporter
+
 
 
 Die Teammitglieder sind in vier Ränge unterteilt. Eventler kümmern sich um die Konzeption und Durchführung von Events sowie um den Mapbau. Die Moderatoren sind in erster Linie für das direkte Spielerlebnis auf dem Server verantwortlich. Sie sorgen dafür, dass die Regeln des Servers eingehalten werden, und helfen bei jeglichen Problemen. Die Admins und Owner bilden die Spitze des Serverteams. Sie sind eine Schnittstelle zwischen dem Frontend (dem Server selbst) und dem Backend (Plugins, Webseiten etc.). Das bedeutet konkret, dass sie teilweise auch Aufgaben eines Moderators übernehmen, jedoch auch für andere Aspekte des Spielerlebnisses verantwortlich sind, wie etwa die Verwaltung der Plugins.
