@@ -15,13 +15,13 @@ Im folgenden findest du alle aktiven Teammitglieder und ihre Aufgabenbereiche.
 
 ### Owner
 ||| kev2k2 [!badge variant="success" text="seit 2019 im Team"]
--![|100](https://starlightskins.lunareclipse.studio/render/ultimate/4ff1d3ce-ffd6-44c9-8dfe-d04255162300/full)
+-![|100](https://starlightskins.lunareclipse.studio/render/mojavatar/4ff1d3ce-ffd6-44c9-8dfe-d04255162300/full)
 **Aufgaben:**
 
 Serverleitung\
 Backend
 ||| flowflower [!badge variant="success" text="seit 2019 im Team"]
--![|95](https://starlightskins.lunareclipse.studio/render/ultimate/46b48f65-05a5-4402-af0f-de03c4694071/full)
+-![|95](https://starlightskins.lunareclipse.studio/render/mojavatar/46b48f65-05a5-4402-af0f-de03c4694071/full)
 **Aufgaben:**
 
  Serverleitung\

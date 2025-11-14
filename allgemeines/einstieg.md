@@ -7,6 +7,7 @@ icon: rocket
 
 # Einstieg
 
+![|150](https://starlightskins.lunareclipse.studio/render/pointing/46b48f65-05a5-4402-af0f-de03c4694071/full)-
 Huhu und Willkommen auf OpenMC! :wave:
 
 Zuerst einmal freuen wir uns sehr, dass du unser **Server-Wiki** entdeckt hast und dich auf eine Reise durch OpenMC begeben magst, um den Server und dessen Features besser kennenzulernen.
