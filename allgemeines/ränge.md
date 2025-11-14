@@ -38,18 +38,7 @@ Der Shop-Rang kann als Ausnahme auf einem zweiten Account beantragt werden, welc
 Der Champion Rang wird für 30 Tage vergeben, wenn ein Spieler das Bauevent gewinnt. Er enthält alle Rechte des VIP und des Plus-Upgrades sowie vier Votecoins pro Vote.
 
 ### :busts_in_silhouette: Serverteam
-#### Eventler
-Eventler sind für den Bau von Maps, sowie die Konzeption und Durchführung von Events zuständig.
-
-Eine Aufnahme in das Eventler-Team kann über eine Initativbewerbung oder die Bewerbung im Rahmen einer Bewerbungsphase stattfinden. Etwaige Voraussetzungen sind beispielsweise ein passender Baustil sowie aktives Spielen auf OpenMC.
-
-#### Moderator
-Moderatoren sind für den Spielersupport sowie sonstige kleinere Tätigkeiten im Rahmen des Serverteams vorgesehen.
-
-Eine Aufnahme in das Moderatoren-Team kann über eine Initativbewerbung erfolgen. Etwaige Voraussetzungen sind beispielsweise längeres, aktives Spielen auf OpenMC und weitere Kriterien.
-
-#### Admin/Owner
-Die Serverleitung kümmert sich hauptsächlich um interne, technische und konzeptionelle Themen, fungiert aber auch als Leitung der Mod- und Event-Ränge.
+Eine Beschreibung der Ränge im Serverteam findest du in [diesem Wiki-Artikel](https://wiki.openmc.net/allgemeines/serverteam/).
 
 ---
 
