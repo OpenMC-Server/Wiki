@@ -29,7 +29,7 @@ Backend
  Bauevent-Organisation
 |||
 
-### Admins
+### Administratoren
 ||| LPBoy_HD
 -![|110](https://starlightskins.lunareclipse.studio/render/ultimate/d5cb42c9-537a-4090-9bd3-a0beedefad5f/full)
 **Aufgaben:**
@@ -95,15 +95,12 @@ Backend
 |||
 
 ### Supporter
-
-
-
-Die Teammitglieder sind in vier Ränge unterteilt. Eventler kümmern sich um die Konzeption und Durchführung von Events sowie um den Mapbau. Die Moderatoren sind in erster Linie für das direkte Spielerlebnis auf dem Server verantwortlich. Sie sorgen dafür, dass die Regeln des Servers eingehalten werden, und helfen bei jeglichen Problemen. Die Admins und Owner bilden die Spitze des Serverteams. Sie sind eine Schnittstelle zwischen dem Frontend (dem Server selbst) und dem Backend (Plugins, Webseiten etc.). Das bedeutet konkret, dass sie teilweise auch Aufgaben eines Moderators übernehmen, jedoch auch für andere Aspekte des Spielerlebnisses verantwortlich sind, wie etwa die Verwaltung der Plugins.
+In Kürze.
 
 ---
 
-## Teamstruktur im Detail
-
+## Die Teamstruktur
+In der Folgenden Übersicht ist der Aufbau des Teams schematisch dargestellt. Im Anschluss werden die jeweiligen Aufgaben der Ränge beschrieben.
 ```mermaid
 %%{init: { 'theme': 'forest' }}%%
 flowchart TB
@@ -114,7 +111,7 @@ flowchart TB
     s2 --> D["Moderatoren"]
     s2 L_s2_B_0@-- <br> --> B("Eventler") & E["Supporter"]
     E --o n7["Ansprechpartner für Spieler<br>Chatsupport &amp; Unterstützung"]
-    B --o n6["Planung, Bau &amp; Durchführung von Events<br>Bauen von Serverbauwerken<br>Weitere saisonale Aufgaben"]
+    B --o n6["Planung, Bau &amp; Durchführung von Events<br>Bauen von Serverbauwerken"]
     D --o n8["Durchsetzung Serverregeln &amp; Richtlinien<br>Bearbeitung von Tickets<br>Besondere Aufgaben"]
     n9@{ shape: text}
     D@{ shape: rounded}
@@ -149,17 +146,18 @@ Die Supporter sind für den Chatsupport zuständig. Sie stehen als erste Ansprec
 ## Teambesprechungen
 Teambesprechungen dienen dem regelmäßigen Austausch im Team, um Fortschritte zu teilen und die zukünftige Entwicklung von OpenMC zu planen. Diese erfolgen je nach Verfügbarkeit ein- bis zweimal im Monat.
 
-Während der Besprechungen durchlaufen wir eine grobe Struktur an Themen: Zu Beginn werden Routine-Aufgaben besprochen, um ins Gespräch zu kommen. Dazu gehören Themen wie die Verwaltung der Siedler, Claimvergaben und der Austausch darüber, wer was gemacht hat oder wo Hilfe benötigt wird. Zuerst werden die priorisierten Themen behandelt, damit dafür ausreichend Zeit zur Verfügung steht und ausführliche Lösungen oder Ideen erarbeitet werden können. Danach folgen die sonstigen Themen, die sich bis zur Teambesprechung angesammelt haben. Abschließend besprechen wir in großer Runde die Forumsvorschläge, um diese auf Umsetzbarkeit, Konsistenz und Akzeptanz hin zu überprüfen.
+Während der Besprechungen werden eine Vielzahl an Themen behandelt. Es wird sowohl über die Routine-Aufgaben wie die Verwaltung der Siedler oder Claimvergaben gesprochen, als auch über größere konzeptionelle Themen und die eingrereichten Forumsvorschläge. Letztere werden auf Umsetzbarkeit, Konsistenz und Akzeptanz hin geprüft. 
 
 Nachdem die wichtigsten Punkte besprochen wurden, werden die Themen zwischen Mod-Themen und Event-Themen aufgeteilt, wodurch zwei separate, kleinere Besprechungen entstehen. In diesen werden Themen besprochen, die unter die jeweiligen Verantwortungsbereiche fallen.
 
-Eine volle Teambesprechung dauert in der Regel zwischen zwei und vier Stunden. Während dieses Zeitraums werden die Ergebnisse intern protokolliert, um unsere Aufgabenplanung auf dem Server entsprechend zu aktualisieren. Wichtige Neuerungen werden nach ihrer Umsetzung in den News bekannt gegeben.
+Eine volle Teambesprechung dauert in der Regel zwischen zwei und drei Stunden. Während dieses Zeitraums werden die Ergebnisse intern protokolliert, um unsere Aufgabenplanung auf dem Server entsprechend zu aktualisieren. Wichtige Neuerungen werden nach ihrer Umsetzung in den News bekannt gegeben.
 
 ---
 
 ## Spielertreffen
-Je nach zeitlicher Verfügbarkeit werden Spielertreffen in einem zweimonatigen Zyklus organisiert. Diese Treffen bieten die Gelegenheit, mit euch über anstehende Neuerungen und Themen rund um OpenMC zu sprechen und Raum für einen aktiven Meinungsaustausch zu schaffen. Eingebrachtes Feedback wird in einer weiteren Teambesprechung evaluiert und bei Übereinstimmung umgesetzt. Weitere Informationen zu den Spielertreffen sind jeweils in den News auf Discord zu finden.
+Je nach zeitlicher Verfügbarkeit werden Spielertreffen in einem ein- bis zweimal pro Jahr organisiert. Diese Treffen bieten die Gelegenheit, mit euch über anstehende Neuerungen und Themen rund um OpenMC zu sprechen und Raum für einen aktiven Meinungsaustausch zu schaffen. Eingebrachtes Feedback wird in einer weiteren Teambesprechung evaluiert und bei Übereinstimmung umgesetzt. Weitere Informationen zu den Spielertreffen sind jeweils in den News auf Discord zu finden.
 
+---
 
-
-INITIATIV
+## Bewerben
+Eine Aufnahme ins Team kann sowohl durch die Teilnahme an einer Bewerbungsphase als auch durch eine Intitiativbewerbung erfolgen. Je nach Rang setzen wir unterschiedliche Kenntnisse und eine gewisse Spielzeit auf OpenMC voraus. Wir sind gespannt auf deine Bewerbung!
