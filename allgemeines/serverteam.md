@@ -64,7 +64,7 @@ Im folgenden findest du alle aktiven Teammitglieder und ihre Aufgabenbereiche.
 
 Serverleitung\
 Backend
-||| flowflower [!badge variant="info" text="seit 2019"]
+||| flowflower [!badge variant="secondary" text="seit 2019"]
 -![|95](https://starlightskins.lunareclipse.studio/render/ultimate/46b48f65-05a5-4402-af0f-de03c4694071/full)
 **Aufgaben:**
 
