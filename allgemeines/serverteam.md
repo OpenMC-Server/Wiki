@@ -100,7 +100,7 @@ In Kürze.
 ---
 
 ## Die Teamstruktur
-In der Folgenden Übersicht ist der Aufbau des Teams schematisch dargestellt. Im Anschluss werden die jeweiligen Aufgaben der Ränge beschrieben.
+In der folgenden Übersicht ist der Aufbau des Teams schematisch dargestellt. Im Anschluss werden die jeweiligen Aufgaben der Ränge beschrieben.
 ```mermaid
 %%{init: { 'theme': 'forest' }}%%
 flowchart TB
