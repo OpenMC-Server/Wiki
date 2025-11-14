@@ -162,4 +162,4 @@ Je nach zeitlicher Verfügbarkeit werden Spielertreffen in einem ein- bis zweima
 ## Bewerben
 Eine Aufnahme ins Team kann sowohl durch die Teilnahme an einer Bewerbungsphase als auch durch eine Intitiativbewerbung erfolgen. Je nach Rang setzen wir unterschiedliche Kenntnisse und eine gewisse Spielzeit auf OpenMC voraus. Wir sind gespannt auf deine Bewerbung!
 
--![|300](https://starlightskins.lunareclipse.studio/render/reading/f063642c-3159-43af-8fa8-426b9e8c1a08/full)-
+![|100](https://starlightskins.lunareclipse.studio/render/reading/f063642c-3159-43af-8fa8-426b9e8c1a08/full)-
