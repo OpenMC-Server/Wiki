@@ -63,9 +63,9 @@ Im folgenden findest du alle aktiven Teammitglieder und ihre Aufgabenbereiche.
 **Aufgaben:**
 
 Serverleitung\
-Backend\
+Backend
 ||| flowflower
--![](https://crafatar.com/renders/body/46b48f65-05a5-4402-af0f-de03c4694071?size=100)
+-![](https://mc-heads.net/body/46b48f65-05a5-4402-af0f-de03c4694071/100)
 **Aufgaben:**
 
  Serverleitung\
@@ -75,22 +75,23 @@ Backend\
 
 ### Admins
 ||| LPBoy_HD
--![](/images/lpboy_hd.png)
-**Aufgaben:**\
+-![](https://mc-heads.net/body/d5cb42c9-537a-4090-9bd3-a0beedefad5f/100)
+**Aufgaben:**
+
  Interne Organisation\
  Backend\
  Entwicklung
-|||
 ||| LashtagLP
--![](/images/lashtaglp.png)
-**Aufgaben:**\
+-![](https://mc-heads.net/body/baa6b625-1a12-4ccb-a5d8-552f59b48a73/100)
+**Aufgaben:**
+
  Interne Organisation\
  Event-Organisation\
  Claimvergabe
-|||
 ||| Filomez
--![](/images/filomez.png)
-**Aufgaben:**\
+-![](https://mc-heads.net/body/e43bbb93-ce22-490a-8ac2-58b915ef28df/100)
+**Aufgaben:**
+
  Supportleitung\
  Spielerfeedback
  Bauevent-Organisation
