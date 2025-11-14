@@ -103,9 +103,9 @@ Die Teammitglieder sind in vier Ränge unterteilt. Eventler kümmern sich um die
 ## Teamstruktur im Detail
 
 ```mermaid
-%%{init: { 'theme': 'forest', 'layout': 'tidy-tree' }}%%
+%%{init: { 'theme': 'forest' }}%%
 flowchart TB
- subgraph s2["Administrative Aufgaben<br>Supportleitung<br>Eventleitung"]
+ subgraph s2["Administrative Aufgaben, Supportleitung, Eventleitung"]
         n3["Owner"]
         n5["Administratoren"]
   end
