@@ -58,13 +58,13 @@ Je nach zeitlicher Verfügbarkeit werden Spielertreffen in einem zweimonatigen Z
 Im folgenden findest du alle aktiven Teammitglieder und ihre Aufgabenbereiche.
 
 ### Owner
-||| kev2k2
+||| kev2k2 [!badge variant="info" text="seit 2019"]
 -![|100](https://starlightskins.lunareclipse.studio/render/ultimate/4ff1d3ce-ffd6-44c9-8dfe-d04255162300/full)
 **Aufgaben:**
 
 Serverleitung\
 Backend
-||| flowflower
+||| flowflower [!badge variant="info" text="seit 2019"]
 -![|95](https://starlightskins.lunareclipse.studio/render/ultimate/46b48f65-05a5-4402-af0f-de03c4694071/full)
 **Aufgaben:**
 
@@ -137,3 +137,5 @@ Backend
  Event-Entwicklung\
  Erbauen von Maps
 |||
+
+INITIATIV
