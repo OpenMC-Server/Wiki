@@ -104,11 +104,8 @@ Die Teammitglieder sind in vier Ränge unterteilt. Eventler kümmern sich um die
 
 ```mermaid
 ---
-config:
-  layout: dagre
-  look: neo
-  theme: redux
----
+
+%%{init: { 'logLevel': 'debug', 'theme': 'redux', 'layout': 'elk' } }%%
 flowchart TB
  subgraph s2["Administrative Aufgaben<br>Supportleitung<br>Eventleitung"]
         n3["Owner"]
