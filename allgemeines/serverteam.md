@@ -105,9 +105,10 @@ Die Teammitglieder sind in vier Ränge unterteilt. Eventler kümmern sich um die
 ```mermaid
 %%{init: { 'theme': 'forest' }}%%
 flowchart TB
- subgraph s2["Administrative Aufgaben, Supportleitung, Eventleitung"]
+ subgraph s2["<br>"]
         n3["Owner"]
         n5["Administratoren"]
+        n9@{ label: "<span style=\"color:\">Administrative Aufgaben</span><br style=\"--tw-scale-x:\"><span style=\"color:\">Supportleitung</span><br style=\"--tw-scale-x:\"><span style=\"color:\">Eventleitung</span>" }
   end
     s2 --> D["Moderatoren"]
     s2 L_s2_B_0@-- <br> --> B("Eventler") & E["Supporter"]
@@ -120,6 +121,7 @@ flowchart TB
     n7@{ shape: text}
     n6@{ shape: text}
     n8@{ shape: text}
+    n9@{ shape: text}
     L_s2_B_0@{ animation: none }
 ```
 
