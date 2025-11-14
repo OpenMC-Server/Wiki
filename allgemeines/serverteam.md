@@ -103,8 +103,6 @@ Die Teammitglieder sind in vier Ränge unterteilt. Eventler kümmern sich um die
 ## Teamstruktur im Detail
 
 ```mermaid
----
-
 %%{init: { 'logLevel': 'debug', 'theme': 'redux', 'layout': 'elk' } }%%
 flowchart TB
  subgraph s2["Administrative Aufgaben<br>Supportleitung<br>Eventleitung"]
@@ -139,6 +137,7 @@ Die Eventler bauen nicht nur die Maps für unsere Events, sondern führen diese 
 
 ### Supporter
 Die Supporter sind für den Chatsupport zuständig. Sie stehen als erste Ansprechpartner für die Spieler zur Verfügung und kennen sich gut mit den Funktionen auf OpenMC aus. Ebenso unterstützen sie bei Bedarf neue Spieler beim Start auf dem Server. Genau wie die Eventler melden sie Unregelmäßigkeiten an die Moderatoren bzw. die Supportleitung und können notfalls beschränkt Bestrafungen einleiten.
+
 ---
 
 ## Teambesprechungen
