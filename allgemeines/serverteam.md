@@ -6,7 +6,7 @@ icon: people
 ---
 
 # Serverteam
-Das Serverteam ist dafür zuständig, dass alle Aspekte des Servers, sowohl von technischer als auch spielinterner Seite, reibungslos funktionieren. Dazu gehört unter anderem, dass die Serverregeln eingehalten werden, neue und spannende Änderungen für das Spielerlebnis eingeführt werden und die Funktionalität aller Plugins sowie spielbeeinflussenden Serverelemente gewährleistet ist.
+Das Serverteam ist dafür zuständig, dass alle Aspekte des Servers, sowohl von technischer als auch konzeptioneller Seite, reibungslos funktionieren. Dazu gehört unter anderem, dass die Serverregeln eingehalten werden, neue und spannende Änderungen für das Spielerlebnis eingeführt werden und die Funktionalität aller Plugins sowie spielbeeinflussenden Serverelemente gewährleistet ist.
 
 ---
 
