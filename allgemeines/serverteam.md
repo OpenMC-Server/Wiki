@@ -14,13 +14,13 @@ Das Serverteam ist dafür zuständig, dass alle Aspekte des Servers, sowohl von 
 Im folgenden findest du alle aktiven Teammitglieder und ihre Aufgabenbereiche.
 
 ### Owner
-||| kev2k2 [!badge variant="secondary" text="seit 2019 im Team"]
+||| kev2k2 [!badge variant="success" text="seit 2019 im Team"]
 -![|100](https://starlightskins.lunareclipse.studio/render/ultimate/4ff1d3ce-ffd6-44c9-8dfe-d04255162300/full)
 **Aufgaben:**
 
 Serverleitung\
 Backend
-||| flowflower [!badge variant="secondary" text="seit 2019 im Team"]
+||| flowflower [!badge variant="success" text="seit 2019 im Team"]
 -![|95](https://starlightskins.lunareclipse.studio/render/ultimate/46b48f65-05a5-4402-af0f-de03c4694071/full)
 **Aufgaben:**
 
@@ -30,7 +30,7 @@ Backend
 |||
 
 ### Administratoren
-||| LPBoy_HD [!badge variant="secondary" text="seit 2020 im Team"]
+||| LPBoy_HD [!badge variant="success" text="seit 2020 im Team"]
 -![|110](https://starlightskins.lunareclipse.studio/render/ultimate/d5cb42c9-537a-4090-9bd3-a0beedefad5f/full)
 **Aufgaben:**
 
@@ -44,7 +44,7 @@ Backend
  Interne Organisation\
  Event-Organisation\
  Claimvergabe
-||| Filomez [!badge variant="secondary" text="seit 2023 im Team"]
+||| Filomez [!badge variant="success" text="seit 2023 im Team"]
 -![|100](https://starlightskins.lunareclipse.studio/render/ultimate/e43bbb93-ce22-490a-8ac2-58b915ef28df/full)
 **Aufgaben:**
 
@@ -54,19 +54,19 @@ Backend
 |||
 
 ### Moderatoren
-||| Cupcake7506 [!badge variant="secondary" text="seit 2021 im Team"]
+||| Cupcake7506 [!badge variant="success" text="seit 2021 im Team"]
 -![|100](https://starlightskins.lunareclipse.studio/render/ultimate/82cb08fa-e6d3-4049-aa97-0a014ae89402/full)
 **Aufgaben:**
 
  Spielersupport\
  Wiki
-||| Blechgecco [!badge variant="secondary" text="seit 2023 im Team"]
+||| Blechgecco [!badge variant="success" text="seit 2023 im Team"]
 -![|100](https://starlightskins.lunareclipse.studio/render/ultimate/9cd9e4cf-f644-4cb7-a48f-6f5c52f8cf24/full)
 **Aufgaben:**
 
  Spielersupport\
  Farmen
-||| Adrxxian [!badge variant="secondary" text="seit 2025 im Team"]
+||| Adrxxian [!badge variant="success" text="seit 2025 im Team"]
 -![|110](https://starlightskins.lunareclipse.studio/render/ultimate/f063642c-3159-43af-8fa8-426b9e8c1a08/full)
 **Aufgaben:**
 
@@ -74,19 +74,19 @@ Backend
 |||
 
 ### Eventler
-||| Useflo [!badge variant="secondary" text="seit 2024 im Team"]
+||| Useflo [!badge variant="success" text="seit 2024 im Team"]
 -![|105](https://starlightskins.lunareclipse.studio/render/ultimate/416ad43d-17eb-4c59-a912-e46684e23b31/full)
 **Aufgaben:**
 
  Event-Entwicklung\
  Erbauen von Maps
-||| Polarfoxine [!badge variant="secondary" text="seit 2024 im Team"]
+||| Polarfoxine [!badge variant="success" text="seit 2024 im Team"]
 -![|100](https://starlightskins.lunareclipse.studio/render/ultimate/7e0446ca-0b0f-4574-879b-48b2bb627aa8/full)
 **Aufgaben:**
 
  Event-Entwicklung\
  Erbauen von Maps
-||| Krempii [!badge variant="secondary" text="seit 2024 im Team"]
+||| Krempii [!badge variant="success" text="seit 2024 im Team"]
 -![|110](https://starlightskins.lunareclipse.studio/render/ultimate/3f5a8ca1-3d2c-4cfb-8d98-b54cd98ba718/full)
 **Aufgaben:**
 
