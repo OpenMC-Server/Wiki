@@ -65,13 +65,13 @@ Aufgaben:
 - Serverleitung
 - Backend
 
-||| moonlightflora
 -![](/images/moonlightflora.png)
+flowflower
+
 **Aufgaben:**\
  Serverleitung\
  Eventverwaltung\
  Bauevent-Organisation
-|||
 
 ### Admins
 ||| LPBoy_HD
