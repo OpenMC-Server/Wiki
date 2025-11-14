@@ -126,6 +126,7 @@ flowchart TB
     n6@{ shape: text}
     n8@{ shape: text}
     L_s2_B_0@{ animation: none }
+```
 
 ### Owner
 Die Owner leiten den Server und sind für die technische Bereitstellung des Servers und die Finanzen verantwortlich. Ein Großteil der Arbeit, insbesondere im Zusammenhang mit dem Backend und den Plugins, findet im Hintergrund statt. Ebenso werden je nach Situation Entscheidungen im Serverteam durch die Owner final abgesegnet. Owner sind zudem je nach Bedarf auch für andere Aufgaben aus dem Administratoren-Bereich zuständig.
