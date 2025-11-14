@@ -108,8 +108,7 @@ Die Teammitglieder sind in vier Ränge unterteilt. Eventler kümmern sich um die
 %%{init: { 'theme': 'forest' }}%%
 flowchart TB
  subgraph s2["<br>"]
-        n3["Owner"]
-        n5["Administratoren"]
+        n3["Owner<br>Administratoren"]
         n9@{ label: "<span style=\"color:\">Administrative Aufgaben</span><br style=\"--tw-scale-x:\"><span style=\"color:\">Supportleitung</span><br style=\"--tw-scale-x:\"><span style=\"color:\">Eventleitung</span>" }
   end
     s2 --> D["Moderatoren"]
@@ -117,13 +116,16 @@ flowchart TB
     E --o n7["Ansprechpartner für Spieler<br>Chatsupport &amp; Unterstützung"]
     B --o n6["Planung, Bau &amp; Durchführung von Events<br>Bauen von Serverbauwerken<br>Weitere saisonale Aufgaben"]
     D --o n8["Durchsetzung Serverregeln &amp; Richtlinien<br>Bearbeitung von Tickets<br>Besondere Aufgaben"]
-    n5@{ shape: rect}
+    n9@{ shape: text}
     D@{ shape: rounded}
     E@{ shape: rounded}
     n7@{ shape: text}
     n6@{ shape: text}
     n8@{ shape: text}
-    n9@{ shape: text}
+    click n3 "https://wiki.openmc.net/allgemeines/serverteam/#owner-1"
+    click D "https://wiki.openmc.net/allgemeines/serverteam/#moderatoren-1"
+    click B "https://wiki.openmc.net/allgemeines/serverteam/#eventler-1"
+    click E "https://wiki.openmc.net/allgemeines/serverteam/#supporter-1"
     L_s2_B_0@{ animation: none }
 ```
 
