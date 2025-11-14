@@ -45,7 +45,7 @@ Backend
  Event-Organisation\
  Claimvergabe
 ||| Filomez [!badge variant="success" text="seit 2023 im Team"]
--![|100](https://starlightskins.lunareclipse.studio/render/ultimate/e43bbb93-ce22-490a-8ac2-58b915ef28df/full)
+-![|100](https://starlightskins.lunareclipse.studio/render/custom/e43bbb93-ce22-490a-8ac2-58b915ef28df/full)
 **Aufgaben:**
 
  Supportleitung\
