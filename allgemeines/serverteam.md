@@ -65,7 +65,7 @@ Im folgenden findest du alle aktiven Teammitglieder und ihre Aufgabenbereiche.
 Serverleitung\
 Backend
 ||| flowflower
--![|100](https://starlightskins.lunareclipse.studio/render/ultimate/46b48f65-05a5-4402-af0f-de03c4694071/full)
+-![|95](https://starlightskins.lunareclipse.studio/render/ultimate/46b48f65-05a5-4402-af0f-de03c4694071/full)
 **Aufgaben:**
 
  Serverleitung\
@@ -111,7 +111,7 @@ Backend
  Spielersupport\
  Farmen
 ||| Adrxxian
--![|100](https://starlightskins.lunareclipse.studio/render/ultimate/f063642c-3159-43af-8fa8-426b9e8c1a08/full)
+-![|110](https://starlightskins.lunareclipse.studio/render/ultimate/f063642c-3159-43af-8fa8-426b9e8c1a08/full)
 **Aufgaben:**
 
  Spielersupport
@@ -119,7 +119,7 @@ Backend
 
 ### Eventler
 ||| Useflo
--![|100](https://starlightskins.lunareclipse.studio/render/ultimate/416ad43d-17eb-4c59-a912-e46684e23b31/full)
+-![|105](https://starlightskins.lunareclipse.studio/render/ultimate/416ad43d-17eb-4c59-a912-e46684e23b31/full)
 **Aufgaben:**
 
  Event-Entwicklung\
@@ -131,7 +131,7 @@ Backend
  Event-Entwicklung\
  Erbauen von Maps
 ||| Krempii
--![|100](https://starlightskins.lunareclipse.studio/render/ultimate/3f5a8ca1-3d2c-4cfb-8d98-b54cd98ba718/full)
+-![|110](https://starlightskins.lunareclipse.studio/render/ultimate/3f5a8ca1-3d2c-4cfb-8d98-b54cd98ba718/full)
 **Aufgaben:**
 
  Event-Entwicklung\
