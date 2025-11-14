@@ -59,7 +59,7 @@ Im folgenden findest du alle aktiven Teammitglieder und ihre Aufgabenbereiche.
 
 ### Owner
 ||| kev2k2
--![](/images/kev2k2.png)
+-![](https://starlightskins.lunareclipse.studio/render/:default/:kev2k2/:full)
 **Aufgaben:**\
  Serverleitung\
   Backend
