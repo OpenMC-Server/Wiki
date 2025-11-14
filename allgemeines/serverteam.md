@@ -59,13 +59,13 @@ Im folgenden findest du alle aktiven Teammitglieder und ihre Aufgabenbereiche.
 
 ### Owner
 ||| kev2k2
--![|100|243](https://starlightskins.lunareclipse.studio/render/ultimate/4ff1d3ce-ffd6-44c9-8dfe-d04255162300/full)
+-![|100x243](https://starlightskins.lunareclipse.studio/render/ultimate/4ff1d3ce-ffd6-44c9-8dfe-d04255162300/full)
 **Aufgaben:**
 
 Serverleitung\
 Backend
 ||| flowflower
--![|100|243](https://starlightskins.lunareclipse.studio/render/ultimate/46b48f65-05a5-4402-af0f-de03c4694071/full)
+-![|100x243](https://starlightskins.lunareclipse.studio/render/ultimate/46b48f65-05a5-4402-af0f-de03c4694071/full)
 **Aufgaben:**
 
  Serverleitung\
@@ -75,21 +75,21 @@ Backend
 
 ### Admins
 ||| LPBoy_HD
--![|100|243](https://starlightskins.lunareclipse.studio/render/ultimate/d5cb42c9-537a-4090-9bd3-a0beedefad5f/full)
+-![|100x243](https://starlightskins.lunareclipse.studio/render/ultimate/d5cb42c9-537a-4090-9bd3-a0beedefad5f/full)
 **Aufgaben:**
 
  Interne Organisation\
  Backend\
  Entwicklung
 ||| LashtagLP
--![|100|243](https://starlightskins.lunareclipse.studio/render/ultimate/baa6b625-1a12-4ccb-a5d8-552f59b48a73/full)
+-![|100x243](https://starlightskins.lunareclipse.studio/render/ultimate/baa6b625-1a12-4ccb-a5d8-552f59b48a73/full)
 **Aufgaben:**
 
  Interne Organisation\
  Event-Organisation\
  Claimvergabe
 ||| Filomez
--![|100|243](https://starlightskins.lunareclipse.studio/render/ultimate/e43bbb93-ce22-490a-8ac2-58b915ef28df/full)
+-![|100x243](https://starlightskins.lunareclipse.studio/render/ultimate/e43bbb93-ce22-490a-8ac2-58b915ef28df/full)
 **Aufgaben:**
 
  Supportleitung\
