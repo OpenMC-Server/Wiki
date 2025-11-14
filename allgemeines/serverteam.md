@@ -14,7 +14,7 @@ Das Serverteam ist dafür zuständig, dass alle Aspekte des Servers, sowohl von 
 Im folgenden findest du alle aktiven Teammitglieder und ihre Aufgabenbereiche.
 
 ### Owner
-||| kev2k2 [!badge variant="info" text="seit 2019"]
+||| kev2k2 [!badge variant="secondary" text="seit 2019"]
 -![|100](https://starlightskins.lunareclipse.studio/render/ultimate/4ff1d3ce-ffd6-44c9-8dfe-d04255162300/full)
 **Aufgaben:**
 
@@ -30,14 +30,14 @@ Backend
 |||
 
 ### Administratoren
-||| LPBoy_HD
+||| LPBoy_HD [!badge variant="secondary" text="seit 2019"]
 -![|110](https://starlightskins.lunareclipse.studio/render/ultimate/d5cb42c9-537a-4090-9bd3-a0beedefad5f/full)
 **Aufgaben:**
 
  Interne Organisation\
  Backend\
  Entwicklung
-||| LashtagLP
+||| LashtagLP [!badge variant="secondary" text="seit 2019"]
 -![|100](https://starlightskins.lunareclipse.studio/render/ultimate/baa6b625-1a12-4ccb-a5d8-552f59b48a73/full)
 **Aufgaben:**
 
@@ -56,11 +56,12 @@ Backend
 ### Moderatoren
 ||| Cupcake7506
 -![|100](https://starlightskins.lunareclipse.studio/render/ultimate/82cb08fa-e6d3-4049-aa97-0a014ae89402/full)
+[!badge variant="secondary" text="seit 2021 im Team"]
 **Aufgaben:**
 
  Spielersupport\
  Wiki
-||| Blechgecco
+||| Blechgecco [!badge variant="secondary" text="seit 2023"]
 -![|100](https://starlightskins.lunareclipse.studio/render/ultimate/9cd9e4cf-f644-4cb7-a48f-6f5c52f8cf24/full)
 **Aufgaben:**
 
