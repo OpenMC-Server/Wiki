@@ -75,7 +75,7 @@ Backend
 
 ### Admins
 ||| LPBoy_HD
--![|120](https://starlightskins.lunareclipse.studio/render/ultimate/d5cb42c9-537a-4090-9bd3-a0beedefad5f/full)
+-![|110](https://starlightskins.lunareclipse.studio/render/ultimate/d5cb42c9-537a-4090-9bd3-a0beedefad5f/full)
 **Aufgaben:**
 
  Interne Organisation\
@@ -99,39 +99,41 @@ Backend
 
 ### Moderatoren
 ||| Cupcake7506
--![](/images/cupcake7506.png)
-**Aufgaben:**\
+-![|100](https://starlightskins.lunareclipse.studio/render/ultimate/82cb08fa-e6d3-4049-aa97-0a014ae89402/full)
+**Aufgaben:**
+
  Spielersupport\
  Wiki
-|||
 ||| Blechgecco
--![](/images/blechgecco.png)
-**Aufgaben:**\
+-![|100](https://starlightskins.lunareclipse.studio/render/ultimate/9cd9e4cf-f644-4cb7-a48f-6f5c52f8cf24/full)
+**Aufgaben:**
+
  Spielersupport\
  Farmen
-|||
 ||| Adrxxian
--![](/images/adrxxian.png)
-**Aufgaben:**\
+-![|100](https://starlightskins.lunareclipse.studio/render/ultimate/f063642c-3159-43af-8fa8-426b9e8c1a08/full)
+**Aufgaben:**
+
  Spielersupport
 |||
 
 ### Eventler
 ||| Useflo
--![](/images/useflo.png)
-**Aufgaben:**\
+-![|100](https://starlightskins.lunareclipse.studio/render/ultimate/416ad43d-17eb-4c59-a912-e46684e23b31/full)
+**Aufgaben:**
+
  Event-Entwicklung\
  Erbauen von Maps
-|||
 ||| Polarfoxine
--![](/images/polarfoxine.png)
-**Aufgaben:**\
+-![|100](https://starlightskins.lunareclipse.studio/render/ultimate/7e0446ca-0b0f-4574-879b-48b2bb627aa8/full)
+**Aufgaben:**
+
  Event-Entwicklung\
  Erbauen von Maps
-|||
 ||| Krempii
--![](/images/krempii.png)
-**Aufgaben:**\
+-![|100](https://starlightskins.lunareclipse.studio/render/ultimate/3f5a8ca1-3d2c-4cfb-8d98-b54cd98ba718/full)
+**Aufgaben:**
+
  Event-Entwicklung\
  Erbauen von Maps
 |||
