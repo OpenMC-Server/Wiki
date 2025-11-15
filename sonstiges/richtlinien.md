@@ -168,7 +168,7 @@ Im Regelfall werden nicht mehr als zwei Chancen gewährt.
 ## Modifikationen
 Auf OpenMC möchten wir ein faires und transparentes Spielerlebnis bieten. Um dies zu gewährleisten, haben wir klare Richtlinien für die Nutzung von Modifikationen. Diese sollen sicherstellen, dass alle Spieler gleiche Chancen haben und keine unfaire Vorteile durch technische Hilfsmittel erlangen.
 
-### Nicht erlaubt sind Mods, die:
+###  :icon-x-circle: Nicht erlaubt sind Mods, die:
 - das Bauen unnatürlich erleichtern<br>
     - **Beispiele:** AccurateBlockPlacement, EasyPlace, FastBlockPlacement
 - das Farmen erleichtern<br>
@@ -187,7 +187,7 @@ Auf OpenMC möchten wir ein faires und transparentes Spielerlebnis bieten. Um di
     - **Beispiele:** AutoFish, AntiAFK, AutoJoin
 
 
-### Erlaubt sind Mods, die:
+### :icon-check-circle: Erlaubt sind Mods, die:
 - kosmetische oder komfortsteigernde Funktionen bieten<br>
     - **Beispiele:** OptiFine, MiniMaps, Inventory Sorter, Sodium. Gamma, Zoom
 - die Benutzeroberfläche anpassen<br>
