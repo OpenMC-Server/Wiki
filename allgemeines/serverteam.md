@@ -43,7 +43,7 @@ Eventeinrichtung
 **Aufgaben:**
 
  Supportleitung\
- Spielerfeedback
+ Spielerfeedback\
  Bauevent-Organisation
 |||
 
