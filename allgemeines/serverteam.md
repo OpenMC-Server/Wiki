@@ -96,7 +96,7 @@ Event-Organisation
 
  Spielersupport
 ||| Thunder492 [!badge variant="success" text="seit 2025 im Team"]
--![|100](https://starlightskins.lunareclipse.studio/render/ultimate/774eb3de-3881-42c1-a772-8aada9135ac7/full)
+-![|110](https://starlightskins.lunareclipse.studio/render/ultimate/774eb3de-3881-42c1-a772-8aada9135ac7/full)
 **Aufgaben:**
 
  Spielersupport
