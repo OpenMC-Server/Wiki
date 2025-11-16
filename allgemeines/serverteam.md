@@ -86,7 +86,8 @@ Event-Organisation
 **Aufgaben:**
 
  Event-Entwicklung\
- Erbauen von Maps
+ Erbauen von Maps\
+ Instagram-Account
 |||
 
 ### Supporter
