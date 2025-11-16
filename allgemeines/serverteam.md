@@ -19,7 +19,8 @@ Im folgenden findest du alle aktiven Teammitglieder und ihre Aufgabenbereiche.
 **Aufgaben:**
 
 Serverleitung\
-Backend
+Backend\
+Event-Organisation
 ||| flowflower [!badge variant="success" text="seit 2019 im Team"]
 -![|95](https://starlightskins.lunareclipse.studio/render/ultimate/46b48f65-05a5-4402-af0f-de03c4694071/full)
 **Aufgaben:**
@@ -37,13 +38,6 @@ Backend
  Interne Organisation\
  Backend\
  Entwicklung
-||| LashtagLP 
--![|100](https://starlightskins.lunareclipse.studio/render/ultimate/baa6b625-1a12-4ccb-a5d8-552f59b48a73/full)
-**Aufgaben:**
-
- Interne Organisation\
- Event-Organisation\
- Claimvergabe
 ||| Filomez [!badge variant="success" text="seit 2023 im Team"]
 -![|100](https://starlightskins.lunareclipse.studio/render/ultimate/e43bbb93-ce22-490a-8ac2-58b915ef28df/full)
 **Aufgaben:**
@@ -70,7 +64,8 @@ Backend
 -![|110](https://starlightskins.lunareclipse.studio/render/ultimate/f063642c-3159-43af-8fa8-426b9e8c1a08/full)
 **Aufgaben:**
 
- Spielersupport
+ Spielersupport\
+ Claimvergabe
 |||
 
 ### Eventler
@@ -95,7 +90,17 @@ Backend
 |||
 
 ### Supporter
-In Kürze.
+||| Aleischa [!badge variant="success" text="seit 2025 im Team"]
+-![|100](https://starlightskins.lunareclipse.studio/render/ultimate/192876d1-2845-47a2-af33-fff31339a413/full)
+**Aufgaben:**
+
+ Spielersupport
+||| Thunder492 [!badge variant="success" text="seit 2025 im Team"]
+-![|100](https://starlightskins.lunareclipse.studio/render/ultimate/774eb3de-3881-42c1-a772-8aada9135ac7/full)
+**Aufgaben:**
+
+ Spielersupport
+|||
 
 ---
 
