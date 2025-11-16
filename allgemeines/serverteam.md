@@ -52,18 +52,21 @@ Event-Organisation
 -![|100](https://starlightskins.lunareclipse.studio/render/ultimate/82cb08fa-e6d3-4049-aa97-0a014ae89402/full)
 **Aufgaben:**
 
+ Moderation\
  Spielersupport\
  Wiki
 ||| Blechgecco [!badge variant="success" text="seit 2023 im Team"]
 -![|100](https://starlightskins.lunareclipse.studio/render/ultimate/9cd9e4cf-f644-4cb7-a48f-6f5c52f8cf24/full)
 **Aufgaben:**
 
+ Moderation\
  Spielersupport\
  Farmen
 ||| Adrxxian [!badge variant="success" text="seit 2025 im Team"]
 -![|110](https://starlightskins.lunareclipse.studio/render/ultimate/f063642c-3159-43af-8fa8-426b9e8c1a08/full)
 **Aufgaben:**
 
+ Moderation\
  Spielersupport\
  Claimvergabe
 |||
