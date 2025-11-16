@@ -20,7 +20,7 @@ Im folgenden findest du alle aktiven Teammitglieder und ihre Aufgabenbereiche.
 
 Serverleitung\
 Backend\
-Event-Organisation
+Eventeinrichtung
 ||| flowflower [!badge variant="success" text="seit 2019 im Team"]
 -![|95](https://starlightskins.lunareclipse.studio/render/ultimate/46b48f65-05a5-4402-af0f-de03c4694071/full)
 **Aufgaben:**
