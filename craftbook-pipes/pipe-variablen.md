@@ -748,11 +748,11 @@ Um nach einer spezifischen Variable zu suchen, kannst du die Suche deines Browse
 | Graues Glas                                       | gray\_stained\_glass                      | %glass\_gry%          | 95:7          |
 | Schwarzes Glas                                    | black\_stained\_glass                     | %glass\_blk%          | %sf%          |
 | Gelbes Glas                                       | yellow\_stained\_glass                    | %glass\_yel%          | 95:4          |
-| Oranges Glas                                      | orange\_stained\_glass                    | %glass\_org%          | 95:1          |
+| Oranges Glas                                      | orange\_stained\_glass                    | %glass\_ora%          | 95:1          |
 | Rotes Glas                                        | red\_stained\_glass                       | %glass\_red%          | %se%          |
 | Rosa Glas                                         | pink\_stained\_glass                      | %glass\_pnk%          | 95:6          |
 | Magenta Glas                                      | magenta\_stained\_glass                   | %glass\_mag%          | 95:2          |
-| Violettes Glas                                    | purple\_stained\_glass                    | %glass\_ppl%          | %sa%          |
+| Violettes Glas                                    | purple\_stained\_glass                    | %glass\_pur%          | %sa%          |
 | Blaues Glas                                       | blue\_stained\_glass                      | %glass\_blu%          | %sb%          |
 | Türkises Glas                                     | cyan\_stained\_glass                      | %glass\_cya%          | 95:9          |
 | Grünes Glas                                       | green\_stained\_glass                     | %glass\_grn%          | %sd%          |
