@@ -95,7 +95,7 @@ Eingereichte Bauwerke…
 - [x] ...müssen die Performance berücksichtigen.
 
 Teilnehmer...
-- [x] ... dürfen Inspiration aus dem Internet und schon bestehende (eigene) Bauwerke auf dem Server keineswegs exakt nachbauen, wenn diese für das Hauptaugenmerk des Events von Bedeutung sind (strukturelle Änderungen in Abhängigkeit der Gesamtkomposition nötig). Sofern dies geschieht, muss die Quelle der Inspiration während der Anmeldung angegeben werden.
+- [x] ... dürfen Inspiration aus dem Internet und schon bestehende (eigene) Bauwerke auf dem Server keineswegs exakt nachbauen, wenn diese für das Hauptaugenmerk des Events von Bedeutung sind (strukturelle Änderungen in Abhängigkeit der Gesamtkomposition nötig). Sofern dies geschieht, muss die Quelle der Inspiration während der Anmeldung angegeben werden. Visuelle Darstellung unter: **/warp Bauevent-Quellenangabe**
 - [x] ...dürfen Schematics/Litematica nur verwenden, wenn sämtliche Blöcke von Hand platziert werden.
 - [x] ...dürfen sich nur an einem Bauwerk beteiligen.
 
