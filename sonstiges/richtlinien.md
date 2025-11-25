@@ -7,7 +7,7 @@ icon: checklist
 
 # Richtlinien
 
-Die folgenden Richtlinien dienen als Ergänzung der Serverregeln und sind ebenfalls verpflichtend.
+Die folgenden Richtlinien dienen als Ergänzung der Serverregeln und sind ebenfalls zu befolgen.
 
 Melde dich bei Unklarheiten und Fragen sehr gerne bei einem Teammitglied oder im [Discord](https://discord.com/invite/ecqPF34).
 
