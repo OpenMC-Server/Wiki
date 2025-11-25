@@ -9,16 +9,19 @@ icon: verified
 
 Farmanlagen sind ein interessanter Bestandteil des Spielgeschehens und von OpenMC. Bekannterweise führen mehrere Farmen bei zeitgleicher Nutzung jedoch zu Performance-Einbrüchen, welche den Spielspaß beeinträchtigen. Mit unserer ausgelagerten Industriewelt bieten wir als Server eine stark performante Welt für Farmen, Anlagen und vergleichbares an, um den Spaß in unserem Weltensystem zu garantieren.
 
-Folglich sind Farmanmeldungen ein wichtiger Bestandteil für das Team, um die angemeldeten Farmen bei zu hohen Auslastungen überprüfen zu können und euch bei euren möglichen performance-belastenden Anlagen informieren und gemeinsam an einer Optimierung arbeiten zu können.
+Farmanmeldungen sind ein wichtiger Bestandteil für das Team, um die angemeldeten Farmen bei zu hohen Auslastungen überprüfen zu können und euch bei euren möglichen performance-belastenden Anlagen informieren und gemeinsam an einer Optimierung arbeiten zu können.
 
 ---
 
 ## Farm anmelden
-!!!primary Welche Farmen müssen angemeldet werden?
-Eine genaue Erklärung, welche Farmen angemeldet werden müssen, findest du unter [Richtlinien](https://wiki.openmc.net/sonstiges/richtlinien/#farmen).
+!!!warning Bitte vor der Anmeldung lesen:
+- Eine genaue Erklärung, welche Farmen angemeldet werden müssen, findest du unter [Richtlinien](https://wiki.openmc.net/sonstiges/richtlinien/#farmen).
+- Im Normalfall ist kein zusätzliches Discord-Ticket notwendig, wenn du die Art deiner Farm im Menü auswählen kannst.
+- Du kannst direkt nach der Anmeldung mit dem Bau der Farm beginnen. Du musst nicht auf die Bestätigung der Anmeldung warten.
 !!!
 
-Vor deiner Anmeldung solltest du dich bereits zu den Koordinaten begeben, wo deine Farm steht. Anschließend tätigst du vor dieser den Befehl `/farmanmeldung`, um die Anmeldung zu beginnen.
+Vor deiner Anmeldung solltest du dich bereits zu den Koordinaten begeben, wo deine Farm stehen wird.\
+Anschließend tätigst du den Befehl `/farmanmeldung`, um die Anmeldung zu beginnen.
 
 ### 1. Farmkategorie auswählen
 Zu Beginn kannst du die für deine Farm vorgesehene Kategorie (Mobs, Ressourcen, Große Anlagen) auswählen.
@@ -34,4 +37,4 @@ Zuletzt wählst du aus, ob deine Farm halbautomatisch oder vollautomatisch ist, 
 Über den Befehl `/farmen anschauen` kannst du eine GUI öffnen, in welcher du alle deine angemeldeten Farmen inklusive Koordinaten, Welt u.v.m. anschauen kannst.
 
 ## Farm abmelden
-Die Funktion zum Abmelden deiner Farmen erfolgt bald!
+Bitte wende dich per Discord-Ticket an das Team, um deine Farm abzumelden.
