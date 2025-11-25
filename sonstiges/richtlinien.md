@@ -29,7 +29,7 @@ Farmen sind vollautomatisch, wenn sie keinen Eingriff von dem Anwender erfordern
 ### Anmeldepflicht
 Jede halb- & vollautomatische Farm muss angemeldet werden, damit wir als Team die unter den Farmanmeldungen berücksichtigten Kriterien überprüfen und gegebenenfalls Hilfestellung leisten können.
 
-Halb- und vollautomatische Farmen müssen in der dafür vorgesehenen Industriewelt erbaut werden. Es gibt jedoch bestimmte Anlagen zur Item-Umwandlung, welche in der Bauwelt unter Vorlagen gebaut und betrieben werden dürfen.
+Halb- und vollautomatische Farmen müssen in der dafür vorgesehenen Industriewelt erbaut werden. Es gibt jedoch bestimmte Anlagen zur Item-Umwandlung, welche in der Bauwelt unter Auflagen gebaut und betrieben werden dürfen.
 
 ### Erlaubte Item-Umwandlungsanlagen in der Bauwelt
 Zur Item-Umwandlung gehören Anlagen, welche ausschließlich dazu dienen, ein bestehendes Item oder Material in ein anderes umzuwandeln. Die folgende Liste stellt die Anlagen dar, die aktuell automatisiert in der Bauwelt erlaubt sind:
@@ -42,7 +42,7 @@ Beton-Umwandlung            | Mit der einen Hand wird ein Trockenbeton platziert
 Composter zu Knochenmehl    | Verwertbare Pflanzen werden automatisiert in einen Composter befördert, welche daraus Knochenmehl erzeugen.
 Ofenanlagen jeder Art       | Automatisierte Öfen, welche durch einen Input die Erträge aufnehmen, schmelzen und anschließend in einen Output befördern.
 
-Es dürfen insgesamt bis zu 10 Umwandlungsobjekte (Anlagen aus der Tabelle) an einem gleichgelegten Ort (Bereich, der durch den Spieler geladen wird) aufgebaut und verwendet werden. Die Verwendung von Villagern ist von der Regelung ausgeschlossen.
+Es dürfen **insgesamt bis zu 10 Umwandlungsobjekte** (Anlagen aus der Tabelle) an einem gleichgelegten Ort (Bereich, der durch den Spieler geladen wird) aufgebaut und verwendet werden. Die Verwendung von Villagern ist von der Regelung ausgenommen.
 
 ### Voraussetzung von abschaltbaren Mechaniken
 Folgende Mechaniken müssen auf dem ganzen Server verpflichtend abschaltbar sein:
