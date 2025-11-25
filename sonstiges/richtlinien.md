@@ -7,7 +7,7 @@ icon: checklist
 
 # Richtlinien
 
-Um die verschiedenen Prozesse auf OpenMC übersichtlicher darzustellen und Teamentscheidungen nachvollziehbarer zu gestalten, findest du im folgenden einige Übersichten, welche dir einen Anhaltspunkt bieten sollen.
+Die folgenden Richtlinien dienen als Ergänzung der Serverregeln und sind ebenfalls verpflichtend.
 
 Melde dich bei Unklarheiten und Fragen sehr gerne bei einem Teammitglied oder im [Discord](https://discord.com/invite/ecqPF34).
 
@@ -27,12 +27,12 @@ Farmen sind vollautomatisch, wenn sie keinen Eingriff von dem Anwender erfordern
 +++
 
 ### Anmeldepflicht
-Grundsätzlich muss jede halb- & vollautomatische Farm angemeldet werden, damit wir als Team die unter den Farmanmeldungen berücksichtigten Kriterien überprüfen und gegebenenfalls Hilfestellung leisten können.
+Jede halb- & vollautomatische Farm muss angemeldet werden, damit wir als Team die unter den Farmanmeldungen berücksichtigten Kriterien überprüfen und gegebenenfalls Hilfestellung leisten können.
 
-Halb- und vollautomatische Farmen müssen grundlegend in der dafür vorgesehenen Industriewelt erbaut werden. Es gibt dahingegen jedoch Anlagen zur Item-Umwandlung, welche in der Bauwelt unter Vorlagen bestehen dürfen.
+Halb- und vollautomatische Farmen müssen in der dafür vorgesehenen Industriewelt erbaut werden. Es gibt jedoch bestimmte Anlagen zur Item-Umwandlung, welche in der Bauwelt unter Vorlagen gebaut und betrieben werden dürfen.
 
 ### Erlaubte Item-Umwandlungsanlagen in der Bauwelt
-Zur Item-Umwandlung gehören Anlagen, welche ausschließlich dazu dienen, ein bestehendes Item oder Material in ein anderes umzuwandeln. Die folgende Liste stellt die Anlagen dar, die Standpunkt heute automatisiert in der Bauwelt erlaubt sind:
+Zur Item-Umwandlung gehören Anlagen, welche ausschließlich dazu dienen, ein bestehendes Item oder Material in ein anderes umzuwandeln. Die folgende Liste stellt die Anlagen dar, die aktuell automatisiert in der Bauwelt erlaubt sind:
 
 Anlage                      | Beschreibung
 :---:                       | ---
@@ -49,7 +49,7 @@ Folgende Mechaniken müssen auf dem ganzen Server verpflichtend abschaltbar sein
 - Clocks (Wiederholende Redstonesignale)
 - Loren (Hin- und her fahrende Loren)
 
-Bei fehlendem Wissen zur Ausschaltbarkeit der genannten Mechaniken stehen dir die Spieler und das Team gerne zur Verfügung.
+Bei fehlendem Wissen zur Ausschaltbarkeit der genannten Mechaniken steht dir das Team gerne zur Verfügung.
 
 ---
 
