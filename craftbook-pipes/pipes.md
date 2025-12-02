@@ -147,6 +147,10 @@ Es ist möglich, sowohl Verzauberungen als auch Haltbarkeit der zu sortierenden 
 
 ![](/images/pipes_9.png)
 
+Falls es eintrifft, dass [Items nicht einsortiert werden können](https://wiki.openmc.net/craftbook-pipes/pipes/#items-die-nicht-einsortiert-werden-k%C3%B6nnen), besteht bei der MC1229 die Möglichkeit, eine "Überfluss"-Kiste anzubinden. Items, welche sonst in die Welt gedropped werden sollten, landen dann in dieser Kiste.
+
+
+
 ### Verteilende Verzweigungen mit MC1243
 Der sogenannte Integrated Circuit MC1243 kann als eine "verteilende Verzweigung" in einem Pipe-System verwendet werden und führt hiermit eine Mechanik ein, die sonst mit Pipes nicht möglich ist.
 
