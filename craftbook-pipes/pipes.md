@@ -147,7 +147,7 @@ Es ist möglich, sowohl Verzauberungen als auch Haltbarkeit der zu sortierenden 
 
 ![](/images/pipes_9.png)
 
-Falls es eintrifft, dass [Items nicht einsortiert werden können](https://wiki.openmc.net/craftbook-pipes/pipes/#items-die-nicht-einsortiert-werden-k%C3%B6nnen), besteht bei der MC1229 die Möglichkeit, eine "Überfluss"-Kiste anzubinden. Items, welche sonst in die Welt gedropped werden sollten, landen dann in dieser Kiste.
+Falls es eintrifft, dass [Items nicht einsortiert werden können](https://wiki.openmc.net/craftbook-pipes/pipes/#items-die-nicht-einsortiert-werden-k%C3%B6nnen), besteht bei der MC1229 die Möglichkeit, eine "Überfluss"-Kiste anzubinden. Items, welche sonst in die Welt gedropped werden sollten, landen dann in dieser Kiste. Diese muss gegenüber vom Schild so angebracht werden, wie es bei den Sortierseiten der Fall ist (Kolben, gefolgt von einer Truhe).
 
 
 
