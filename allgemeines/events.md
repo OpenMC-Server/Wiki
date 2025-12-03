@@ -145,7 +145,7 @@ Das Stehlen von Erfahrungspunkten durch XP-Flaschen sowie Camping ohne aktives M
 - Raketen (jeder Art)
 - Enderperlen
 - Chorus-Früchte
-- Windcharges
+- Windcharges/Windbursts
 - Unsichtbarkeitspfeile
 
 ### Belohnungen
