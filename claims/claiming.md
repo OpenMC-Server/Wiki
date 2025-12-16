@@ -19,6 +19,7 @@ Mit einem Claim (dt. Grundstück) schützt du deine Bauwerke, Kisten, Öfen, etc
 Mit der Goldschaufel erstellst und vergrößerst du einen Claim. Du erhältst sie beim ersten Joinen, durch das `/kit Claim` oder durch Crafting.
 
 <br>
+<br>
 
 ### Stock
 -![](/images/claiming_stick.png)
