@@ -18,6 +18,8 @@ Mit einem Claim (dt. Grundstück) schützt du deine Bauwerke, Kisten, Öfen, etc
 -![](/images/claiming_gold_shovel.png)
 Mit der Goldschaufel erstellst und vergrößerst du einen Claim. Du erhältst sie beim ersten Joinen, durch das `/kit Claim` oder durch Crafting.
 
+<br>
+
 ### Stock
 -![](/images/claiming_stick.png)
 Mit dem Stock machst du Claims und deren Inhaber sichtbar, indem du auf den Boden rechtsklickst. Wenn du mit `Shift` rechtsklickst, werden alle Claims in deiner Umgebung angezeigt.
