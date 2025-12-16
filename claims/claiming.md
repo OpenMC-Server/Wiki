@@ -27,7 +27,7 @@ Mit dem Stock machst du Claims und deren Inhaber sichtbar, indem du auf den Bode
 ---
 
 ## Claim erstellen
-!!!primary Bitte beachten:
+!!! Bitte beachten:
 Ein Claim bietet nicht die Möglichkeit, sich dorthin zu teleportieren!\
 Nutze `/sethome <homename>`, um dich mit `/home <homename>` zu teleportieren.
 !!!
