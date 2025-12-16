@@ -27,7 +27,7 @@ Mit dem Stock machst du Claims und deren Inhaber sichtbar, indem du auf den Bode
 ---
 
 ## Claim erstellen
-!!! Bitte beachten:
+!!!primary Bitte beachten:
 Ein Claim bietet nicht die Möglichkeit, sich dorthin zu teleportieren!\
 Nutze `/sethome <homename>`, um dich mit `/home <homename>` zu teleportieren.
 !!!
@@ -60,7 +60,7 @@ Mit diesem Befehl kehrst du wieder in den normalen Claim-Modus zurück.
 Mit diesem Befehl werden alle Einstellungen des Subclaims, in dem du stehst, gelöscht.
 
 #### 3D Subclaim erstellen
-!!! primary Hinweis
+!!!primary Hinweis
 Einführung in Kürze.
 !!!
 Unterclaims ("Subclaims") können auch dreidimensional erstellt werden. In diesem Fall bezieht sich der Subclaim nicht auf die gesamte Bauhöhe, sondern nur den ausgewählten Bereich.
