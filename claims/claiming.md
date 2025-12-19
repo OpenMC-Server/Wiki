@@ -16,9 +16,9 @@ Mit einem Claim (dt. Grundstück) schützt du deine Bauwerke, Kisten, Öfen, etc
 ## Werkzeuge
 ### Goldschaufel
 -![](/images/claiming_gold_shovel.png)
-Mit der Goldschaufel erstellst und vergrößerst du einen Claim. Du erhältst sie beim ersten Joinen, durch das `/kit Claim` oder durch Crafting.
+Mit der Goldschaufel erstellst und vergrößerst du einen Claim. Du erhältst sie beim ersten Joinen, durch das `/kit Claim` oder durch Crafting. Wenn du eine Goldschaufel in der Hand hältst, werden dir alle Claim-Grenzen in deiner Nähe durch Partikel angezeigt. Gelbe Partikel zeigen Claimgrenzen, blaue Partikel Subclaimgrenzen an.
 
-<br>
+Mit dem Befehl `/claimcorners` lassen sich dauerhaft die Claimgrenzen anzeigen (wie beim Halten der Schaufel in der Hand). Eine erneute Eingabe des Befehls schaltet die Anzeige wieder aus, es kann aber auch `/claimcorners [on/off]` verwendet werden.
 
 ### Stock
 -![](/images/claiming_stick.png)
@@ -60,15 +60,6 @@ Mit diesem Befehl kehrst du wieder in den normalen Claim-Modus zurück.
 
 `/restrictsubclaim`\
 Mit diesem Befehl werden alle Einstellungen des Subclaims, in dem du stehst, gelöscht.
-
-#### 3D Subclaim erstellen
-!!!primary Hinweis
-Einführung in Kürze.
-!!!
-Unterclaims ("Subclaims") können auch dreidimensional erstellt werden. In diesem Fall bezieht sich der Subclaim nicht auf die gesamte Bauhöhe, sondern nur den ausgewählten Bereich.
-
-`/3dsubdivideclaims`\
-Mit diesem Befehl stellst du deine Goldschaufel vom normalen Claim-Modus in den 3D-Subclaim-Modus um. 
 
 ---
 
