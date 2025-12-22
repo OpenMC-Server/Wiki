@@ -38,8 +38,8 @@ Eventeinrichtung
  Interne Organisation\
  Backend\
  Entwicklung
-||| Filomez [!badge variant="success" text="seit 2023 im Team"]
--![|100](https://starlightskins.lunareclipse.studio/render/ultimate/e43bbb93-ce22-490a-8ac2-58b915ef28df/full)
+||| Schmerzfrequenz [!badge variant="success" text="seit 2023 im Team"]
+-![|100](https://starlightskins.lunareclipse.studio/render/ultimate/57960b74-b290-4de9-879b-017f88f961b6/full)
 **Aufgaben:**
 
  Supportleitung\
