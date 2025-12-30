@@ -135,23 +135,41 @@ Record      | Alle anderen Schallplatten
 ### Graben-Drops
 Auch beim Graben droppen je nach Level spezielle Items:
 
+```
 {.compact}
-Item            | Ab Level  | Droppt aus...                                                                         | Drop-Chance (%)
-:---:           | :---:     | ---                                                                                   | :---:
-Glowstonestaub  | 50        | Erde, Grobe Erde, Grasblock, Podsol, Myzel, Sand, Roter Sand                          | 5
-Schwarzpulver   | 100       | Kies                                                                                  | 10
-Schleimball     | 150       | Ton                                                                                   | 0,1
-Knochen         | 200       | Kies                                                                                  | 10
-Faden           | 250       | Ton                                                                                   | 5
-Apfel           | 250       | Grasblock, Myzel                                                                      | 0,1
-Namensschild    | 250       | Erde, Grobe Erde, Grasblock, Podsol, Myzel, Kies, Ton, Sand, Roter Sand, Seelensand   | 0,05
-Diamant         | 350       | Erde, Grobe Erde, Grasblock, Podsol, Myzel, Kies, Ton, Sand, Roter Sand, Seelensand   | 0,13
-Eimer           | 500       | Ton                                                                                   | 5
-Brauner Pilz    | 500       | Erde, Grobe Erde, Grasblock, Podsol, Myzel                                            | 0,5
-Seelensand      | 650       | Sand, Roter Sand                                                                      | 0,5
-Spinnennetz     | 750       | Ton                                                                                   | 5
-Kuchen          | 750       | Erde, Grobe Erde, Grasblock, Podsol, Myzel, Kies, Ton, Sand, Roter Sand, Seelensand   | 0,05
-Quartz          | 850       | Erde, Grobe Erde, Grasblock, Podsol, Myzel, Kies, Sand, Roter Sand, Seelensand        | 0,5
+Item                | Ab Level | Droppt aus...                                                                                              | Drop-Chance (%)
+:---:               | :---:    | ---                                                                                                        | :---:
+Stock               | 10        | Schlamm, Schlammige Mangrovenwurzel                                                                        | 2
+Glowstonestaub      | 50        | Erde, Grobe Erde, Podsol, Grasblock, Sand, Roter Sand, Myzel                                               | 5
+Feder               | 50        | Schlamm                                                                                                    | 1
+Fernrohr            | 70        | Schlamm, Erde                                                                                              | 0,1
+Kartoffel           | 100       | Erde, Schlamm                                                                                              | 3
+Schwarzpulver       | 100       | Kies                                                                                                       | 10
+Schleimball         | 150       | Ton                                                                                                        | 5
+Knochen             | 200       | Kies, Schlamm                                                                                              | 10
+Apfel               | 250       | Grasblock, Myzel                                                                                           | 0,1
+Ei                  | 250       | Grasblock                                                                                                  | 1
+Faden               | 250       | Ton                                                                                                        | 5
+Namensschild        | 250       | Erde, Grobe Erde, Grasblock, Podsol, Myzel, Kies, Ton, Sand, Roter Sand, Seelensand, Seelenerde            | 0,05
+Schallplatte (13)   | 250       | Erde, Grobe Erde, Podsol, Grasblock, Sand, Roter Sand, Kies, Ton, Myzel, Seelensand, Seelenerde            | 0,05
+Schallplatte (Cat)  | 250       | Erde, Grobe Erde, Podsol, Grasblock, Sand, Roter Sand, Kies, Ton, Myzel, Seelensand, Seelenerde            | 0,05
+Diamant             | 350       | Erde, Grobe Erde, Podsol, Grasblock, Sand, Roter Sand, Kies, Ton, Myzel, Seelensand, Seelenerde, Schlamm   | 0,13
+Kakaobohne          | 350       | Erde, Grobe Erde, Podsol, Grasblock, Myzel, Schlamm                                                        | 1,33
+Dreizack            | 400       | Schlamm, Ton, Schlammige Mangrovenwurzel                                                                   | 0,02
+Eimer               | 500       | Ton                                                                                                        | 0,1
+Uhr                 | 500       | Ton                                                                                                        | 0,1
+Brauner Pilz        | 500       | Erde, Grobe Erde, Podsol, Grasblock, Myzel, Schlamm                                                        | 0,5
+Roter Pilz          | 500       | Erde, Grobe Erde, Podsol, Grasblock, Myzel, Schlamm                                                        | 0,5
+Seelensand          | 650       | Sand, Roter Sand                                                                                           | 0,5
+Kuchen              | 750       | Erde, Grobe Erde, Podsol, Grasblock, Sand, Roter Sand, Kies, Ton, Myzel, Seelensand, Seelenerde            | 0,05
+Spinnennetz         | 750       | Ton                                                                                                        | 5
+Netherrack          | 850       | Kies                                                                                                       | 0,5
+Quartz              | 850       | Erde, Grobe Erde, Podsol, Grasblock, Sand, Roter Sand, Kies, Myzel, Seelensand, Seelenerde                 | 0,5
+Herz des Meeres     | 900       | Schlamm                                                                                                    | 0,01
+```
+
+**Excavation – Archäologie Drops (Standard Mode)**
+
 
 Bei Aktivierung der Fähigkeit "Gigabohrer" steigt die Droprate um das dreifache.
 
