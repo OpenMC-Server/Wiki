@@ -135,7 +135,6 @@ Record      | Alle anderen Schallplatten
 ### Graben-Drops
 Auch beim Graben droppen je nach Level spezielle Items:
 
-```
 {.compact}
 Item                | Ab Level | Droppt aus...                                                                                              | Drop-Chance (%)
 :---:               | :---:    | ---                                                                                                        | :---:
@@ -166,10 +165,6 @@ Spinnennetz         | 750       | Ton                                           
 Netherrack          | 850       | Kies                                                                                                       | 0,5
 Quartz              | 850       | Erde, Grobe Erde, Podsol, Grasblock, Sand, Roter Sand, Kies, Myzel, Seelensand, Seelenerde                 | 0,5
 Herz des Meeres     | 900       | Schlamm                                                                                                    | 0,01
-```
-
-**Excavation – Archäologie Drops (Standard Mode)**
-
 
 Bei Aktivierung der Fähigkeit "Gigabohrer" steigt die Droprate um das dreifache.
 
