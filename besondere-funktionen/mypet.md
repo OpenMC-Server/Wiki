@@ -9,10 +9,6 @@ icon: squirrel
 
 [!badge :white_check_mark: Ingame-Tutorial verfügbar: `/warp tutorial_pets`]
 
-!!!danger Aktuell deaktiviert
-Das MyPet Plugin ist bis auf weiteres wegen diverser Probleme deaktiviert.
-!!!
-
 Das MyPet-Plugin erlaubt es dir, Mobs jeglicher Art (mit wenigen Ausnahmen) zu fangen und als Haustier zu halten. Diese unterstützen dich durch Kampfkraft, Beacon-ähnliche Effekte oder dienen als Reit- bzw. Flugtier.
 
 ---
