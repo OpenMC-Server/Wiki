@@ -11,13 +11,19 @@ icon: home
 
 **Herzlich Willkommen im OpenMC Wiki :wave:**
 
+||| Dein Start auf OpenMC
+Server-IP: openmc.net\
+Minecraft-Version: 1.21.8
+
+[!button variant="info" icon="rocket" text="So startest du"](https://wiki.openmc.net/allgemeines/einstieg/)
+||| Servertrailer
+https://youtu.be/r771y8lOa-k&mute=1&autoplay=1&controls=0
+|||
+
 Hier findest du umfangreiche Informationen zu den Funkionen des Servers.\
 Nutze gerne die Suchfunktion oder das Menü auf der linken Seite.
 
-!!!tip Mit dem Server verbinden:
-Server-IP: openmc.net\
-Minecraft-Version: 1.21.8
-!!!
+
 
 ---
 
