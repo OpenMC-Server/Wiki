@@ -12,16 +12,15 @@ icon: home
 :::content-center
 **Herzlich Willkommen im OpenMC Wiki :wave:**
 
-Hier findest du umfangreiche Informationen zu den Funkionen des Servers.<br>
+Hier findest du umfangreiche Informationen zu den Funkionen des Servers.\
 Nutze gerne die Suchfunktion oder das Menü auf der linken Seite.
 :::
 
 ||| Dein Start auf OpenMC
 :::content-center
 #### Mit dem Server verbinden:
-Server-IP: openmc.net
-
-Minecraft-Version: 1.21.8
+ Server-IP: openmc.net\
+Minecraft Java: 1.21.8
 #### Erste Schritte:
 [!button variant="primary" icon=":rocket:" iconAlign="right" text="Los geht's"](https://wiki.openmc.net/allgemeines/einstieg/)
 #### Wichtige Links:
