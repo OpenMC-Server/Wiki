@@ -24,7 +24,7 @@ Minecraft Java: 1.21.8
 [!button variant="secondary" icon=":scroll:" text="Serverregeln"](https://wiki.openmc.net/allgemeines/serverregeln/)  [!button variant="secondary" icon=":house:" text="Grundstück erstellen"](https://wiki.openmc.net/claims/claiming/)  [!button variant="secondary" icon=":speech_balloon:" text="Discord"](https://discord.com/invite/ecqPF34)
 :::
 ||| Servertrailer
-https://www.youtube.com/watch?v=r771y8lOa-k&mute=1&autoplay=1&vq=hd108&loop=1
+https://www.youtube.com/watch?v=r771y8lOa-k&mute=1&autoplay=1&vq=hd1080&loop=1
 |||
 
 ---
