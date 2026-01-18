@@ -9,10 +9,12 @@ icon: home
 
 ![](/images/Wiki_Hero_Winter.png)
 
+:::content-center
 **Herzlich Willkommen im OpenMC Wiki :wave:**
 
 Hier findest du umfangreiche Informationen zu den Funkionen des Servers.\
 Nutze gerne die Suchfunktion oder das Menü auf der linken Seite.
+:::
 
 ||| Dein Start auf OpenMC
 :::content-center
@@ -23,7 +25,7 @@ Minecraft-Version: 1.21.8
 ##### Erste Schritte:
 [!button variant="primary" icon=":rocket:" iconAlign="right" text="Los geht's"](https://wiki.openmc.net/allgemeines/einstieg/)
 
-[!button variant="secondary" icon=":scroll:" text="Serverregeln"](https://wiki.openmc.net/allgemeines/serverregeln/)  [!button variant="secondary" icon=":house:" text="Grundstück erstellen"](https://wiki.openmc.net/claims/claiming/) 
+[!button variant="secondary" icon=":scroll:" text="Serverregeln"](https://wiki.openmc.net/allgemeines/serverregeln/)  [!button variant="secondary" icon=":house:" text="Grundstück erstellen"](https://wiki.openmc.net/claims/claiming/)  [!button variant="secondary" icon=":speech_balloon:" text="Discord"](https://discord.com/invite/ecqPF34)
 :::
 ||| Servertrailer
 https://www.youtube.com/watch?v=r771y8lOa-k&mute=1&autoplay=1&vq=hd1080
