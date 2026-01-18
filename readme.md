@@ -15,6 +15,7 @@ Hier findest du umfangreiche Informationen zu den Funkionen des Servers.\
 Nutze gerne die Suchfunktion oder das Menü auf der linken Seite.
 
 ||| Dein Start auf OpenMC
+:::content-center
 **Mit dem Server verbinden:**
 
 Server-IP: openmc.net\
@@ -23,6 +24,7 @@ Minecraft-Version: 1.21.8
 **Deine ersten Schritte:**
 
 [!button variant="primary" icon=":rocket:" iconAlign="right" text="Los geht's"](https://wiki.openmc.net/allgemeines/einstieg/)
+:::
 ||| Servertrailer
 https://www.youtube.com/watch?v=r771y8lOa-k&mute=1&autoplay=1&vq=hd1080
 |||
