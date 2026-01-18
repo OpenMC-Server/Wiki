@@ -30,7 +30,7 @@ https://www.youtube.com/watch?v=r771y8lOa-k&mute=1&autoplay=1&vq=hd108&loop=1
 ---
 
 ## Navigation
-In unserem findest du umfangreiche Informationen zu den Funkionen des Servers.\
+In unserem Wiki findest du umfangreiche Informationen zu den Funkionen des Servers.\
 Nutze gerne das Menü auf der linken Seite oder die Suchfunktion.
 
 Du kannst Wiki-Artikel auch direkt vom Server aus mit `/wiki <Thema>` öffnen.
