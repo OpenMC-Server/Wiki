@@ -19,7 +19,7 @@ Server-IP: openmc.net\
 Minecraft-Version: 1.21.8
 [!button variant="info" icon="rocket" text="So startest du"](https://wiki.openmc.net/allgemeines/einstieg/)
 ||| Servertrailer
-https://www.youtube.com/watch?v=r771y8lOa-k&mute=1&autoplay=1&controls=0
+https://www.youtube.com/watch?v=r771y8lOa-k&mute=1&autoplay=1
 |||
 
 ---
