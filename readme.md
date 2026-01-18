@@ -21,10 +21,9 @@ Nutze gerne die Suchfunktion oder das Menü auf der linken Seite.
 ##### Mit dem Server verbinden:
 Server-IP: openmc.net\
 Minecraft-Version: 1.21.8
-
 ##### Erste Schritte:
 [!button variant="primary" icon=":rocket:" iconAlign="right" text="Los geht's"](https://wiki.openmc.net/allgemeines/einstieg/)
-
+### Wichtige Links:
 [!button variant="secondary" icon=":scroll:" text="Serverregeln"](https://wiki.openmc.net/allgemeines/serverregeln/)  [!button variant="secondary" icon=":house:" text="Grundstück erstellen"](https://wiki.openmc.net/claims/claiming/)  [!button variant="secondary" icon=":speech_balloon:" text="Discord"](https://discord.com/invite/ecqPF34)
 :::
 ||| Servertrailer
