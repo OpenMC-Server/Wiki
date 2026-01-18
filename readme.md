@@ -22,6 +22,8 @@ Minecraft-Version: 1.21.8
 
 ##### Erste Schritte:
 [!button variant="primary" icon=":rocket:" iconAlign="right" text="Los geht's"](https://wiki.openmc.net/allgemeines/einstieg/)
+
+[!button variant="secondary" icon=":scroll:" text="Serverregeln"](https://wiki.openmc.net/allgemeines/serverregeln/)  [!button variant="secondary" icon=":house:" text="Grundstück erstellen"](https://wiki.openmc.net/claims/claiming/) 
 :::
 ||| Servertrailer
 https://www.youtube.com/watch?v=r771y8lOa-k&mute=1&autoplay=1&vq=hd1080
