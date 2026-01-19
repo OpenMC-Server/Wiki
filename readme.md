@@ -15,7 +15,6 @@ icon: home
 
 ||| Dein Start auf OpenMC
 :::content-center
-<br>
 #### Mit dem Server verbinden:
 Server-IP: openmc.net\
 Minecraft Java: 1.21.8
