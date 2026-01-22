@@ -31,7 +31,7 @@ Erfahre, wie du am besten auf dem Server loslegst.
 
 ---
 
-## Navigation
+## :icon-quote: Navigation
 In unserem Wiki findest du umfangreiche Informationen zu den Funkionen des Servers.\
 Nutze gerne das Menü auf der linken Seite oder die Suchfunktion.
 
@@ -39,6 +39,6 @@ Du kannst Wiki-Artikel auch direkt vom Server aus mit `/wiki <Thema>` öffnen.
 
 ---
 
-## Support
+## :icon-question: Support
 Du bist im Wiki nicht fündig geworden und benötigst weiteren Support?\
 Erstelle jederzeit ein Support-Ticket im [Discord](https://discord.com/invite/ecqPF34) oder stelle deine Frage im Chat. Wir helfen dir gerne weiter :blush:
