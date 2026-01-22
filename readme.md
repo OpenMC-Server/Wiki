@@ -13,7 +13,7 @@ icon: home
 **Herzlich Willkommen im OpenMC Wiki :wave:**
 :::
 
-||| Dein Start auf OpenMC
+||| :icon-rocket: Dein Start auf OpenMC
 :::content-center
 #### Mit dem Server verbinden:
 Server-IP: openmc.net\
@@ -25,7 +25,7 @@ Erfahre, wie du am besten auf dem Server loslegst.
 #### Wichtige Links:
 [!button variant="secondary" icon=":scroll:" text="Serverregeln"](https://wiki.openmc.net/allgemeines/serverregeln/)  [!button variant="secondary" icon=":house:" text="Grundstück"](https://wiki.openmc.net/claims/claiming/)  [!button variant="secondary" icon=":speech_balloon:" text="Discord"](https://discord.com/invite/ecqPF34)
 :::
-||| Servertrailer
+||| :icon-device-camera-video: Servertrailer
 [!embed text="Mit dem Klick auf das Video werden YouTube Cookies aktiviert."](https://www.youtube-nocookie.com/watch?v=r771y8lOa-k)
 |||
 
