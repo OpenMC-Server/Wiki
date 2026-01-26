@@ -17,7 +17,7 @@ icon: home
 :::content-center
 #### Mit dem Server verbinden:
 Server-IP: openmc.net\
-Minecraft Java: 1.21.8
+Minecraft Java: 1.21.11
 #### Erste Schritte:
 Erfahre, wie du am besten auf dem Server loslegst.
 
