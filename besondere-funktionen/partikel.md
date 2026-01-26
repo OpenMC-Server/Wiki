@@ -5,7 +5,7 @@ order: 397
 icon: north-star
 ---
 
-# Partikel
+# Partikel [!button target="blank" size="xs" variant="success" icon=":bulb:" text="Feedback geben"](https://tally.so/r/WO8gxJ)
 
 [!badge variant="dark" icon="ruby" text="VIP/VIS Feature"](/allgemeines/ränge.md)
 

@@ -5,7 +5,7 @@ order: 697
 icon: star
 ---
 
-# PlayerWarps
+# PlayerWarps [!button target="blank" size="xs" variant="success" icon=":bulb:" text="Feedback geben"](https://tally.so/r/WO8gxJ)
 
 PlayerWarps sind Warps, die von Spielern gesetzt werden können. Mit diesen kann beispielsweise ein Shop beworben oder ein Bauwerk für die Öffentlichkeit zugänglich gemacht werden. Über das `/pwarp` Menü kannst du dich zu einem beliebigen PlayerWarp teleportieren.
 

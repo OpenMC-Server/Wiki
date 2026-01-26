@@ -5,7 +5,7 @@ order: 395
 icon: heart
 ---
 
-# Marry
+# Marry [!button target="blank" size="xs" variant="success" icon=":bulb:" text="Feedback geben"](https://tally.so/r/WO8gxJ)
 
 Das Marry-Plugin bietet dir die Möglichkeit, Ehen auf dem Server zu schließen. Folgende Vorteile erhältst du dadurch:
 - Ein geteiltes Home für dich und deinen Partner (`/marry home`)

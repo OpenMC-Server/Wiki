@@ -5,7 +5,7 @@ order: 897
 icon: light-bulb
 ---
 
-# FAQ
+# FAQ [!button target="blank" size="xs" variant="success" icon=":bulb:" text="Feedback geben"](https://tally.so/r/WO8gxJ)
 
 Hier findest du viele hilfreiche Antworten auf verschiedenste Fragen zum Server und dessen Besonderheiten. Sollte dir etwas fehlen, kannst du uns gerne deine Wunschergänzung in Form eines Tickets im [Discord](https://discord.com/invite/ecqPF34) oder auch per Privatchat ingame mitteilen.
 

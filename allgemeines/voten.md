@@ -5,7 +5,7 @@ order: 894
 icon: thumbsup
 ---
 
-# Voten
+# Voten [!button target="blank" size="xs" variant="success" icon=":bulb:" text="Feedback geben"](https://tally.so/r/WO8gxJ)
 Mit einem Vote unterstützt du den Server und erhältst tolle Belohnungen über VoteChests und die VoteStreak.
 
 ---

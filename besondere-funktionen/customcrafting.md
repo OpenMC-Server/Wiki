@@ -5,7 +5,7 @@ order: 399
 icon: cpu
 ---
 
-# CustomCrafting
+# CustomCrafting [!button target="blank" size="xs" variant="success" icon=":bulb:" text="Feedback geben"](https://tally.so/r/WO8gxJ)
 
 [!badge :white_check_mark: Ingame-Tutorial verfügbar: `/warp tutorial_customcrafting (in Arbeit)`]
 

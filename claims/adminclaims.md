@@ -5,7 +5,7 @@ order: 797
 icon: organization
 ---
 
-# AdminClaims
+# AdminClaims [!button target="blank" size="xs" variant="success" icon=":bulb:" text="Feedback geben"](https://tally.so/r/WO8gxJ)
 
 Für Großprojekte können spezifische Claims vergeben werden, wodurch ein Gebiet für dieses Projekt reserviert wird. Bei einem derartigen Claim handelt es sich um einen Adminclaim, auf welchem der Leiter des Großprojektes "permissiontrust" erhält. Das bedeutet konkret, dass die Claimblöcke vom Server übernommen werden, aber der Leiter vollen Zugriff auf den Claim hat.
 

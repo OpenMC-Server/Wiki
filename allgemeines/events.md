@@ -5,7 +5,7 @@ order: 893
 icon: trophy
 ---
 
-# Events
+# Events [!button target="blank" size="xs" variant="success" icon=":bulb:" text="Feedback geben"](https://tally.so/r/WO8gxJ)
 Auf dieser Seite findest du Erläuterungen zu den Events, die regelmäßig auf OpenMC stattfinden.
 
 ---

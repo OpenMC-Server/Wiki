@@ -5,7 +5,7 @@ order: 398
 icon: squirrel
 ---
 
-# MyPet
+# MyPet [!button target="blank" size="xs" variant="success" icon=":bulb:" text="Feedback geben"](https://tally.so/r/WO8gxJ)
 
 [!badge :white_check_mark: Ingame-Tutorial verfügbar: `/warp tutorial_pets`]
 

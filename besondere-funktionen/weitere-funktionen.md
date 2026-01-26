@@ -5,7 +5,7 @@ order: 393
 icon: plus-circle
 ---
 
-# Weitere Funktionen
+# Weitere Funktionen [!button target="blank" size="xs" variant="success" icon=":bulb:" text="Feedback geben"](https://tally.so/r/WO8gxJ)
 
 Auf dieser Seite sind weitere, kleinere Themen vertreten.
 

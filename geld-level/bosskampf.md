@@ -5,7 +5,7 @@ order: 594
 icon: hubot
 ---
 
-# Bosskampf
+# Bosskampf [!button target="blank" size="xs" variant="success" icon=":bulb:" text="Feedback geben"](https://tally.so/r/WO8gxJ)
 
 Bei Bosskämpfen treten Spieler gegen individuelle Monster an, um die seltenen Shard III Items zu erhalten, eine essentielle Resource für [CustomCrafting](/besondere-funktionen/customcrafting.md). Ein Bosskampf ist vergleichbar mit den letzten Wellen des Mobevents, in welchen übernatürlich starke, meist spielerähnliche Gestalten gegen die gesamte Community kämpfen. Im Gegensatz dazu sind zu jedem Bosskampf jeweils maximal fünf Teilnehmer gestattet.
 

@@ -5,7 +5,7 @@ order: 598
 icon: credit-card
 ---
 
-# AdminShop
+# AdminShop [!button target="blank" size="xs" variant="success" icon=":bulb:" text="Feedback geben"](https://tally.so/r/WO8gxJ)
 
 Im AdminShop kannst du ausgewählte Items an- und verkaufen. Um den AdminShop zu öffnen, verwende `/adminshop` oder `/as`.
 

@@ -5,7 +5,7 @@ order: 798
 icon: tag
 ---
 
-# ClaimFlags
+# ClaimFlags [!button target="blank" size="xs" variant="success" icon=":bulb:" text="Feedback geben"](https://tally.so/r/WO8gxJ)
 
 Mit Claimflags können zusätzliche Funktionen auf Claims aktiviert werden.
 

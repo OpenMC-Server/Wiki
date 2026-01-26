@@ -5,7 +5,7 @@ order: 295
 icon: flame
 ---
 
-# Besonderheiten auf OpenMC
+# Besonderheiten auf OpenMC [!button target="blank" size="xs" variant="success" icon=":bulb:" text="Feedback geben"](https://tally.so/r/WO8gxJ)
 Hier findest du serverspezifische Besonderheiten, welche sich vom Vanilla-Gameplay unterscheiden.
 
 ---

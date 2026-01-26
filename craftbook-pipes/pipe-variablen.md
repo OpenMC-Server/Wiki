@@ -5,7 +5,7 @@ order: 497
 icon: number
 ---
 
-# Pipe-Variablen
+# Pipe-Variablen [!button target="blank" size="xs" variant="success" icon=":bulb:" text="Feedback geben"](https://tally.so/r/WO8gxJ)
 
 Pipe-Variablen ermöglichen es dir, mit besonders kurzen Schreibweisen mehrere Items auf ein Pipe-Schild zu schreiben.\
 Auf dieser Seite findest du die Variablen für einzelne Items. Möchtest du stattdessen mehrere Items mit einer Variable zusammenfassen, sieh dir die Seite [Pipe-Sammelvariablen](/craftbook-pipes/pipe-sammelvariablen.md) an.

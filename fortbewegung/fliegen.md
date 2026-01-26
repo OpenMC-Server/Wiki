@@ -5,7 +5,7 @@ order: 699
 icon: cloud
 ---
 
-# Fliegen
+# Fliegen [!button target="blank" size="xs" variant="success" icon=":bulb:" text="Feedback geben"](https://tally.so/r/WO8gxJ)
 
 Auf OpenMC besteht die Möglichkeit, in der Bauwelt und in der Industriewelt zu fliegen. Um `/fly` nutzen zu können, benötigst du Flugzeit oder einen entsprechenden Rang.
 
