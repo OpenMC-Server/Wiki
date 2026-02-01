@@ -168,6 +168,23 @@ Herz des Meeres     | 900       | Schlamm                                       
 
 Bei Aktivierung der Fähigkeit "Gigabohrer" steigt die Droprate um das dreifache.
 
+### Mixturen
+"Mixturen" als Alchemie-Fähigkeit ermöglicht das Brauen von speziellen Tränken. Die freigeschalteten Zutaten werden vom Fähigkeitsrang bestimmt.
+{.compact}
+Fähigkeitsrang | Ab Level | Droppt aus...   | Drop-Chance (%)
+Tier 1 | Vanilla Tränke | Lohenstaub, Fermentiertes Spinnenauge, Ghast-Träne, Redstone, Leuchtsteinstaub, Zucker, Glitzernde Melonenscheibe, Goldene Karrotte, Magmacreme, Netherwarze, Spinnenauge, Schwarzpulver, Seerosenblatt, Kugelfisch
+Tier 2 | Eiletrank | Karrotte
+Tier 2 | Dumpfheitstrank | Schleimball
+Tier 3 | Absorptionstrank | Quartz
+Tier 3 | Sprungtrank | Hasenfuß
+Tier 4 | Gesundheitstrank | Apfel
+Tier 4 | Hungertrank | Verrottetes Fleisch
+Tier 5 | Übelkeitstrank | Brauner Pilz
+Tier 5 | Blindheitstrank | Tintensack
+Tier 6 | Sättigungstrank | Farn
+Tier 7 | Verfallstrank | Giftige Kartoffel
+Tier 8 | Resistenztrank | Goldener Apfel
+
 ---
 
 ## mcMMO Parties
