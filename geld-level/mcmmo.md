@@ -171,7 +171,7 @@ Bei Aktivierung der Fähigkeit "Gigabohrer" steigt die Droprate um das dreifache
 ### Mixturen
 "Mixturen" als Alchemie-Fähigkeit ermöglicht das Brauen von speziellen Tränken. Die freigeschalteten Zutaten werden vom Fähigkeitsrang bestimmt.
 {.compact}
-Fähigkeitsrang | Ab Level | Droppt aus...   | Drop-Chance (%)
+Fähigkeitsrang | Trank | Zutaten
 Tier 1 | Vanilla Tränke | Lohenstaub, Fermentiertes Spinnenauge, Ghast-Träne, Redstone, Leuchtsteinstaub, Zucker, Glitzernde Melonenscheibe, Goldene Karrotte, Magmacreme, Netherwarze, Spinnenauge, Schwarzpulver, Seerosenblatt, Kugelfisch
 Tier 2 | Eiletrank | Karrotte
 Tier 2 | Dumpfheitstrank | Schleimball
