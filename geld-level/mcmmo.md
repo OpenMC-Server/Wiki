@@ -174,8 +174,8 @@ Bei Aktivierung der Fähigkeit "Gigabohrer" steigt die Droprate um das dreifache
 {.compact}
 Fähigkeitsrang | Trank | Zutaten
 :---:               | :---:    | ---                                                                                                        | :---:
-Tier 1 | Vanilla Tränke | Lohenstaub, Fermentiertes Spinnenauge, Ghast-Träne, Redstone, Leuchtsteinstaub, Zucker, Glitzernde Melonenscheibe, Goldene Karrotte, Magmacreme, Netherwarze, Spinnenauge, Schwarzpulver, Seerosenblatt, Kugelfisch
-Tier 2 | Eiletrank | Karrotte
+Tier 1 | Vanilla Tränke | Lohenstaub, Fermentiertes Spinnenauge, Ghast-Träne, Redstone, Leuchtsteinstaub, Zucker, Glitzernde Melonenscheibe, Goldene Karotte, Magmacreme, Netherwarze, Spinnenauge, Schwarzpulver, Seerosenblatt, Kugelfisch
+Tier 2 | Eiletrank | Karotte
 Tier 2 | Dumpfheitstrank | Schleimball
 Tier 3 | Absorptionstrank | Quartz
 Tier 3 | Sprungtrank | Hasenfuß
