@@ -19,8 +19,11 @@ Durch die Möglichkeit, mehrere Items mit nur einem Schild zu sortieren, ist es 
 ## Sammelvariablen im Spiel abrufen
 Es ist möglich, alle Sammelvariablen auch in Minecraft abzurufen. Folgender Befehl steht dafür zur Verfügung:
 
-`/sammelid`\
-Zeigt alle möglichen Sammelvariablen in einem Menü an. Mit einem Linksklick kann die gewünschte Variable ausgewählt werden. Anschließend kann die Variable sowohl durch Anklicken in die Zwischenablage kopiert werden, als auch durch Klick auf “Schild erstellen” ein entsprechendes Schild erstellt werden. Zum Platzieren muss anschließend der Schildbearbeitungsmodus mit `/sign` aktiviert werden. Mit einem Rechtsklick können wiederum alle zugehörigen Items zu einer ID angesehen werden.
+`/pipeid`\
+Zeigt alle möglichen Sammelvariablen für ein Item im Chat an. Dazu muss das Item bei der Eingabe des Befehls in der Hand gehalten werden. Die Variablen können sowohl durch Anklicken in die Zwischenablage kopiert werden, als auch durch Klick auf “Schild erstellen” ein entsprechendes Schild erstellt werden. Zum Platzieren muss anschließend der Schildbearbeitungsmodus mit `/sign` aktiviert werden. Mit einem Rechtsklick können wiederum alle zugehörigen Items zu einer ID angesehen werden.
+
+`/pipeid <suchbegriff>`\
+Zeigt die Sammelvariablen für ein spezifisches Item an, welches sich nicht im Inventar befinden muss. Es werden sowohl englische als auch deutsche Itemnamen akzeptiert. Achtung: Bei englischen Namen muss dieser in Form der “Minecraft-ID” eingeben werden. Beispielsweise führt “melon_slice” zu einem Ergebnis, aber “melon slice” nicht. Bei den deutschen Namen dürfen keine Unterstriche verwendet werden. Wenn sich das Fenster nach der Suche öffnet, einfach das gewünschte Item anklicken und die Variablen werden wie oben im Chat angezeigt. Mit einem Rechtsklick können wiederum alle zugehörigen Items zu einer ID angesehen werden.
 
 ---
 
