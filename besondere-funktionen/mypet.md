@@ -35,85 +35,86 @@ Armadillo       | -                 | 30%       | 50%       | 200           | Z�
 Axolotl         | -                 | 30%       | 50%       | 200           | Zähmen        | Angeln        | Kräuterkunde  | -
 Bat             | -                 | 50%       | 80%       | 100           | Zähmen        | Kräuterkunde  | Akrobatik     | -
 Bee             | -                 | 40%       | 65%       | 200           | Zähmen        | Graben        | Akrobatik     | -
-Blaze           | -                 | 30%       | 50%       | 300           | Zähmen        | Alchemie      | Akrobatik     | Schwert
+Blaze           | -                 | 30%       | 50%       | 300           | Zähmen        | Alchemie      | Akrobatik     | Schwertkampf
 Bogged          | -                 | 30%       | 50%       | 300           | Zähmen        | Bogenschießen | -             | -
-Breeze          | -                 | 30%       | 50%       | 300           | Zähmen        | Akrobatik     | Schwert       | -
+Breeze          | -                 | 30%       | 50%       | 300           | Zähmen        | Akrobatik     | Schwertkampf       | -
 Camel           | -                 | 30%       | 50%       | 300           | Zähmen        | Akrobatik     | Kräuterkunde  | -
 Cat             | -                 | 40%       | 65%       | 200           | Zähmen        | Kräuterkunde  | -             | -
-Cave Spider     | -                 | 40%       | 65%       | 200           | Zähmen        | Graben        | Schwert       | Aktobatik
+Cave Spider     | -                 | 40%       | 65%       | 200           | Zähmen        | Graben        | Schwertkampf       | Aktobatik
 Chicken         | -                 | 60%       | 100%      | -             | -             | -             | -             | -
 Cod             | -                 | 50%       | 80%       | 100           | Zähmen        | Angeln        | Kräuterkunde  | -
 Cow             | -                 | 60%       | 100%      | -             | -             | -             | -             | -
 Creaking        | Herz abbauen      | -         | 100%      | 500           | Zähmen        | Holzfällen    | -             | -
-Creeper         | -                 | 50%       | 80%       | 100           | Zähmen        | Schwert       | -             | -
+Creeper         | -                 | 50%       | 80%       | 100           | Zähmen        | Schwertkampf  | -             | -
 Dolphin         | -                 | 20%       | 30%       | 400           | Zähmen        | Angeln        | Kräuterkunde  | -
 Donkey          | -                 | 50%       | 80%       | 100           | Zähmen        | Kräuterkunde  | Akrobatik     | -
-Drowned         | -                 | 50%       | 65%       | 200           | Tridents      | Zähmen        | Schwert       | Angeln
+Drowned         | -                 | 50%       | 65%       | 200           | Tridents      | Zähmen        | Schwertkampf       | Angeln
 Elder Guardian  | -                 | 20%       | 30%       | 400           | Tridents      | Zähmen        | -             | -
-Enderman        | -                 | 40%       | 65%       | 200           | Zähmen        | Schwert       | -             | -
-Endermite       | -                 | 50%       | 80%       | 100           | Zähmen        | Graben        | Schwert       | -
+Enderman        | -                 | 40%       | 65%       | 200           | Zähmen        | Schwertkampf  | -             | -
+Endermite       | -                 | 50%       | 80%       | 100           | Zähmen        | Graben        | Schwertkampf  | -
 Evoker          | -                 | 20%       | 30%       | 400           | Zähmen        | Kräuterkunde  | Alchemie      | -
 Fox             | -                 | 50%       | 80%       | 100           | Zähmen        | Kräuterkunde  | -             | -
 Frog            | -                 | 40%       | 65%       | 200           | Zähmen        | Angeln        | Kräuterkunde  | -
-Ghast           | -                 | 20%       | 30%       | 400           | Zähmen        | Schwert       | Alchemie      | -
+Ghast           | -                 | 20%       | 30%       | 400           | Zähmen        | Schwertkampf  | Alchemie      | -
 Glow Squid      | -                 | 40%       | 65%       | 200           | Zähmen        | Angeln        | Kräuterkunde  | -
 Goat            | -                 | 40%       | 65%       | 200           | Zähmen        | Akrobatik     | Kräuterkunde  | -
 Guardian        | -                 | 40%       | 65%       | 200           | Tridents      | Zähmen        | -             | -
-Hoglin          | -                 | 30%       | 50%       | 300           | Zähmen        | Schwert       | Alchemie      | Akrobatik
+Hoglin          | -                 | 30%       | 50%       | 300           | Zähmen        | Schwertkampf  | Alchemie      | Akrobatik
 Horse           | -                 | 40%       | 65%       | 200           | Zähmen        | Akrobatik     | Kräuterkunde  | -
-Husk            | -                 | 30%       | 50%       | 300           | Zähmen        | Schwert       | -             | -
+Husk            | -                 | 30%       | 50%       | 300           | Zähmen        | Schwertkampf  | -             | -
 Iron Golem      | Erschaffen        | 20%       | 30%       | 400           | Zähmen        | Reparatur     | -             | -
 Llama           | -                 | 50%       | 80%       | 100           | Zähmen        | Akrobatik     | Kräuterkunde  | -
-Magma Cube      | -                 | 40%       | 65%       | 200           | Zähmen        | Schwert       | Alchemie      | -
+Magma Cube      | -                 | 40%       | 65%       | 200           | Zähmen        | Schwertkampf  | Alchemie      | -
 Mooshroom       | -                 | 40%       | 65%       | 200           | Zähmen        | Akrobatik     | Kräuterkunde  | -
 Mule            | -                 | 50%       | 80%       | 100           | Zähmen        | Kräuterkunde  | Akrobatik     | -
 Ocelot          | -                 | 30%       | 50%       | 300           | Zähmen        | Kräuterkunde  | -             | -
 Panda           | -                 | 30%       | 50%       | 200           | Zähmen        | Akrobatik     | Kräuterkunde  | -
 Parrot          | -                 | 30%       | 50%       | 200           | Akrobatik     | Kräuterkunde  | -             | -
-Phantom         | -                 | 30%       | 50%       | 200           | Zähmen        | Akrobatik     | Schwert       | -
+Phantom         | -                 | 30%       | 50%       | 200           | Zähmen        | Akrobatik     | Schwertkampf  | -
 Pig             | -                 | 60%       | 100%      | -             | -             | -             | -             | - 
-Piglin          | -                 | 30%       | 50%       | 300           | Zähmen        | Schwert       | Alchemie      | -
-Piglin Brute    | -                 | 20%       | 30%       | 400           | Zähmen        | Schwert       | Alchemie      | -
+Piglin          | -                 | 30%       | 50%       | 300           | Zähmen        | Schwertkampf  | Alchemie      | -
+Piglin Brute    | -                 | 20%       | 30%       | 400           | Zähmen        | Schwertkampf  | Alchemie      | -
 Pillager        | -                 | 30%       | 50%       | 200           | Zähmen        | Kräuterkunde  | Faustkampf    | -
 Polar Bear      | -                 | 30%       | 50%       | 300           | Zähmen        | Akrobatik     | Kräuterkunde  | -
 Pufferfish      | -                 | 30%       | 50%       | 300           | Zähmen        | Angeln        | Kräuterkunde  | -
 Rabbit          | -                 | 50%       | 80%       | 100           | Zähmen        | Kräuterkunde  | -             | -
-Ravanger        | -                 | 10%       | 20%       | 500           | Zähmen        | Schwert       | Aktobatik     | -
+Ravanger        | -                 | 10%       | 20%       | 500           | Zähmen        | Schwertkampf  | Aktobatik     | -
 Salmon          | -                 | 50%       | 80%       | 100           | Zähmen        | Angeln        | Kräuterkunde  | -
 Sheep           | -                 | 60%       | 100%      | -             | -             | -             | -             | -
-Silverfish      | -                 | 50%       | 80%       | 100           | Zähmen        | Graben        | Schwert       | -
+Silverfish      | -                 | 50%       | 80%       | 100           | Zähmen        | Graben        | Schwertkampf  | -
 Skeleton        | -                 | 50%       | 80%       | 100           | Zähmen        | Bogenschießen | -             | -
 Skeleton Horse  | -                 | 30%       | 50%       | 300           | Zähmen        | Akrobatik     | -             | -
-Slime           | -                 | 50%       | 80%       | 100           | Zähmen        | Schwert       | Akrobatik     | -
+Slime           | -                 | 50%       | 80%       | 100           | Zähmen        | Schwertkampf  | Akrobatik     | -
 Sniffer         | -                 | 20%       | 30%       | 400           | Zähmen        | Akrobatik     | Kräuterkunde  | -
 Snow Golem      | Erschaffen        | 30%       | 50%       | 200           | Zähmen        | Reparatur     | -             | -
-Spider          | -                 | 50%       | 80%       | 100           | Zähmen        | Graben        | Schwert       | Akrobatik
+Spider          | -                 | 50%       | 80%       | 100           | Zähmen        | Graben        | Schwertkampf  | Akrobatik
 Squid           | -                 | 50%       | 80%       | 100           | Zähmen        | Angeln        | Kräuterkunde  | -
 Stray           | -                 | 30%       | 50%       | 300           | Zähmen        | Bogenschießen | -             | -
-Strider         | -                 | 30%       | 50%       | 200           | Zähmen        | Schwert       | Alchemie      | Akrobatik
+Strider         | -                 | 30%       | 50%       | 200           | Zähmen        | Schwertkampf  | Alchemie      | Akrobatik
 Tadpole         | -                 | 50%       | 80%       | 100           | Zähmen        | Angeln        | Kräuterkunde  | -
 Trader Llama    | -                 | 30%       | 50%       | 200           | Zähmen        | Akrobatik     | Kräuterkunde  | -
 Tropical Fish   | -                 | 30%       | 50%       | 200           | Zähmen        | Angeln        | Kräuterkunde  | -
 Turtle          | -                 | 30%       | 50%       | 200           | Zähmen        | Angeln        | Akrobatik     | -
-Vex             | -                 | 30%       | 50%       | 300           | Zähmen        | Akrobatik     | Schwert       | -
+Vex             | -                 | 30%       | 50%       | 300           | Zähmen        | Akrobatik     | Schwertkampf  | -
 Villager        | -                 | 60%       | 100%      | -             | -             | -             | -             | -
 Vindicator      | -                 | 10%       | 20%       | 500           | Zähmen        | Kräuterkunde  | Faustkampf    | -
 Wandering Trader| -                 | 50%       | 80%       | 100           | Zähmen        | Kräuterkunde  | -             | -
 Warden          | -                 | 10%       | 20%       | 500           | Zähmen        | Holzfällen    | -             | -
 Witch           | -                 | 30%       | 50%       | 300           | Zähmen        | Kräuterkunde  | Alchemie      | -
-Wither          | -                 | 10%       | 20%       | 500           | Zähmen        | Schwert       | Alchemie      | -
-Wither Skeleton | -                 | 20%       | 30%       | 400           | Zähmen        | Schwert       | Alchemie      | -
+Wither          | -                 | 10%       | 20%       | 500           | Zähmen        | Schwertkampf  | Alchemie      | -
+Wither Skeleton | -                 | 20%       | 30%       | 400           | Zähmen        | Schwertkampf  | Alchemie      | -
 Wolf            | -                 | 30%       | 50%       | 300           | Zähmen        | Akrobatik     | Kräuterkunde  | -
-Zoglin          | -                 | 20%       | 30%       | 400           | Zähmen        | Schwert       | Alchemie      | -
-Zombie          | -                 | 50%       | 80%       | 100           | Zähmen        | Schwert       | -             | -
+Zoglin          | -                 | 20%       | 30%       | 400           | Zähmen        | Schwertkampf  | Alchemie      | -
+Zombie          | -                 | 50%       | 80%       | 100           | Zähmen        | Schwertkampf  | -             | -
 Zombie Horse    | -                 | 20%       | 30%       | 400           | Zähmen        | Akrobatik     | -             | -
-Zombie Villager | -                 | 30%       | 50%       | 200           | Zähmen        | Schwert       | -             | -
-Zombified Piglin| -                 | 30%       | 50%       | 200           | Zähmen        | Schwert       | Alchemie      | -
+Zombie Villager | -                 | 30%       | 50%       | 200           | Zähmen        | Schwertkampf  | -             | -
+Zombified Piglin| -                 | 30%       | 50%       | 200           | Zähmen        | Schwertkampf  | Alchemie      | -
 
 Folgende Tiere sind nicht einfangbar:
 - Illusioner
 - Dragon
 - Shulker
+- Temporär: Nautilus, Zombie Nautilus, Parched, Husk Camel, Happy Ghast
 
 Folgende Tiere verschwinden beim Freilassen:
 - Ghast
@@ -143,10 +144,7 @@ Jede Klasse kann bis Level 80 aufsteigen.
 Die Stärke der verschiedenen Mobs werden in fünf Kategorien (S0-schwach bis S5-stark) gegliedert.
 Mobs, welche in der gleichen Zeile gelistet sind bauen in gewissem Maße aufeinander auf.
 
-!!!warning Bereich in Arbeit
-Die Details zu den Mobs und ihren Stärke-Kategorien sind zurzeit noch in Arbeit.
-Zeitweise sind die Infos [hier](https://docs.google.com/spreadsheets/d/1-OIfTc-EogHypyZgFHk6HFBQd_LuoNDw50PtR9IuBOI/edit?gid=0#gid=0) zu entnehmen.
-!!!
+[!button variant="primary" text="Alle Stärkekategorien einsehen"](https://docs.google.com/spreadsheets/d/1-OIfTc-EogHypyZgFHk6HFBQd_LuoNDw50PtR9IuBOI/edit?usp=sharing)
 
 +++ S0
 - **Dorfbewohner**
@@ -968,7 +966,7 @@ Steigt das Level deines Haustiers, so können unterschiedliche Fähigkeiten gest
 
 Viele Fähigkeiten und Zustände werden erst im späteren Verlauf freigeschaltet.
 
-Eine Übersicht über die verschiedenen Petklassen kann [hier](https://docs.google.com/spreadsheets/d/1-OIfTc-EogHypyZgFHk6HFBQd_LuoNDw50PtR9IuBOI/edit?usp=sharing) gefunden werden.
+[!button variant="primary" text="Alle Petklassen einsehen"](https://docs.google.com/spreadsheets/d/1-OIfTc-EogHypyZgFHk6HFBQd_LuoNDw50PtR9IuBOI/edit?usp=sharing)
 
 ---
 
