@@ -12,9 +12,6 @@ breadcrumb:
   enabled: false              # Enabled by default on Pro projects
   home: Home                  # Custom label for the first item
   separator: "|"              # Custom item separator
-
-nav:
-  mode: stack
   
 # -----------------------------------------------------------------------------
 
@@ -190,7 +187,6 @@ serve:
 
 start:
   open: false                 # Do not automatically open web browser on start
-  pro: true
 
 # -----------------------------------------------------------------------------
 
