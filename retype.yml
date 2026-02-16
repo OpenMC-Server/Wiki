@@ -74,7 +74,7 @@ links:
 # -----------------------------------------------------------------------------
 
 footer:
-  copyright: "OpenMC.net steht nicht in Verbindung mit Mojang Studios oder Minecraft®."
+  copyright: "OpenMC Wiki © {{ year }} ist lizensiert unter [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.de). OpenMC.net steht nicht in Verbindung mit Mojang Studios oder Minecraft®."
   links:
     - text: Internes Teamwiki
       link: https://teamwiki.openmc.net/
