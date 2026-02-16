@@ -308,6 +308,12 @@ Um nach einer spezifischen Sammelvariable zu suchen, kannst du die Suche deines 
 [!badge variant="secondary" text="**%aho%**"] **Alle Tuffblöcke- & Erzeugnisse**\
 *tuff, tuff_stairs, tuff_slab, tuff_wall, chiseled_tuff, polished_tuff, polished_tuff_stairs, polished_tuff_slab, polished_tuff_wall, tuff_bricks, tuff_brick_stairs, tuff_brick_slab, tuff_brick_wall, chiseled_tuff_bricks*
 
+[!badge variant="secondary" text="**%ant%**"] **Alle bemoosten Bruchsteine**\
+*mossy_cobblestone, mossy_cobblestone_wall, mossy_cobblestone_stairs, mossy_cobblestone_slab*
+
+[!badge variant="secondary" text="**%anu%**"] **Alle bemoosten Steinziegel**\
+*mossy_stone_bricks, mossy_stone_brick_wall, mossy_stone_brick_stairs, mossy_stone_bricks_slab*
+
 ### Tiefenschiefer
 [!badge variant="secondary" text="**%sk%**"] **Alle Tiefenschiefererzeugnisse**\
 *deepslate, polished_deepslate, polished_deepslate_slab, polished_deepslate_stairs, polished_deepslate_wall, deepslate_bricks, cracked_deepslate_bricks, deepslate_brick_slab, deepslate_brick_stairs, deepslate_brick_wall, deepslate_tiles, cracked_deepslate_tiles, deepslate_tile_slab, deepslate_tile_stairs, deepslate_tile_wall, chiseled_deepslate*
