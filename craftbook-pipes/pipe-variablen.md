@@ -167,6 +167,14 @@ Um nach einer spezifischen Variable zu suchen, kannst du die Suche deines Browse
 | Karmesinzaun                                      | crimson\_fence                            | %crimson\_fc%         | %bt%          |
 | Wirrzaun                                          | warped\_fence                             | %warped\_fc%          | %bu%          |
 | Eisengitter                                       | iron\_bars                                | %ironbars%            | 101           |
+| Kupfergitter                                      |copper\_bars                               | %cpr_bars%            | %akf%         |
+| Angelaufenes Kupfergitter                         |exposed\_copper\_bars                      | %o_cpr_bars%          | %akg%         |
+| Oxidiertes Kupfergitter                           | oxidized_copper_bars                      | %o_cpr_bars%          | %akh%         | 
+| Gewachstes Kupfergitter                           | waxed_copper_bars                         | %wa_cpr_bars%         | %aki%         | 
+| Gewachstes angelaufenes Kupfergitter              | waxed_exposed_copper_bars                 | %wa_e_cpr_bars%       | %akj%         | 
+| Gewachstes verwittertes Kupfergitter              | waxed_weathered_copper_bars               | %wa_w_cpr_bars%       | %akk%         | 
+| Gewachstes oxidiertes Kupfergitter                | waxed_oxidized_copper_bars                | %wa_o_cpr_bars%       | %akl%         | 
+
 | Mangrovenholzzaun                                 | mangrove\_fence                           | %mangrove\_fc%        | %xr%			|
 | Kirschholzzaun								    | cherry\_fence								| %cherry\_fc%			| %abg% 		|
 | Bambuszaun										| bamboo\_fence								| %bamboo\_fc%			| %aas% 		|
@@ -1070,6 +1078,14 @@ Um nach einer spezifischen Variable zu suchen, kannst du die Suche deines Browse
 | Leiter                                            | ladder                                    | %ladder%              | 65            |
 | Truhe                                             | chest                                     | %chest%               | 54            |
 | Redstone-Truhe                                    | trapped\_chest                            | %trap\_chest%         | 146           |
+| Kupferkiste                                       | copper_chest                              | %cpr_chest%           | %aku%         | 
+| Angelaufene Kupferkiste                           | exposed_copper_chest                      | %e_cpr_chest%         | %akv%         | 
+| Verwitterte Kupferkiste                           | weathered_copper_chest                    | %w_cpr_chest%         | %akw%         | 
+| Oxidierte Kupferkiste                             | oxidized_copper_chest                     | %o_cpr_chest%         | %akx%         | 
+| Gewachste Kupferkiste                             | waxed_copper_chest                        | %wa_cpr_chest%        | %aky%         | 
+| Gewachste angelaufene Kupferkiste                 | waxed_exposed_copper_chest                | %wa_e_cpr_chest%      | %akz%         | 
+| Gewachste verwitterte Kupferkiste                 | waxed_weathered_copper_chest              | %wa_w_cpr_chest%      | %ala%         | 
+| Gewachste oxidierte Kupferkiste                   | waxed_oxidized_copper_chest               | %wa_o_cpr_chest%      | %alb%         | 
 | Fass                                              | barrel                                    | %barrel%              | %ht%          |
 | Endertruhe                                        | ender\_chest                              | %end\_chest%          | 130           |
 | Ofen                                              | furnace                                   | %furnace%             | 61            |
@@ -1096,8 +1112,27 @@ Um nach einer spezifischen Variable zu suchen, kannst du die Suche deines Browse
 | Leuchtfeuer                                       | beacon                                    | %beacon%              | 138           |
 | Enderkristall                                     | end\_crystal                              | %endcrystal%          | 426           |
 | Blitzableiter 									| lightning_rod 							| %light_rod% 			| %qw% 		    |
+| Angelaufener Blitzableiter                        | exposed_lightning_rod                     | %e_light_rod%         | %alz%         | 
+| Verwitterter Blitzableiter                        | weathered_lightning_rod                   | %w_light_rod%         | %ama%         | 
+| Oxidierter Blitzableiter                          | oxidized_lightning_rod                    | %o_light_rod%         | %amb%         | 
+| Gewachster Blitzableiter                          | waxed_lightning_rod                       | %wa_light_rod%        | %amc%         | 
+| Gewachster angelaufener Blitzableiter             | waxed_exposed_lightning_rod               | %wa_e_light_rod%      | %amd%         | 
+| Gewachster verwitterter Blitzableiter             | waxed_weathered_lightning_rod             | %wa_w_light_rod%      | %ame%         | 
+| Gewachster oxidierter Blitzableiter               | waxed_oxidized_lightning_rod              | %wa_o_light_rod%      | %amf%         | 
 | Werker                                            | crafter                                   | %crafter%             | %agp%         |
 | Tresor                                            | vault                                     | %vault%               | %agq%         |
+| Akazienholzregal                                  | acacia_shelf                              | %acacia_sh%           | %amn%         | 
+| Bambusregal                                       | bamboo_shelf                              | %bamboo_sh%           | %amo%         | 
+| Birkenholzregal                                   | birch_shelf                               | %birch_sh%            | %amp%         | 
+| Fichtenholzregal                                  | spruce_shelf                              | %spruce_sh%           | %anv%         | 
+| Kirschholzregal                                   | cherry_shelf                              | %cherry_sh%           | %amq%         | 
+| Karmesinregal                                     | crimson_shelf                             | %crimson_sh%          | %amr%         | 
+| Akazienholzregal                                  | dark_oak_shelf                            | %darkoak_sh%          | %ams%         | 
+| Schwarzeichenholzregal                            | jungle_shelf                              | %jungle_sh%           | %amt%         | 
+| Mangrovenholzregal                                | mangrove_shelf                            | %mangrove_sh%         | %amu%         | 
+| Eichenholzregal                                   | oak_shelf                                 | %oak_sh%              | %amv%         | 
+| Blasseichenholzregal                              | pale_oak_shelf                            | %paleoak_sh%          | %amw%         | 
+| Wirrregal                                         | warped_shelf                              | %warped_sh%           | %amx%         | 
 
 ### TNT
 {.compact}
@@ -1150,8 +1185,17 @@ Um nach einer spezifischen Variable zu suchen, kannst du die Suche deines Browse
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
 | ---                                               | ---                                       | ---                   | ---           |
 | Fackel                                            | torch                                     | %torch%               | 50            |
+| Kupferfakel                                       | copper_torch                              | %co_torch%            | %alt%         |
 | Seelenfackel                                      | soul\_torch                               | %soul\_torch%         | %iq%          |
 | Laterne                                           | lantern                                   | %lantern%             | %ir%          |
+| Kupferlaterne                                     | copper_lantern                            | %cpr_ltn%             | %alk%         | 
+| Angelaufene Kupferlaterne                         | exposed_copper_lantern                    | %e_cpr_ltn%           | %all%         | 
+| Verwitterte Kupferlaterne                         | weathered_copper_lantern                  | %w_cpr_ltn%           | %alm%         | 
+| Oxidierte Kupferlaterne                           | oxidized_copper_lantern                   | %o_cpr_ltn%           | %aln%         | 
+| Gewachste Kupferlaterne                           | waxed_copper_lantern                      | %wa_cpr_ltn%          | %alo%         | 
+| Gewachste angelaufene Kupferlaterne               | waxed_exposed_copper_lantern              | %wa_e_cpr_ltn%        | %alp%         | 
+| Gewachste verwitterte Kupferlaterne               | waxed_weathered_copper_lantern            | %wa_w_cpr_ltn%        | %alq%         | 
+| Gewachste oxidierte Kupferlaterne                 | waxed_oxidized_copper_lantern             | %wa_o_cpr_ltn%        | %alr%         | 
 | Seelenlaterne                                     | soul\_lantern                             | %soul\_lantern%       | %is%          |
 | Redstone-Lampe                                    | redstone\_lamp                            | %redstlamp%           | 123           |
 | Seelaterne                                        | sea\_lantern                              | %sealantern%          | 169           |
@@ -1527,6 +1571,22 @@ modifizierten Items kennen.
 | Leuchtrahmen 									    | glow_item_frame 							| %gl_itemframe% 		| %qt% 			|
 | Glocke                                            | bell                                      | %bell%                | %mp%          |
 | Kette                                             | chain                                     | %chain%               | %mq%          |
+| Kupferkette                                       | copper_chain                              | %cpr_chain%           | %akm%         | 
+| Angelaufene Kupferkette                           | exposed_copper_chain                      | %e_cpr_chain%         | %akn%         | 
+| Verwitterte Kupferkette                           | weathered_copper_chain                    | %w_cpr_chain%         | %ako%         | 
+| Oxidierte Kupferkette                             | oxidized_copper_chain                     | %o_cpr_chain%         | %akp%         | 
+| Gewachste Kupferkette                             | waxed_copper_chain                        | %wa_cpr_chain%        | %akq%         | 
+| Gewachste angelaufene Kupferkette                 | waxed_exposed_copper_chain                | %wa_e_cpr_chain%      | %akr%         | 
+| Gewachste verwitterte Kupferkette                 | waxed_weathered_copper_chain              | %wa_w_cpr_chain%      | %aks%         | 
+| Gewachste oxidierte Kupferkette                   | waxed_oxidized_copper_chain               | %wa_o_cpr_chain%      | %akt%         | 
+| Kupfergolemstatue                                 | copper_golem_statue                       | %cpr_gost%            | %alc%         | 
+| Angelaufene Kupfergolemstatue                     | exposed_copper_golem_statue               | %e_cpr_gost%          | %ald%         | 
+| Verwitterte Kupfergolemstatue                     | weathered_copper_golem_statue             | %w_cpr_gost%          | %ale%         | 
+| Oxidierte Kupfergolemstatue                       | oxidized_copper_golem_statue              | %o_cpr_gost%          | %alf%         | 
+| Gewachste Kupfergolemstatue                       | waxed_copper_golem_statue                 | %wa_cpr_gost%         | %alg%         | 
+| Gewachste angelaufene Kupfergolemstatue           | waxed_exposed_copper_golem_statue         | %wa_e_cpr_gost%       | %alh%         | 
+| Gewachste verwitterte Kupfergolemstatue           | waxed_weathered_copper_golem_statue       | %wa_w_cpr_gost%       | %ali%         | 
+| Gewachste oxidierte Kupfergolemstatue             | waxed_oxidized_copper_golem_statue        | %wa_o_cpr_gost%       | %alj%         | 
 | Lagerfeuer                                        | campfire                                  | %campfire%            | %mr%          |
 | Seelenlagerfeuer                                  | soul\_campfire                            | %soul\_campfire%      | %ms%          |
 | Ausgetrockneter Ghast                             | dried\_ghast                              | %d\_ghast%            | %vw%          |
@@ -1606,6 +1666,7 @@ modifizierten Items kennen.
 | Goldschwert                                       | golden\_sword                             | %go\_sword%           | 283           |
 | Diamantschwert                                    | diamond\_sword                            | %di\_sword%           | 276           |
 | Netheritschwert                                   | netherite\_sword                          | %nt\_sword%           | %ng%          |
+| Kupferschwert                                     | copper_sword                              | %co_sword%            | %amk%         | 
 | Bogen                                             | bow                                       | %bow%                 | 261           |
 | Armbrust                                          | crossbow                                  | %crossbow%            | %nh%          |
 | Dreizack                                          | trident                                   | %trident%             | %ni%          |
@@ -1614,6 +1675,13 @@ modifizierten Items kennen.
 | Schere                                            | shears                                    | %shears%              | 359           |
 | Schild (Kampf)                                    | shield                                    | %shield%              | 442           |
 | Streitkolben                                      | mace                                      | %mace%                | %agv%         |
+| Kupferspeer                                       | copper_spear                              | %co_spear%            | %amm%         | 
+| Holzspeer                                         | wooden_spear                              | %wo_spear%            | %and%         | 
+| Steinspeer                                        | stone_spear                               | %st_spear%            | %ane%         | 
+| Goldspeer                                         | golden_spear                              | %go_spear%            | %anf%         | 
+| Eisenspeer                                        | iron_spear                                | %ir_spear%            | %ang%         |   
+| Diamantspeer                                      | diamond_spear                             | %di_sword%            | %anh%         | 
+| Netheritspeer                                     | netherite_spear                           | %nt_spear%            | %ani%         | 
 
 ### Spitzhacken
 {.compact}
@@ -1625,6 +1693,7 @@ modifizierten Items kennen.
 | Goldspitzhacke                                    | golden\_pickaxe                           | %go\_pickaxe%         | 285           |
 | Diamantspitzhacke                                 | diamond\_pickaxe                          | %di\_pickaxe%         | 278           |
 | Netheritspitzhacke                                | netherite\_pickaxe                        | %nt\_pickaxe%         | %nj%          |
+| Kupferspitzhacke                                  | copper_pickaxe                            | %co_pickaxe%          | %ami%         | 
 
 ### Schaufeln
 {.compact}
@@ -1636,6 +1705,7 @@ modifizierten Items kennen.
 | Goldschaufel                                      | golden\_shovel                            | %go\_shovel%          | 284           |
 | Diamantschaufel                                   | diamond\_shovel                           | %di\_shovel%          | 277           |
 | Netheritschaufel                                  | netherite\_shovel                         | %nt\_shovel%          | %nk%          |
+| Kupferschaufel                                    | copper_shovel                             | %co_shovel%           | %aml%         |
 
 ### Äxte
 {.compact}
@@ -1647,6 +1717,7 @@ modifizierten Items kennen.
 | Goldaxt                                           | golden\_axe                               | %go\_axe%             | 286           |
 | Diamantaxt                                        | diamond\_axe                              | %di\_axe%             | 279           |
 | Netheritaxt                                       | netherite\_axe                            | %nt\_axe%             | %nl%          |
+| Kupferaxt                                         | copper_axe                                | %co_axe%              | %amj%         | 
 
 ### Hacken
 {.compact}
@@ -1658,6 +1729,7 @@ modifizierten Items kennen.
 | Goldhacke                                         | golden\_hoe                               | %go\_hoe%             | 294           |
 | Diamanthacke                                      | diamond\_hoe                              | %di\_hoe%             | 293           |
 | Netherithacke                                     | netherite\_hoe                            | %nt\_hoe%             | %nm%          |
+| Kupferhacke                                       | copper_hoe                                | %co_hoe%              | %amh%         | 
 
 ### Rüstung
 {.compact}
@@ -1675,6 +1747,10 @@ modifizierten Items kennen.
 | Eisenharnisch                                     | iron\_chestplate                          | %ir\_chestplate%      | 307           |
 | Eisenbeinschutz                                   | iron\_leggings                            | %ir\_leggings%        | 308           |
 | Eisenstiefel                                      | iron\_boots                               | %ir\_boots%           | 309           |
+| Kupferhelm                                        | copper_helmet                             | %co_helmet%           | %alu%         |
+| Kupferbrustplatte                                 | copper_chestplate                         | %co_chestplate%       | %alv%         | 
+| Kupferhose                                        | copper_leggings                           | %co_leggings%         | %alw%         | 
+| Kupferstiefel                                     | copper_boots                              | %co_boots%            | %alx%         | 
 | Goldhelm                                          | golden\_helmet                            | %go\_helmet%          | 314           |
 | Goldharnisch                                      | golden\_chestplate                        | %go\_chestplate%      | 315           |
 | Goldbeinschutz                                    | golden\_leggings                          | %go\_leggings%        | 316           |
@@ -1691,8 +1767,10 @@ modifizierten Items kennen.
 | Elytra                                            | elytra                                    | %elytra%              | 443           |
 | Lederner Rossharnisch                             | leather\_horse\_armor                     | %lt\_horsearmor%      | %nt%          |
 | Eiserner Rossharnisch                             | iron\_horse\_armor                        | %ir\_horsearmor%      | 417           |
+| Kupferner Rossharnisch                            | copper_horse_armor                        | %co_horsearmor%       | %amg%         |
 | Goldener Rossharnisch                             | golden\_horse\_armor                      | %go\_horsearmor%      | 418           |
 | Diamantener Rossharnisch                          | diamond\_horse\_armor                     | %di\_horsearmor%      | 419           |
+| Netheritener Rossharnisch                         | netherite_horse_armor                     | %nt_horsearmor%       | %anc%         | 
 | Wolfspanzer                                       | wolf_armor                                | %wolfarmor%           | %ahs%         |
 
 ### Schallplatten
@@ -1809,4 +1887,8 @@ modifizierten Items kennen.
 | Prüfungsschlüssel                                 | trial_key                                 | %tri_key%             | %agr%         |
 | Unheilvoller Prüfungsschlüssel                    | ominous_trial_key                         | %omi_key%             | %ags%         |
 | Windkugel                                         | wind_charge                               | %w_charge%            | %agw%         |
-
+| Kupferner Nautiluspanzer                          | copper_nautilus_armor                     | %co_ntarmor%          | %aly%         | 
+| Eiserner Nautiluspanzer                           | iron_nautilus_armor                       | %ir_ntarmor%          | %amy%         | 
+| Goldener Nautiluspanzer                           | gold_nautilus_armor                       | %go_ntarmor%          | %amz%         | 
+| Diamantener Nautiluspanzer                        | diamond_nautilus_armor                    | %di_ntarmor%          | %ana%         | 
+| Netheritener Nautiluspanzer                       | netherite_nautilus_armor                  | %nt_ntarmor%          | %anb%         |
