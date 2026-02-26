@@ -265,6 +265,7 @@ Zusätzlich:
 - Shopschilder werden entfernt
 - PlayerWarps werden gelöscht
 - Bestehender Trust anderer Spieler wird vom Claim entfernt.
+
 So wird verhindert, dass während einer Inaktivität weiterhin Geld generiert wird oder auf Items zugegriffen werden kann.
 Gehören Kisten oder deren Inhalte weiteren Spielern, ist dies über ein Discord-Ticket zu melden.
 
