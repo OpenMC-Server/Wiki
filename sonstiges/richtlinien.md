@@ -264,7 +264,7 @@ Archiviert werden alle relevanten Statistiken des Spielers, unter anderem:
 Zusätzlich:
 - Shopschilder werden entfernt
 - PlayerWarps werden gelöscht
-- Bestehender Trust anderer Spieler wird vom Claim entfernt
+- Bestehender Trust anderer Spieler wird vom Claim entfernt.
 So wird verhindert, dass während einer Inaktivität weiterhin Geld generiert wird oder auf Items zugegriffen werden kann.
 Gehören Kisten oder deren Inhalte weiteren Spielern, ist dies über ein Discord-Ticket zu melden.
 
@@ -290,4 +290,5 @@ Die Archivierung stellt keinen Nachteil dar, außer dass eine kurze Meldung beim
 Es liegt in der Verantwortung des Spielers:
 - sich rechtzeitig beim Team zu melden und eine Wiederherstellung zu beantragen, bevor aktiv weitergespielt wird, um Datenverluste zu vermeiden
 
-Die Spielerarchivierung hilft dabei, Ranglisten sauber zu halten und gleichzeitig die Leistungen ehemaliger Spieler zu bewahren.
+
+**Die Spielerarchivierung hilft dabei, Ranglisten sauber zu halten und gleichzeitig die Leistungen ehemaliger Spieler zu bewahren.**
