@@ -244,3 +244,50 @@ Das Erstellen von mehreren PlayerWarps an einem Ort ist nicht erlaubt. Ausgenomm
 
 ### Werbung
 Das werben für Shops jeglicher Art ist maximal ein Mal pro Stunde erlaubt - es sei denn,sie ist eine Reaktion auf eine konkrete Anfrage.
+
+---
+
+## Spielerarchivierung
+### Warum gibt es die Spielerarchivierung?
+Die Spielerarchivierung sorgt dafür, dass Ranglisten aktuell und übersichtlich bleiben. Neue und aktive Spieler sollen sich an aktiven Spielern orientieren können und nicht an Werten von Spielern, die seit langer Zeit nicht mehr auf OpenMc spielen.
+
+Wichtig: Archivierung bedeutet keine Löschung. Alle Daten bleiben erhalten und können jederzeit wiederhergestellt werden.
+
+
+### Was wird archiviert?
+Archiviert werden alle relevanten Statistiken des Spielers, unter anderem:
+- Geld
+- mcMMO
+- Job Level
+- usw.
+
+Zusätzlich:
+- Shopschilder werden entfernt
+- PlayerWarps werden gelöscht
+- Bestehender Trust anderer Spieler wird vom Claim entfernt
+So wird verhindert, dass während einer Inaktivität weiterhin Geld generiert wird oder auf Items zugegriffen werden kann.
+Gehören Kisten oder deren Inhalte weiteren Spielern, ist dies über ein Discord-Ticket zu melden.
+
+
+### Wann wird archiviert?
+Ein Spieler wird archiviert, wenn er sechs Monate inaktiv ist.
+Ein aktiver Bann zählt zur Inaktivitätszeit. Ist zudem absehbar, dass ein Spieler nicht zeitnah entbannt wird, können Shopschilder, PlayerWarps und bestehender Trust bereits vor Ablauf der sechs Monate entfernt werden.
+Dabei ist wichtig:
+- Eine Abmeldung zählt weiterhin zur Inaktivitätszeit.
+
+
+
+### Rückkehr und Wiederherstellung
+Kommt ein archivierter Spieler zurück, kann er seine Daten über ein Discord‑Ticket wiederherstellen lassen.
+Dabei gilt:
+- Die Wiederherstellung erfolgt nur auf Anfrage.
+- Archivierte Daten werden vollständig wiederhergestellt.
+- Fortschritte oder Geld, die nach der Archivierung ohne Ticket erspielt wurden, werden überschrieben und gehen verloren.
+
+
+### Verantwortung des Spielers
+Die Archivierung stellt keinen Nachteil dar, außer dass eine kurze Meldung beim Team nötig ist.
+Es liegt in der Verantwortung des Spielers:
+- sich rechtzeitig beim Team zu melden und eine Wiederherstellung zu beantragen, bevor aktiv weitergespielt wird, um Datenverluste zu vermeiden
+
+Die Spielerarchivierung hilft dabei, Ranglisten sauber zu halten und gleichzeitig die Leistungen ehemaliger Spieler zu bewahren.
