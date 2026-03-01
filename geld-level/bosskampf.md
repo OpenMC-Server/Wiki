@@ -45,8 +45,8 @@ Aus der Collector Chest:
 - 1x Freedom
 +++ Belohnungen
 - 1x Shard III
-- 0-2x Shard II
-- 5-8x Shard I
+- 2x Shard II
+- 5x Shard I
 - 1x ???
 +++
 
