@@ -163,5 +163,5 @@ Jegliche Items, die in dieser Schaltung landen, werden nach den angegebenen Zahl
 Weitere Informationen zur MC1243 findest du in der [offiziellen Dokumentation](https://craftbook.enginehub.org/en/3.x/mechanics/ics/MC1243/) von Craftbook.
 
 ## Nützliches
-### PistonClap-Befehl
-Mit dem `/pistonclap` Befehl bist du in der Lage, Pistons umgekehrt zu platzieren. Dazu musst du über den Befehl zu dem Modus schalten, sowie **Schleichen**, damit der Piston entgegengesetzt zu dir selbst platziert wird. Der Befehl ist eine Komfortfunktion und erhältlich unter den [Vorteilen einzelner Ränge](https://wiki.openmc.net/allgemeines/r%C3%A4nge/#vorteile).
+### Clap-Befehl
+Mit dem `/clap` Befehl bist du in der Lage, **Pistons**, **Werfer** und **Spender** umgekehrt zu platzieren. Dazu musst du über den Befehl zu dem Modus schalten, sowie **Schleichen**, damit der Piston entgegengesetzt zu dir selbst platziert wird. Der Befehl ist eine Komfortfunktion und erhältlich unter den [Vorteilen einzelner Ränge](https://wiki.openmc.net/allgemeines/r%C3%A4nge/#vorteile).
