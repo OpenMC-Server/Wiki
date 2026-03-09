@@ -692,7 +692,7 @@ Mobs, welche in der gleichen Zeile gelistet sind bauen in gewissem Maße aufeina
   - Fähigkeiten: Fly/Ride
   - Kann aufsammeln: Ja
   - Geschwindigkeit: 0.38
-  - Nahrung: Sand, Cactus, Toter Busch, Apfle, Karotte, Rote Beete
+  - Nahrung: Sand, Cactus, Toter Busch, Apfel, Karotte, Rote Beete
 - **Kugelfisch**
   - Grundleben: 15 (max. 75)
   - Kampftyp: Nahkampf
