@@ -7,7 +7,7 @@ icon: home
 
 # Home
 
-![](/images/Wiki_Hero_Winter.png)
+![](/images/Wiki_Hero.png)
 
 :::content-center
 **Herzlich Willkommen im OpenMC Wiki :wave:**
