@@ -470,6 +470,21 @@ Um nach einer spezifischen Sammelvariable zu suchen, kannst du die Suche deines 
 [!badge variant="secondary" text="**%ahn%**"] **Alle Kupferfalltüren**\
 *copper_trapdoor, exposed_copper_trapdoor, weathered_copper_trapdoor, oxidized_copper_trapdoor, waxed_copper_trapdoor, waxed_exposed_copper_trapdoor, waxed_weathered_copper_trapdoor, waxed_oxidized_copper_trapdoor*
 
+[!badge variant="secondary" text="**%ano%**"] **Alle Kupfergitter**\
+*copper_bars, exposed_copper_bars, weathered_copper_bars, oxidized_copper_bars, waxed_copper_bars, waxed_exposed_copper_bars, waxed_weathered_copper_bars, waxed_oxidized_copper_bars*
+
+[!badge variant="secondary" text="**%anp%**"] **Alle Kupferketten**\
+*copper_chain, exposed_copper_chain, weathered_copper_chain, oxidized_copper_chain, waxed_copper_chain, waxed_exposed_copper_chain, waxed_weathered_copper_chain, waxed_oxidized_copper_chain*
+
+[!badge variant="secondary" text="**%anq%**"] **Alle Kupferkisten**\
+*copper_chest, exposed_copper_chest, weathered_copper_chest, oxidized_copper_chest, waxed_copper_chest, waxed_exposed_copper_chest, waxed_weathered_copper_chest, waxed_oxidized_copper_chest*
+
+[!badge variant="secondary" text="**%anr%**"] **Alle Kupfergolemstatuen**\
+*copper_golem_statue, exposed_copper_golem_statue, weathered_copper_golem_statue, oxidized_copper_golem_statue, waxed_copper_golem_statue, waxed_exposed_copper_golem_statue, waxed_weathered_copper_golem_statue, waxed_oxidized_copper_golem_statue*
+
+[!badge variant="secondary" text="**%vh%**"] **Alle Kupferlaternen**\
+*copper_lantern, exposed_copper_lantern, weathered_copper_lantern, oxidized_copper_lantern, waxed_copper_lantern, waxed_exposed_copper_lantern, waxed_weathered_copper_lantern, waxed_oxidized_copper_lantern*
+
 ### Dekorationen und sonstige Baublöcke
 [!badge variant="secondary" text="**%sw%**"] **Diverse Dekorationen**\
 *armor_stand, scaffolding, painting, item_frame, bell, chain, campfire, soul_campfire, cobweb, dragon_egg, lead, name_tag, flower_pot, glow_item_frame*
@@ -497,6 +512,9 @@ Zu gesonderten Infos rund um `player_head` kannst du [hier](https://wiki.openmc.
 
 [!badge variant="secondary" text="**%vx%**"] **Bücher + Bücherregale**\
 *paper, book, writable_book, written_book, bookshelf, chiseled_bookshelf*
+
+[!badge variant="secondary" text="**%anl%**"] **Alle Holzregale**\
+*acacia_shelf, bamboo_shelf, birch_shelf, spruce_shelf, cherry_shelf, crimson_shelf, dark_oak_shelf, jungle_shelf, mangrove_shelf, oak_shelf, pale_oak_shelf, warped_shelf*
 
 [!badge variant="secondary" text="**%wi%**"] **Bienennutzblöcke + Honig**\
 *bee_nest, beehive, honey_block, honeycomb, honeycomb_block, honey_bottle*
@@ -547,6 +565,10 @@ Zu gesonderten Infos rund um `player_head` kannst du [hier](https://wiki.openmc.
 
 [!badge variant="secondary" text="**%yp%**"] **Alle Goldrüstungsteile**\
 *golden_helmet, golden_chestplate, golden_leggings, golden_boots*
+
+[!badge variant="secondary" text="**%ann%**"] **Alle Kupferrüstungsteile**\
+*copper_helmet, copper_chestplate, copper_leggings, copper_boots*
+
 
 [!badge variant="secondary" text="**%yq%**"] **Alle Eisenrüstungsteile**\
 *iron_helmet, iron_chestplate, iron_leggings, iron_boots*
@@ -656,6 +678,9 @@ Zu gesonderten Infos rund um `player_head` kannst du [hier](https://wiki.openmc.
 
 [!badge variant="secondary" text="**%akd%**"]  **Alle Geschirre**\
 *white_harness, light_gray_harness, gray_harness, black_harness, brown_harness, red_harness, orange_harness, yellow_harness, lime_harness, green_harness, cyan_harness, light_blue_harness, blue_harness, purple_harness, magenta_harness, pink_harness*
+
+[!badge variant="secondary" text="**%ank%**"]  **Alle Nautiluspanzer**\
+*iron_nautilus_armor, copper_nautilus_armor, gold_nautilus_armor, diamond_nautilus_armor, netherite_nautilus_armor*
 
 [!badge variant="secondary" text="**%aaf%**"] **Alle Ofenerzeugnisse**\
 *porkchop, beef, chicken, cod, salmon, potato, mutton, rabbit, kelp, raw_copper, raw_iron, raw_gold, nether_gold_ore, ancient_debris, copper_ore, diamond_ore, gold_ore, iron_ore, lapis_ore, redstone_ore, coal_ore, emerald_ore, nether_quartz_ore, iron_pickaxe, iron_shovel, iron_axe, iron_hoe, golden_pickaxe, golden_shovel, golden_axe, golden_hoe, chainmail_helmet, chainmail_chestplate, chainmail_leggings, chainmail_boots, golden_helmet, golden_chestplate, golden_leggings, golden_boots, iron_helmet, iron_chestplate, iron_leggings, iron_boots, iron_sword, golden_sword, iron_horse_armor, golden_horse_armor, sand, red_sand, cobblestone, sandstone, red_sandstone, stone, quartz_block, clay_ball, netherrack, nether_bricks, basalt, clay, stone_bricks, polished_blackstone_bricks, cobbled_deepslate, deepslate_bricks, deepslate_tiles, black_terracotta, blue_terracotta, brown_terracotta, cyan_terracotta, gray_terracotta, green_terracotta, light_blue_terracotta, light_gray_terracotta, lime_terracotta, magenta_terracotta, orange_terracotta, pink_terracotta, purple_terracotta, red_terracotta, white_terracotta, yellow_terracotta, cactus, oak_log, spruce_log, birch_log, jungle_log, acacia_log, dark_oak_log, crimson_stem, warped_stem, mangrove_log, oak_wood, spruce_wood, birch_wood, jungle_wood, acacia_wood, dark_oak_wood, mangrove_wood, crimson_hyphae, warped_hyphae, stripped_oak_log, stripped_spruce_log, stripped_birch_log, stripped_acacia_log, stripped_jungle_log, stripped_dark_oak_log, stripped_crimson_stem, stripped_warped_stem, stripped_mangrove_log, stripped_oak_wood, stripped_spruce_wood, stripped_birch_wood, stripped_acacia_wood, stripped_jungle_wood, stripped_dark_oak_wood, stripped_crimson_hyphae, stripped_warped_hyphae, stripped_mangrove_wood, chorus_fruit, wet_sponge, sea_pickle, deepslate_copper_ore, deepslate_diamond_ore, deepslate_emerald_ore, deepslate_gold_ore, deepslate_iron_ore, deepslate_lapis_ore, deepslate_redstone_ore*
