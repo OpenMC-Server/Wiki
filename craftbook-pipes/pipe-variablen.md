@@ -227,7 +227,7 @@ Um nach einer spezifischen Variable zu suchen, kannst du die Suche deines Browse
 | Schwarzeichensetzling                             | dark\_oak\_sapling                        | %darkoak\_sp%         | 6:5           |
 | Mangroven-Keimling                                | mangrove\_propagule                       | %mangrove\_pp%        | %xv%			|
 | Kirschsetzling								    | cherry\_sapling							| %cherry\_sp%			| %abs% 		|
-| Blasseichensetzling                               | pale_oak_sapling                          | %poak_sa%             | %aik%
+| Blasseichensetzling                               | pale\_oak\_sapling                        | %poak\_sa%            | %aik%         |
 
 ### Schilder (Schrift)
 {.compact}
