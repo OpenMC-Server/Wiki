@@ -174,7 +174,6 @@ Um nach einer spezifischen Variable zu suchen, kannst du die Suche deines Browse
 | Gewachstes angelaufenes Kupfergitter              | waxed_exposed_copper_bars                 | %wa_e_cpr_bars%       | %akj%         | 
 | Gewachstes verwittertes Kupfergitter              | waxed_weathered_copper_bars               | %wa_w_cpr_bars%       | %akk%         | 
 | Gewachstes oxidiertes Kupfergitter                | waxed_oxidized_copper_bars                | %wa_o_cpr_bars%       | %akl%         | 
-
 | Mangrovenholzzaun                                 | mangrove\_fence                           | %mangrove\_fc%        | %xr%			|
 | Kirschholzzaun								    | cherry\_fence								| %cherry\_fc%			| %abg% 		|
 | Bambuszaun										| bamboo\_fence								| %bamboo\_fc%			| %aas% 		|
