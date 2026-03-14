@@ -1078,7 +1078,7 @@ Um nach einer spezifischen Variable zu suchen, kannst du die Suche deines Browse
 | Leiter                                            | ladder                                    | %ladder%              | 65            |
 | Truhe                                             | chest                                     | %chest%               | 54            |
 | Redstone-Truhe                                    | trapped\_chest                            | %trap\_chest%         | 146           |
-| Kupferkiste                                       | copper_chest                              | %cpr_chest%           | %aku%         | 
+| Kupferkiste                                       | copper_chest                              | %cpr_chest%           | %pg%          | 
 | Angelaufene Kupferkiste                           | exposed_copper_chest                      | %e_cpr_chest%         | %akv%         | 
 | Verwitterte Kupferkiste                           | weathered_copper_chest                    | %w_cpr_chest%         | %akw%         | 
 | Oxidierte Kupferkiste                             | oxidized_copper_chest                     | %o_cpr_chest%         | %akx%         | 
@@ -1680,7 +1680,7 @@ modifizierten Items kennen.
 | Steinspeer                                        | stone_spear                               | %st_spear%            | %ane%         | 
 | Goldspeer                                         | golden_spear                              | %go_spear%            | %anf%         | 
 | Eisenspeer                                        | iron_spear                                | %ir_spear%            | %ang%         |   
-| Diamantspeer                                      | diamond_spear                             | %di_sword%            | %anh%         | 
+| Diamantspeer                                      | diamond_spear                             | %di_spear%            | %sh%          | 
 | Netheritspeer                                     | netherite_spear                           | %nt_spear%            | %ani%         | 
 
 ### Spitzhacken

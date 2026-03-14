@@ -506,22 +506,25 @@ Zu gesonderten Infos rund um `player_head` kannst du [hier](https://wiki.openmc.
 
 ### Werkzeuge
 [!badge variant="secondary" text="**%yu%**"] **Alle Spitzhacken**\
-*wooden_pickaxe, stone_pickaxe, iron_pickaxe, golden_pickaxe, diamond_pickaxe, netherite_pickaxe*
+*wooden_pickaxe, stone_pickaxe, copper_pickaxe, iron_pickaxe, golden_pickaxe, diamond_pickaxe, netherite_pickaxe*
 
 [!badge variant="secondary" text="**%yv%**"] **Alle Schaufeln**\
-*wooden_shovel, stone_shovel, iron_shovel, golden_shovel, diamond_shovel, netherite_shovel*
+*wooden_shovel, stone_shovel, copper_shovel, iron_shovel, golden_shovel, diamond_shovel, netherite_shovel*
 
 [!badge variant="secondary" text="**%yw%**"] **Alle Äxte**\
-*wooden_axe, stone_axe, iron_axe, golden_axe, diamond_axe, netherite_axe*
+*wooden_axe, stone_axe, copper_axe, iron_axe, golden_axe, diamond_axe, netherite_axe*
 
 [!badge variant="secondary" text="**%yx%**"] **Alle Hacken**\
-*wooden_hoe, stone_hoe, iron_hoe, golden_hoe, diamond_hoe, netherite_hoe*
+*wooden_hoe, stone_hoe, copper_hoe, iron_hoe, golden_hoe, diamond_hoe, netherite_hoe*
 
 [!badge variant="secondary" text="**%uv%**"] **Alle Holzwerkzeuge**\
 *wooden_pickaxe, wooden_shovel, wooden_axe, wooden_hoe*
 
 [!badge variant="secondary" text="**%uw%**"] **Alle Steinwerkzeuge**\
 *stone_pickaxe, stone_shovel, stone_axe, stone_hoe*
+
+[!badge variant="secondary" text="**%anm%**"] **Alle Kupferwerkzeuge**\
+*copper_pickaxe, copper_shovel, copper_axe, stone_hoe*
 
 [!badge variant="secondary" text="**%ux%**"] **Alle Eisenwerkzeuge**\
 *iron_pickaxe, iron_shovel, iron_axe, iron_hoe*
@@ -567,10 +570,13 @@ Zu gesonderten Infos rund um `player_head` kannst du [hier](https://wiki.openmc.
 *leather_boots, chainmail_boots, golden_boots, iron_boots, diamond_boots, netherite_boots*
 
 [!badge variant="secondary" text="**%yt%**"] **Alle Schwerter**\
-*wooden_sword, stone_sword, iron_sword, golden_sword, diamond_sword, netherite_sword*
+*wooden_sword, stone_sword, copper_sword, iron_sword, golden_sword, diamond_sword, netherite_sword*
+
+[!badge variant="secondary" text="**%anj%**"] **Alle Speere**\
+*wooden_spear, stone_spear, copper_spear, golden_spear, iron_spear, diamond_spear, netherite_spear*
 
 [!badge variant="secondary" text="**%wt%**"] **Alle Waffen**\
-*wooden_sword, stone_sword, iron_sword, golden_sword, diamond_sword, netherite_sword, bow, crossbow, trident, flint_and_steel, shield, mace*
+*wooden_sword, stone_sword, iron_sword, golden_sword, diamond_sword, netherite_sword, bow, crossbow, trident, flint_and_steel, shield, mace, wooden_spear, stone_spear, copper_spear, golden_spear, iron_spear, diamond_spear, netherite_spear*
 
 ### Essen
 [!badge variant="secondary" text="**%su%**"] **Alle Nutz- und essbaren Pflanzen**\
