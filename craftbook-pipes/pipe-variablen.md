@@ -591,7 +591,7 @@ Um nach einer spezifischen Variable zu suchen, kannst du die Suche deines Browse
 | Eisenklumpen                                      | iron\_nugget                              | %iron\_ng%            | 452           |
 | Eisenbarren                                       | iron\_ingot                               | %iron\_in%            | 265           |
 | Kupferbarren 						                | copper\_ingot 						    | %copper\_in% 	        | %rh% 			|
-| Kupferklumpen 						            | copper\_nugget 						    | %cpr\_ng% 	        | %als% 		|
+| Kupferklumpen 						            | copper\_nugget 						    | %cpr\_ng% 	        | %sr% 		    |
 | Goldklumpen                                       | gold\_nugget                              | %gold\_ng%            | 371           |
 | Goldbarren                                        | gold\_ingot                               | %gold\_in%            | 266           |
 | Redstone                                          | redstone                                  | %redstone\_in%        | 331           |
