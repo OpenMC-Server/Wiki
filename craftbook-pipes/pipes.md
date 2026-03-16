@@ -164,4 +164,5 @@ Weitere Informationen zur MC1243 findest du in der [offiziellen Dokumentation](h
 
 ## Nützliches
 ### Clap-Befehl
+[!badge variant="dark" icon="ruby" text="VIP/VIS Feature"](/allgemeines/ränge.md)
 Mit dem `/clap` Befehl bist du in der Lage, **Pistons**, **Werfer** und **Spender** umgekehrt zu platzieren. Dazu musst du über den Befehl zu dem Modus schalten, sowie **Schleichen**, damit der Piston entgegengesetzt zu dir selbst platziert wird. Der Befehl ist eine Komfortfunktion und erhältlich unter den [Vorteilen einzelner Ränge](https://wiki.openmc.net/allgemeines/r%C3%A4nge/#vorteile).
