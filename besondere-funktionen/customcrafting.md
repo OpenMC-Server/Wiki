@@ -108,14 +108,12 @@ Falls ihr eure Items mit besonderen **Features** (siehe unten) nicht wiederfinde
 ### Öffnen des Craftingmenüs
 
 Über die Befehle `/crafting` oder `/craft use crafting` gelangst du in das Craftingmenü. Dort findest du unterschiedliche Kategorien für die Rezepte:
-<br>
 
--![](/images/customcrafting_kategorien.png)
+![](/images/customcrafting_kategorien.png)
 
-<br>
 Innerhalb einer Kategorie werden die jeweiligen Rezepte angezeigt:  
 
--![](/images/customcrafting_rezepte.png)
+![](/images/customcrafting_rezepte.png)
 
 ---
 
