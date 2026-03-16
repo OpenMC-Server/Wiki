@@ -109,10 +109,10 @@ Falls ihr eure Items mit besonderen **Features** (siehe unten) nicht wiederfinde
 
 Über die Befehle `/crafting` oder `/craft use crafting` gelangst du in das Craftingmenü. Dort findest du unterschiedliche Kategorien für die Rezepte:
 
-![](/images/customcrafting_kategorien.png)
+-![](/images/customcrafting_kategorien.png)
 
 Innerhalb einer Kategorie werden die jeweiligen Rezepte angezeigt:  
-![](/images/customcrafting_rezepte.png)
+-![](/images/customcrafting_rezepte.png)
 
 ---
 
@@ -143,7 +143,7 @@ Jede Kategorie verfügt über **3 Craftingslots**. Dort werden die Rezepte in ei
 - Auch wenn die Warteschlange nur 3 sichtbare Slots hat, können insgesamt **bis zu 100 Items** gleichzeitig gecraftet werden.  
 - Bei vollem Inventar werden die Resultate auf dem Boden gedropped.
 - Die restlichen Slots erreichst du über die Navigation am Rand:  
-![](/images/customcrafting_warteschlange.png)
+-![](/images/customcrafting_warteschlange.png)
 
 ---
 
