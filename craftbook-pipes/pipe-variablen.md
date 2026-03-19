@@ -1889,6 +1889,6 @@ modifizierten Items kennen.
 | Windkugel                                         | wind_charge                               | %w_charge%            | %agw%         |
 | Kupferner Nautiluspanzer                          | copper_nautilus_armor                     | %co_ntarmor%          | %aly%         | 
 | Eiserner Nautiluspanzer                           | iron_nautilus_armor                       | %ir_ntarmor%          | %amy%         | 
-| Goldener Nautiluspanzer                           | gold_nautilus_armor                       | %go_ntarmor%          | %amz%         | 
+| Goldener Nautiluspanzer                           | golden_nautilus_armor                     | %go_ntarmor%          | %amz%         | 
 | Diamantener Nautiluspanzer                        | diamond_nautilus_armor                    | %di_ntarmor%          | %ana%         | 
 | Netheritener Nautiluspanzer                       | netherite_nautilus_armor                  | %nt_ntarmor%          | %anb%         |
