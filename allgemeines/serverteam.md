@@ -69,7 +69,14 @@ Eventeinrichtung
  Moderation\
  Spielersupport\
  Claimvergabe
+||| Aleischa [!badge variant="success" text="seit 2025 im Team"]
+-![|100](https://starlightskins.lunareclipse.studio/render/ultimate/192876d1-2845-47a2-af33-fff31339a413/full)
+**Aufgaben:**
+
+ Moderation\
+ Spielersupport
 |||
+
 
 ### Eventler
 ||| Useflo [!badge variant="success" text="seit 2024 im Team"]
@@ -94,11 +101,6 @@ Eventeinrichtung
 |||
 
 ### Supporter
-||| Aleischa [!badge variant="success" text="seit 2025 im Team"]
--![|100](https://starlightskins.lunareclipse.studio/render/ultimate/192876d1-2845-47a2-af33-fff31339a413/full)
-**Aufgaben:**
-
- Spielersupport
 ||| Thunder492 [!badge variant="success" text="seit 2025 im Team"]
 -![|110](https://starlightskins.lunareclipse.studio/render/ultimate/774eb3de-3881-42c1-a772-8aada9135ac7/full)
 **Aufgaben:**
