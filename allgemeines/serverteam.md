@@ -68,7 +68,7 @@ Eventeinrichtung
 
  Moderation\
  Spieler-support\
- Claimvergabe
+ Claim-vergabe
 ||| Aleischa [!badge variant="success" text="seit 2025 im Team"]
 -![|100](https://starlightskins.lunareclipse.studio/render/ultimate/192876d1-2845-47a2-af33-fff31339a413/full)
 **Aufgaben:**
@@ -106,6 +106,11 @@ Eventeinrichtung
 **Aufgaben:**
 
  Spielersupport
+||| Du?
+-![|110](https://starlightskins.lunareclipse.studio/render/ultimate/d9a3b9b6-f6ae-497f-af1e-36b544d54723/full)
+**Aufgaben:**
+
+ Bewirb dich auf Discord!
 |||
 
 ---
