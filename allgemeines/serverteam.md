@@ -106,9 +106,9 @@ Eventeinrichtung
 **Aufgaben:**
 
  Spielersupport
-||| Du?
+||| Vielleicht Du?
 -![|110](https://starlightskins.lunareclipse.studio/render/ultimate/d9a3b9b6-f6ae-497f-af1e-36b544d54723/full)
-**Aufgaben:**
+**Wir suchen neue Supporter.**
 
  Bewirb dich auf Discord!
 |||
