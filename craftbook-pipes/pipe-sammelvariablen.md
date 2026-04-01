@@ -522,6 +522,9 @@ Zu gesonderten Infos rund um `player_head` kannst du [hier](https://wiki.openmc.
 [!badge variant="secondary" text="**%aej%**"] **Alle Sculk-Gegenstände**\
 *sculk, sculk_vein, sculk_catalyst, sculk_shrieker, sculk_sensor, calibrated_sculk_sensor*
 
+[!badge variant="secondary" text="**%sz%**"] **Alle Blitzableiter**\
+*lightning_rod, exposed_lightning_rod, weathered_lightning_rod, oxidized_lightning_rod, waxed_lightning_rod, waxed_exposed_lightning_rod, waxed_weathered_lightning_rod, waxed_oxidized_lightning_rod*
+
 ### Werkzeuge
 [!badge variant="secondary" text="**%yu%**"] **Alle Spitzhacken**\
 *wooden_pickaxe, stone_pickaxe, copper_pickaxe, iron_pickaxe, golden_pickaxe, diamond_pickaxe, netherite_pickaxe*
