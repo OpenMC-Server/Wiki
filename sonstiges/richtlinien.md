@@ -64,12 +64,13 @@ Sollten aufgrund der Größe/Anzahl an Claims (insbesondere in Zone 1) Probleme 
 Die Claimzonen können auch auf der [Livemap](https://map.openmc.net/) eingesehen werden ("Claimzonen" oben links aktivieren).
 
 +++ Zone 1 - Unmittelbare Spawnnähe
-Um eine schöne Umgebung zu gewährleisten, müssen Claims, welche sich in Zone 1 befinden, innerhalb von zwei Monaten maßgebliche Baufortschritte aufweisen. Geschieht dies nicht oder ist der Besitzer für einen Zeitraum von drei Monaten unabgemeldet inaktiv, kann dieser zu einem Adminclaim umgewandelt werden. Zu Adminclaims umgewandelte Grundstücke werden im Ermessen des Teams unter Denkmalschutz gestellt, oder weitergegeben (Eine zentrale Übersicht über die verfügbar gewordenen Claims in Zone 1 wird mittelfristig folgen). Nach drei Monaten erneuter Aktivität können ehemals eigene, aber noch nicht weiter vergebene Claims für eine Rückgabe beantragt werden.
-Inaktive Claims können über den Warp /warp Claimvergabe_Zone1 beantragt werden.
+Um eine schöne Umgebung zu gewährleisten, müssen Claims, welche sich in Zone 1 befinden, innerhalb von zwei Monaten maßgebliche Baufortschritte aufweisen. Geschieht dies nicht oder ist der Besitzer für einen Zeitraum von drei Monaten unabgemeldet inaktiv, kann dieser zu einem Adminclaim umgewandelt werden. Hierbei werden auch alle vom Claiminhaber gesetzten Berechtigungen entfernt. Zu Adminclaims umgewandelte Grundstücke werden im Ermessen des Teams unter Denkmalschutz gestellt, oder weitergegeben (Eine zentrale Übersicht über die verfügbar gewordenen Claims in Zone 1 wird mittelfristig folgen). Nach drei Monaten erneuter Aktivität können ehemals eigene, aber noch nicht weiter vergebene Claims für eine Rückgabe beantragt werden. Inaktive Claims können über den Warp /warp Claimvergabe_Zone1 beantragt werden.
+
+Inaktive Claims können über den Warp `/warp Claimvergabe_Zone1` beantragt werden.
 
 Spawnclaims in Form eines Adminclaims werden in regelmäßigen Abständen zur Bewerbung freigegeben – ihr findet sie auf den Tafeln im entsprechenden Raum. Wer Interesse an einem Gebiet hat, kann sich vor Ort einschreiben, die Vergabe über das Ticketsystem entfällt. Claims die nicht ausgestellt wurden, werden zu diesem Zeitpunkt nicht  weitervergeben. 
 
-Ablauf:
+**Ablauf:**
 Holt euch eines der Bücher (rechts und links neben dem Lesepult), schreibt euren Namen und alle wichtigen Infos zum Projekt rein und werft es in den Trichter für den gewünschten Claim.
 Das Team wertet die eingeworfenen Bücher zur nächsten Teamsitzung aus und wählt einen passenden Spieler für den Claim aus.
 

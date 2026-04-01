@@ -7,7 +7,7 @@ icon: log
 
 # Serverregeln
 
-[!badge variant="info" text=":large_green_circle: Letzte Aktualisierung: 25.11.2025"]
+[!badge variant="info" text=":large_green_circle: Letzte Aktualisierung: 01.04.2026"]
 
 Mit dem Spielen auf unserem Server und/oder dem Beitritt auf unserem Discord akzeptierst du die Regeln.\
 Zusätzlich sind unsere [Richtlinien](/sonstiges/richtlinien.md) zu beachten. Diese gehen detaillierter auf bestimmte Aspekte und Einzelfälle ein.
@@ -64,7 +64,7 @@ Zusätzlich sind unsere [Richtlinien](/sonstiges/richtlinien.md) zu beachten. Di
 ---
 
 ## §5 Bauen
-**5.1** Griefing und Diebstahl ist ein Vertrauensbruch und in allen Welten verboten.\
+**5.1** Griefing und Diebstahl ist ein Vertrauensbruch und grundsätzlich verboten. In der Farmwelt ist Griefing ab einer Entfernung von 150 Blöcken vom Spawn gestattet. Findet ein Farmwelt-Event statt, beträgt diese Grenze temporär 750 Blöcke.\
 **5.2** Das Zerstören der Landschaft ohne erkennbaren Zweck ist verboten.\
 **5.3** Unbestreitbar unschöne oder langfristig unfertige Bauten können vom Team entfernt werden. In Spawnnähe gelten [besondere Regelungen](https://wiki.openmc.net/sonstiges/richtlinien/#claimvergaben).\
 **5.4** Für Grundstücke von Spielern, die ohne Abmeldung länger als 30 Tage inaktiv sind, kann eine Entfernung oder Weitergabe beantragt werden. In Spawnnähe gelten [besondere Regelungen](https://wiki.openmc.net/sonstiges/richtlinien/#claimvergaben).\
