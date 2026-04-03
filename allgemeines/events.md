@@ -116,9 +116,9 @@ Das Bauevent soll die eigene Kreativität fördern, weshalb direkte Inspiratione
 
 Das bedeutet:
 
-- Bauwerke dürfen nicht aus Bildern, Videos oder anderen Medien nachgebaut werden,
-- Auch stark abgeänderte Kopien sind nicht erlaubt,
-- Es dürfen keine Vorlagen oder Schematics als Bauvorlage genutzt werden,
+- Bauwerke dürfen nicht aus Bildern, Videos oder anderen Medien nachgebaut werden
+- Auch stark abgeänderte Kopien sind nicht erlaubt
+- Es dürfen keine Vorlagen oder Schematics als Bauvorlage genutzt werden
 
 Du darfst dir natürlich allgemein Ideen oder Stilrichtungen anschauen, aber das Bauwerk selbst muss eigenständig entworfen und gebaut sein.
 Wenn ein Bauwerk klar auf eine konkrete Vorlage zurückzuführen ist, wird es vom Event ausgeschlossen.
