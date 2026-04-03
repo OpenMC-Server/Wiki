@@ -42,12 +42,12 @@ Wird eine NoEnter-Claimflag für den Bauzeitraum gewünscht, kann diese bei der 
 2. Spieler haben bis zum 15. des Folgemonats bis 23:59 Uhr Zeit zum Bauen. Eine Anmeldung muss zunächst nicht erfolgen. Beim Bau sollten die Bewertungsaspekte beachtet werden.
 
 3. Bis zum 15. bis 23:59 Uhr des Folgemonats erfolgt die verbindliche Anmeldung des Bauwerks über ein Discord-Ticket. Dabei akzeptiert der Teilnehmer auch die Teilnahmebedingungen. Bitte formuliere folgende und andere Wünsche, falls vorhanden, ebenfalls im Ticket:
-- Alle Teilnehmer,
-- Blickrichtung des Warps,
-- Die gewünschten Claimflags während der Besichtigung,
-- Eine NoEnter Claimflag für den Bauzeitraum,
-- Wenn Bücher während der Besichtigung ausgegeben werden sollen, kann der Autor durch das Team durch einen neutralen Autor ersetzt werden (Koordinaten angeben),
-- Falls keine Aufnahme in die Bauevent-Historie gewünscht ist,
+- Alle Teilnehmer
+- Blickrichtung des Warps
+- Die gewünschten Claimflags während der Besichtigung
+- Eine NoEnter Claimflag für den Bauzeitraum
+- Wenn Bücher während der Besichtigung ausgegeben werden sollen, kann der Autor durch das Team durch einen neutralen Autor ersetzt werden (Koordinaten angeben)
+- Falls keine Aufnahme in die Bauevent-Historie gewünscht ist
 
 4. Mit dem Bewertungszeitraum vom 18. bis 23. um 22 Uhr des Folgemonats wird der Champion (Sieger) des Events bestimmt. Hierbei wird jedes Exponat mit einer anonymen ID versehen und zum Erkunden/Begutachten freigegeben. Die Spieler stimmen für jedes Bauwerk ab, dabei kann jeweils für die oben genannten Kriterien eine Punktzahl von 1-8 vergeben werden. Daraus ergibt sich schlussendlich eine Gesamtpunktzahl.
 
@@ -100,7 +100,7 @@ Eingereichte Bauwerke…
 - [x] ...müssen die Performance berücksichtigen.
 
 Teilnehmer...
-- [x] ...müssen alle angegeben werden
+- [x] ...müssen alle angegeben werden.
 - [x] ...dürfen Schematics/Litematica nur verwenden, wenn sämtliche Blöcke von Hand platziert werden.
 - [x] ...dürfen sich nur an einem Bauwerk beteiligen.
 
@@ -112,7 +112,6 @@ Sobald das Bauevent vollständig abgeschlossen ist, werden die Bauwerke in die d
 Solltest du das Grundstück nicht länger behalten wollen, besteht die Möglichkeit, dich ebenfalls über ein Ticket auf dem Discord an uns zu wenden und Denkmalschutz anzufragen. In dem Falle übergibst du das Bauwerk an den Server, sodass es zu einem Adminclaim wird. Dadurch entfallen die Zugriffsrechte auf dem Grundstück für die Erbauer. Wenn du davon keinen Gebrauch machen möchtest, erhältst du das Grundstück wie üblich nach Ende der Abstimmung wieder zurück übertragen.
 
 #### Inspirationen
-Inspirationen,
 Das Bauevent soll die eigene Kreativität fördern, weshalb direkte Inspirationen nicht erlaubt sind.
 
 Das bedeutet:
