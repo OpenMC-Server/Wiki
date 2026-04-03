@@ -12,13 +12,13 @@ Auf dieser Seite findest du Erläuterungen zu den Events, die regelmäßig auf O
 
 ## Bauevent
 !!! Aktuelles Bauevent:
-*Thema:* Portal zu einer anderen Welt/Dimension\
-*Dauer:* 01.11. - 15.12.\
-*Bewertungsevent:* 18.12. - 23.12.
+*Thema:* Industrie / Fabrik\
+*Dauer:* 01.04. - 15.05.\
+*Bewertungsevent:* 18.05. - 23.05.
 !!!
 
 ### Über das Bauevent
-Das Bauevent beginnt immer am 1. des Monats und endet am 15. des Folgemonats, sodass alle zwei Monate ein neues Bauevent stattfindet. In dem Bauzeitraum von eineinhalb Monaten haben Teilnehmer Zeit, ein zum vorgegebenen Thema passendes Bauwerk zu erschaffen  (Details: siehe "Ablauf").
+Das Bauevent beginnt immer mit dem 1. des Monats und endet am 15. um 23:59 Uhr des Folgemonats, sodass alle zwei Monate ein neues Bauevent stattfindet. In dem Bauzeitraum von eineinhalb Monaten haben Teilnehmer Zeit, ein zum vorgegebenen Thema passendes Bauwerk zu erschaffen  (Details: siehe "Ablauf").
 
 Vom 18. des Folgemonats bis zum 23. des Folgemonats findet der Bewertungszeitraum statt. Dort können die am Bauevent teilgenommenen Bauwerke von allen Spielern auf dem Server nach mehreren Kriterien beurteilt werden  (Details: siehe "Ablauf").
 
@@ -27,30 +27,31 @@ Je nach Ergebnis der Bewertung erhalten die Teilnehmer Belohnungen, welche sich 
 ### Teilnahme
 Zu Beginn ist keine Anmeldung erforderlich. Du kannst einfach nach der Ankündigung des Themas drauf losbauen, musst dabei aber die Teilnahmebedingungen beachten. Du kannst ein Team mit bis zu zwei weiteren Teilnehmern bilden. Bitte beachte dabei die Informationen unter "Preise", wie der Gewinn aufgeteilt wird.
 
-Suche dir einen freien Platz in der **Bauwelt** und baue etwas zum Thema. Sei kreativ! Die Bauwerke werden beim Bewertungsevent von den Spielern nach drei Faktoren bewertet:
-- Detailreichtum
-- Kreativität
-- Ästhetik
+Suche dir einen freien Platz in der Bauwelt und baue etwas zum Thema. Sei kreativ! Die Bauwerke werden beim Bewertungsevent von den Spielern nach drei Faktoren bewertet:
+Detailreichtum,
+Kreativität,
+Ästhetik,
 
 Wir möchten allen Spielern die gleiche Chance geben, das Bauevent zu gewinnen. Spieler ohne Rang, welche Zugriff auf das Editieren von ArmorStands für die Zeit des Bauevents benötigen, können sich per Support-Ticket an das Team wenden. Selbiges gilt für die Flugzeit, wobei hier eine genaue Begründung gegeben sein sollte.
 
 Wird eine NoEnter-Claimflag für den Bauzeitraum gewünscht, kann diese bei der Anmeldung im Ticket angefragt werden.
 
 ### Ablauf
-1. Das Thema des Bauevents wird am 1. des Monats bekanntgegeben.
+1. Das Thema des Bauevents wird aus einem Themenpool, der von der Community gefüllt wird, am letzten Tag des Monats um 20:00 Uhr in einem öffentlichen Voicechannel durchgeführt. Jeder kann dem Stream beiwohnen!
 
-2. Spieler haben bis zum 15. des Folgemonats Zeit zum Bauen. Eine Anmeldung muss zunächst nicht erfolgen. Beim Bau sollten die Bewertungsaspekte beachtet werden.
+2. Spieler haben bis zum 15. des Folgemonats bis 23:59 Uhr Zeit zum Bauen. Eine Anmeldung muss zunächst nicht erfolgen. Beim Bau sollten die Bewertungsaspekte beachtet werden.
 
-3. Bis zum 15. des Folgemonats erfolgt die verbindliche Anmeldung des Bauwerks über ein Discord-Ticket. Dabei akzeptiert der Teilnehmer auch die Teilnahmebedingungen. Bitte formuliere folgende und andere Wünsche, falls vorhanden, ebenfalls im Ticket:
-- Blickrichtung des Warps
-- Die gewünschten Claimflags während der Besichtigung
-- Eine NoEnter Claimflag für den Bauzeitraum
-- Wenn Bücher während der Besichtigung ausgegeben werden sollen, kann der Autor durch das Team durch einen neutralen Autor ersetzt werden (Koordinaten angeben)
-- Falls keine keine Aufnahme in die Bauevent-Historie gewünscht ist
+3. Bis zum 15. bis 23:59 Uhr des Folgemonats erfolgt die verbindliche Anmeldung des Bauwerks über ein Discord-Ticket. Dabei akzeptiert der Teilnehmer auch die Teilnahmebedingungen. Bitte formuliere folgende und andere Wünsche, falls vorhanden, ebenfalls im Ticket:
+- Alle Teilnehmer,
+- Blickrichtung des Warps,
+- Die gewünschten Claimflags während der Besichtigung,
+- Eine NoEnter Claimflag für den Bauzeitraum,
+- Wenn Bücher während der Besichtigung ausgegeben werden sollen, kann der Autor durch das Team durch einen neutralen Autor ersetzt werden (Koordinaten angeben),
+- Falls keine Aufnahme in die Bauevent-Historie gewünscht ist,
 
-4. Mit dem Bewertungszeitraum vom 18. bis 23. des Folgemonats wird der Champion (Sieger) des Events bestimmt. Hierbei wird jedes Exponat mit einer anonymen ID versehen und zum Erkunden/Begutachten freigegeben. Die Spieler stimmen für jedes Bauwerk ab, dabei kann jeweils für die oben genannten Kriterien eine Punktzahl von 1-8 vergeben werden. Daraus ergibt sich schlussendlich eine Gesamtpunktzahl.
+4. Mit dem Bewertungszeitraum vom 18. bis 23. um 22 Uhr des Folgemonats wird der Champion (Sieger) des Events bestimmt. Hierbei wird jedes Exponat mit einer anonymen ID versehen und zum Erkunden/Begutachten freigegeben. Die Spieler stimmen für jedes Bauwerk ab, dabei kann jeweils für die oben genannten Kriterien eine Punktzahl von 1-8 vergeben werden. Daraus ergibt sich schlussendlich eine Gesamtpunktzahl.
 
-5. Das Gewinnerteam erhält den Rang "Champion", mit dem dieser im TAB und Chat entsprechend gekennzeichnet wird. Weitere Preise für Platz 1 - 5 sind unten (Preise) angeführt. Außerdem gibt es eine Teilnahmebelohnung. Das Gewinnerteam nennt dem Team innerhalb eines Tages einen Themenvorschlag für das nächste Bauevent. Vor Beginn des nächsten Bauevents stimmen die Spieler über das neue Thema ab.
+5. Das Gewinnerteam erhält den Rang "Champion", mit dem dieser im TAB und Chat entsprechend gekennzeichnet wird. Weitere Preise für Platz 1 - 5 sind unten (Preise) angeführt. Außerdem gibt es eine Teilnahmebelohnung. 
 
 ### Preise
 #### 1. Platz:
@@ -74,6 +75,10 @@ Wird eine NoEnter-Claimflag für den Bauzeitraum gewünscht, kann diese bei der 
 - 60 Tsd. ✪ - Gleichmäßige Aufteilung auf alle Teammitglieder
 - 5 :icon-ruby: - für jedes Teammitglied
 
+Alle Preise werden gleichmäßig auf die Teammitglieder aufgeteilt.
+
+Bei der Preisverteilung innerhalb eines Teams behalten wir uns vor, bei Unstimmigkeiten zwischen den Teilnehmern Änderungen vorzunehmen
+
 #### Teilnahmebelohnung:
 Alle Teilnehmer, welche mit Ernsthaftigkeit, Kreativität und angemessenem Aufwand (unter Berücksichtigung der Eventdauer von einem Monat) am Event teilnehmen, erhalten unabhängig von der Platzierung eine Teilnahmebelohnung:
 - 25 Tsd. ✪
@@ -95,7 +100,7 @@ Eingereichte Bauwerke…
 - [x] ...müssen die Performance berücksichtigen.
 
 Teilnehmer...
-- [x] ... dürfen Inspiration aus dem Internet und schon bestehende (eigene) Bauwerke auf dem Server keineswegs exakt nachbauen, wenn diese für das Hauptaugenmerk des Events von Bedeutung sind (strukturelle Änderungen in Abhängigkeit der Gesamtkomposition nötig). Sofern dies geschieht, muss die Quelle der Inspiration während der Anmeldung angegeben werden. Visuelle Darstellung unter: **/warp Bauevent-Quellenangabe**
+- [x] ...müssen alle angegeben werden
 - [x] ...dürfen Schematics/Litematica nur verwenden, wenn sämtliche Blöcke von Hand platziert werden.
 - [x] ...dürfen sich nur an einem Bauwerk beteiligen.
 
@@ -106,11 +111,19 @@ Sobald das Bauevent vollständig abgeschlossen ist, werden die Bauwerke in die d
 #### Denkmalschutz für dein Bauwerk
 Solltest du das Grundstück nicht länger behalten wollen, besteht die Möglichkeit, dich ebenfalls über ein Ticket auf dem Discord an uns zu wenden und Denkmalschutz anzufragen. In dem Falle übergibst du das Bauwerk an den Server, sodass es zu einem Adminclaim wird. Dadurch entfallen die Zugriffsrechte auf dem Grundstück für die Erbauer. Wenn du davon keinen Gebrauch machen möchtest, erhältst du das Grundstück wie üblich nach Ende der Abstimmung wieder zurück übertragen.
 
-#### Umgang mit Inspirationen
-Inspirationen müssen im Bauevent Ticket mit angegegebn werden. Diese werden für den Bewertungszeitraum mit einem Hinweisschild gekennzeichnet, um Transparenz zu schaffen und die Abstimmung fairer zu gestalten. Sollte aus persönlichen Gründen keine Angabe von Hinweisschildern erwünscht sein, kann auf folgende Alternative gegriffen werden:
-1. Baue am Spawn deines Bauwerks einen Lesepult auf
-2. Schreibe ein Buch mit allen Inspirationen (inkl. Quelle + Koordinate) in das Buch
-3. Lege das Buch in den Lesepult und mache diesen kenntlich
+#### Inspirationen
+Inspirationen,
+Das Bauevent soll die eigene Kreativität fördern, weshalb direkte Inspirationen nicht erlaubt sind.
+
+Das bedeutet:
+
+- Bauwerke dürfen nicht aus Bildern, Videos oder anderen Medien nachgebaut werden,
+- Auch stark abgeänderte Kopien sind nicht erlaubt,
+- Es dürfen keine Vorlagen oder Schematics als Bauvorlage genutzt werden,
+
+Du darfst dir natürlich allgemein Ideen oder Stilrichtungen anschauen, aber das Bauwerk selbst muss eigenständig entworfen und gebaut sein.
+Wenn ein Bauwerk klar auf eine konkrete Vorlage zurückzuführen ist, wird es vom Event ausgeschlossen.
+Spieler können Bauwerke melden, die stark nach einer Vorlage aussehen. Die finale Entscheidung darüber trifft jedoch immer das Adminteam. 
 
 #### Bauevent Warpschilder
 Bauevent Warpschilder können durch ein Schild zugänglich gemacht werden. Dazu muss folgendes Format auf dem Schild angewandt werden:
