@@ -1865,8 +1865,8 @@ modifizierten Items kennen.
 | Rotes Bündel                                      | red_bundle                                | %r_bdle%              | %aji%         |
 | Oranges Bündel                                    | orange_bundle                             | %o_bdle%              | %ajj%         |
 | Gelbes Bündel                                     | yellow_bundle                             | %y_bdle%              | %ajk%         |
-| Hellgründes Bündel                                | lime_bundle                        | %lgre_bdle%           | %ajl%         |
-| Grünes Bündel                                     | green_bundle                              | %g_bdle%              | %ajm%         |   
+| Hellgründes Bündel                                | lime_bundle                               | %lgre_bdle%           | %ajl%         |
+| Grünes Bündel                                     | green\_bundle                             | %grn\_bdle%           | %tp%         |   
 | Hellblaues Bündel                                 | ligh_blue_bundle                          | %lb_bdle%             | %ajn%         |
 | Türkises Bündel                                   | cyan_bundle                               | %c_bdle%              | %ajo%         |
 | Blaues Bündel                                     | blue_bundle                               | %b_bdle%              | %ajp%         |
