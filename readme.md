@@ -11,29 +11,15 @@ icon: home
 
 :::content-center
 **Herzlich Willkommen im OpenMC Wiki :wave:**
+
+Server-IP: `openmc.net` | Version: 1.21.11
 :::
 
 [!card kicker="Erste Schritte" title="Dein Einstieg" image="/images/neulingsspawn.png" text="Erfahre, wie du am besten auf dem Server startest"](/allgemeines/einstieg.md)
 
-[!card layout="signal"](/allgemeines/serverregeln.md)
-[!card layout="signal"](/claims/claiming.md)
-[!card layout="signal"](/craftbook-pipes/pipes.md)
-
-||| :icon-rocket: Dein Start auf OpenMC
-:::content-center
-#### Mit dem Server verbinden:
-Server-IP: openmc.net\
-Minecraft Java: 1.21.11
-#### Erste Schritte:
-Erfahre, wie du am besten auf dem Server loslegst.
-
-[!button variant="primary" icon=":rocket:" iconAlign="right" text="Los geht's"](https://wiki.openmc.net/allgemeines/einstieg/)
-#### Wichtige Links:
-[!button variant="secondary" icon=":scroll:" text="Serverregeln"](https://wiki.openmc.net/allgemeines/serverregeln/)  [!button variant="secondary" icon=":house:" text="Grundstück"](https://wiki.openmc.net/claims/claiming/)  [!button variant="secondary" icon=":speech_balloon:" text="Discord"](https://discord.com/invite/ecqPF34)
-:::
-||| :icon-device-camera-video: Servertrailer
-[!embed text="Mit dem Klick auf das Video werden YouTube Cookies aktiviert."](https://www.youtube-nocookie.com/watch?v=r771y8lOa-k)
-|||
+[!card layout="signal" text="Mache dich mit den Serverregeln vertraut"](/allgemeines/serverregeln.md)
+[!card layout="signal" icon="screen-normal" text="Erfahre, wie du ein Grundstück erstellst"](/claims/claiming.md)
+[!card layout="signal" icon="git-compare" text="Lerne alles über den Itemtransport mit Pipes"](/craftbook-pipes/pipes.md)
 
 ---
 
