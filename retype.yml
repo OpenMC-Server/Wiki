@@ -205,9 +205,3 @@ templating:
                               # GitBook style of component configuration
 
 locale: de
-
-actions:
-  items:
-    - text: Copy page
-      action: copy-page-markdown
-      icon: copy
