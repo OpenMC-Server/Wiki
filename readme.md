@@ -13,7 +13,7 @@ icon: home
 **Herzlich Willkommen im OpenMC Wiki :wave:**
 :::
 
-[!card kicker="Erste Schritte" image="/images/Axolotl_Bucket.png" text="Erfahre, wie du am besten auf dem Server startest"](/allgemeines/einstieg.md)
+[!card kicker="Erste Schritte" image="/images/neulingsspawn.png" text="Erfahre, wie du am besten auf dem Server startest"](/allgemeines/einstieg.md)
 
 [!card layout="signal" text="Erfahre, wie du am besten auf dem Server startest"](/allgemeines/einstieg.md)
 
