@@ -13,6 +13,10 @@ icon: home
 **Herzlich Willkommen im OpenMC Wiki :wave:**
 :::
 
+[!card text="Erfahre, wie du am besten auf dem Server startest"](/allgemeines/einstieg.md)
+
+[!card layout="signal" text="Erfahre, wie du am besten auf dem Server startest"](/allgemeines/einstieg.md)
+
 ||| :icon-rocket: Dein Start auf OpenMC
 :::content-center
 #### Mit dem Server verbinden:
