@@ -1,0 +1,66 @@
+# Ränge [!button target="blank" size="xs" variant="success" icon=":bulb:" text="Feedback geben"](https://tally.so/r/WO8gxJ)
+Mit einem Rang kannst du viele nützliche Features und Vorteile erhalten. Hier findest du einen Überblick über die Ränge sowie eine Tabelle mit den spezifischen Vorteilen.
+
+Der VIP und VIS Rang sowie das Plus - Upgrade kann via `/shop` im Spiel erworben werden.\
+Die verbleibende Restzeit deines Ranges oder Plus-Upgrades siehst du jederzeit im Menü des `/shop` unter “Mein Account”.
+
+---
+
+## Übersicht
+Folgende Ränge gibt es auf OpenMC:
+
+### :white_circle: Spieler
+Der Spieler Rang ist der Standard - Rang, welchen jeder neue Spieler auf OpenMC erhält. Er kann im `/shop` auf den VIP Rang erweitert werden, sowie das Plus-Upgrade erwerben.
+
+### :yellow_heart: VIP [!badge variant="info" text="5€/Monat"]
+Der VIP Rang erweitert den Spieler Rang um viele Funktionen ([siehe Tabelle](#vorteile)) und wird nach einer Spende an den Server für den jeweiligen Zeitraum vergeben.
+
+### :large_green_circle: Siedler
+Der Siedler Rang wird an ausgewählte Spieler vergeben, die bereits seit langer Zeit Teil der Community sind. Sie repräsentieren diese, bereichern sie mit ihrem Wissen sowie Ideen und geben eine Hilfestellung für Neuankömmlinge. Es gibt keinen Anspruch auf den Rang oder einen fest definierten Zeitpunkt, ab dem der Rang zu erlangen ist. Eine explizite Beantragung ist nicht möglich. Die genauen Regelungen zum Siedler Rang findest du hier.
+
+### :green_heart: VIS [!badge variant="info" text="5€/Monat"]
+Der VIS Rang erweitert den Siedler Rang um viele Funktionen ([siehe Tabelle](#vorteile)) und wird nach einer Spende an den Server für den jeweiligen Zeitraum vergeben.
+
+### :heavy_plus_sign: Plus - Upgrade [!badge variant="info" text="70 Tsd. ✪/Monat"]
+Das Plus-Upgrade gewährt weitere Rechte, die nicht in den oberen Rängen enthalten sind ([siehe Tabelle](#vorteile)). Diese Rechte sind unabhängig von den Grundrängen. Das bedeutet, dass die Rechte, die durch das Plus-Upgrade vergeben werden, nicht zwischen Spieler, Siedler, VIP und VIS unterscheiden. Das Plus-Upgrade kann ausschließlich mit Sternis (✪) erworben werden.
+
+### :shopping_bags: Shop
+Der Shop-Rang kann als Ausnahme auf einem zweiten Account beantragt werden, welcher als Shop-Account für die Verwaltung von [ChestShops](https://wiki.openmc.net/geld-level/chestshop/) hinzugezogen wird. Einem Shop-Account steht es nicht zu, sich am Spielgeschehen aktiv zu beteiligen, weshalb dieser ausschließlich mit den notwendigen Rechten zur Shopverwaltung versehen ist.
+
+### :tada: Champion
+Der Champion Rang wird für 30 Tage vergeben, wenn ein Spieler das Bauevent gewinnt. Er enthält alle Rechte des VIP und des Plus-Upgrades sowie vier Votecoins pro Vote.
+
+### :busts_in_silhouette: Serverteam
+Eine Beschreibung der Ränge im Serverteam findest du in [diesem Wiki-Artikel](https://wiki.openmc.net/allgemeines/serverteam/).
+
+---
+
+## Vorteile
+Diese Vorteile sind in den jeweiligen Rängen enthalten:
+
+Feature                     | Spieler | Siedler | VIP   | VIS   | + Upgrade | Champion
+:---:                       | :---:   | :---:   | :---: | :---: | :---:     | :---:
+VoteCoins (pro Vote)        | 1       | 2       | 1     | 2     | 3         | 4
+Flugzeit (in Min, pro Vote) | 10      | 20      | ∞     | ∞     |           | ∞
+Homes¹                      | 10      | 30      | 50    | 50    |           | 50
+Pets²                       | 20      | 50      | 85    | 85    |           | 85
+Jobs³                       | 1       | 2       | 3     | 3     |           | 3
+PlayerWarps⁴                | 1       | 2       | 1     | 2     | 5         | 5
+Colorcodes                  |         |         | ✓     | ✓     |           | ✓
+Links im Chat               |         | ✓       | ✓     | ✓     | ✓         | ✓
+Armorstands                 |         |         | ✓     | ✓     |           | ✓
+Partikel                    |         |         | ✓     | ✓     |           | ✓
+/workbench (/wb)            |         | ✓       | ✓     | ✓     |           | ✓
+/enderchest (/ec)           |         | ✓       | ✓     | ✓     |           | ✓
+/stonecutter                |         |         | ✓     | ✓     |           | ✓
+/anvil                      |         |         | ✓     | ✓     |           | ✓
+/nick                       |         |         | ✓     | ✓     |           | ✓
+/hat                        |         | ✓       | ✓     | ✓     |           | ✓
+/heal                       |         |         |       |       | ✓         | ✓
+/ptime & /pweather          |         |         | ✓     | ✓     |           | ✓
+/clap                       |         |         | ✓     | ✓     |           | ✓
+
+¹ Auch beim Wechsel auf einen niedrigeren Rang bleiben bereits gesetzte Homes erhalten, können aber nicht mehr umgesetzt werden.\
+² Auch beim Wechsel auf einen niedrigeren Rang bleiben bereits gespeicherte Pets erhalten, können aber nicht mehr eingelagert werden.\
+³ Auch beim Wechsel auf einen niedrigeren Rang bleiben bereits angenommene Jobs erhalten, können aber nicht mehr gewechselt werden.\
+⁴ Auch beim Wechsel auf einen niedrigeren Rang bleiben bereits gesetzte PlayerWarps erhalten.

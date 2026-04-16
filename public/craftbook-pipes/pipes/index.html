@@ -1,0 +1,459 @@
+<!DOCTYPE html>
+<html lang="de" class="h-full">
+<head>
+    <script defer data-domain="domain1.com,domain2.com" src="https://plausible.example.com/js/script.js"></script>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta name="color-scheme" content="light dark">
+    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="4.5.3.829681137088">
+
+    <!-- See retype.com -->
+    <meta name="generator" content="Retype 4.5.3">
+
+    <!-- Primary Meta Tags -->
+    <title>Pipes  | OpenMC Wiki</title>
+    <meta name="title" content="Pipes  | OpenMC Wiki">
+    <meta name="description" content="✅ Ingame-Tutorial verfügbar: /warp tutorial_pipes">
+
+    <!-- Canonical -->
+    <link rel="canonical" href="https://wiki.openmc.net/craftbook-pipes/pipes/">
+    <link rel="sitemap" type="application/xml" title="Sitemap" href="https://wiki.openmc.net/sitemap.xml">
+
+    <!-- Open Graph -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://wiki.openmc.net/craftbook-pipes/pipes/">
+    <meta property="og:title" content="Pipes  | OpenMC Wiki">
+    <meta property="og:description" content="✅ Ingame-Tutorial verfügbar: /warp tutorial_pipes">
+    <meta property="og:image" content="https://wiki.openmc.net/images/pipes_1.png">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+    <meta property="og:image:alt" content="Pipes  | OpenMC Wiki">
+    <meta property="og:site_name" content="Wiki">
+    <meta property="og:locale" content="de_DE">
+
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:url" content="https://wiki.openmc.net/craftbook-pipes/pipes/">
+    <meta name="twitter:title" content="Pipes  | OpenMC Wiki">
+    <meta name="twitter:description" content="✅ Ingame-Tutorial verfügbar: /warp tutorial_pipes">
+    <meta name="twitter:image" content="https://wiki.openmc.net/images/pipes_1.png">
+    <meta name="twitter:image:alt" content="Pipes  | OpenMC Wiki">
+
+    <!-- Alternate Markdown -->
+    <link rel="alternate" type="text/markdown" href="https://wiki.openmc.net/craftbook-pipes/pipes.md">
+
+    <script data-cfasync="false">(function(){var cl=document.documentElement.classList,ls=localStorage.getItem("retype_scheme"),hd=cl.contains("dark"),hl=cl.contains("light"),wm=window.matchMedia&&window.matchMedia("(prefers-color-scheme: dark)").matches;if(ls==="dark"||(!ls&&wm&&!hd&&!hl)){cl.remove("light");cl.add("dark")}else if(ls==="light"||(!ls&&!wm&&!hd&&!hl)){cl.remove("dark");cl.add("light")}})();</script>
+
+    <link id="retype-favicon" rel="icon" href="../../images/favicon.png" />
+    <link href="../../resources/css/retype.css?v=4.5.3.829681137088" rel="stylesheet">
+
+    <script data-cfasync="false" src="../../resources/js/config.js?v=4.5.3.829681137088" data-turbo-eval="false" defer></script>
+    <script data-cfasync="false" src="../../resources/js/retype.js?v=4.5.3" data-turbo-eval="false" defer></script>
+    <script id="lunr-js" data-cfasync="false" src="../../resources/js/lunr.js?v=4.5.3.829681137088" data-turbo-eval="false" defer></script>
+</head>
+<body>
+    <div id="retype-app" class="relative text-base antialiased text-base-text bg-base-bg font-body">
+    <div class="absolute bottom-0 left-0" style="top: 5rem; right: 50%"></div>
+
+    <header id="retype-header" class="sticky top-0 z-30 flex w-full h-16 bg-header-bg border-b border-header-border md:h-20">
+        <div class="container relative flex items-center justify-between pr-6 grow md:justify-start">
+            <!-- Mobile menu button skeleton -->
+            <button v-cloak class="skeleton retype-mobile-menu-button flex items-center justify-center shrink-0 overflow-hidden dark:text-white focus:outline-hidden rounded-full w-10 h-10 ml-3.5 md:hidden"><svg xmlns="http://www.w3.org/2000/svg" class="mb-px shrink-0" width="24" height="24" viewBox="0 0 24 24" role="presentation" style="margin-bottom: 0px;"><g fill="currentColor"><path d="M2 4h20v2H2zM2 11h20v2H2zM2 18h20v2H2z"></path></g></svg></button>
+            <div v-cloak id="retype-sidebar-left-toggle-button"></div>
+    
+            <!-- Logo -->
+            <div class="flex items-center justify-between h-full py-2 md:w-75">
+                <div class="flex items-center px-2 md:px-6">
+                    <a id="retype-branding-logo" href="https://wiki.openmc.net/" class="flex items-center leading-snug text-2xl">
+                        <span class="w-10 mr-2 grow-0 shrink-0 overflow-hidden">
+                            <img class="max-h-10 dark:hidden md:inline-block" src="../../images/logo_text_schwarz.png" alt="" width="40" height="40">
+                            <img class="max-h-10 hidden dark:inline-block" src="../../images/logo_text_weiß.png" alt="" width="40" height="40">
+                        </span>
+                        <span class="dark:text-white font-bold line-clamp-1 md:line-clamp-2">Wiki</span>
+                    </a>
+                </div>
+    
+                <span class="hidden h-8 border-r md:inline-block border-base-border"></span>
+            </div>
+    
+            <div class="flex justify-between md:grow">
+                <!-- Top Nav -->
+                <nav id="retype-header-nav" class="hidden md:flex">
+                    <ul class="flex flex-col mb-4 md:pl-16 md:mb-0 md:flex-row md:items-center">
+                        <li class="mr-6">
+                            <a class="py-2 md:mb-0 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-header-text font-header-text hover:text-header-text-hover" href="https://openmc.net/">Website</a>
+                        </li>
+                        <li class="mr-6">
+                            <a class="py-2 md:mb-0 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-header-text font-header-text hover:text-header-text-hover" href="https://openmc.net/forum/">Forum</a>
+                        </li>
+                        <li class="mr-6">
+                            <a class="py-2 md:mb-0 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-header-text font-header-text hover:text-header-text-hover" href="https://map.openmc.net/">Livemap</a>
+                        </li>
+                        <li class="mr-6">
+                            <a class="py-2 md:mb-0 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-header-text font-header-text hover:text-header-text-hover" href="https://discord.com/invite/ecqPF34">Discord</a>
+                        </li>
+                        <li class="mr-6">
+                            <a class="py-2 md:mb-0 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-header-text font-header-text hover:text-header-text-hover" href="https://instagram.com/openmc/">Instagram</a>
+                        </li>
+    
+                    </ul>
+                </nav>
+    
+                <div v-cloak class="flex justify-end grow">
+                    <div id="retype-mobile-search-button"></div>
+                    <doc-search-desktop></doc-search-desktop>
+    
+                    <doc-theme-switch class="lg:ml-2"></doc-theme-switch>
+                    <doc-history></doc-history>
+                </div>
+            </div>
+        </div>
+    </header>
+
+
+    <div id="retype-container" class="container relative flex bg-white">
+        <!-- Sidebar Skeleton -->
+        <div v-cloak class="fixed flex flex-col shrink-0 duration-300 ease-in-out bg-sidebar-left-bg border-sidebar-left-border sidebar top-20 w-75 border-r h-screen md:sticky transition-transform skeleton">
+        
+            <div class="flex items-center h-16 px-6">
+                <input id="retype-filter-input-mock" class="w-full h-10 pl-8 px-3 py-2 transition-colors duration-200 ease-linear bg-filter-bg border border-filter-border rounded-lg shadow-none md:text-sm hover:border-filter-border-hover focus:outline-hidden focus:border-filter-border-focus placeholder-filter-placeholder" type="text">
+            </div>
+        
+            <div class="pl-6 mt-1 mb-4">
+                <div class="w-32 h-3 mb-4 bg-skeleton-bg rounded-full loading"></div>
+                <div class="w-48 h-3 mb-4 bg-skeleton-bg rounded-full loading"></div>
+                <div class="w-40 h-3 mb-4 bg-skeleton-bg rounded-full loading"></div>
+                <div class="w-32 h-3 mb-4 bg-skeleton-bg rounded-full loading"></div>
+                <div class="w-48 h-3 mb-4 bg-skeleton-bg rounded-full loading"></div>
+                <div class="w-40 h-3 mb-4 bg-skeleton-bg rounded-full loading"></div>
+            </div>
+        
+            <div class="shrink-0 mt-auto bg-transparent dark:border-base-border">
+                <a class="flex items-center justify-center flex-nowrap h-16 text-gray-350 dark:text-dark-400 hover:text-gray-600 dark:hover:text-dark-300 transition-colors duration-150 ease-in docs-powered-by" target="_blank" href="https://retype.com/" rel="noopener">
+                    <span class="text-xs whitespace-nowrap">Powered by</span>
+                    <svg xmlns="http://www.w3.org/2000/svg" class="ml-2" fill="currentColor" width="96" height="20" overflow="visible"><path d="M0 0v20h13.59V0H0zm11.15 17.54H2.44V2.46h8.71v15.08zM15.8 20h2.44V4.67L15.8 2.22zM20.45 6.89V20h2.44V9.34z"/><g><path d="M40.16 8.44c0 1.49-.59 2.45-1.75 2.88l2.34 3.32h-2.53l-2.04-2.96h-1.43v2.96h-2.06V5.36h3.5c1.43 0 2.46.24 3.07.73s.9 1.27.9 2.35zm-2.48 1.1c.26-.23.38-.59.38-1.09 0-.5-.13-.84-.4-1.03s-.73-.28-1.39-.28h-1.54v2.75h1.5c.72 0 1.2-.12 1.45-.35zM51.56 5.36V7.2h-4.59v1.91h4.13v1.76h-4.13v1.92h4.74v1.83h-6.79V5.36h6.64zM60.09 7.15v7.48h-2.06V7.15h-2.61V5.36h7.28v1.79h-2.61zM70.81 14.64h-2.06v-3.66l-3.19-5.61h2.23l1.99 3.45 1.99-3.45H74l-3.19 5.61v3.66zM83.99 6.19c.65.55.97 1.4.97 2.55s-.33 1.98-1 2.51-1.68.8-3.04.8h-1.23v2.59h-2.06V5.36h3.26c1.42 0 2.45.28 3.1.83zm-1.51 3.65c.25-.28.37-.69.37-1.22s-.16-.92-.48-1.14c-.32-.23-.82-.34-1.5-.34H79.7v3.12h1.38c.68 0 1.15-.14 1.4-.42zM95.85 5.36V7.2h-4.59v1.91h4.13v1.76h-4.13v1.92H96v1.83h-6.79V5.36h6.64z"/></g></svg>
+                </a>
+            </div>
+        </div>
+        
+        <!-- Sidebar component -->
+        <doc-sidebar v-cloak>
+            <template #sidebar-footer>
+                <div class="shrink-0 mt-auto border-t md:bg-transparent md:border-none dark:border-base-border">
+        
+                    <div class="py-3 px-6 md:hidden border-b dark:border-base-border">
+                        <nav>
+                            <ul class="flex flex-wrap justify-center items-center">
+                                <li class="mr-6">
+                                    <a class="block py-1 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-header-text font-header-text hover:text-header-text-hover" href="https://openmc.net/">Website</a>
+                                </li>
+                                <li class="mr-6">
+                                    <a class="block py-1 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-header-text font-header-text hover:text-header-text-hover" href="https://openmc.net/forum/">Forum</a>
+                                </li>
+                                <li class="mr-6">
+                                    <a class="block py-1 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-header-text font-header-text hover:text-header-text-hover" href="https://map.openmc.net/">Livemap</a>
+                                </li>
+                                <li class="mr-6">
+                                    <a class="block py-1 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-header-text font-header-text hover:text-header-text-hover" href="https://discord.com/invite/ecqPF34">Discord</a>
+                                </li>
+                                <li class="mr-6">
+                                    <a class="block py-1 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-header-text font-header-text hover:text-header-text-hover" href="https://instagram.com/openmc/">Instagram</a>
+                                </li>
+        
+                            </ul>
+                        </nav>
+                    </div>
+        
+                    <a class="flex items-center justify-center flex-nowrap h-16 text-gray-350 dark:text-dark-400 hover:text-gray-600 dark:hover:text-dark-300 transition-colors duration-150 ease-in docs-powered-by" target="_blank" href="https://retype.com/" rel="noopener">
+                        <span class="text-xs whitespace-nowrap">Powered by</span>
+                        <svg xmlns="http://www.w3.org/2000/svg" class="ml-2" fill="currentColor" width="96" height="20" overflow="visible"><path d="M0 0v20h13.59V0H0zm11.15 17.54H2.44V2.46h8.71v15.08zM15.8 20h2.44V4.67L15.8 2.22zM20.45 6.89V20h2.44V9.34z"/><g><path d="M40.16 8.44c0 1.49-.59 2.45-1.75 2.88l2.34 3.32h-2.53l-2.04-2.96h-1.43v2.96h-2.06V5.36h3.5c1.43 0 2.46.24 3.07.73s.9 1.27.9 2.35zm-2.48 1.1c.26-.23.38-.59.38-1.09 0-.5-.13-.84-.4-1.03s-.73-.28-1.39-.28h-1.54v2.75h1.5c.72 0 1.2-.12 1.45-.35zM51.56 5.36V7.2h-4.59v1.91h4.13v1.76h-4.13v1.92h4.74v1.83h-6.79V5.36h6.64zM60.09 7.15v7.48h-2.06V7.15h-2.61V5.36h7.28v1.79h-2.61zM70.81 14.64h-2.06v-3.66l-3.19-5.61h2.23l1.99 3.45 1.99-3.45H74l-3.19 5.61v3.66zM83.99 6.19c.65.55.97 1.4.97 2.55s-.33 1.98-1 2.51-1.68.8-3.04.8h-1.23v2.59h-2.06V5.36h3.26c1.42 0 2.45.28 3.1.83zm-1.51 3.65c.25-.28.37-.69.37-1.22s-.16-.92-.48-1.14c-.32-.23-.82-.34-1.5-.34H79.7v3.12h1.38c.68 0 1.15-.14 1.4-.42zM95.85 5.36V7.2h-4.59v1.91h4.13v1.76h-4.13v1.92H96v1.83h-6.79V5.36h6.64z"/></g></svg>
+                    </a>
+                </div>
+            </template>
+        </doc-sidebar>
+
+        <div class="grow min-w-0 bg-body-bg">
+            <!-- Render "toolbar" template here on api pages --><!-- Render page content -->
+<div class="flex">
+    <div id="retype-main" class="min-w-0 p-4 grow md:px-16">
+        <main class="relative pb-12 lg:pt-2">
+            <div class="relative retype-markdown" id="retype-content">
+                <!-- Rendered if sidebar right is enabled -->
+                <div id="retype-sidebar-right-toggle"></div>
+                <doc-page-actions></doc-page-actions>
+
+                <!-- Page content  -->
+<h1 id="pipes">Pipes <a href="https://tally.so/r/WO8gxJ" target="_blank" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none cursor-pointer transition-colors duration-200 ease-out focus:outline-hidden bg-button-success hover:bg-button-success-hover text-button-success-text px-2.5 h-6 text-xs rounded">
+    <span class="docs-emoji mr-2">&#x1F4A1;</span>
+    <span>Feedback geben</span>
+</a></h1>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-primary-text bg-badge-primary border border-badge-primary-border h-6 px-2 text-xs rounded-md">
+    <span><span class="docs-emoji">&#x2705;</span> Ingame-Tutorial verfügbar: <code translate="no" v-pre>/warp tutorial_pipes</code></span>
+</span></p>
+<p>Pipes aus dem Plugin CraftBook sind ein mächtiges Transport- und Sortiersystem für Items. Die Vorteile gegenüber herkömmlichen Systemen mit Hoppern sind vielfältig:</p>
+<ul>
+<li>Der Transport erfolgt stackweise und blitzschnell. Innerhalb einer halben Minute kann eine ganze Kiste in ein Lager transportiert und korrekt einsortiert werden.</li>
+<li>Items können problemlos in jede Richtung transportiert werden.</li>
+<li>Ein Pipes-System verbraucht beim Bau weniger Ressourcen als ein Hopper-System.</li>
+<li>Mehrere Items können in eine gemeinsame Kiste sortiert werden.</li>
+<li>Es ist möglich, nicht stackbare Items wie verzauberte Bücher oder Rüstungen zu sortieren.</li>
+</ul>
+<div class="flex mb-6">
+    <div class="shrink-0 w-1.5 rounded-tl-lg rounded-bl-lg bg-callout-warning"></div>
+    <div class="flex w-full py-4 border border-l-0 rounded-tr-lg rounded-br-lg doc-callout bg-callout-base-bg border-callout-base-border" role="alert">
+        <div class="flex items-center ml-4 h-7">
+            <svg xmlns="http://www.w3.org/2000/svg" class="block text-callout-warning" width="22" height="22" viewBox="0 0 24 24" role="presentation">
+                <g fill="currentColor"><g>
+                    <path d="M22.48 15.59L14.01 1.45A2.968 2.968 0 0012.16.09c-.78-.19-1.58-.07-2.27.35-.41.25-.76.6-1.01 1.01v.01L.4 15.6c-.83 1.43-.33 3.27 1.1 4.1.45.26.95.4 1.48.4h16.95c.8-.01 1.55-.33 2.11-.9.56-.57.87-1.33.86-2.13a3.04 3.04 0 00-.42-1.48zm-1.87 2.21c-.19.19-.44.3-.69.3H2.99c-.17 0-.34-.05-.49-.13a.992.992 0 01-.37-1.35L10.6 2.48c.08-.14.2-.25.34-.33a.992.992 0 011.37.33l8.46 14.13c.09.15.13.32.13.49 0 .26-.1.51-.29.7z"></path>
+                    <path d="M11.45 12.1c.55 0 1-.45 1-1v-4c0-.55-.45-1-1-1s-1 .45-1 1v4c0 .56.45 1 1 1zM11.46 14.1c-.56 0-1 .45-1 1s.45 1 1 1 1-.45 1-1-.45-1-1-1z"></path>
+                </g></g>
+            </svg>
+        </div>
+        <div class="pr-5 ml-3 w-full">
+            <h5>Wichtiger Hinweis zu Lags:</h5>
+<p>Wenn Pipes korrekt verwendet werden, sind sie wesentlich besser für die Serverperformance als Hoppersysteme. Die Beachtung der folgenden Hinweise ist aber wesentlich, um Lag zu vermeiden:</p>
+<ul>
+<li>Aktivierung des Pipe-Systems möglichst selten und nur bei Bedarf, zum Beispiel mit einer Komparator-Clock an der Eingangskiste (siehe unten)</li>
+<li>Insbesondere: Keine ständig laufenden Clocks an Pipes anschließen!</li>
+<li>Verwendung möglichst weniger Eingangskisten</li>
+<li>Keine Trichter in einem Pipesystem verwenden</li>
+<li>Möglichst kurze Pipes verwenden. Pipes, die in ungeladene Chunks gehen, sollen nur sehr selten und wenig verwendet werden.</li>
+</ul>
+        </div>
+    </div>
+</div>
+<hr>
+<h2 id="ein-einfaches-transportsystem">Ein einfaches Transportsystem</h2>
+<figure class="content-center">
+    <img src="../../images/pipes_1.png" alt="" class="max-w-full h-auto rounded-image-rounded border-image-border border-image-border-width" width="600" height="318" />
+    <figcaption class="caption"></figcaption>
+</figure>
+<p>Dieser Screenshot zeigt eine Pipe, die auf Knopfdruck einen Stack Items von der Kiste unten links in die Kiste oben rechts transportiert.</p>
+<p>Der <strong>Eingang</strong> besteht aus einem klebrigen Kolben, der zur Eingangskiste hinzeigt. Sobald dieser per Redstone-Signal aktiviert wird, &quot;saugt&quot; er die Items aus der Kiste in die Pipe hinein. Als Eingang können auch andere Blöcke mit Inventar dienen wie, Fässer, Öfen, Trichter etc.</p>
+<p>Die <strong>Pipe</strong> selbst besteht aus Glasblöcken. Sie kann in jede beliebige Richtung führen und sich sogar verzweigen (wie es bei Sortiersystemen oft nötig sein wird).</p>
+<p>Der <strong>Ausgang</strong> ist ein normaler Kolben, der zur Ausgangskiste hinzeigt. Er gibt die Items aus der Pipe in die Kiste hinein. Ein Ausgangskolben könnte die Items aber auch zum Beispiel in eine Shulkerkiste, ein Fass, einen Ofen (wird automatisch in den richtigen Slot gesetzt), einen Spender (wird automatisch aktiviert!) oder einen Trichter weitergeben.</p>
+<p>Eine Pipe sollte aber nicht in eine andere Pipe zeigen. Das bedeutet, dass kein normaler Kolben, der Items aus einer Pipe zieht, in eine andere Pipe (d. h. Glas) zeigen soll. Dies führt zu Systemen, die sich sehr inkonsistent verhalten und daher nicht einwandfrei funktionieren.</p>
+<p>Der Transport eines Itemstacks dauert lediglich einen Tick (eine Zwanzigstelsekunde). Mit einem herkömmlichen Transportsystem würde dieser Transport fast eine halbe Minute brauchen.</p>
+<div class="flex mb-6">
+    <div class="shrink-0 w-1.5 rounded-tl-lg rounded-bl-lg bg-callout-primary"></div>
+    <div class="flex w-full py-4 border border-l-0 rounded-tr-lg rounded-br-lg doc-callout bg-callout-base-bg border-callout-base-border" role="alert">
+        <div class="flex items-center ml-4 h-7">
+            <svg xmlns="http://www.w3.org/2000/svg" class="block text-callout-primary" width="22" height="22" viewBox="0 0 24 24" role="presentation">
+                <g fill="currentColor"><g>
+                    <path d="M12 1C5.93 1 1 5.93 1 12s4.93 11 11 11 11-4.93 11-11S18.07 1 12 1zm0 20c-4.96 0-9-4.04-9-9s4.04-9 9-9 9 4.04 9 9-4.04 9-9 9z"></path>
+                    <path d="M12 11c-.55 0-1 .45-1 1v4c0 .55.45 1 1 1s1-.45 1-1v-4c0-.55-.45-1-1-1zM12.01 7c-.56 0-1 .45-1 1s.45 1 1 1 1-.45 1-1-.45-1-1-1z"></path>
+                    <path fill="none" d="M0 0h24v24H0z"></path>
+                </g></g>
+            </svg>
+        </div>
+        <div class="pr-5 ml-3 w-full">
+            <h5>Bitte beachten:</h5>
+<p>Auch ein normaler Kolben wird als Bestandteil einer Pipe gewertet. Dies bedeutet, dass Kolben sich, genau wie Glas, untereinander Items weitergeben können. Daher ist es empfehlenswert, dass jedem einzelnen normalen Kolben im System ein Filterschild zugewiesen ist.</p>
+        </div>
+    </div>
+</div>
+<h3 id="aktivierung-des-eingangskolbens">Aktivierung des Eingangskolbens</h3>
+<p>Der klebrige Kolben kann auf folgende Arten aktiviert werden (siehe Screenshot):</p>
+<ul>
+<li>Eine Redstonefackel, ein Hebel oder ein Knopf direkt daneben, darüber oder darunter.</li>
+<li>Eine Redstoneleitung, die direkt neben dem Kolben verläuft.</li>
+<li>Ein Beobachter, der in den Kolben hineinzeigt.</li>
+</ul>
+<p>Andere, sonst aus Minecraft gewohnte Methoden funktionieren unter Umständen nicht.</p>
+<figure class="content-center">
+    <img src="../../images/pipes_2.png" alt="" class="max-w-full h-auto rounded-image-rounded border-image-border border-image-border-width" width="600" height="318" />
+    <figcaption class="caption"></figcaption>
+</figure>
+<p>Hier abgebildet ist ein einfacher Aufbau, welcher die Items in drei verschiedene Kisten sortiert. Der klebrige Kolben wird hier mit einem Knopfdruck aktiviert.</p>
+<h3 id="transportsysteme-mit-verzweigungen">Transportsysteme mit Verzweigungen</h3>
+<p>Sind mehrere Ausgangskisten an eine Pipe angeschlossen, so bevorzugt das System die Kisten, die näher an der Quelle liegen.</p>
+<div class="mb-6 overflow-hidden border rounded-md docs-columns dark:border-base-border" style="grid-template-columns: repeat(3, minmax(0, 1fr));">
+    <div class="flex items-center px-5 py-3 font-medium leading-snug text-gray-900 border-b border-base-border dark:text-white border-r">
+        <span>Beispiel 1</span>
+    </div>
+    <div class="flex items-center px-5 py-3 font-medium leading-snug text-gray-900 border-b border-base-border dark:text-white border-r">
+        <span>Beispiel 2</span>
+    </div>
+    <div class="flex items-center px-5 py-3 font-medium leading-snug text-gray-900 border-b border-base-border dark:text-white">
+        <span>Beispiel 3</span>
+    </div>
+    <div class="px-5 py-3 docs-columns-content border-r border-base-border">
+<p><figure class="content-center">
+    <img src="../../images/pipes_3.png" alt="" class="max-w-full h-auto rounded-image-rounded border-image-border border-image-border-width" width="378" height="200" />
+    <figcaption class="caption"></figcaption>
+</figure>
+In diesem Beispiel werden die Items in die linke Kiste transportiert. Items, die nicht mehr in die linke Kiste passen, kommen nach rechts.</p>
+    </div>
+    <div class="px-5 py-3 docs-columns-content border-r border-base-border">
+<p><figure class="content-center">
+    <img src="../../images/pipes_4.png" alt="" class="max-w-full h-auto rounded-image-rounded border-image-border border-image-border-width" width="378" height="200" />
+    <figcaption class="caption"></figcaption>
+</figure>
+Hier werden Items zuerst in die rechte Kiste einsortiert, und erst, wenn sie voll ist, wird die linke Kiste befüllt.</p>
+    </div>
+    <div class="px-5 py-3 docs-columns-content">
+<p><figure class="content-center">
+    <img src="../../images/pipes_5.png" alt="" class="max-w-full h-auto rounded-image-rounded border-image-border border-image-border-width" width="378" height="200" />
+    <figcaption class="caption"></figcaption>
+</figure>
+Hier sind beide Kisten gleich weit von der Quelle entfernt. Welche Kiste vom System zuerst besucht wird, lässt sich kaum vorhersagen.</p>
+    </div>
+</div>
+<hr>
+<h2 id="verwendung-von-filtern-in-einem-einfachen-sortiersystem">Verwendung von Filtern in einem einfachen Sortiersystem</h2>
+<p>Mit Schildern, die man auf Kolben stellt oder an ihnen befestigt, können Filter erstellt werden. In diesem Screenshot werden Filter dazu verwendet, um Diamantblöcke in die linke Kiste, Eichensetzlinge und Eichenstämme in die mittlere Kiste, und rissige polierte Schwarzsteinziegel in die rechte Kiste zu sortieren. Alle anderen Items landen in der Auffangkiste ganz links (siehe oberer Screenshot).</p>
+<figure class="content-center">
+    <img src="../../images/pipes_6.png" alt="" class="max-w-full h-auto rounded-image-rounded border-image-border border-image-border-width" width="600" height="318" />
+    <figcaption class="caption"></figcaption>
+</figure>
+<h3 id="aufbau-des-filterschildes">Aufbau des Filterschildes</h3>
+<ol>
+<li>Zeile: Freilassen</li>
+<li>Zeile: <code translate="no" v-pre>[Pipe]</code></li>
+<li>Zeile: Items, die durchgelassen werden sollen, durch Kommas getrennt</li>
+<li>Zeile: Items, die <em>nicht</em> durchgelassen werden sollen, durch Kommas getrennt</li>
+</ol>
+<h3 id="item-variablen">Item-Variablen</h3>
+<p>Items können folgendermaßen benannt werden:</p>
+<ul>
+<li>Mit ihrer Minecraft-ID, zum Beispiel &quot;diamond_block&quot;. Um die ID eines Items herauszufinden, kannst du das Minecraft-Wiki besuchen, oder die fortgeschrittenen Tooltips verwenden, die mit der Tastenkombination <code translate="no" v-pre>[F3]+[H]</code> aktiviert werden können.</li>
+<li>Manche IDs sind zu lang für eine Zeile. Deswegen haben wir sogenannte Variablen definiert, die wie &quot;Abkürzungen&quot; funktionieren. Zum Beispiel steht <code translate="no" v-pre>%cr_p_blkst_br%</code> für <code translate="no" v-pre>cracked_polished_blackstone_bricks</code>. Auch noch kürzere Varianten sind vorhanden, z.B. bei diesem Beispiel <code translate="no" v-pre>%ex%</code>.</li>
+</ul>
+<p>Eine vollständige Liste der Variablen für einzelne Items findest du auf der Seite <a href="../pipe-variablen/">Pipe-Variablen</a>.</p>
+<p>Soll mehr als ein Item in eine Kiste sortiert werden, ist es möglich, an den zugehörigen Kolben die Variablen mit einem Komma zu trennen. Ist es beispielsweise gewollt Endstein und Endsteinziegel in eine Kiste zu sortieren, muss in der dritten Zeile <code translate="no" v-pre>121,206</code> stehen (Achtung, keine Leerzeichen!). Diese beiden Variablen finden sich natürlich in der oben verlinkten Liste. Hierbei kann das Zeichenlimit von 15 Zeichen pro Zeile jedoch schnell ein Problem werden.</p>
+<p>Hier kommen Sammelvariablen ins Spiel. Diese ermöglichen es, mehr Items, als auf ein Schild passen, mit einer einzelnen Variable über das Pipe-System zu sortieren. Wir haben viele vordefinierte Sammel-Variablen, die für die meisten Verwendungen ausreichen sollten, jedoch ist es nicht möglich, selbst eine derartige Sammel-Variable zu erstellen.</p>
+<p>Eine vollständige Liste der Sammelvariablen findest du auf der Seite <a href="../pipe-sammelvariablen/">Pipe-Sammelvariablen</a>.</p>
+<p>Falls du Ideen für spezifische Sammelvariablen hast, die es noch nicht gibt, kannst du natürlich gerne Kontakt mit dem Serverteam aufnehmen.</p>
+<doc-panel id="variablen-und-sammelvariablen-im-spiel-abrufen" collapsed>
+    <template #title>Variablen und Sammelvariablen im Spiel abrufen</template>
+<p>Es ist möglich, alle Variablen und Sammelvariablen auch in Minecraft abzurufen. Folgende Befehle stehen dafür zur Verfügung:</p>
+<p><code translate="no" v-pre>/pipeid</code><br />
+Zeigt alle möglichen Variablen für ein Item im Chat an. Dazu muss das Item bei der Eingabe des Befehls in der Hand gehalten werden. Die Variablen können sowohl durch Anklicken in die Zwischenablage kopiert werden, als auch durch Klick auf “Schild erstellen” ein entsprechendes Schild erstellt werden. Zum Platzieren muss anschließend der Schildbearbeitungsmodus mit <code translate="no" v-pre>/sign</code> aktiviert werden.</p>
+<p><code translate="no" v-pre>/pipeid &lt;suchbegriff&gt;</code><br />
+Zeigt die Variablen für ein spezifisches Item an, welches sich nicht im Inventar befinden muss. Es werden sowohl englische als auch deutsche Itemnamen akzeptiert. Achtung: Bei englischen Namen muss dieser in Form der “Minecraft-ID” eingeben werden. Beispielsweise führt “melon_slice” zu einem Ergebnis, aber “melon slice” nicht. Bei den deutschen Namen dürfen keine Unterstriche verwendet werden. Wenn sich das Fenster nach der Suche öffnet, einfach das gewünschte Item anklicken und die Variablen werden wie oben im Chat angezeigt.</p>
+<p><code translate="no" v-pre>/pipesign &lt;item&gt;</code><br />
+Erstellt direkt ein Schild mit der passenden Pipe-ID, welches im Schildbearbeitungsmodus (<code translate="no" v-pre>/sign</code>) an einer Pipe platziert werden kann.</p>
+<p><code translate="no" v-pre>/sammelid</code><br />
+Zeigt alle möglichen Sammelvariablen in einem Menü an. Mit einem Linksklick kann die gewünschte Variable ausgewählt werden. Anschließend kann die Variable sowohl durch Anklicken in die Zwischenablage kopiert werden, als auch durch Klick auf “Schild erstellen” ein entsprechendes Schild erstellt werden. Zum Platzieren muss anschließend der Schildbearbeitungsmodus mit <code translate="no" v-pre>/sign</code> aktiviert werden. Mit einem Rechtsklick können wiederum alle zugehörigen Items zu einer ID angesehen werden.</p>
+</doc-panel>
+<h3 id="items-die-nicht-einsortiert-werden-können">Items, die nicht einsortiert werden können</h3>
+<p>Wenn eine Pipe ein Item nirgends einsortieren kann (wegen voller Kisten oder weil es keine Kiste mit einem passenden Filter gibt), leitet sie das Item zurück an die Eingangskiste. Es besteht also keine Gefahr, dass Items verloren gehen.
+Vorsicht: Das funktioniert nur bei Pipes, die bei einer Kiste beginnen. Alle Pipes, die eine MC1229(auch MC1243)-Schaltung enthalten (siehe unten), werden die Items an der Schaltung in die Welt gedroppt und könnten unter Umständen despawnen.</p>
+<hr>
+<h2 id="fortgeschrittene-techniken">Fortgeschrittene Techniken</h2>
+<h3 id="farbige-pipes">Farbige Pipes</h3>
+<p>Indem gefärbtes Glas verwendet wird, können zwei verschiedene Pipes direkt nebeneinander gelegt werden. Items können aus einer farbigen Pipe nicht in eine andersfarbige Pipe wechseln (Zwischen farbigen und nicht gefärbten Pipes können Items dennoch frei hin- und herwechseln).</p>
+<h3 id="kreuzungen-mit-glasscheiben">Kreuzungen mit Glasscheiben</h3>
+<p>Mit einer Glasscheibe kann man zwei Pipes überkreuzen, ohne sie miteinander zu verbinden. Items können über eine Glasscheiben-Kreuzung nur geradeaus wandern und nicht &quot;abbiegen&quot;.</p>
+<figure class="content-center">
+    <img src="../../images/pipes_7.png" alt="" class="max-w-full h-auto rounded-image-rounded border-image-border border-image-border-width" width="600" height="318" />
+    <figcaption class="caption"></figcaption>
+</figure>
+<h3 id="sortierende-verzweigungen-mit-mc1229">Sortierende Verzweigungen mit MC1229</h3>
+<p>Der sogenannte Integrated Circuit MC1229 kann als eine &quot;sortierende Verzweigung&quot; in einem Pipe-System verwendet werden und ist dabei mächtiger als klassische Filter.</p>
+<figure class="content-center">
+    <img src="../../images/pipes_8.png" alt="" class="max-w-full h-auto rounded-image-rounded border-image-border border-image-border-width" width="600" height="318" />
+    <figcaption class="caption"></figcaption>
+</figure>
+<p>Diese Schaltung besteht aus einem beliebigen Block, an dem ein Schild befestigt wird, in dessen zweiten Zeile <code translate="no" v-pre>[MC1229]</code> geschrieben werden muss. An den Seiten dieses Blockes werden mit klebrigen Kolben zwei neue Pipes begonnen (diese beiden klebrigen Kolben werden durch die Schaltung automatisch aktiviert und brauchen kein eigenes Redstone-Signal). Auf den Block wird eine Kiste gestellt, in welche die Items gelegt werden, nach denen sortiert werden soll.</p>
+<p>Wird im Screenshot die vordere Pipe aktiviert, gibt sie ihre Items mit einem normalen Kolben in das MC1229-Schild hinein und aktiviert damit das Sortiersystem. Alle Items, die auch in der Sortierkiste zu finden sind, werden nach rechts weitergeleitet, alle anderen Items nach links.
+Wird auf die dritte Zeile des Schildes &quot;invert&quot; geschrieben, werden die beiden Seiten getauscht: Items aus der Sortierkiste werden dann nach links, andere Items nach rechts geleitet.</p>
+<p>MC1229 erlaubt es einem nicht nur, nach vielen Items gleichzeitig zu sortieren, sondern es werden auch viele Eigenschaften eines Items berücksichtigt. Bei Werkzeugen werden Haltbarkeit und Verzauberungen berücksichtigt, bei Zauberbüchern die genauen Verzauberungen. Auch Köpfe des Custom Heads Plugin können sortiert werden. Tränke können leider nicht mit dem MC1229 nach ihren Effekten sortiert werden. Dieser berücksichtigt bei der Sortierung nur, ob es sich um einen normalen Trank, Wurftrank oder Verweiltrank handelt.</p>
+<p>Es ist möglich, sowohl Verzauberungen als auch Haltbarkeit der zu sortierenden Items zu ignorieren. Hierzu muss in die vierte Zeile des Schildes <code translate="no" v-pre>!E</code> (ignoriert Verzauberungen) oder <code translate="no" v-pre>!D</code> (ignoriert die Haltbarkeit) geschrieben werden. Diese beiden Erweiterungen können auch kombiniert werden, indem sie mit einem | (<code translate="no" v-pre>[ALT-GR] + [&lt;&gt;]</code>) getrennt werden: <code translate="no" v-pre>!E|!D</code>. In den meisten Fällen macht es Sinn, beide zusammen zu verwenden.</p>
+<figure class="content-center">
+    <img src="../../images/pipes_9.png" alt="" class="max-w-full h-auto rounded-image-rounded border-image-border border-image-border-width" width="600" height="318" />
+    <figcaption class="caption"></figcaption>
+</figure>
+<p>Falls es eintrifft, dass <a href="https://wiki.openmc.net/craftbook-pipes/pipes/#items-die-nicht-einsortiert-werden-k%C3%B6nnen">Items nicht einsortiert werden können</a>, besteht bei der MC1229 die Möglichkeit, eine &quot;Überfluss&quot;-Kiste anzubinden. Items, welche sonst in die Welt gedropped werden sollten, landen dann in dieser Kiste. Diese muss gegenüber vom Schild so angebracht werden, wie es bei den Sortierseiten der Fall ist (Kolben, gefolgt von einer Truhe).</p>
+<h3 id="verteilende-verzweigungen-mit-mc1243">Verteilende Verzweigungen mit MC1243</h3>
+<p>Der sogenannte Integrated Circuit MC1243 kann als eine &quot;verteilende Verzweigung&quot; in einem Pipe-System verwendet werden und führt hiermit eine Mechanik ein, die sonst mit Pipes nicht möglich ist.</p>
+<p>Diese Schaltung ist analog zum MC1229 aufzubauen (ohne Kiste), hat jedoch andere Beschriftungen auf dem Schild. Die erste Zeile bleibt leer und in die zweite Zeile muss <code translate="no" v-pre>[MC1243]</code> geschrieben werden. In die dritte Zeile müssen zwei Zahlen mit einem Doppelpunkt getrennt geschrieben werden (<code translate="no" v-pre>X:Y</code>), wie: <code translate="no" v-pre>2:1</code>. Die linke Zahl steht für die Anzahl an Stacks, die nach links geschickt werden sollen, die rechte Zahl für die Anzahl an Stacks, die nach rechts geschickt werden sollen. Es werden daher zuerst X Stacks an Items nach links, danach Y Stacks an Items nach rechts geschickt.</p>
+<p>Leider kann der MC1243 ein Stack nicht unterteilen. Im Falle, dass <code translate="no" v-pre>32:32</code> in die dritte Zeile geschrieben wird, werden 32 Stacks nach links, dann 32 Stacks nach rechts geschickt und nicht ein Stack in zwei 32er-Blöcke geteilt.</p>
+<p>Jegliche Items, die in dieser Schaltung landen, werden nach den angegebenen Zahlen sortiert. Im Fall, dass in der dritten Zeile <code translate="no" v-pre>1:2</code> steht, werden immer ein Stack nach links und zwei Stacks nach rechts geschickt. Die Schaltung unterscheidet dabei nicht zwischen verschiedenen Items.</p>
+<p>Weitere Informationen zur MC1243 findest du in der <a href="https://craftbook.enginehub.org/en/3.x/mechanics/ics/MC1243/">offiziellen Dokumentation</a> von Craftbook.</p>
+<h2 id="nützliches">Nützliches</h2>
+<h3 id="clap-befehl">Clap-Befehl</h3>
+<p><a href="../../allgemeines/r%C3%A4nge/" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-dark-text bg-badge-dark border border-badge-dark-border hover:text-badge-dark-text-hover hover:bg-badge-dark-hover hover:border-badge-dark-border-hover transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
+    <span class="inline-flex items-center justify-center leading-none mr-2"><svg xmlns="http://www.w3.org/2000/svg" class="block shrink-0" width="18" height="18" viewBox="0 0 24 24" role="presentation"><g fill="currentColor"><path d="M5.873 3.26A.748.748 0 0 1 6.44 3h11.31c.223 0 .434.099.576.27l5 6a.75.75 0 0 1-.028.992l-10.75 11.5a.75.75 0 0 1-1.096 0l-10.75-11.5a.75.75 0 0 1-.02-1.003l5.19-6Zm.91 1.24L2.258 9.73 12 20.153l9.75-10.43L17.399 4.5Z"/></g></svg></span>
+    <span>VIP/VIS Feature</span>
+</a><br />
+Mit dem <code translate="no" v-pre>/clap</code> Befehl bist du in der Lage, <strong>Pistons</strong>, <strong>Werfer</strong> und <strong>Spender</strong> umgekehrt zu platzieren. Dazu musst du über den Befehl zu dem Modus schalten, sowie <strong>Schleichen</strong>, damit der Piston entgegengesetzt zu dir selbst platziert wird. Der Befehl ist eine Komfortfunktion und erhältlich unter den <a href="https://wiki.openmc.net/allgemeines/r%C3%A4nge/#vorteile">Vorteilen einzelner Ränge</a>.</p>
+
+                
+                <!-- Required only on API pages -->
+                <doc-toolbar-member-filter-no-results></doc-toolbar-member-filter-no-results>
+            </div>
+            <footer id="retype-content-footer" class="clear-both">
+            
+                <nav id="retype-nextprev" class="print:hidden flex mt-14">
+                    <div class="w-1/2">
+                        <a class="px-5 py-4 h-full flex items-center break-normal font-medium text-body-link border border-base-border hover:border-base-border-hover rounded-l-lg transition-colors duration-150 relative hover:z-5" href="../../craftbook-pipes/craftbook/">
+                            <svg xmlns="http://www.w3.org/2000/svg" class="mr-3" width="24" height="24" viewBox="0 0 24 24" fill="currentColor" overflow="visible"><path d="M19 11H7.41l5.29-5.29a.996.996 0 10-1.41-1.41l-7 7a1 1 0 000 1.42l7 7a1.024 1.024 0 001.42-.01.996.996 0 000-1.41L7.41 13H19c.55 0 1-.45 1-1s-.45-1-1-1z" /><path fill="none" d="M0 0h24v24H0z" /></svg>
+                            <span>
+                                <span class="block text-xs font-normal text-base-text-muted">Vorheriger</span>
+                                <span class="block mt-1">Craft​Book</span>
+                            </span>
+                        </a>
+                    </div>
+            
+                    <div class="w-1/2">
+                        <a class="px-5 py-4 -mx-px h-full flex items-center justify-end break-normal font-medium text-body-link border border-base-border hover:border-base-border-hover rounded-r-lg transition-colors duration-150 relative hover:z-5" href="../../craftbook-pipes/pipe-variablen/">
+                            <span>
+                                <span class="block text-xs font-normal text-right text-base-text-muted">Nächster</span>
+                                <span class="block mt-1">Pipe-​Variablen</span>
+                            </span>
+                            <svg xmlns="http://www.w3.org/2000/svg" class="ml-3" width="24" height="24" viewBox="0 0 24 24" fill="currentColor" overflow="visible"><path d="M19.92 12.38a1 1 0 00-.22-1.09l-7-7a.996.996 0 10-1.41 1.41l5.3 5.3H5c-.55 0-1 .45-1 1s.45 1 1 1h11.59l-5.29 5.29a.996.996 0 000 1.41c.19.2.44.3.7.3s.51-.1.71-.29l7-7c.09-.09.16-.21.21-.33z" /><path fill="none" d="M0 0h24v24H0z" /></svg>
+                        </a>
+                    </div>
+                </nav>
+            </footer>
+        </main>
+
+        <div id="retype-page-footer" class="print:border-none border-t border-base-border pt-6 mb-8">
+            <footer class="flex flex-wrap items-center justify-between print:justify-center">
+                <div id="retype-footer-links" class="print:hidden">
+                    <ul class="flex flex-wrap items-center text-sm">
+                        <li>
+                            <a class="block mr-4 py-2 text-sm whitespace-nowrap transition-colors duration-200 ease-linear text-footer-link hover:text-footer-link-hover md:mb-0" href="https://teamwiki.openmc.net/">Internes Teamwiki</a>
+                        </li>
+                        <li>
+                            <a class="block mr-4 py-2 text-sm whitespace-nowrap transition-colors duration-200 ease-linear text-footer-link hover:text-footer-link-hover md:mb-0" href="https://openmc.net/impressum/">Impressum</a>
+                        </li>
+                        <li>
+                            <a class="block mr-4 py-2 text-sm whitespace-nowrap transition-colors duration-200 ease-linear text-footer-link hover:text-footer-link-hover md:mb-0" href="https://openmc.net/datenschutzerklaerung/">Datenschutzerklärung</a>
+                        </li>
+                    </ul>
+                </div>
+                <div id="retype-copyright" class="print:justify-center py-2 text-footer-text font-footer-link text-sm leading-relaxed"><p>OpenMC Wiki © 2026 ist lizensiert unter <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.de">CC BY-NC-ND 4.0</a>. OpenMC.net steht nicht in Verbindung mit Mojang Studios oder Minecraft®.</p></div>
+            </footer>
+        </div>
+    </div>
+
+    <!-- Rendered if sidebar right is enabled -->
+    <!-- Sidebar right skeleton-->
+    <div v-cloak class="fixed top-0 bottom-0 right-0 translate-x-full bg-sidebar-right-bg border-sidebar-right-border lg:sticky lg:border-l lg:shrink-0 lg:pt-6 lg:translate-x-0 sm:w-1/2 lg:w-64 lg:z-0 md:w-104 sidebar-right skeleton">
+        <div class="pl-5">
+            <div class="w-32 h-3 mb-4 bg-skeleton-bg rounded-full loading"></div>
+            <div class="w-48 h-3 mb-4 bg-skeleton-bg rounded-full loading"></div>
+            <div class="w-40 h-3 mb-4 bg-skeleton-bg rounded-full loading"></div>
+        </div>
+    </div>
+
+    <!-- User should be able to hide sidebar right -->
+    <doc-sidebar-right v-cloak></doc-sidebar-right>
+</div>
+
+        </div>
+    </div>
+
+    <doc-search-mobile></doc-search-mobile>
+    <doc-back-to-top></doc-back-to-top>
+</div>
+
+
+    <div id="retype-overlay-target"></div>
+
+        <script data-cfasync="false">window.__DOCS__ = { "title": "Pipes", level: 2, icon: "file", hasPrism: false, hasInstagram: false, hasMermaid: false, hasMath: false, tocDepth: 23, "md": "/craftbook-pipes/pipes.md" }</script>
+</body>
+</html>

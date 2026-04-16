@@ -1,0 +1,585 @@
+{
+  "version": "4.5.3",
+  "created": "2026-04-16T18:59:03Z",
+  "files": [
+    {
+      "path": ".nojekyll"
+    },
+    {
+      "path": "404.html"
+    },
+    {
+      "path": "allgemeines/einstieg.md"
+    },
+    {
+      "path": "allgemeines/einstieg/index.html"
+    },
+    {
+      "path": "allgemeines/events.md"
+    },
+    {
+      "path": "allgemeines/events/index.html"
+    },
+    {
+      "path": "allgemeines/faq.md"
+    },
+    {
+      "path": "allgemeines/faq/index.html"
+    },
+    {
+      "path": "allgemeines/ränge.md"
+    },
+    {
+      "path": "allgemeines/ränge/index.html"
+    },
+    {
+      "path": "allgemeines/serverregeln.md"
+    },
+    {
+      "path": "allgemeines/serverregeln/index.html"
+    },
+    {
+      "path": "allgemeines/serverteam.md"
+    },
+    {
+      "path": "allgemeines/serverteam/index.html"
+    },
+    {
+      "path": "allgemeines/voten.md"
+    },
+    {
+      "path": "allgemeines/voten/index.html"
+    },
+    {
+      "path": "besondere-funktionen/armorstand-editor.md"
+    },
+    {
+      "path": "besondere-funktionen/armorstand-editor/index.html"
+    },
+    {
+      "path": "besondere-funktionen/customcrafting.md"
+    },
+    {
+      "path": "besondere-funktionen/customcrafting/index.html"
+    },
+    {
+      "path": "besondere-funktionen/maparts-schützen.md"
+    },
+    {
+      "path": "besondere-funktionen/maparts-schützen/index.html"
+    },
+    {
+      "path": "besondere-funktionen/marry.md"
+    },
+    {
+      "path": "besondere-funktionen/marry/index.html"
+    },
+    {
+      "path": "besondere-funktionen/mypet.md"
+    },
+    {
+      "path": "besondere-funktionen/mypet/index.html"
+    },
+    {
+      "path": "besondere-funktionen/partikel.md"
+    },
+    {
+      "path": "besondere-funktionen/partikel/index.html"
+    },
+    {
+      "path": "besondere-funktionen/weitere-funktionen.md"
+    },
+    {
+      "path": "besondere-funktionen/weitere-funktionen/index.html"
+    },
+    {
+      "path": "claims/adminclaims.md"
+    },
+    {
+      "path": "claims/adminclaims/index.html"
+    },
+    {
+      "path": "claims/claimflags.md"
+    },
+    {
+      "path": "claims/claimflags/index.html"
+    },
+    {
+      "path": "claims/claiming.md"
+    },
+    {
+      "path": "claims/claiming/index.html"
+    },
+    {
+      "path": "craftbook-pipes/craftbook.md"
+    },
+    {
+      "path": "craftbook-pipes/craftbook/index.html"
+    },
+    {
+      "path": "craftbook-pipes/pipe-sammelvariablen.md"
+    },
+    {
+      "path": "craftbook-pipes/pipe-sammelvariablen/index.html"
+    },
+    {
+      "path": "craftbook-pipes/pipe-variablen.md"
+    },
+    {
+      "path": "craftbook-pipes/pipe-variablen/index.html"
+    },
+    {
+      "path": "craftbook-pipes/pipes.md"
+    },
+    {
+      "path": "craftbook-pipes/pipes/index.html"
+    },
+    {
+      "path": "fortbewegung/fliegen.md"
+    },
+    {
+      "path": "fortbewegung/fliegen/index.html"
+    },
+    {
+      "path": "fortbewegung/playerwarps.md"
+    },
+    {
+      "path": "fortbewegung/playerwarps/index.html"
+    },
+    {
+      "path": "fortbewegung/teleportation.md"
+    },
+    {
+      "path": "fortbewegung/teleportation/index.html"
+    },
+    {
+      "path": "geld-level/adminshop.md"
+    },
+    {
+      "path": "geld-level/adminshop/index.html"
+    },
+    {
+      "path": "geld-level/bosskampf.md"
+    },
+    {
+      "path": "geld-level/bosskampf/index.html"
+    },
+    {
+      "path": "geld-level/chestshop.md"
+    },
+    {
+      "path": "geld-level/chestshop/index.html"
+    },
+    {
+      "path": "geld-level/jobs.md"
+    },
+    {
+      "path": "geld-level/jobs/index.html"
+    },
+    {
+      "path": "geld-level/mcmmo.md"
+    },
+    {
+      "path": "geld-level/mcmmo/index.html"
+    },
+    {
+      "path": "geld-level/transaktionshistorie.md"
+    },
+    {
+      "path": "geld-level/transaktionshistorie/index.html"
+    },
+    {
+      "path": "images/adminshop_aktion.png"
+    },
+    {
+      "path": "images/adminshop_kategorie_item.png"
+    },
+    {
+      "path": "images/adminshop_kategorien.png"
+    },
+    {
+      "path": "images/adrxxian.png"
+    },
+    {
+      "path": "images/axolotl_bucket.png"
+    },
+    {
+      "path": "images/blechgecco.png"
+    },
+    {
+      "path": "images/bossblume_flower.png"
+    },
+    {
+      "path": "images/bridge_closed.png"
+    },
+    {
+      "path": "images/bridge_opened.png"
+    },
+    {
+      "path": "images/claiming_1.png"
+    },
+    {
+      "path": "images/claiming_2.png"
+    },
+    {
+      "path": "images/claiming_3.png"
+    },
+    {
+      "path": "images/claiming_gold_shovel.png"
+    },
+    {
+      "path": "images/claiming_stick.png"
+    },
+    {
+      "path": "images/claimzonen.png"
+    },
+    {
+      "path": "images/color_codes.png"
+    },
+    {
+      "path": "images/cupcake7506.png"
+    },
+    {
+      "path": "images/customcrafting_handwerkskunst_zu_zutaten.png"
+    },
+    {
+      "path": "images/customcrafting_kategorien.png"
+    },
+    {
+      "path": "images/customcrafting_rezept_beispiel.png"
+    },
+    {
+      "path": "images/customcrafting_rezepte.png"
+    },
+    {
+      "path": "images/customcrafting_warteschlange.png"
+    },
+    {
+      "path": "images/customcrafting_zutaten_zu_handwerkskunst.png"
+    },
+    {
+      "path": "images/deepslate_spitzhacke.png"
+    },
+    {
+      "path": "images/dreizack_blaupause.png"
+    },
+    {
+      "path": "images/elytra_blaupause.png"
+    },
+    {
+      "path": "images/eulenelfe.png"
+    },
+    {
+      "path": "images/favicon.png"
+    },
+    {
+      "path": "images/filomez.png"
+    },
+    {
+      "path": "images/gate_closed.png"
+    },
+    {
+      "path": "images/gate_opened.png"
+    },
+    {
+      "path": "images/groesste_minerin.png"
+    },
+    {
+      "path": "images/hydraulikschalter.png"
+    },
+    {
+      "path": "images/jacero.png"
+    },
+    {
+      "path": "images/job-verdienstkurve_large.png"
+    },
+    {
+      "path": "images/job-verdienstkurve.png"
+    },
+    {
+      "path": "images/jukebox.png"
+    },
+    {
+      "path": "images/kettenhaube.png"
+    },
+    {
+      "path": "images/kettenhemd.png"
+    },
+    {
+      "path": "images/kettenhose.png"
+    },
+    {
+      "path": "images/kettenstiefel.png"
+    },
+    {
+      "path": "images/kev2k2.png"
+    },
+    {
+      "path": "images/krempii.png"
+    },
+    {
+      "path": "images/lashtaglp.png"
+    },
+    {
+      "path": "images/logo_text_schwarz.png"
+    },
+    {
+      "path": "images/logo_text_weiß.png"
+    },
+    {
+      "path": "images/lpboy_hd.png"
+    },
+    {
+      "path": "images/mapart_patent.png"
+    },
+    {
+      "path": "images/moonlightflora.png"
+    },
+    {
+      "path": "images/multiple_moderation.png"
+    },
+    {
+      "path": "images/mypet_klassen.png"
+    },
+    {
+      "path": "images/neulingsspawn.png"
+    },
+    {
+      "path": "images/obisasam.png"
+    },
+    {
+      "path": "images/optimale_erzhöhen.png"
+    },
+    {
+      "path": "images/pfeil_der_heilung_4.png"
+    },
+    {
+      "path": "images/pfeil_der_sprungkraft_3.png"
+    },
+    {
+      "path": "images/pfeil_des_aufschwungs.png"
+    },
+    {
+      "path": "images/pfeilvorlage.png"
+    },
+    {
+      "path": "images/phiole.png"
+    },
+    {
+      "path": "images/pipes_1.png"
+    },
+    {
+      "path": "images/pipes_2.png"
+    },
+    {
+      "path": "images/pipes_3.png"
+    },
+    {
+      "path": "images/pipes_4.png"
+    },
+    {
+      "path": "images/pipes_5.png"
+    },
+    {
+      "path": "images/pipes_6.png"
+    },
+    {
+      "path": "images/pipes_7.png"
+    },
+    {
+      "path": "images/pipes_8.png"
+    },
+    {
+      "path": "images/pipes_9.png"
+    },
+    {
+      "path": "images/polarfoxine.png"
+    },
+    {
+      "path": "images/rezeptbuch.png"
+    },
+    {
+      "path": "images/schmiedevorlage.png"
+    },
+    {
+      "path": "images/senderempfänger.png"
+    },
+    {
+      "path": "images/server-icon.png"
+    },
+    {
+      "path": "images/shard_2.png"
+    },
+    {
+      "path": "images/shard_essenz.png"
+    },
+    {
+      "path": "images/shoperstellung.png"
+    },
+    {
+      "path": "images/shulker_beschwörungsstein.png"
+    },
+    {
+      "path": "images/shulker_kern.png"
+    },
+    {
+      "path": "images/shulker_kiste.png"
+    },
+    {
+      "path": "images/shulker_schale.png"
+    },
+    {
+      "path": "images/signalempfang.png"
+    },
+    {
+      "path": "images/spawn.png"
+    },
+    {
+      "path": "images/stramme_seide.png"
+    },
+    {
+      "path": "images/stumm.png"
+    },
+    {
+      "path": "images/teamstruktur.png"
+    },
+    {
+      "path": "images/ticketsupport.png"
+    },
+    {
+      "path": "images/transaktionshistorie.png"
+    },
+    {
+      "path": "images/useflo.png"
+    },
+    {
+      "path": "images/verbesserter_dreizack_1.png"
+    },
+    {
+      "path": "images/verbesserter_dreizack_2.png"
+    },
+    {
+      "path": "images/verbesserter_dreizack_3.png"
+    },
+    {
+      "path": "images/verbessertes_schild_1.png"
+    },
+    {
+      "path": "images/verbessertes_schild_2.png"
+    },
+    {
+      "path": "images/verbessertes_schild_3.png"
+    },
+    {
+      "path": "images/versteinerte_eichenholzstufe.png"
+    },
+    {
+      "path": "images/wasser_essenz.png"
+    },
+    {
+      "path": "images/wiederbelebungstotem_set.png"
+    },
+    {
+      "path": "images/wiki_hero_winter.png"
+    },
+    {
+      "path": "images/wiki_hero.png"
+    },
+    {
+      "path": "images/wind_essenz.png"
+    },
+    {
+      "path": "images/wirbelsturm_brustplatte_1_reparatur.png"
+    },
+    {
+      "path": "images/wirbelsturm_brustplatte_1.png"
+    },
+    {
+      "path": "images/wirbelsturm_brustplatte_2.png"
+    },
+    {
+      "path": "images/wirbelsturm_brustplatte_3.png"
+    },
+    {
+      "path": "index.html"
+    },
+    {
+      "path": "llms.txt"
+    },
+    {
+      "path": "readme.md"
+    },
+    {
+      "path": "resources/css/retype.css"
+    },
+    {
+      "path": "resources/fonts/Inter-italic-latin-var.woff2"
+    },
+    {
+      "path": "resources/fonts/Inter-roman-latin-var.woff2"
+    },
+    {
+      "path": "resources/js/config.js"
+    },
+    {
+      "path": "resources/js/instagram.js"
+    },
+    {
+      "path": "resources/js/lunr.js"
+    },
+    {
+      "path": "resources/js/mermaid.js"
+    },
+    {
+      "path": "resources/js/retype.js"
+    },
+    {
+      "path": "resources/js/search.json"
+    },
+    {
+      "path": "resources/lunr.js.LICENSE.txt"
+    },
+    {
+      "path": "resources/mermaid.js.LICENSE.txt"
+    },
+    {
+      "path": "resources/prism.js.LICENSE.txt"
+    },
+    {
+      "path": "resources/retype.js.LICENSE.txt"
+    },
+    {
+      "path": "resources/retype.LICENSE.txt"
+    },
+    {
+      "path": "robots.txt"
+    },
+    {
+      "path": "sitemap.xml"
+    },
+    {
+      "path": "sonstiges/besonderheiten-auf-openmc.md"
+    },
+    {
+      "path": "sonstiges/besonderheiten-auf-openmc/index.html"
+    },
+    {
+      "path": "sonstiges/farmanmeldungen.md"
+    },
+    {
+      "path": "sonstiges/farmanmeldungen/index.html"
+    },
+    {
+      "path": "sonstiges/richtlinien.md"
+    },
+    {
+      "path": "sonstiges/richtlinien/index.html"
+    },
+    {
+      "path": "sonstiges/weitere-befehle.md"
+    },
+    {
+      "path": "sonstiges/weitere-befehle/index.html"
+    }
+  ]
+}

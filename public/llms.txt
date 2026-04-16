@@ -1,0 +1,60 @@
+﻿#  | OpenMC Wiki
+
+> Herzlich Willkommen im OpenMC Wiki 👋
+
+- [Home](https://wiki.openmc.net/readme.md): Home
+
+## Allgemeines
+
+- [Einstieg ](https://wiki.openmc.net/allgemeines/einstieg.md): Huhu und Willkommen auf OpenMC! 👋
+- [Serverregeln](https://wiki.openmc.net/allgemeines/serverregeln.md): Mit dem Spielen auf unserem Server und/oder dem Beitritt auf unserem Discord akzeptierst du die Regeln. Zusätzlich sind unsere Richtlinien zu beachten. Diese gehen detaillierter auf bestimmte Aspekte und Einzelfälle ein.
+- [FAQ ](https://wiki.openmc.net/allgemeines/faq.md): Hier findest du viele hilfreiche Antworten auf verschiedenste Fragen zum Server und dessen Besonderheiten. Sollte dir etwas fehlen, kannst du uns gerne deine Wunschergänzung in Form eines Tickets im Discord oder auch per Privatchat ingame mitteilen.
+- [Ränge ](https://wiki.openmc.net/allgemeines/r%C3%A4nge.md): Mit einem Rang kannst du viele nützliche Features und Vorteile erhalten. Hier findest du einen Überblick über die Ränge sowie eine Tabelle mit den spezifischen Vorteilen.
+- [Serverteam](https://wiki.openmc.net/allgemeines/serverteam.md): Das Serverteam ist dafür zuständig, dass alle Aspekte des Servers, sowohl von technischer als auch konzeptioneller Seite, reibungslos funktionieren. Dazu
+- [Voten ](https://wiki.openmc.net/allgemeines/voten.md): Mit einem Vote unterstützt du den Server und erhältst tolle Belohnungen über VoteChests und die VoteStreak.
+- [Events ](https://wiki.openmc.net/allgemeines/events.md): Auf dieser Seite findest du Erläuterungen zu den Events, die regelmäßig auf OpenMC stattfinden.
+
+## Claims (Grundstücke)
+
+- [Claiming (Grundstück erstellen) ](https://wiki.openmc.net/claims/claiming.md): ✅ Ingame-Tutorial verfügbar: /warp tutorial_claiming
+- [ClaimFlags ](https://wiki.openmc.net/claims/claimflags.md): Mit Claimflags können zusätzliche Funktionen auf Claims aktiviert werden.
+- [AdminClaims ](https://wiki.openmc.net/claims/adminclaims.md): Für Großprojekte können spezifische Claims vergeben werden, wodurch ein Gebiet für dieses Projekt reserviert wird. Bei einem derartigen Claim handelt es sich um einen Adminclaim, auf welchem der Leiter des Großprojektes "permissiontrust" erhält.
+
+## Fortbewegung
+
+- [Fliegen ](https://wiki.openmc.net/fortbewegung/fliegen.md): Auf OpenMC besteht die Möglichkeit, in der Bauwelt und in der Industriewelt zu fliegen. Um /fly nutzen zu können, benötigst du Flugzeit oder einen entsprechenden Rang.
+- [Teleportation ](https://wiki.openmc.net/fortbewegung/teleportation.md): Damit du schneller an dein Ziel kommst, kannst du dich auf verschiedene Arten teleportieren.
+- [PlayerWarps ](https://wiki.openmc.net/fortbewegung/playerwarps.md): PlayerWarps sind Warps, die von Spielern gesetzt werden können. Mit diesen kann beispielsweise ein Shop beworben oder ein Bauwerk für die Öffentlichkeit zugänglich gemacht werden.
+
+## Geld & Level
+
+- [Jobs ](https://wiki.openmc.net/geld-level/jobs.md): ✅ Ingame-Tutorial verfügbar: /warp tutorial_jobs
+- [AdminShop ](https://wiki.openmc.net/geld-level/adminshop.md): Im AdminShop kannst du ausgewählte Items an- und verkaufen. Um den AdminShop zu öffnen, verwende /adminshop oder /as.
+- [ChestShop ](https://wiki.openmc.net/geld-level/chestshop.md): ✅ Ingame-Tutorial verfügbar: /warp tutorial_shops
+- [Transaktionshistorie ](https://wiki.openmc.net/geld-level/transaktionshistorie.md): Anhand der Transaktionshistorie kannst du deine Ein- & Ausgaben auf dem Server im Auge behalten und teils sogar filtern. Hierbei gilt meistens die Sicht, dass das Geld aus /balance in eine andere Quelle hinein oder aus einer Quelle heraus gebracht wird.
+- [mcMMO ](https://wiki.openmc.net/geld-level/mcmmo.md): ✅ Ingame-Tutorial verfügbar: /warp tutorial_mcmmo
+- [Bosskampf ](https://wiki.openmc.net/geld-level/bosskampf.md): Bei Bosskämpfen treten Spieler gegen individuelle Monster an, um die seltenen Shard III Items zu erhalten, eine essentielle Resource für CustomCrafting.
+
+## Craftbook & Pipes
+
+- [CraftBook ](https://wiki.openmc.net/craftbook-pipes/craftbook.md): ✅ Ingame-Tutorial verfügbar: /warp tutorial_craftbook
+- [Pipes ](https://wiki.openmc.net/craftbook-pipes/pipes.md): ✅ Ingame-Tutorial verfügbar: /warp tutorial_pipes
+- [Pipe-Variablen ](https://wiki.openmc.net/craftbook-pipes/pipe-variablen.md): Pipe-Variablen ermöglichen es dir, mit besonders kurzen Schreibweisen mehrere Items auf ein Pipe-Schild zu schreiben. Auf dieser Seite findest du die Variablen für einzelne Items.
+- [Pipe-Sammelvariablen ](https://wiki.openmc.net/craftbook-pipes/pipe-sammelvariablen.md): Pipe-Sammelvariablen ermöglichen es dir, mehrere Items mit einer einzelnen Variable über das Pipe-System zu sortieren.
+
+## Besondere Funktionen
+
+- [CustomCrafting ](https://wiki.openmc.net/besondere-funktionen/customcrafting.md): ✅ Ingame-Tutorial verfügbar: /warp tutorial_customcrafting (in Arbeit)
+- [MyPet ](https://wiki.openmc.net/besondere-funktionen/mypet.md): ✅ Ingame-Tutorial verfügbar: /warp tutorial_pets
+- [Partikel ](https://wiki.openmc.net/besondere-funktionen/partikel.md): Mit Partikeln kannst du deinem Aussehen das gewisse Extra verleihen.
+- [ArmorStand Editor ](https://wiki.openmc.net/besondere-funktionen/armorstand-editor.md): Mit dem ArmorStand Editor kannst du ganz einfach personalisierte Armorstands (Rüstungsständer) erstellen.
+- [Marry ](https://wiki.openmc.net/besondere-funktionen/marry.md): Das Marry-Plugin bietet dir die Möglichkeit, Ehen auf dem Server zu schließen. Folgende Vorteile erhältst du dadurch:
+- [MapArts schützen ](https://wiki.openmc.net/besondere-funktionen/maparts-sch%C3%BCtzen.md): Um dein MapArt zu schützen, stehen dir mehrere Möglichkeiten offen. Nutzt diese Möglichkeiten, hast du dein MapArt vollumfänglich gegen Kopieren geschützt.
+- [Weitere Funktionen ](https://wiki.openmc.net/besondere-funktionen/weitere-funktionen.md): Auf dieser Seite sind weitere, kleinere Themen vertreten.
+
+## Sonstiges
+
+- [Weitere Befehle ](https://wiki.openmc.net/sonstiges/weitere-befehle.md): Hier erhältst du einen Überblick über weitere Befehle des Servers, welche nicht auf den anderen Seiten erläutert werden.
+- [Richtlinien ](https://wiki.openmc.net/sonstiges/richtlinien.md): Die folgenden Richtlinien dienen als Ergänzung der Serverregeln und sind ebenfalls zu befolgen.
+- [Farmanmeldungen ](https://wiki.openmc.net/sonstiges/farmanmeldungen.md): Farmanlagen sind ein interessanter Bestandteil des Spielgeschehens und von OpenMC. Bekannterweise führen mehrere Farmen bei zeitgleicher Nutzung jedoch zu Performance-Einbrüchen, welche den Spielspaß beeinträchtigen.
+- [Besonderheiten auf OpenMC ](https://wiki.openmc.net/sonstiges/besonderheiten-auf-openmc.md): Hier findest du serverspezifische Besonderheiten, welche sich vom Vanilla-Gameplay unterscheiden.

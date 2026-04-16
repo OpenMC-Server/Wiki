@@ -1,0 +1,2354 @@
+<!DOCTYPE html>
+<html lang="de" class="h-full">
+<head>
+    <script defer data-domain="domain1.com,domain2.com" src="https://plausible.example.com/js/script.js"></script>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta name="color-scheme" content="light dark">
+    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="4.5.3.829681137088">
+
+    <!-- See retype.com -->
+    <meta name="generator" content="Retype 4.5.3">
+
+    <!-- Primary Meta Tags -->
+    <title>MyPet  | OpenMC Wiki</title>
+    <meta name="title" content="MyPet  | OpenMC Wiki">
+    <meta name="description" content="✅ Ingame-Tutorial verfügbar: /warp tutorial_pets">
+
+    <!-- Canonical -->
+    <link rel="canonical" href="https://wiki.openmc.net/besondere-funktionen/mypet/">
+    <link rel="sitemap" type="application/xml" title="Sitemap" href="https://wiki.openmc.net/sitemap.xml">
+
+    <!-- Open Graph -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://wiki.openmc.net/besondere-funktionen/mypet/">
+    <meta property="og:title" content="MyPet  | OpenMC Wiki">
+    <meta property="og:description" content="✅ Ingame-Tutorial verfügbar: /warp tutorial_pets">
+    <meta property="og:site_name" content="Wiki">
+    <meta property="og:locale" content="de_DE">
+
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:url" content="https://wiki.openmc.net/besondere-funktionen/mypet/">
+    <meta name="twitter:title" content="MyPet  | OpenMC Wiki">
+    <meta name="twitter:description" content="✅ Ingame-Tutorial verfügbar: /warp tutorial_pets">
+
+    <!-- Alternate Markdown -->
+    <link rel="alternate" type="text/markdown" href="https://wiki.openmc.net/besondere-funktionen/mypet.md">
+
+    <script data-cfasync="false">(function(){var cl=document.documentElement.classList,ls=localStorage.getItem("retype_scheme"),hd=cl.contains("dark"),hl=cl.contains("light"),wm=window.matchMedia&&window.matchMedia("(prefers-color-scheme: dark)").matches;if(ls==="dark"||(!ls&&wm&&!hd&&!hl)){cl.remove("light");cl.add("dark")}else if(ls==="light"||(!ls&&!wm&&!hd&&!hl)){cl.remove("dark");cl.add("light")}})();</script>
+
+    <link id="retype-favicon" rel="icon" href="../../images/favicon.png" />
+    <link href="../../resources/css/retype.css?v=4.5.3.829681137088" rel="stylesheet">
+
+    <script data-cfasync="false" src="../../resources/js/config.js?v=4.5.3.829681137088" data-turbo-eval="false" defer></script>
+    <script data-cfasync="false" src="../../resources/js/retype.js?v=4.5.3" data-turbo-eval="false" defer></script>
+    <script id="lunr-js" data-cfasync="false" src="../../resources/js/lunr.js?v=4.5.3.829681137088" data-turbo-eval="false" defer></script>
+</head>
+<body>
+    <div id="retype-app" class="relative text-base antialiased text-base-text bg-base-bg font-body">
+    <div class="absolute bottom-0 left-0" style="top: 5rem; right: 50%"></div>
+
+    <header id="retype-header" class="sticky top-0 z-30 flex w-full h-16 bg-header-bg border-b border-header-border md:h-20">
+        <div class="container relative flex items-center justify-between pr-6 grow md:justify-start">
+            <!-- Mobile menu button skeleton -->
+            <button v-cloak class="skeleton retype-mobile-menu-button flex items-center justify-center shrink-0 overflow-hidden dark:text-white focus:outline-hidden rounded-full w-10 h-10 ml-3.5 md:hidden"><svg xmlns="http://www.w3.org/2000/svg" class="mb-px shrink-0" width="24" height="24" viewBox="0 0 24 24" role="presentation" style="margin-bottom: 0px;"><g fill="currentColor"><path d="M2 4h20v2H2zM2 11h20v2H2zM2 18h20v2H2z"></path></g></svg></button>
+            <div v-cloak id="retype-sidebar-left-toggle-button"></div>
+    
+            <!-- Logo -->
+            <div class="flex items-center justify-between h-full py-2 md:w-75">
+                <div class="flex items-center px-2 md:px-6">
+                    <a id="retype-branding-logo" href="https://wiki.openmc.net/" class="flex items-center leading-snug text-2xl">
+                        <span class="w-10 mr-2 grow-0 shrink-0 overflow-hidden">
+                            <img class="max-h-10 dark:hidden md:inline-block" src="../../images/logo_text_schwarz.png" alt="" width="40" height="40">
+                            <img class="max-h-10 hidden dark:inline-block" src="../../images/logo_text_weiß.png" alt="" width="40" height="40">
+                        </span>
+                        <span class="dark:text-white font-bold line-clamp-1 md:line-clamp-2">Wiki</span>
+                    </a>
+                </div>
+    
+                <span class="hidden h-8 border-r md:inline-block border-base-border"></span>
+            </div>
+    
+            <div class="flex justify-between md:grow">
+                <!-- Top Nav -->
+                <nav id="retype-header-nav" class="hidden md:flex">
+                    <ul class="flex flex-col mb-4 md:pl-16 md:mb-0 md:flex-row md:items-center">
+                        <li class="mr-6">
+                            <a class="py-2 md:mb-0 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-header-text font-header-text hover:text-header-text-hover" href="https://openmc.net/">Website</a>
+                        </li>
+                        <li class="mr-6">
+                            <a class="py-2 md:mb-0 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-header-text font-header-text hover:text-header-text-hover" href="https://openmc.net/forum/">Forum</a>
+                        </li>
+                        <li class="mr-6">
+                            <a class="py-2 md:mb-0 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-header-text font-header-text hover:text-header-text-hover" href="https://map.openmc.net/">Livemap</a>
+                        </li>
+                        <li class="mr-6">
+                            <a class="py-2 md:mb-0 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-header-text font-header-text hover:text-header-text-hover" href="https://discord.com/invite/ecqPF34">Discord</a>
+                        </li>
+                        <li class="mr-6">
+                            <a class="py-2 md:mb-0 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-header-text font-header-text hover:text-header-text-hover" href="https://instagram.com/openmc/">Instagram</a>
+                        </li>
+    
+                    </ul>
+                </nav>
+    
+                <div v-cloak class="flex justify-end grow">
+                    <div id="retype-mobile-search-button"></div>
+                    <doc-search-desktop></doc-search-desktop>
+    
+                    <doc-theme-switch class="lg:ml-2"></doc-theme-switch>
+                    <doc-history></doc-history>
+                </div>
+            </div>
+        </div>
+    </header>
+
+
+    <div id="retype-container" class="container relative flex bg-white">
+        <!-- Sidebar Skeleton -->
+        <div v-cloak class="fixed flex flex-col shrink-0 duration-300 ease-in-out bg-sidebar-left-bg border-sidebar-left-border sidebar top-20 w-75 border-r h-screen md:sticky transition-transform skeleton">
+        
+            <div class="flex items-center h-16 px-6">
+                <input id="retype-filter-input-mock" class="w-full h-10 pl-8 px-3 py-2 transition-colors duration-200 ease-linear bg-filter-bg border border-filter-border rounded-lg shadow-none md:text-sm hover:border-filter-border-hover focus:outline-hidden focus:border-filter-border-focus placeholder-filter-placeholder" type="text">
+            </div>
+        
+            <div class="pl-6 mt-1 mb-4">
+                <div class="w-32 h-3 mb-4 bg-skeleton-bg rounded-full loading"></div>
+                <div class="w-48 h-3 mb-4 bg-skeleton-bg rounded-full loading"></div>
+                <div class="w-40 h-3 mb-4 bg-skeleton-bg rounded-full loading"></div>
+                <div class="w-32 h-3 mb-4 bg-skeleton-bg rounded-full loading"></div>
+                <div class="w-48 h-3 mb-4 bg-skeleton-bg rounded-full loading"></div>
+                <div class="w-40 h-3 mb-4 bg-skeleton-bg rounded-full loading"></div>
+            </div>
+        
+            <div class="shrink-0 mt-auto bg-transparent dark:border-base-border">
+                <a class="flex items-center justify-center flex-nowrap h-16 text-gray-350 dark:text-dark-400 hover:text-gray-600 dark:hover:text-dark-300 transition-colors duration-150 ease-in docs-powered-by" target="_blank" href="https://retype.com/" rel="noopener">
+                    <span class="text-xs whitespace-nowrap">Powered by</span>
+                    <svg xmlns="http://www.w3.org/2000/svg" class="ml-2" fill="currentColor" width="96" height="20" overflow="visible"><path d="M0 0v20h13.59V0H0zm11.15 17.54H2.44V2.46h8.71v15.08zM15.8 20h2.44V4.67L15.8 2.22zM20.45 6.89V20h2.44V9.34z"/><g><path d="M40.16 8.44c0 1.49-.59 2.45-1.75 2.88l2.34 3.32h-2.53l-2.04-2.96h-1.43v2.96h-2.06V5.36h3.5c1.43 0 2.46.24 3.07.73s.9 1.27.9 2.35zm-2.48 1.1c.26-.23.38-.59.38-1.09 0-.5-.13-.84-.4-1.03s-.73-.28-1.39-.28h-1.54v2.75h1.5c.72 0 1.2-.12 1.45-.35zM51.56 5.36V7.2h-4.59v1.91h4.13v1.76h-4.13v1.92h4.74v1.83h-6.79V5.36h6.64zM60.09 7.15v7.48h-2.06V7.15h-2.61V5.36h7.28v1.79h-2.61zM70.81 14.64h-2.06v-3.66l-3.19-5.61h2.23l1.99 3.45 1.99-3.45H74l-3.19 5.61v3.66zM83.99 6.19c.65.55.97 1.4.97 2.55s-.33 1.98-1 2.51-1.68.8-3.04.8h-1.23v2.59h-2.06V5.36h3.26c1.42 0 2.45.28 3.1.83zm-1.51 3.65c.25-.28.37-.69.37-1.22s-.16-.92-.48-1.14c-.32-.23-.82-.34-1.5-.34H79.7v3.12h1.38c.68 0 1.15-.14 1.4-.42zM95.85 5.36V7.2h-4.59v1.91h4.13v1.76h-4.13v1.92H96v1.83h-6.79V5.36h6.64z"/></g></svg>
+                </a>
+            </div>
+        </div>
+        
+        <!-- Sidebar component -->
+        <doc-sidebar v-cloak>
+            <template #sidebar-footer>
+                <div class="shrink-0 mt-auto border-t md:bg-transparent md:border-none dark:border-base-border">
+        
+                    <div class="py-3 px-6 md:hidden border-b dark:border-base-border">
+                        <nav>
+                            <ul class="flex flex-wrap justify-center items-center">
+                                <li class="mr-6">
+                                    <a class="block py-1 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-header-text font-header-text hover:text-header-text-hover" href="https://openmc.net/">Website</a>
+                                </li>
+                                <li class="mr-6">
+                                    <a class="block py-1 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-header-text font-header-text hover:text-header-text-hover" href="https://openmc.net/forum/">Forum</a>
+                                </li>
+                                <li class="mr-6">
+                                    <a class="block py-1 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-header-text font-header-text hover:text-header-text-hover" href="https://map.openmc.net/">Livemap</a>
+                                </li>
+                                <li class="mr-6">
+                                    <a class="block py-1 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-header-text font-header-text hover:text-header-text-hover" href="https://discord.com/invite/ecqPF34">Discord</a>
+                                </li>
+                                <li class="mr-6">
+                                    <a class="block py-1 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-header-text font-header-text hover:text-header-text-hover" href="https://instagram.com/openmc/">Instagram</a>
+                                </li>
+        
+                            </ul>
+                        </nav>
+                    </div>
+        
+                    <a class="flex items-center justify-center flex-nowrap h-16 text-gray-350 dark:text-dark-400 hover:text-gray-600 dark:hover:text-dark-300 transition-colors duration-150 ease-in docs-powered-by" target="_blank" href="https://retype.com/" rel="noopener">
+                        <span class="text-xs whitespace-nowrap">Powered by</span>
+                        <svg xmlns="http://www.w3.org/2000/svg" class="ml-2" fill="currentColor" width="96" height="20" overflow="visible"><path d="M0 0v20h13.59V0H0zm11.15 17.54H2.44V2.46h8.71v15.08zM15.8 20h2.44V4.67L15.8 2.22zM20.45 6.89V20h2.44V9.34z"/><g><path d="M40.16 8.44c0 1.49-.59 2.45-1.75 2.88l2.34 3.32h-2.53l-2.04-2.96h-1.43v2.96h-2.06V5.36h3.5c1.43 0 2.46.24 3.07.73s.9 1.27.9 2.35zm-2.48 1.1c.26-.23.38-.59.38-1.09 0-.5-.13-.84-.4-1.03s-.73-.28-1.39-.28h-1.54v2.75h1.5c.72 0 1.2-.12 1.45-.35zM51.56 5.36V7.2h-4.59v1.91h4.13v1.76h-4.13v1.92h4.74v1.83h-6.79V5.36h6.64zM60.09 7.15v7.48h-2.06V7.15h-2.61V5.36h7.28v1.79h-2.61zM70.81 14.64h-2.06v-3.66l-3.19-5.61h2.23l1.99 3.45 1.99-3.45H74l-3.19 5.61v3.66zM83.99 6.19c.65.55.97 1.4.97 2.55s-.33 1.98-1 2.51-1.68.8-3.04.8h-1.23v2.59h-2.06V5.36h3.26c1.42 0 2.45.28 3.1.83zm-1.51 3.65c.25-.28.37-.69.37-1.22s-.16-.92-.48-1.14c-.32-.23-.82-.34-1.5-.34H79.7v3.12h1.38c.68 0 1.15-.14 1.4-.42zM95.85 5.36V7.2h-4.59v1.91h4.13v1.76h-4.13v1.92H96v1.83h-6.79V5.36h6.64z"/></g></svg>
+                    </a>
+                </div>
+            </template>
+        </doc-sidebar>
+
+        <div class="grow min-w-0 bg-body-bg">
+            <!-- Render "toolbar" template here on api pages --><!-- Render page content -->
+<div class="flex">
+    <div id="retype-main" class="min-w-0 p-4 grow md:px-16">
+        <main class="relative pb-12 lg:pt-2">
+            <div class="relative retype-markdown" id="retype-content">
+                <!-- Rendered if sidebar right is enabled -->
+                <div id="retype-sidebar-right-toggle"></div>
+                <doc-page-actions></doc-page-actions>
+
+                <!-- Page content  -->
+<h1 id="mypet">MyPet <a href="https://tally.so/r/WO8gxJ" target="_blank" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none cursor-pointer transition-colors duration-200 ease-out focus:outline-hidden bg-button-success hover:bg-button-success-hover text-button-success-text px-2.5 h-6 text-xs rounded">
+    <span class="docs-emoji mr-2">&#x1F4A1;</span>
+    <span>Feedback geben</span>
+</a></h1>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-primary-text bg-badge-primary border border-badge-primary-border h-6 px-2 text-xs rounded-md">
+    <span><span class="docs-emoji">&#x2705;</span> Ingame-Tutorial verfügbar: <code translate="no" v-pre>/warp tutorial_pets</code></span>
+</span></p>
+<p>Das MyPet-Plugin erlaubt es dir, Mobs jeglicher Art (mit wenigen Ausnahmen) zu fangen und als Haustier zu halten. Diese unterstützen dich durch Kampfkraft, Beacon-ähnliche Effekte oder dienen als Reit- bzw. Flugtier.</p>
+<hr>
+<h2 id="mobs-einfangenzähmen">Mobs einfangen/zähmen</h2>
+<p>Jeder Mobtyp ist einer Stärkekategorie (S0-S5) zugeordnet und erhält basierend auf seiner Art eine individuelle Fähigkeitsklasse.
+Eine detaillierte Übersicht findet sich hier: <doc-anchor-trigger to="#st%C3%A4rke-kategorien">Stärke-Kategorien</doc-anchor-trigger>.</p>
+<p>Je nach Mob-Typ und Stärke-Kategorie unterscheiden sich die Anforderungen zum Einfangen des Pets:</p>
+<ul>
+<li>Erreichen nötiger mcMMO-Level in bestimmten Skills</li>
+<li>Der Mob muss unter einer definierten Prozentzahl an Lebenspunkten liegen (HP-Grenze)</li>
+<li>Je nach Stärke des Mobs variiert die Wahrscheinlichkeit den Mob mit einem Schlag tatsächlich einzufangen (Chance)</li>
+</ul>
+<p>Zähmbare Tiere müssen zunächst gezähmt werden. Mobs, welche durch einen Spieler erzeugt werden können (Eisengolem/Schneegolem) müssen eigenständig erbaut werden.</p>
+<p>Wenn alle Anforderungen erfüllt sind, können die Mobs solange mit einer Leine geschlagen werden, bis diese in ein Pet umgewandelt werden.</p>
+<div class="table-wrapper scrollbar overflow-hidden">
+<table class="compact">
+<thead>
+<tr>
+<th style="text-align: center;">Mob-Typ</th>
+<th style="text-align: center;">Anforderung</th>
+<th>HP-Grenze</th>
+<th>Chance</th>
+<th>mcMMO-Level</th>
+<th>Skill</th>
+<th>Skill</th>
+<th>Skill</th>
+<th>Skill</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;">Allay</td>
+<td style="text-align: center;">-</td>
+<td>20%</td>
+<td>30%</td>
+<td>400</td>
+<td>Zähmen</td>
+<td>Kräuterkunde</td>
+<td>Akrobatik</td>
+<td>-</td>
+</tr>
+<tr>
+<td style="text-align: center;">Armadillo</td>
+<td style="text-align: center;">-</td>
+<td>30%</td>
+<td>50%</td>
+<td>200</td>
+<td>Zähmen</td>
+<td>Kräuterkunde</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td style="text-align: center;">Axolotl</td>
+<td style="text-align: center;">-</td>
+<td>30%</td>
+<td>50%</td>
+<td>200</td>
+<td>Zähmen</td>
+<td>Angeln</td>
+<td>Kräuterkunde</td>
+<td>-</td>
+</tr>
+<tr>
+<td style="text-align: center;">Bat</td>
+<td style="text-align: center;">-</td>
+<td>50%</td>
+<td>80%</td>
+<td>100</td>
+<td>Zähmen</td>
+<td>Kräuterkunde</td>
+<td>Akrobatik</td>
+<td>-</td>
+</tr>
+<tr>
+<td style="text-align: center;">Bee</td>
+<td style="text-align: center;">-</td>
+<td>40%</td>
+<td>65%</td>
+<td>200</td>
+<td>Zähmen</td>
+<td>Graben</td>
+<td>Akrobatik</td>
+<td>-</td>
+</tr>
+<tr>
+<td style="text-align: center;">Blaze</td>
+<td style="text-align: center;">-</td>
+<td>30%</td>
+<td>50%</td>
+<td>300</td>
+<td>Zähmen</td>
+<td>Alchemie</td>
+<td>Akrobatik</td>
+<td>Schwertkampf</td>
+</tr>
+<tr>
+<td style="text-align: center;">Bogged</td>
+<td style="text-align: center;">-</td>
+<td>30%</td>
+<td>50%</td>
+<td>300</td>
+<td>Zähmen</td>
+<td>Bogenschießen</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td style="text-align: center;">Breeze</td>
+<td style="text-align: center;">-</td>
+<td>30%</td>
+<td>50%</td>
+<td>300</td>
+<td>Zähmen</td>
+<td>Akrobatik</td>
+<td>Schwertkampf</td>
+<td>-</td>
+</tr>
+<tr>
+<td style="text-align: center;">Camel</td>
+<td style="text-align: center;">-</td>
+<td>30%</td>
+<td>50%</td>
+<td>300</td>
+<td>Zähmen</td>
+<td>Akrobatik</td>
+<td>Kräuterkunde</td>
+<td>-</td>
+</tr>
+<tr>
+<td style="text-align: center;">Cat</td>
+<td style="text-align: center;">-</td>
+<td>40%</td>
+<td>65%</td>
+<td>200</td>
+<td>Zähmen</td>
+<td>Kräuterkunde</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td style="text-align: center;">Cave Spider</td>
+<td style="text-align: center;">-</td>
+<td>40%</td>
+<td>65%</td>
+<td>200</td>
+<td>Zähmen</td>
+<td>Graben</td>
+<td>Schwertkampf</td>
+<td>Aktobatik</td>
+</tr>
+<tr>
+<td style="text-align: center;">Chicken</td>
+<td style="text-align: center;">-</td>
+<td>60%</td>
+<td>100%</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td style="text-align: center;">Cod</td>
+<td style="text-align: center;">-</td>
+<td>50%</td>
+<td>80%</td>
+<td>100</td>
+<td>Zähmen</td>
+<td>Angeln</td>
+<td>Kräuterkunde</td>
+<td>-</td>
+</tr>
+<tr>
+<td style="text-align: center;">Cow</td>
+<td style="text-align: center;">-</td>
+<td>60%</td>
+<td>100%</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td style="text-align: center;">Creaking</td>
+<td style="text-align: center;">Herz abbauen</td>
+<td>-</td>
+<td>100%</td>
+<td>500</td>
+<td>Zähmen</td>
+<td>Holzfällen</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td style="text-align: center;">Creeper</td>
+<td style="text-align: center;">-</td>
+<td>50%</td>
+<td>80%</td>
+<td>100</td>
+<td>Zähmen</td>
+<td>Schwertkampf</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td style="text-align: center;">Dolphin</td>
+<td style="text-align: center;">-</td>
+<td>20%</td>
+<td>30%</td>
+<td>400</td>
+<td>Zähmen</td>
+<td>Angeln</td>
+<td>Kräuterkunde</td>
+<td>-</td>
+</tr>
+<tr>
+<td style="text-align: center;">Donkey</td>
+<td style="text-align: center;">-</td>
+<td>50%</td>
+<td>80%</td>
+<td>100</td>
+<td>Zähmen</td>
+<td>Kräuterkunde</td>
+<td>Akrobatik</td>
+<td>-</td>
+</tr>
+<tr>
+<td style="text-align: center;">Drowned</td>
+<td style="text-align: center;">-</td>
+<td>50%</td>
+<td>65%</td>
+<td>200</td>
+<td>Tridents</td>
+<td>Zähmen</td>
+<td>Schwertkampf</td>
+<td>Angeln</td>
+</tr>
+<tr>
+<td style="text-align: center;">Elder Guardian</td>
+<td style="text-align: center;">-</td>
+<td>20%</td>
+<td>30%</td>
+<td>400</td>
+<td>Tridents</td>
+<td>Zähmen</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td style="text-align: center;">Enderman</td>
+<td style="text-align: center;">-</td>
+<td>40%</td>
+<td>65%</td>
+<td>200</td>
+<td>Zähmen</td>
+<td>Schwertkampf</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td style="text-align: center;">Endermite</td>
+<td style="text-align: center;">-</td>
+<td>50%</td>
+<td>80%</td>
+<td>100</td>
+<td>Zähmen</td>
+<td>Graben</td>
+<td>Schwertkampf</td>
+<td>-</td>
+</tr>
+<tr>
+<td style="text-align: center;">Evoker</td>
+<td style="text-align: center;">-</td>
+<td>20%</td>
+<td>30%</td>
+<td>400</td>
+<td>Zähmen</td>
+<td>Kräuterkunde</td>
+<td>Alchemie</td>
+<td>-</td>
+</tr>
+<tr>
+<td style="text-align: center;">Fox</td>
+<td style="text-align: center;">-</td>
+<td>50%</td>
+<td>80%</td>
+<td>100</td>
+<td>Zähmen</td>
+<td>Kräuterkunde</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td style="text-align: center;">Frog</td>
+<td style="text-align: center;">-</td>
+<td>40%</td>
+<td>65%</td>
+<td>200</td>
+<td>Zähmen</td>
+<td>Angeln</td>
+<td>Kräuterkunde</td>
+<td>-</td>
+</tr>
+<tr>
+<td style="text-align: center;">Ghast</td>
+<td style="text-align: center;">-</td>
+<td>20%</td>
+<td>30%</td>
+<td>400</td>
+<td>Zähmen</td>
+<td>Schwertkampf</td>
+<td>Alchemie</td>
+<td>-</td>
+</tr>
+<tr>
+<td style="text-align: center;">Glow Squid</td>
+<td style="text-align: center;">-</td>
+<td>40%</td>
+<td>65%</td>
+<td>200</td>
+<td>Zähmen</td>
+<td>Angeln</td>
+<td>Kräuterkunde</td>
+<td>-</td>
+</tr>
+<tr>
+<td style="text-align: center;">Goat</td>
+<td style="text-align: center;">-</td>
+<td>40%</td>
+<td>65%</td>
+<td>200</td>
+<td>Zähmen</td>
+<td>Akrobatik</td>
+<td>Kräuterkunde</td>
+<td>-</td>
+</tr>
+<tr>
+<td style="text-align: center;">Guardian</td>
+<td style="text-align: center;">-</td>
+<td>40%</td>
+<td>65%</td>
+<td>200</td>
+<td>Tridents</td>
+<td>Zähmen</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td style="text-align: center;">Hoglin</td>
+<td style="text-align: center;">-</td>
+<td>30%</td>
+<td>50%</td>
+<td>300</td>
+<td>Zähmen</td>
+<td>Schwertkampf</td>
+<td>Alchemie</td>
+<td>Akrobatik</td>
+</tr>
+<tr>
+<td style="text-align: center;">Horse</td>
+<td style="text-align: center;">-</td>
+<td>40%</td>
+<td>65%</td>
+<td>200</td>
+<td>Zähmen</td>
+<td>Akrobatik</td>
+<td>Kräuterkunde</td>
+<td>-</td>
+</tr>
+<tr>
+<td style="text-align: center;">Husk</td>
+<td style="text-align: center;">-</td>
+<td>30%</td>
+<td>50%</td>
+<td>300</td>
+<td>Zähmen</td>
+<td>Schwertkampf</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td style="text-align: center;">Iron Golem</td>
+<td style="text-align: center;">Erschaffen</td>
+<td>20%</td>
+<td>30%</td>
+<td>400</td>
+<td>Zähmen</td>
+<td>Reparatur</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td style="text-align: center;">Llama</td>
+<td style="text-align: center;">-</td>
+<td>50%</td>
+<td>80%</td>
+<td>100</td>
+<td>Zähmen</td>
+<td>Akrobatik</td>
+<td>Kräuterkunde</td>
+<td>-</td>
+</tr>
+<tr>
+<td style="text-align: center;">Magma Cube</td>
+<td style="text-align: center;">-</td>
+<td>40%</td>
+<td>65%</td>
+<td>200</td>
+<td>Zähmen</td>
+<td>Schwertkampf</td>
+<td>Alchemie</td>
+<td>-</td>
+</tr>
+<tr>
+<td style="text-align: center;">Mooshroom</td>
+<td style="text-align: center;">-</td>
+<td>40%</td>
+<td>65%</td>
+<td>200</td>
+<td>Zähmen</td>
+<td>Akrobatik</td>
+<td>Kräuterkunde</td>
+<td>-</td>
+</tr>
+<tr>
+<td style="text-align: center;">Mule</td>
+<td style="text-align: center;">-</td>
+<td>50%</td>
+<td>80%</td>
+<td>100</td>
+<td>Zähmen</td>
+<td>Kräuterkunde</td>
+<td>Akrobatik</td>
+<td>-</td>
+</tr>
+<tr>
+<td style="text-align: center;">Ocelot</td>
+<td style="text-align: center;">-</td>
+<td>30%</td>
+<td>50%</td>
+<td>300</td>
+<td>Zähmen</td>
+<td>Kräuterkunde</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td style="text-align: center;">Panda</td>
+<td style="text-align: center;">-</td>
+<td>30%</td>
+<td>50%</td>
+<td>200</td>
+<td>Zähmen</td>
+<td>Akrobatik</td>
+<td>Kräuterkunde</td>
+<td>-</td>
+</tr>
+<tr>
+<td style="text-align: center;">Parrot</td>
+<td style="text-align: center;">-</td>
+<td>30%</td>
+<td>50%</td>
+<td>200</td>
+<td>Akrobatik</td>
+<td>Kräuterkunde</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td style="text-align: center;">Phantom</td>
+<td style="text-align: center;">-</td>
+<td>30%</td>
+<td>50%</td>
+<td>200</td>
+<td>Zähmen</td>
+<td>Akrobatik</td>
+<td>Schwertkampf</td>
+<td>-</td>
+</tr>
+<tr>
+<td style="text-align: center;">Pig</td>
+<td style="text-align: center;">-</td>
+<td>60%</td>
+<td>100%</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td style="text-align: center;">Piglin</td>
+<td style="text-align: center;">-</td>
+<td>30%</td>
+<td>50%</td>
+<td>300</td>
+<td>Zähmen</td>
+<td>Schwertkampf</td>
+<td>Alchemie</td>
+<td>-</td>
+</tr>
+<tr>
+<td style="text-align: center;">Piglin Brute</td>
+<td style="text-align: center;">-</td>
+<td>20%</td>
+<td>30%</td>
+<td>400</td>
+<td>Zähmen</td>
+<td>Schwertkampf</td>
+<td>Alchemie</td>
+<td>-</td>
+</tr>
+<tr>
+<td style="text-align: center;">Pillager</td>
+<td style="text-align: center;">-</td>
+<td>30%</td>
+<td>50%</td>
+<td>200</td>
+<td>Zähmen</td>
+<td>Kräuterkunde</td>
+<td>Faustkampf</td>
+<td>-</td>
+</tr>
+<tr>
+<td style="text-align: center;">Polar Bear</td>
+<td style="text-align: center;">-</td>
+<td>30%</td>
+<td>50%</td>
+<td>300</td>
+<td>Zähmen</td>
+<td>Akrobatik</td>
+<td>Kräuterkunde</td>
+<td>-</td>
+</tr>
+<tr>
+<td style="text-align: center;">Pufferfish</td>
+<td style="text-align: center;">-</td>
+<td>30%</td>
+<td>50%</td>
+<td>300</td>
+<td>Zähmen</td>
+<td>Angeln</td>
+<td>Kräuterkunde</td>
+<td>-</td>
+</tr>
+<tr>
+<td style="text-align: center;">Rabbit</td>
+<td style="text-align: center;">-</td>
+<td>50%</td>
+<td>80%</td>
+<td>100</td>
+<td>Zähmen</td>
+<td>Kräuterkunde</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td style="text-align: center;">Ravanger</td>
+<td style="text-align: center;">-</td>
+<td>10%</td>
+<td>20%</td>
+<td>500</td>
+<td>Zähmen</td>
+<td>Schwertkampf</td>
+<td>Aktobatik</td>
+<td>-</td>
+</tr>
+<tr>
+<td style="text-align: center;">Salmon</td>
+<td style="text-align: center;">-</td>
+<td>50%</td>
+<td>80%</td>
+<td>100</td>
+<td>Zähmen</td>
+<td>Angeln</td>
+<td>Kräuterkunde</td>
+<td>-</td>
+</tr>
+<tr>
+<td style="text-align: center;">Sheep</td>
+<td style="text-align: center;">-</td>
+<td>60%</td>
+<td>100%</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td style="text-align: center;">Silverfish</td>
+<td style="text-align: center;">-</td>
+<td>50%</td>
+<td>80%</td>
+<td>100</td>
+<td>Zähmen</td>
+<td>Graben</td>
+<td>Schwertkampf</td>
+<td>-</td>
+</tr>
+<tr>
+<td style="text-align: center;">Skeleton</td>
+<td style="text-align: center;">-</td>
+<td>50%</td>
+<td>80%</td>
+<td>100</td>
+<td>Zähmen</td>
+<td>Bogenschießen</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td style="text-align: center;">Skeleton Horse</td>
+<td style="text-align: center;">-</td>
+<td>30%</td>
+<td>50%</td>
+<td>300</td>
+<td>Zähmen</td>
+<td>Akrobatik</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td style="text-align: center;">Slime</td>
+<td style="text-align: center;">-</td>
+<td>50%</td>
+<td>80%</td>
+<td>100</td>
+<td>Zähmen</td>
+<td>Schwertkampf</td>
+<td>Akrobatik</td>
+<td>-</td>
+</tr>
+<tr>
+<td style="text-align: center;">Sniffer</td>
+<td style="text-align: center;">-</td>
+<td>20%</td>
+<td>30%</td>
+<td>400</td>
+<td>Zähmen</td>
+<td>Akrobatik</td>
+<td>Kräuterkunde</td>
+<td>-</td>
+</tr>
+<tr>
+<td style="text-align: center;">Snow Golem</td>
+<td style="text-align: center;">Erschaffen</td>
+<td>30%</td>
+<td>50%</td>
+<td>200</td>
+<td>Zähmen</td>
+<td>Reparatur</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td style="text-align: center;">Spider</td>
+<td style="text-align: center;">-</td>
+<td>50%</td>
+<td>80%</td>
+<td>100</td>
+<td>Zähmen</td>
+<td>Graben</td>
+<td>Schwertkampf</td>
+<td>Akrobatik</td>
+</tr>
+<tr>
+<td style="text-align: center;">Squid</td>
+<td style="text-align: center;">-</td>
+<td>50%</td>
+<td>80%</td>
+<td>100</td>
+<td>Zähmen</td>
+<td>Angeln</td>
+<td>Kräuterkunde</td>
+<td>-</td>
+</tr>
+<tr>
+<td style="text-align: center;">Stray</td>
+<td style="text-align: center;">-</td>
+<td>30%</td>
+<td>50%</td>
+<td>300</td>
+<td>Zähmen</td>
+<td>Bogenschießen</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td style="text-align: center;">Strider</td>
+<td style="text-align: center;">-</td>
+<td>30%</td>
+<td>50%</td>
+<td>200</td>
+<td>Zähmen</td>
+<td>Schwertkampf</td>
+<td>Alchemie</td>
+<td>Akrobatik</td>
+</tr>
+<tr>
+<td style="text-align: center;">Tadpole</td>
+<td style="text-align: center;">-</td>
+<td>50%</td>
+<td>80%</td>
+<td>100</td>
+<td>Zähmen</td>
+<td>Angeln</td>
+<td>Kräuterkunde</td>
+<td>-</td>
+</tr>
+<tr>
+<td style="text-align: center;">Trader Llama</td>
+<td style="text-align: center;">-</td>
+<td>30%</td>
+<td>50%</td>
+<td>200</td>
+<td>Zähmen</td>
+<td>Akrobatik</td>
+<td>Kräuterkunde</td>
+<td>-</td>
+</tr>
+<tr>
+<td style="text-align: center;">Tropical Fish</td>
+<td style="text-align: center;">-</td>
+<td>30%</td>
+<td>50%</td>
+<td>200</td>
+<td>Zähmen</td>
+<td>Angeln</td>
+<td>Kräuterkunde</td>
+<td>-</td>
+</tr>
+<tr>
+<td style="text-align: center;">Turtle</td>
+<td style="text-align: center;">-</td>
+<td>30%</td>
+<td>50%</td>
+<td>200</td>
+<td>Zähmen</td>
+<td>Angeln</td>
+<td>Akrobatik</td>
+<td>-</td>
+</tr>
+<tr>
+<td style="text-align: center;">Vex</td>
+<td style="text-align: center;">-</td>
+<td>30%</td>
+<td>50%</td>
+<td>300</td>
+<td>Zähmen</td>
+<td>Akrobatik</td>
+<td>Schwertkampf</td>
+<td>-</td>
+</tr>
+<tr>
+<td style="text-align: center;">Villager</td>
+<td style="text-align: center;">-</td>
+<td>60%</td>
+<td>100%</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td style="text-align: center;">Vindicator</td>
+<td style="text-align: center;">-</td>
+<td>10%</td>
+<td>20%</td>
+<td>500</td>
+<td>Zähmen</td>
+<td>Kräuterkunde</td>
+<td>Faustkampf</td>
+<td>-</td>
+</tr>
+<tr>
+<td style="text-align: center;">Wandering Trader</td>
+<td style="text-align: center;">-</td>
+<td>50%</td>
+<td>80%</td>
+<td>100</td>
+<td>Zähmen</td>
+<td>Kräuterkunde</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td style="text-align: center;">Warden</td>
+<td style="text-align: center;">-</td>
+<td>10%</td>
+<td>20%</td>
+<td>500</td>
+<td>Zähmen</td>
+<td>Holzfällen</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td style="text-align: center;">Witch</td>
+<td style="text-align: center;">-</td>
+<td>30%</td>
+<td>50%</td>
+<td>300</td>
+<td>Zähmen</td>
+<td>Kräuterkunde</td>
+<td>Alchemie</td>
+<td>-</td>
+</tr>
+<tr>
+<td style="text-align: center;">Wither</td>
+<td style="text-align: center;">-</td>
+<td>10%</td>
+<td>20%</td>
+<td>500</td>
+<td>Zähmen</td>
+<td>Schwertkampf</td>
+<td>Alchemie</td>
+<td>-</td>
+</tr>
+<tr>
+<td style="text-align: center;">Wither Skeleton</td>
+<td style="text-align: center;">-</td>
+<td>20%</td>
+<td>30%</td>
+<td>400</td>
+<td>Zähmen</td>
+<td>Schwertkampf</td>
+<td>Alchemie</td>
+<td>-</td>
+</tr>
+<tr>
+<td style="text-align: center;">Wolf</td>
+<td style="text-align: center;">-</td>
+<td>30%</td>
+<td>50%</td>
+<td>300</td>
+<td>Zähmen</td>
+<td>Akrobatik</td>
+<td>Kräuterkunde</td>
+<td>-</td>
+</tr>
+<tr>
+<td style="text-align: center;">Zoglin</td>
+<td style="text-align: center;">-</td>
+<td>20%</td>
+<td>30%</td>
+<td>400</td>
+<td>Zähmen</td>
+<td>Schwertkampf</td>
+<td>Alchemie</td>
+<td>-</td>
+</tr>
+<tr>
+<td style="text-align: center;">Zombie</td>
+<td style="text-align: center;">-</td>
+<td>50%</td>
+<td>80%</td>
+<td>100</td>
+<td>Zähmen</td>
+<td>Schwertkampf</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td style="text-align: center;">Zombie Horse</td>
+<td style="text-align: center;">-</td>
+<td>20%</td>
+<td>30%</td>
+<td>400</td>
+<td>Zähmen</td>
+<td>Akrobatik</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td style="text-align: center;">Zombie Villager</td>
+<td style="text-align: center;">-</td>
+<td>30%</td>
+<td>50%</td>
+<td>200</td>
+<td>Zähmen</td>
+<td>Schwertkampf</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td style="text-align: center;">Zombified Piglin</td>
+<td style="text-align: center;">-</td>
+<td>30%</td>
+<td>50%</td>
+<td>200</td>
+<td>Zähmen</td>
+<td>Schwertkampf</td>
+<td>Alchemie</td>
+<td>-</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p>Folgende Tiere sind nicht einfangbar:</p>
+<ul>
+<li>Illusioner</li>
+<li>Dragon</li>
+<li>Shulker</li>
+<li>Temporär: Nautilus, Zombie Nautilus, Parched, Husk Camel, Happy Ghast</li>
+</ul>
+<p>Folgende Tiere verschwinden beim Freilassen:</p>
+<ul>
+<li>Ghast</li>
+<li>Wandering Trader</li>
+<li>Warden</li>
+<li>Wither</li>
+<li>Wither Skeleton</li>
+</ul>
+<p>Gefangene Mobs können eingelagert, getauscht, gehandelt oder auch wieder freigelassen werden. Weitere Infos dazu findest du unter <doc-anchor-trigger to="#befehle">Befehle</doc-anchor-trigger>.</p>
+<hr>
+<h2 id="pet-leveln">Pet leveln</h2>
+<p>Um ein Pet zu leveln, muss dieses aktiv mit dir mitlaufen, während du Monster tötest. Das Pet erhält hierbei mehr Erfahrung, sollte es Mobs selbst töten.</p>
+<p>Dabei sammelt dein Pets in den verschiedenen Welten unterschiedlich schnell Erfahrung:</p>
+<ul>
+<li>Industriewelt: 50%</li>
+<li>Bauwelt: 100%</li>
+<li>Farmwelt: 125%</li>
+</ul>
+<p>Jede Klasse kann bis Level 80 aufsteigen.</p>
+<hr>
+<h2 id="stärke-kategorien">Stärke-Kategorien</h2>
+<p>Die Stärke der verschiedenen Mobs werden in fünf Kategorien (S0-schwach bis S5-stark) gegliedert.
+Mobs, welche in der gleichen Zeile gelistet sind bauen in gewissem Maße aufeinander auf.</p>
+<p><a href="https://docs.google.com/spreadsheets/d/1-OIfTc-EogHypyZgFHk6HFBQd_LuoNDw50PtR9IuBOI/edit?usp=sharing" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none cursor-pointer transition-colors duration-200 ease-out focus:outline-hidden bg-button-primary hover:bg-button-primary-hover text-button-primary-text px-4 h-10 text-sm rounded-md">
+    <span>Alle Stärkekategorien einsehen</span>
+</a></p>
+<doc-tabs>
+<doc-tab v-cloak id="s0">
+<template #title>S0</template>
+<ul>
+<li><strong>Dorfbewohner</strong>
+<ul>
+<li>Grundleben: 25 (max. 70)</li>
+<li>Kampftyp: Nahkampf</li>
+<li>Schaden: 0 (max. 9)</li>
+<li>Leuchtfeuereffekte: Regeneration II, Stärke II</li>
+<li>Inventar: 1 Reihen</li>
+<li>Fähigkeiten: N/A</li>
+<li>Kann aufsammeln: Nein</li>
+<li>Geschwindigkeit: 0.3</li>
+<li>Nahrung: Apfel, Melonenscheibe, Süßbeere, Leuchtbeere, Chorusfrucht, Karotte, Gebackene Kartoffel, Rote Beete, Getrockneter Seetang, Steak, Gebratenes Schweinefleisch, Gebratenes Hühnchen, Gebratenes Kaninchen, Gebratenes Hammelfleisch, Gebratener Kabeljau, Gebratener Lachs, Brot, Kekse, Kuchen, Kürbiskuchen, Kaninchenragout, Rote-Beete-Suppe, Pilzsuppe, Honigflasche</li>
+</ul>
+</li>
+<li><strong>Huhn</strong>
+<ul>
+<li>Grundleben: 30 (max. 40)</li>
+<li>Kampftyp: Nahkampf/Fernkampf</li>
+<li>Schaden: 0 (max. 8)</li>
+<li>Leuchtfeuereffekte: Regeneration II, Stärke II</li>
+<li>Inventar: 1 Reihen</li>
+<li>Fähigkeiten: Fly/Ride</li>
+<li>Kann aufsammeln: Nein</li>
+<li>Geschwindigkeit: 0.43</li>
+<li>Nahrung: Weizensamen, Kürbissamen, Melonensamen, Rote-Beete-Samen, Fackelliliensamen, Süßbeere, Ei</li>
+</ul>
+</li>
+<li><strong>Kuh</strong>
+<ul>
+<li>Grundleben: 35 (max. 75)</li>
+<li>Kampftyp: Nahkampf</li>
+<li>Schaden: 0 (max. 6)</li>
+<li>Leuchtfeuereffekte: Regeneration II, Stärke II</li>
+<li>Inventar: 1 Reihen</li>
+<li>Fähigkeiten: Fly/Ride</li>
+<li>Kann aufsammeln: Nein</li>
+<li>Geschwindigkeit: 0.38</li>
+<li>Nahrung: Weizen, Karotte, Apfel, Rote Beete, Süßbeere, Getrockneter Seetang, Seetang, Seegrass, Melonenschreibe</li>
+</ul>
+</li>
+<li><strong>Schaf</strong>
+<ul>
+<li>Grundleben: 35 (max. 75)</li>
+<li>Kampftyp: Nahkampf</li>
+<li>Schaden: 0 (max. 6)</li>
+<li>Leuchtfeuereffekte: Regeneration II, Stärke II</li>
+<li>Inventar: 1 Reihen</li>
+<li>Fähigkeiten: N/A</li>
+<li>Kann aufsammeln: Nein</li>
+<li>Geschwindigkeit: 0.38</li>
+<li>Nahrung: Weizen, Karotte, Apfel, Rote Beete, Süßbeere, Getrockneter Seetang, Seetang, Seegrass</li>
+</ul>
+</li>
+<li><strong>Schwein</strong>
+<ul>
+<li>Grundleben: 35 (max. 75)</li>
+<li>Kampftyp: Nahkampf</li>
+<li>Schaden: 0 (max. 6)</li>
+<li>Leuchtfeuereffekte: Regeneration II, Stärke II</li>
+<li>Inventar: 1 Reihen</li>
+<li>Fähigkeiten: Fly/Ride</li>
+<li>Kann aufsammeln: Nein</li>
+<li>Geschwindigkeit: 0.38</li>
+<li>Nahrung: Weizen, Karotte, Apfel, Rote Beete, Süßbeere, Getrockneter Seetang, Seetang, Seegrass, Melonenschreibe, Brot, Süßbeere, Leuchtbeere</li>
+</ul>
+</li>
+</ul>
+</doc-tab>
+<doc-tab v-cloak id="s1">
+<template #title>S1</template>
+<ul>
+<li><strong>Creeper</strong>
+<ul>
+<li>Grundleben: 30 (max. 45)</li>
+<li>Kampftyp: Nahkampf</li>
+<li>Schaden: 0 (max. 18)</li>
+<li>Leuchtfeuereffekte: Resistenz II, Stärke II</li>
+<li>Inventar: 1 Reihen</li>
+<li>Fähigkeiten: Knockback, Fire</li>
+<li>Kann aufsammeln: Nein</li>
+<li>Geschwindigkeit: 0.25</li>
+<li>Nahrung: Schwarzpulver, Feuerstein, TnT</li>
+</ul>
+</li>
+<li><strong>Endermite</strong>
+<ul>
+<li>Grundleben: 25 (max. 66)</li>
+<li>Kampftyp: Nahkampf</li>
+<li>Schaden: 0 (max. 9)</li>
+<li>Leuchtfeuereffekte: Geschwindigkeit I, Regeneration I, Absorption II, Nachtsicht</li>
+<li>Inventar: 1 Reihen</li>
+<li>Fähigkeiten: Knockback, Fire</li>
+<li>Kann aufsammeln: Ja</li>
+<li>Geschwindigkeit: 0.28</li>
+<li>Nahrung: Chorusfrucht, Chorusblüte, Spinnenauge, Obsidian, Weinendes Obsidian</li>
+</ul>
+</li>
+<li><strong>Esel</strong>
+<ul>
+<li>Grundleben: 35 (max. 65)</li>
+<li>Kampftyp: Nahkampf</li>
+<li>Schaden: 0 (max. 6)</li>
+<li>Leuchtfeuereffekte: Geschwindigkeit II, Stärke I, Regeneration I</li>
+<li>Inventar: 3 Reihen</li>
+<li>Fähigkeiten: Fly/Ride</li>
+<li>Kann aufsammeln: Nein</li>
+<li>Geschwindigkeit: 0.38</li>
+<li>Nahrung: Weizen, Karotte, Apfel, Rote Beete, Süßbeere, Getrockneter Seetang, Seetang, Seegrass</li>
+</ul>
+</li>
+<li><strong>Fledermaus</strong>
+<ul>
+<li>Grundleben: 15 (max. 40)</li>
+<li>Kampftyp: Nahkampf</li>
+<li>Schaden: 0 (max. 10.5)</li>
+<li>Leuchtfeuereffekte: Regeneration III, Geschwindigkeit I</li>
+<li>Inventar: 2 Reihen</li>
+<li>Fähigkeiten: Fly/Ride</li>
+<li>Kann aufsammeln: Nein</li>
+<li>Geschwindigkeit: 0.35</li>
+<li>Nahrung: Spinnenauge, Honigwabe, Süßbeere, Leuchtbeere</li>
+</ul>
+</li>
+<li><strong>Fuchs</strong>
+<ul>
+<li>Grundleben: 20 (max. 57)</li>
+<li>Kampftyp: Nahkampf</li>
+<li>Schaden: 0 (max. 10.5)</li>
+<li>Leuchtfeuereffekte: Stärke II, Geschwindigkeit I, Resistenz II</li>
+<li>Inventar: 2 Reihen</li>
+<li>Fähigkeiten: N/A</li>
+<li>Kann aufsammeln: Ja</li>
+<li>Geschwindigkeit: 0.3</li>
+<li>Nahrung: Süßbeere, Leuchtbeere, Rohes Hünchen, Rohes Kaninchen</li>
+</ul>
+</li>
+<li><strong>Hase</strong>
+<ul>
+<li>Grundleben: 20 (max. 63)</li>
+<li>Kampftyp: Nahkampf</li>
+<li>Schaden: 0 (max. 6)</li>
+<li>Leuchtfeuereffekte: Sprungkraft II, Geschwindigkeit III</li>
+<li>Inventar: 1 Reihen</li>
+<li>Fähigkeiten: N/A</li>
+<li>Kann aufsammeln: Nein</li>
+<li>Geschwindigkeit: 0.3</li>
+<li>Nahrung: Karotte, Apfel, Rote Beete, Süßbeere, Brot, Leuchtbeere</li>
+</ul>
+</li>
+<li><strong>Kabeljau</strong>
+<ul>
+<li>Grundleben: 15 (max. 60)</li>
+<li>Kampftyp: Nahkampf</li>
+<li>Schaden: 0 (max. 9)</li>
+<li>Leuchtfeuereffekte: Absorption III, Geschwindigkeit II, Wasseratmung</li>
+<li>Inventar: 1 Reihen</li>
+<li>Fähigkeiten: N/A</li>
+<li>Kann aufsammeln: Ja</li>
+<li>Geschwindigkeit: 0.3</li>
+<li>Nahrung: Getrockneter Seetang, Seetang, Seegras, Seegurke, Karotte, Kabeljau, Tropischer Fisch, Laschs</li>
+</ul>
+</li>
+<li><strong>Kaulquappe</strong>
+<ul>
+<li>Grundleben: 15 (max. 58)</li>
+<li>Kampftyp: Nahkampf</li>
+<li>Schaden: 0 (max. 6)</li>
+<li>Leuchtfeuereffekte: Absorption III</li>
+<li>Inventar: 1 Reihen</li>
+<li>Fähigkeiten: N/A</li>
+<li>Kann aufsammeln: Ja</li>
+<li>Geschwindigkeit: 0.3</li>
+<li>Nahrung: Schleimball, Seegras, Seegurke, Seetang</li>
+</ul>
+</li>
+<li><strong>Papagei</strong>
+<ul>
+<li>Grundleben: 15 (max. 65)</li>
+<li>Kampftyp: Nahkampf</li>
+<li>Schaden: 0 (max. 7.5)</li>
+<li>Leuchtfeuereffekte: Geschwindigkeit II, Regeneration II</li>
+<li>Inventar: 3 Reihen</li>
+<li>Fähigkeiten: Fly/Ride</li>
+<li>Kann aufsammeln: Ja</li>
+<li>Geschwindigkeit: 0.35</li>
+<li>Nahrung: Weizensamen, Kürbissamen, Melonensamen, Rote-Beete-Samen, Fackelliliensamen, Süßbeere, Leuchtbeere, Apfel, Melonenscheibe</li>
+</ul>
+</li>
+<li><strong>Wandernder Händler</strong>
+<ul>
+<li>Grundleben: 25 (max. 63)</li>
+<li>Kampftyp: Nahkampf</li>
+<li>Schaden: 0 (max. 6)</li>
+<li>Leuchtfeuereffekte: Resistenz II, Stärke II, Unsichtbarkeit</li>
+<li>Inventar: 2 Reihen</li>
+<li>Fähigkeiten: Knockback</li>
+<li>Kann aufsammeln: Ja</li>
+<li>Geschwindigkeit: 0.3</li>
+<li>Nahrung: Apfel, Melonenscheibe, Süßbeere, Leuchtbeere, Chorusfrucht, Karotte, Gebackene Kartoffel, Rote Beete, Getrockneter Seetang, Steak, Gebratenes Schweinefleisch, Gebratenes Hühnchen, Gebratenes Kaninchen, Gebratenes Hammelfleisch, Gebratener Kabeljau, Gebratener Lachs, Brot, Kekse, Kuchen, Kürbiskuchen, Kaninchenragout, Rote-Beete-Suppe, Pilzsuppe, Honigflasche</li>
+</ul>
+</li>
+<li><strong>Lachs</strong>
+<ul>
+<li>Grundleben: 15 (max. 60)</li>
+<li>Kampftyp: Nahkampf</li>
+<li>Schaden: 0 (max. 9)</li>
+<li>Leuchtfeuereffekte: Absorption III, Geschwindigkeit II, Wasseratmung</li>
+<li>Inventar: 1 Reihen</li>
+<li>Fähigkeiten: N/A</li>
+<li>Kann aufsammeln: Ja</li>
+<li>Geschwindigkeit: 0.3</li>
+<li>Nahrung: Getrockneter Seetang, Seetang, Seegras, Seegurke</li>
+</ul>
+</li>
+<li><strong>Lama</strong>
+<ul>
+<li>Grundleben: 35 (max. 59)</li>
+<li>Kampftyp: Nahkampf</li>
+<li>Schaden: 0 (max. 15)</li>
+<li>Leuchtfeuereffekte: Absorption II, Regenration II</li>
+<li>Inventar: 2 Reihen</li>
+<li>Fähigkeiten: Fly/Ride</li>
+<li>Kann aufsammeln: Nein</li>
+<li>Geschwindigkeit: 0.38</li>
+<li>Nahrung: Weizen, Karotte, Apfel, Rote Beete, Süßbeere, Getrockneter Seetang, Seetang, Seegrass, Melonenscheibe</li>
+</ul>
+</li>
+<li><strong>Maultier</strong>
+<ul>
+<li>Grundleben: 35 (max. 65)</li>
+<li>Kampftyp: Nahkampf</li>
+<li>Schaden: 0 (max. 15)</li>
+<li>Leuchtfeuereffekte: Geschwindigkeit II, Stärke I, Regenration I</li>
+<li>Inventar: 3 Reihen</li>
+<li>Fähigkeiten: Fly/Ride</li>
+<li>Kann aufsammeln: Nein</li>
+<li>Geschwindigkeit: 0.38</li>
+<li>Nahrung: Weizen, Karotte, Apfel, Rote Beete, Süßbeere, Getrockneter Seetang, Seetang, Seegrass</li>
+</ul>
+</li>
+<li><strong>Schleim</strong>
+<ul>
+<li>Grundleben: 45 (max. 76)</li>
+<li>Kampftyp: Nahkampf</li>
+<li>Schaden: 0 (max. 3.9)</li>
+<li>Leuchtfeuereffekte: Resistenz II, Regeneration II</li>
+<li>Inventar: 3 Reihen</li>
+<li>Fähigkeiten: Fly/Ride</li>
+<li>Kann aufsammeln: Nein</li>
+<li>Geschwindigkeit: 0.33</li>
+<li>Nahrung: Schleimball, Honigwabe, Spinnenauge, Glitzernde Melonenscheibe</li>
+</ul>
+</li>
+<li><strong>Silberfisch</strong>
+<ul>
+<li>Grundleben: 25 (max. 59)</li>
+<li>Kampftyp: Nahkampf</li>
+<li>Schaden: 0 (max. 9)</li>
+<li>Leuchtfeuereffekte: Regeneration I, Geschwindigkeit I, Absorption II, Resistenz II</li>
+<li>Inventar: 1 Reihen</li>
+<li>Fähigkeiten: Knockback, Poison</li>
+<li>Kann aufsammeln: Nein</li>
+<li>Geschwindigkeit: 0.3</li>
+<li>Nahrung: Spinnenauge, Zucker, Eisenklumpen, Steinziegel</li>
+</ul>
+</li>
+<li><strong>Skelett</strong>
+<ul>
+<li>Grundleben: 15 (max. 47)</li>
+<li>Kampftyp: Fernkampf</li>
+<li>Schaden: 0 (max. 20)</li>
+<li>Leuchtfeuereffekte: Regeneration III, Stärke I</li>
+<li>Inventar: 1 Reihen</li>
+<li>Fähigkeiten: Knockback</li>
+<li>Kann aufsammeln: Nein</li>
+<li>Geschwindigkeit: 0.35</li>
+<li>Nahrung: Knochenmehl, Milcheimer, Goldklumpen</li>
+</ul>
+</li>
+<li><strong>Spinne</strong>
+<ul>
+<li>Grundleben: 40 (max. 73)</li>
+<li>Kampftyp: Nahkampf</li>
+<li>Schaden: 0 (max. 9)</li>
+<li>Leuchtfeuereffekte: Geschwindigkeit II, Resistenz II</li>
+<li>Inventar: 1 Reihen</li>
+<li>Fähigkeiten: Knockback, Fly/Ride</li>
+<li>Kann aufsammeln: Nein</li>
+<li>Geschwindigkeit: 0.38</li>
+<li>Nahrung: Spinnenauge, Phantommembrane, Brauner Pilz, Roter Pilz, Rohe Hünchen</li>
+</ul>
+</li>
+<li><strong>Tintenfisch</strong>
+<ul>
+<li>Grundleben: 15 (max. 45)</li>
+<li>Kampftyp: Nahkampf</li>
+<li>Schaden: 0 (max. 9)</li>
+<li>Leuchtfeuereffekte: Resistenz II, Regeneration II, Geschwindigkeit II, Wasseratmung</li>
+<li>Inventar: 1 Reihen</li>
+<li>Fähigkeiten: Shield</li>
+<li>Kann aufsammeln: Nein</li>
+<li>Geschwindigkeit: 0.3</li>
+<li>Nahrung: Kabeljau, Lachs, Tropischer Fisch</li>
+</ul>
+</li>
+<li><strong>Zombie</strong>
+<ul>
+<li>Grundleben: 30 (max. 80)</li>
+<li>Kampftyp: Nahkampf</li>
+<li>Schaden: 0 (max. 9)</li>
+<li>Leuchtfeuereffekte: Stärke II, Regeneration II, Resistenz II</li>
+<li>Inventar: 1 Reihen</li>
+<li>Fähigkeiten: Slow</li>
+<li>Kann aufsammeln: Nein</li>
+<li>Geschwindigkeit: 0.25</li>
+<li>Nahrung: Steak, Gebratenes Scheinefleisch, Rohes Hammelfleisch, Rohes Hünchen, Rohes Kaninchen, Verrottetes Fleisch</li>
+</ul>
+</li>
+</ul>
+</doc-tab>
+<doc-tab v-cloak id="s2">
+<template #title>S2</template>
+<ul>
+<li><strong>Axolotl</strong>
+<ul>
+<li>Grundleben: 15 (max. 62)</li>
+<li>Kampftyp: Nahkampf</li>
+<li>Schaden: 0 (max. 9)</li>
+<li>Leuchtfeuereffekte: Geschwindigkeit II, Regeneration II, Wasseratmung</li>
+<li>Inventar: 1 Reihen</li>
+<li>Fähigkeiten: Slow</li>
+<li>Kann aufsammeln: Ja</li>
+<li>Geschwindigkeit: 0.3</li>
+<li>Nahrung: Kabeljau, Lachs, Tropischer Fisch, Pufferfisch</li>
+</ul>
+</li>
+<li><strong>Biene</strong>
+<ul>
+<li>Grundleben: 15 (max. 56)</li>
+<li>Kampftyp: Nahkampf</li>
+<li>Schaden: 0 (max. 12)</li>
+<li>Leuchtfeuereffekte: Geschwindigkeit II, Resistenz II, Stärke II</li>
+<li>Inventar: 1 Reihen</li>
+<li>Fähigkeiten: Ride/Fly</li>
+<li>Kann aufsammeln: Nein</li>
+<li>Geschwindigkeit: 0.35</li>
+<li>Nahrung: Honigflasche, Blumen</li>
+</ul>
+</li>
+<li><strong>Enderman</strong>
+<ul>
+<li>Grundleben: 30 (max. 75)</li>
+<li>Kampftyp: Fernkampf</li>
+<li>Schaden: 0 (max. 19.5)</li>
+<li>Leuchtfeuereffekte: Geschwindigkeit I, Regeneration I, Absorption II, Nachtsicht</li>
+<li>Inventar: 1 Reihen</li>
+<li>Fähigkeiten: Knockback,Thorns</li>
+<li>Kann aufsammeln: Ja</li>
+<li>Geschwindigkeit: 0.23</li>
+<li>Nahrung: Chorusfrucht, Chorusblüte, Obsidian, Weinendes Obsidian</li>
+</ul>
+</li>
+<li><strong>Ertrunkener</strong>
+<ul>
+<li>Grundleben: 35 (max. 77)</li>
+<li>Kampftyp: Nahkampf/Fernkampf</li>
+<li>Schaden: 0 (max. 20.2)</li>
+<li>Leuchtfeuereffekte: Absorption I, Resistenz I, Stärke II, Wasseratmung</li>
+<li>Inventar: 1 Reihen</li>
+<li>Fähigkeiten: Knockback</li>
+<li>Kann aufsammeln: Nein</li>
+<li>Geschwindigkeit: 0.35</li>
+<li>Nahrung: Verrotetes Fleisch, Kabeljau, Lachs, Tropischer Fisch</li>
+</ul>
+</li>
+<li><strong>Frosch</strong>
+<ul>
+<li>Grundleben: 15 (max. 66)</li>
+<li>Kampftyp: Nahkampf</li>
+<li>Schaden: 0 (max. 6)</li>
+<li>Leuchtfeuereffekte: Absorption III</li>
+<li>Inventar: 1 Reihen</li>
+<li>Fähigkeiten: Knockback, Poison, Slow</li>
+<li>Kann aufsammeln: Ja</li>
+<li>Geschwindigkeit: 0.3</li>
+<li>Nahrung: Spinnenauge, Pahntommembrane, Schleimball, Magmacreme</li>
+</ul>
+</li>
+<li><strong>Gürteltier</strong>
+<ul>
+<li>Grundleben: 20 (max. 70)</li>
+<li>Kampftyp: Nahkampf</li>
+<li>Schaden: 0 (max. 6)</li>
+<li>Leuchtfeuereffekte: Absorption I, Resistenz I</li>
+<li>Inventar: 2 Reihen</li>
+<li>Fähigkeiten: Knockback, Slow, Shield</li>
+<li>Kann aufsammeln: Ja</li>
+<li>Geschwindigkeit: 0.3</li>
+<li>Nahrung: Spinnenauge, Apfel, Süßbeere, Leuchtbeere, Brauner Pilz</li>
+</ul>
+</li>
+<li><strong>Händlerlama</strong>
+<ul>
+<li>Grundleben: 35 (max. 60)</li>
+<li>Kampftyp: Fernkampf</li>
+<li>Schaden: 0 (max. 6)</li>
+<li>Leuchtfeuereffekte: Absorption II, Regeneration II</li>
+<li>Inventar: 4 Reihen</li>
+<li>Fähigkeiten: Fly/Ride</li>
+<li>Kann aufsammeln: Ja</li>
+<li>Geschwindigkeit: 0.38</li>
+<li>Nahrung: Weizen, Karotte, Apfel, Rote Beete, Süßbeere, Getrockneter Seetang, Seetang, Seegrass, Melonenscheibe</li>
+</ul>
+</li>
+<li><strong>Höhlenspinne</strong>
+<ul>
+<li>Grundleben: 40 (max. 73)</li>
+<li>Kampftyp: Nahkampf</li>
+<li>Schaden: 0 (max. 7.5)</li>
+<li>Leuchtfeuereffekte: Fly/Ride, Geschwindigkeit II, Resistenz II</li>
+<li>Inventar: 1 Reihen</li>
+<li>Fähigkeiten: Knockback, Ride</li>
+<li>Kann aufsammeln: Nein</li>
+<li>Geschwindigkeit: 0.38</li>
+<li>Nahrung: Spinnenauge, Phantommembrane, Brauner Pilz, Roter Pilz, Rohe Hünchen</li>
+</ul>
+</li>
+<li><strong>Katze</strong>
+<ul>
+<li>Grundleben: 20 (max. 69)</li>
+<li>Kampftyp: Nahkampf</li>
+<li>Schaden: 0 (max. 13.2)</li>
+<li>Leuchtfeuereffekte: Geschwindigkeit II, Sprungkraft I, Stärke I, Resistenz II</li>
+<li>Inventar: 2 Reihen</li>
+<li>Fähigkeiten: Knockback</li>
+<li>Kann aufsammeln: Ja</li>
+<li>Geschwindigkeit: 0.3</li>
+<li>Nahrung: Kabeljau, Lachs, Tropischer Fisch, Steak, Gebratenes Schweinefleisch, Rohes Hammelfleisch</li>
+</ul>
+</li>
+<li><strong>Leuchttintenfisch</strong>
+<ul>
+<li>Grundleben: 15 (max. 60)</li>
+<li>Kampftyp: Nahkampf</li>
+<li>Schaden: 0 (max. 7.5)</li>
+<li>Leuchtfeuereffekte: Resistenz II, Regeneration II, Geschwindigkeit II, Wasseratmung</li>
+<li>Inventar: 1 Reihen</li>
+<li>Fähigkeiten: Shield</li>
+<li>Kann aufsammeln: Nein</li>
+<li>Geschwindigkeit: 0.3</li>
+<li>Nahrung: Leuchtbeere, Kabeljau, Lachs, Leuchtsteinstaub</li>
+</ul>
+</li>
+<li><strong>Magmawürfel</strong>
+<ul>
+<li>Grundleben: 55 (max. 86)</li>
+<li>Kampftyp: Nahkampf</li>
+<li>Schaden: 0 (max. 8.4)</li>
+<li>Leuchtfeuereffekte: Resistenz II, Regeneration II, Feuerresistenz</li>
+<li>Inventar: 3 Reihen</li>
+<li>Fähigkeiten: Fly/Ride, Fire, Knockback</li>
+<li>Kann aufsammeln: Nein</li>
+<li>Geschwindigkeit: 0.25</li>
+<li>Nahrung: Magmacreme, Honigwabe, Spinnenauge, Glitzernde Honigmelone</li>
+</ul>
+</li>
+<li><strong>Panda</strong>
+<ul>
+<li>Grundleben: 35 (max. 85)</li>
+<li>Kampftyp: Nahkampf</li>
+<li>Schaden: 0 (max. 7.5)</li>
+<li>Leuchtfeuereffekte: Regeneration II</li>
+<li>Inventar: 2 Reihen</li>
+<li>Fähigkeiten: Fly/Ride, Stomp</li>
+<li>Kann aufsammeln: Nein</li>
+<li>Geschwindigkeit: 0.38</li>
+<li>Nahrung: Bambus, Zuckerrohr</li>
+</ul>
+</li>
+<li><strong>Pferd</strong>
+<ul>
+<li>Grundleben: 35 (max. 70)</li>
+<li>Kampftyp: Nahkampf</li>
+<li>Schaden: 0 (max. 6)</li>
+<li>Leuchtfeuereffekte: Geschwindigkeit II, Stärke I, Regeneration I</li>
+<li>Inventar: 5 Reihen</li>
+<li>Fähigkeiten: Fly/Ride</li>
+<li>Kann aufsammeln: Nein</li>
+<li>Geschwindigkeit: 0.38</li>
+<li>Nahrung: Weizen, Karotte, Apfel, Rote Beete, Süßbeere, Getrockneter Seetang, Seetang, Seegrass, Melonenschreibe</li>
+</ul>
+</li>
+<li><strong>Phantom</strong>
+<ul>
+<li>Grundleben: 25 (max. 45)</li>
+<li>Kampftyp: Nahkampf</li>
+<li>Schaden: 0 (max. 13.5)</li>
+<li>Leuchtfeuereffekte: Geschwindigkeit II</li>
+<li>Inventar: 2 Reihen</li>
+<li>Fähigkeiten: Fly/Ride</li>
+<li>Kann aufsammeln: Ja</li>
+<li>Geschwindigkeit: 0.3</li>
+<li>Nahrung: Spinnenauge, Verrottetes Fleisch</li>
+</ul>
+</li>
+<li><strong>Pilzkuh</strong>
+<ul>
+<li>Grundleben: 35 (max. 77)</li>
+<li>Kampftyp: Nahkampf</li>
+<li>Schaden: 0 (max. 6)</li>
+<li>Leuchtfeuereffekte: Regeneration III, Stärke II</li>
+<li>Inventar: 3 Reihen</li>
+<li>Fähigkeiten: Fly/Ride</li>
+<li>Kann aufsammeln: Ja</li>
+<li>Geschwindigkeit: 0.38</li>
+<li>Nahrung: Brauner Pilz, Roter Pilz, Weizen, Karotte, Apfel, Rote Beete, Süßbeere, Getrockneter Seetang, Seetang, Seegrass, Myzelium</li>
+</ul>
+</li>
+<li><strong>Plünderer</strong>
+<ul>
+<li>Grundleben: 40 (max. 86)</li>
+<li>Kampftyp: Nahkampf</li>
+<li>Schaden: 0 (max. 10.5)</li>
+<li>Leuchtfeuereffekte: Resistenz II, Stärke II, Geschwindigkeit I</li>
+<li>Inventar: 2 Reihen</li>
+<li>Fähigkeiten: Knockback</li>
+<li>Kann aufsammeln: Ja</li>
+<li>Geschwindigkeit: 0.32</li>
+<li>Nahrung: Apfel, Melonenscheibe, Süßbeere, Leuchtbeere, Chorusfrucht, Karotte, Gebackene Kartoffel, Rote Beete, Getrockneter Seetang, Steak, Gebratenes Schweinefleisch, Gebratenes Hühnchen, Gebratenes Kaninchen, Gebratenes Hammelfleisch, Gebratener Kabeljau, Gebratener Lachs, Brot, Kekse, Kuchen, Kürbiskuchen, Kaninchenragout, Rote-Beete-Suppe, Pilzsuppe, Honigflasche</li>
+</ul>
+</li>
+<li><strong>Schildkröte</strong>
+<ul>
+<li>Grundleben: 30 (max. 90)</li>
+<li>Kampftyp: Nahkampf</li>
+<li>Schaden: 0 (max. 6.6)</li>
+<li>Leuchtfeuereffekte: Wasseratmung</li>
+<li>Inventar: 1 Reihen</li>
+<li>Fähigkeiten: Fly/Ride, Shield</li>
+<li>Kann aufsammeln: Ja</li>
+<li>Geschwindigkeit: 0.38</li>
+<li>Nahrung: Getrockneter Seetang, Seetang, Seegrass, Seegurke, Melonenscheibe, Kürbis, Karotte, Süßbeere, Leuchtbeere</li>
+</ul>
+</li>
+<li><strong>Schneemann</strong>
+<ul>
+<li>Grundleben: 60 (max. 124)</li>
+<li>Kampftyp: Fernkampf</li>
+<li>Schaden: 0 (max. 0.5)</li>
+<li>Leuchtfeuereffekte: Absorption III</li>
+<li>Inventar: 1 Reihen</li>
+<li>Fähigkeiten: Knockback, Slow</li>
+<li>Kann aufsammeln: Nein</li>
+<li>Geschwindigkeit: 0.2</li>
+<li>Nahrung: Schneeball, Karotte, Kürbis, Packeis</li>
+</ul>
+</li>
+<li><strong>Schreiter</strong>
+<ul>
+<li>Grundleben: 70 (max. 130)</li>
+<li>Kampftyp: Nahkampf</li>
+<li>Schaden: 0 (max. 9.6)</li>
+<li>Leuchtfeuereffekte: Resistenz II, Absorption II, Feuerresistenz</li>
+<li>Inventar: 1 Reihen</li>
+<li>Fähigkeiten: Fly/Ride</li>
+<li>Kann aufsammeln: Ja</li>
+<li>Geschwindigkeit: 0.33</li>
+<li>Nahrung: Wirrwurzeln, Wirrpilz, Netherwarzen, Karmesinwurzeln, Karmesinpilz</li>
+</ul>
+</li>
+<li><strong>Tropischer Fisch</strong>
+<ul>
+<li>Grundleben: 15 (max. 63)</li>
+<li>Kampftyp: Nahkampf</li>
+<li>Schaden: 0 (max. 9)</li>
+<li>Leuchtfeuereffekte: Absorption III, Geschwindigkeit II, Wasseratmung</li>
+<li>Inventar: 2 Reihen</li>
+<li>Fähigkeiten: Knockback</li>
+<li>Kann aufsammeln: Ja</li>
+<li>Geschwindigkeit: 0.3</li>
+<li>Nahrung: Getrockneter Seetang, Seetang, Seegras, Seegurke</li>
+</ul>
+</li>
+<li><strong>Wächter</strong>
+<ul>
+<li>Grundleben: 35 (max. 77)</li>
+<li>Kampftyp: Fernkampf</li>
+<li>Schaden: 0 (max. 13)</li>
+<li>Leuchtfeuereffekte: Absorption II, Resistenz II, Wasseratmung</li>
+<li>Fähigkeiten: Lightning, Slow</li>
+<li>Kann aufsammeln: Nein</li>
+<li>Geschwindigkeit: 0.35</li>
+<li>Nahrung: Kabeljau, Lachs, Tropischer Fisch</li>
+</ul>
+</li>
+<li><strong>Ziege</strong>
+<ul>
+<li>Grundleben: 35 (max. 74)</li>
+<li>Kampftyp: Nahkampf</li>
+<li>Schaden: 0 (max. 7.2)</li>
+<li>Leuchtfeuereffekte: Sprungkraft II, Resistenz II</li>
+<li>Inventar: 2 Reihen</li>
+<li>Fähigkeiten: Fly/Ride, Knockback</li>
+<li>Kann aufsammeln: Ja</li>
+<li>Geschwindigkeit: 0.38</li>
+<li>Nahrung: Weizen, Karotte, Apfel, Rote Beete, Süßbeere, Getrockneter Seetang, Seetang, Seegrass</li>
+</ul>
+</li>
+<li><strong>Zombifizierter Dorfbewohner</strong>
+<ul>
+<li>Grundleben: 30 (max. 90)</li>
+<li>Kampftyp: Nahkampf</li>
+<li>Schaden: 0 (max. 9)</li>
+<li>Leuchtfeuereffekte: Regeneration II, Stärke II, Resistenz II</li>
+<li>Inventar: 2 Reihen</li>
+<li>Fähigkeiten: Slow</li>
+<li>Kann aufsammeln: Nein</li>
+<li>Geschwindigkeit: 0.25</li>
+<li>Nahrung: Steak, Gebratenes Scheinefleisch, Rohes Hammelfleisch, Rohes Hünchen, Rohes Kaninchen, Verrottetes Fleisch</li>
+</ul>
+</li>
+<li><strong>Zombifizierter Piglin</strong>
+<ul>
+<li>Grundleben: 55 (max. 115)</li>
+<li>Kampftyp: Nahkampf</li>
+<li>Schaden: 0 (max. 12)</li>
+<li>Leuchtfeuereffekte: Regeneration II, Stärke II, Feuerresistenz</li>
+<li>Inventar: 1 Reihen</li>
+<li>Fähigkeiten: N/A</li>
+<li>Kann aufsammeln: Nein</li>
+<li>Geschwindigkeit: 0.25</li>
+<li>Nahrung: Wirrwurzeln, Wirrpilz, Netherwarzen, Karmesinwurzeln, Karmesinpilz, Steak, Rohes Scheinefleisch, Rohes Hammelfleisch, Verrottetes Fleisch</li>
+</ul>
+</li>
+</ul>
+</doc-tab>
+<doc-tab v-cloak id="s3">
+<template #title>S3</template>
+<ul>
+<li><strong>Böe</strong>
+<ul>
+<li>Grundleben: 25 (max. 54)</li>
+<li>Kampftyp: Fernkampf</li>
+<li>Schaden: 0 (max. 15)</li>
+<li>Leuchtfeuereffekte: Geschwindigkeit II, Sprungkraft II</li>
+<li>Inventar: 1 Reihen</li>
+<li>Fähigkeiten: Slow, Lightning, Knockback</li>
+<li>Kann aufsammeln: Nein</li>
+<li>Geschwindigkeit: 0.3</li>
+<li>Nahrung: Windkugel, Feder</li>
+</ul>
+</li>
+<li><strong>Eisbär</strong>
+<ul>
+<li>Grundleben: 35 (max. 96)</li>
+<li>Kampftyp: Nahkampf</li>
+<li>Schaden: 0 (max. 9)</li>
+<li>Leuchtfeuereffekte: Stärke II, Absorption II</li>
+<li>Inventar: 3 Reihen</li>
+<li>Fähigkeiten: Fly/Ride</li>
+<li>Kann aufsammeln: Ja</li>
+<li>Geschwindigkeit: 0.38</li>
+<li>Nahrung: Kabeljau, Lachs, Tropischer Fisch, Steak, Rohes Schweinefleisch, Rohes Hammelfleisch, Rohes Hühnchen, Rohes Kaninchen</li>
+</ul>
+</li>
+<li><strong>Eiswanderer</strong>
+<ul>
+<li>Grundleben: 15 (max. 59)</li>
+<li>Kampftyp: Fernkampf</li>
+<li>Schaden: 0 (max. 25)</li>
+<li>Leuchtfeuereffekte: Regeneration III, Stärke I</li>
+<li>Inventar: 1 Reihen</li>
+<li>Fähigkeiten: Knockback, Slow</li>
+<li>Kann aufsammeln: Nein</li>
+<li>Geschwindigkeit: 0.35</li>
+<li>Nahrung: Knochenmehl, Milcheimer, Goldklumpen</li>
+</ul>
+</li>
+<li><strong>Hexe</strong>
+<ul>
+<li>Grundleben: 35 (max. 73)</li>
+<li>Kampftyp: Fernkampf</li>
+<li>Schaden: 0 (max. 25)</li>
+<li>Leuchtfeuereffekte: Resistenz II, Stärke III, Geschwindigkeit I</li>
+<li>Inventar: 2 Reihen</li>
+<li>Fähigkeiten: Knockback, Lightning</li>
+<li>Kann aufsammeln: Nein</li>
+<li>Geschwindigkeit: 0.35</li>
+<li>Nahrung: Apfel, Melonenscheibe, Süßbeere, Leuchtbeere, Chorusfrucht, Karotte, Gebackene Kartoffel, Rote Beete, Getrockneter Seetang, Steak, Gebratenes Schweinefleisch, Gebratenes Hühnchen, Gebratenes Kaninchen, Gebratenes Hammelfleisch, Gebratener Kabeljau, Gebratener Lachs, Brot, Kekse, Kuchen, Kürbiskuchen, Kaninchenragout, Rote-Beete-Suppe, Pilzsuppe, Honigflasche</li>
+</ul>
+</li>
+<li><strong>Hoglin</strong>
+<ul>
+<li>Grundleben: 70 (max. 135)</li>
+<li>Kampftyp: Nahkampf</li>
+<li>Schaden: 0 (max. 9)</li>
+<li>Leuchtfeuereffekte: Regeneration II, Feuerresistenz</li>
+<li>Inventar: 3 Reihen</li>
+<li>Fähigkeiten: Fly/Ride, Stomp</li>
+<li>Kann aufsammeln: Nein</li>
+<li>Geschwindigkeit: 0.33</li>
+<li>Nahrung: Wirrwurzeln, Netherwarzen, Karmesinpilz, Rohes Scheinefleisch, Gebratenes Scheinefleisch</li>
+</ul>
+</li>
+<li><strong>Kamel</strong>
+<ul>
+<li>Grundleben: 35 (max. 70)</li>
+<li>Kampftyp: Nahkampf</li>
+<li>Schaden: 0 (max. 10.5)</li>
+<li>Leuchtfeuereffekte: Absorption II, Regeneration II</li>
+<li>Inventar: 5 Reihen</li>
+<li>Fähigkeiten: Fly/Ride</li>
+<li>Kann aufsammeln: Ja</li>
+<li>Geschwindigkeit: 0.38</li>
+<li>Nahrung: Sand, Cactus, Toter Busch, Apfel, Karotte, Rote Beete</li>
+</ul>
+</li>
+<li><strong>Kugelfisch</strong>
+<ul>
+<li>Grundleben: 15 (max. 75)</li>
+<li>Kampftyp: Nahkampf</li>
+<li>Schaden: 0 (max. 9)</li>
+<li>Leuchtfeuereffekte: Absorption III, Geschwindigkeit II, Wasseratmung</li>
+<li>Inventar: 2 Reihen</li>
+<li>Fähigkeiten: Knockback, Poison</li>
+<li>Kann aufsammeln: Ja</li>
+<li>Geschwindigkeit: 0.3</li>
+<li>Nahrung: Kabeljau, Lachs, Tropischer Fisch, Schwamm</li>
+</ul>
+</li>
+<li><strong>Lohe</strong>
+<ul>
+<li>Grundleben: 50 (max. 97)</li>
+<li>Kampftyp: Fernkampf</li>
+<li>Schaden: 0 (max. 15)</li>
+<li>Leuchtfeuereffekte: Stärke III, Feuerresistenz</li>
+<li>Inventar: 1 Reihen</li>
+<li>Fähigkeiten: Fire</li>
+<li>Kann aufsammeln: Nein</li>
+<li>Geschwindigkeit: 0.3</li>
+<li>Nahrung: Schwarzpulver, Kohle, Holzkohle, Feuerstein</li>
+</ul>
+</li>
+<li><strong>Ozelot</strong>
+<ul>
+<li>Grundleben: 20 (max. 76)</li>
+<li>Kampftyp: Nahkampf</li>
+<li>Schaden: 0 (max. 16.2)</li>
+<li>Leuchtfeuereffekte: Geschwindigkeit II, Sprungkraft I, Stärke I, Resistenz II, Nachtsicht</li>
+<li>Inventar: 2 Reihen</li>
+<li>Fähigkeiten: Knockback</li>
+<li>Kann aufsammeln: Ja</li>
+<li>Geschwindigkeit: 0.3</li>
+<li>Nahrung: Kabeljau, Lachs, Tropischer Fisch, Steak, Rohes Schweinefleisch, Rohes Hammelfleisch, Rohes Hühnchen, Rohes Kaninchen</li>
+</ul>
+</li>
+<li><strong>Piglin</strong>
+<ul>
+<li>Grundleben: 55 (max. 135)</li>
+<li>Kampftyp: Nahkampf</li>
+<li>Schaden: 0 (max. 13.5)</li>
+<li>Leuchtfeuereffekte: Regeneration II, Stärke II, Feuerresistenz</li>
+<li>Inventar: 2 Reihen</li>
+<li>Fähigkeiten: Fire</li>
+<li>Kann aufsammeln: Nein</li>
+<li>Geschwindigkeit: 0.25</li>
+<li>Nahrung: Wirrwurzeln, Wirrpilz, Netherwarzen, Karmesinwurzeln, Karmesinpilz, Rohes Scheinefleisch, Gebratenes Scheinefleisch</li>
+</ul>
+</li>
+<li><strong>Plagegeist</strong>
+<ul>
+<li>Grundleben: 25 (max. 62)</li>
+<li>Kampftyp: Nahkampf</li>
+<li>Schaden: 0 (max. 15)</li>
+<li>Leuchtfeuereffekte: Geschinwdigkeit II, Stärke III, Resistenz I, Regeneration I</li>
+<li>Inventar: 1 Reihen</li>
+<li>Fähigkeiten: Ride/Fly, Lightning</li>
+<li>Kann aufsammeln: Nein</li>
+<li>Geschwindigkeit: 0.3</li>
+<li>Nahrung: Obsidian, Weinendes Obsidian, Enderperle</li>
+</ul>
+</li>
+<li><strong>Skelettpferd</strong>
+<ul>
+<li>Grundleben: 35 (max. 80)</li>
+<li>Kampftyp: Nahkampf</li>
+<li>Schaden: 0 (max. 10.5)</li>
+<li>Leuchtfeuereffekte: Geschwindigkeit II, Stärke I, Regeneration I</li>
+<li>Inventar: 5 Reihen</li>
+<li>Fähigkeiten: Fly/Ride</li>
+<li>Kann aufsammeln: Nein</li>
+<li>Geschwindigkeit: 0.38</li>
+<li>Nahrung: Knochenmehl, Milcheimer, Goldklumpen</li>
+</ul>
+</li>
+<li><strong>Sumpfskelett</strong>
+<ul>
+<li>Grundleben: 15 (max. 59)</li>
+<li>Kampftyp: Fernkampf</li>
+<li>Schaden: 0 (max. 10.5)</li>
+<li>Leuchtfeuereffekte: Regeneration III, Resistenz II</li>
+<li>Inventar: 1 Reihen</li>
+<li>Fähigkeiten: Knockback, Poison, Thorns</li>
+<li>Kann aufsammeln: Nein</li>
+<li>Geschwindigkeit: 0.35</li>
+<li>Nahrung: Brauner Pilz, Roter Pilz, Knochenmehl, Milcheimer, Goldklumpen</li>
+</ul>
+</li>
+<li><strong>Wolf</strong>
+<ul>
+<li>Grundleben: 20 (max. 80)</li>
+<li>Kampftyp: Nahkampf</li>
+<li>Schaden: 0 (max. 12)</li>
+<li>Leuchtfeuereffekte: Absorption II, Stärke II, Resistenz II, Regeneration II</li>
+<li>Inventar: 1 Reihen</li>
+<li>Fähigkeiten: Knockback</li>
+<li>Kann aufsammeln: Ja</li>
+<li>Geschwindigkeit: 0.3</li>
+<li>Nahrung: Steak, Rohes Schweinefleisch, Rohes Hammelfleisch, Rohes Hühnchen, Rohes Kaninchen, Knochen</li>
+</ul>
+</li>
+<li><strong>Wüstenzombie</strong>
+<ul>
+<li>Grundleben: 30 (max. 100)</li>
+<li>Kampftyp: Nahkampf</li>
+<li>Schaden: 0 (max. 9)</li>
+<li>Leuchtfeuereffekte: Stärke II, Regeneration II, Resistenz II</li>
+<li>Inventar: 2 Reihen</li>
+<li>Fähigkeiten: Poison, Slow</li>
+<li>Kann aufsammeln: Nein</li>
+<li>Geschwindigkeit: 0.25</li>
+<li>Nahrung: Steak, Gebratenes Scheinefleisch, Rohes Hammelfleisch, Rohes Hünchen, Rohes Kaninchen, Verrottetes Fleisch</li>
+</ul>
+</li>
+</ul>
+</doc-tab>
+<doc-tab v-cloak id="s4">
+<template #title>S4</template>
+<ul>
+<li><strong>Delfin</strong>
+<ul>
+<li>Grundleben: 15 (max. 75)</li>
+<li>Kampftyp: Nahkampf</li>
+<li>Schaden: 0 (max. 7.5)</li>
+<li>Leuchtfeuereffekte: Absorption III, Geschwindigkeit II, Wasseratmung</li>
+<li>Inventar: 1 Reihen</li>
+<li>Fähigkeiten: Ride/Fly, Knockback</li>
+<li>Kann aufsammeln: Ja</li>
+<li>Geschwindigkeit: 0.3</li>
+<li>Nahrung: Kabeljau, Lachs, Tropischer Fisch</li>
+</ul>
+</li>
+<li><strong>Ghast</strong>
+<ul>
+<li>Grundleben: 55 (max. 102)</li>
+<li>Kampftyp: Fernkampf</li>
+<li>Schaden: 0 (max. 24)</li>
+<li>Leuchtfeuereffekte: Stärke III, Feuerresistenz</li>
+<li>Inventar: 1 Reihen</li>
+<li>Fähigkeiten: Fire</li>
+<li>Kann aufsammeln: Nein</li>
+<li>Geschwindigkeit: 0.25</li>
+<li>Nahrung: Schwarzpulver, Feuerstein, Antiker Schrott, Quartz</li>
+<li><strong>Verschwindet beim Freilassen</strong></li>
+</ul>
+</li>
+<li><strong>Eisengolem</strong>
+<ul>
+<li>Grundleben: 60 (max. 124)</li>
+<li>Kampftyp: Nahkampf</li>
+<li>Schaden: 0 (max. 11.1)</li>
+<li>Leuchtfeuereffekte: Absorption III</li>
+<li>Inventar: 1 Reihen</li>
+<li>Fähigkeiten: Knockback, Shield</li>
+<li>Kann aufsammeln: Nein</li>
+<li>Geschwindigkeit: 0.2</li>
+<li>Nahrung: Mohn, Roheisenblock</li>
+</ul>
+</li>
+<li><strong>Großwächter</strong>
+<ul>
+<li>Grundleben: 35 (max. 108)</li>
+<li>Kampftyp: Fernkampf</li>
+<li>Schaden: 0 (max. 19.5)</li>
+<li>Leuchtfeuereffekte: Geschwindigkeit I, Regeneration I, Absorption II, Nachtsicht</li>
+<li>Inventar: 1 Reihen</li>
+<li>Fähigkeiten: Knockback, Thorns</li>
+<li>Kann aufsammeln: Ja</li>
+<li>Geschwindigkeit: 0.23</li>
+<li>Nahrung: Chorusfrucht, Chorusblüte, Obsidian, Weinendes Obsidian</li>
+</ul>
+</li>
+<li><strong>Hilfsgeist</strong>
+<ul>
+<li>Grundleben: 15 (max. 55)</li>
+<li>Kampftyp: Nahkampf</li>
+<li>Schaden: 0 (max. 15)</li>
+<li>Leuchtfeuereffekte: Geschinwdigkeit II, Stärke II, Resistenz I, Regeneration I, Abbaugeschwindigkeit II</li>
+<li>Inventar: 3 Reihen</li>
+<li>Fähigkeiten: Ride/Fly</li>
+<li>Kann aufsammeln: Nein</li>
+<li>Geschwindigkeit: 0.35</li>
+<li>Nahrung: Amethystscherbe, Obsidian, Smaragdblock</li>
+</ul>
+</li>
+<li><strong>Magier</strong>
+<ul>
+<li>Grundleben: 20 (max. 35)</li>
+<li>Kampftyp: Fernkampf</li>
+<li>Schaden: 0 (max. 17.5)</li>
+<li>Leuchtfeuereffekte: Resistenz II, Stärke II</li>
+<li>Inventar: 2 Reihen</li>
+<li>Fähigkeiten: Knockback, Lightning</li>
+<li>Kann aufsammeln: Ja</li>
+<li>Geschwindigkeit: 0.25</li>
+<li>Nahrung: Apfel, Melonenscheibe, Süßbeere, Leuchtbeere, Chorusfrucht, Karotte, Gebackene Kartoffel, Rote Beete, Getrockneter Seetang, Steak, Gebratenes Schweinefleisch, Gebratenes Hühnchen, Gebratenes Kaninchen, Gebratenes Hammelfleisch, Gebratener Kabeljau, Gebratener Lachs, Brot, Kekse, Kuchen, Kürbiskuchen, Kaninchenragout, Rote-Beete-Suppe, Pilzsuppe, Honigflasche</li>
+</ul>
+</li>
+<li><strong>Piglin Barbar</strong>
+<ul>
+<li>Grundleben: 55 (max. 125)</li>
+<li>Kampftyp: Nahkampf</li>
+<li>Schaden: 0 (max. 16.5)</li>
+<li>Leuchtfeuereffekte: Regeneration II, Stärke II, Feuerresistenz</li>
+<li>Inventar: 2 Reihen</li>
+<li>Fähigkeiten: Fire</li>
+<li>Kann aufsammeln: Nein</li>
+<li>Geschwindigkeit: 0.25</li>
+<li>Nahrung: Wirrwurzeln, Wirrpilz, Netherwarzen, Karmesinwurzeln, Karmesinpilz, Rohes Scheinefleisch, Gebratenes Scheinefleisch</li>
+</ul>
+</li>
+<li><strong>Schnüffler</strong>
+<ul>
+<li>Grundleben: 35 (max. 100)</li>
+<li>Kampftyp: Nahkampf</li>
+<li>Schaden: 0 (max. 6.6)</li>
+<li>Leuchtfeuereffekte: Absorption II</li>
+<li>Inventar: 4 Reihen</li>
+<li>Fähigkeiten: Fly/Ride, Shield, Stomp</li>
+<li>Kann aufsammeln: Nein</li>
+<li>Geschwindigkeit: 0.38</li>
+<li>Nahrung: Weizensamen, Kürbissamen, Melonensamen, Rote-Beete-Samen, Fackelliliensamen, Süßbeere, Leuchtbeere, Apfel, Moosblock</li>
+</ul>
+</li>
+<li><strong>Witherskelett</strong>
+<ul>
+<li>Grundleben: 55 (max. 111)</li>
+<li>Kampftyp: Nahkampf</li>
+<li>Schaden: 0 (max. 7.5)</li>
+<li>Leuchtfeuereffekte: Feuerresistenz, Stärke II</li>
+<li>Inventar: 1 Reihen</li>
+<li>Fähigkeiten: Knockback, Thorns, Wither</li>
+<li>Kann aufsammeln: Nein</li>
+<li>Geschwindigkeit: 0.2</li>
+<li>Nahrung: Seelensand, Seelenerde, Kohle, Holzkohle, Feuerstein, Knochenmehl, Milcheimer</li>
+<li><strong>Verschwindet beim Freilassen</strong></li>
+</ul>
+</li>
+<li><strong>Zoglin</strong>
+<ul>
+<li>Grundleben: 55 (max. 125)</li>
+<li>Kampftyp: Nahkampf</li>
+<li>Schaden: 0 (max. 9)</li>
+<li>Leuchtfeuereffekte: Regeneration II, Feuerresistenz, Resistenz II</li>
+<li>Inventar: 3 Reihen</li>
+<li>Fähigkeiten: Fly/Ride, Stomp</li>
+<li>Kann aufsammeln: Nein</li>
+<li>Geschwindigkeit: 0.25</li>
+<li>Nahrung: Wirrwurzeln, Netherwarzen, Karmesinpilz, Rohes Scheinefleisch, Gebratenes Scheinefleisch</li>
+</ul>
+</li>
+<li><strong>Zombiepferd</strong>
+<ul>
+<li>Grundleben: 35 (max. 105)</li>
+<li>Kampftyp: Nahkampf</li>
+<li>Schaden: 0 (max. 10.5)</li>
+<li>Leuchtfeuereffekte: Geschwindigkeit II, Stärke I, Regeneration I</li>
+<li>Inventar: 5 Reihen</li>
+<li>Fähigkeiten: Fly/Ride</li>
+<li>Kann aufsammeln: Nein</li>
+<li>Geschwindigkeit: 0.38</li>
+<li>Nahrung: Steak, Rohes Scheinefleisch, Rohes Hammelfleisch, Rohes Hühnchen, Rohes Kaninchen, Verrottetes Fleisch</li>
+</ul>
+</li>
+</ul>
+</doc-tab>
+<doc-tab v-cloak id="s5">
+<template #title>S5</template>
+<ul>
+<li><strong>Diener</strong>
+<ul>
+<li>Grundleben: 40 (max. 113)</li>
+<li>Kampftyp: Nahkampf</li>
+<li>Schaden: 0 (max. 18)</li>
+<li>Leuchtfeuereffekte: Resistenz II, Stärke II</li>
+<li>Inventar: 2 Reihen</li>
+<li>Fähigkeiten: Knockback, Slow, Thorn</li>
+<li>Kann aufsammeln: Ja</li>
+<li>Geschwindigkeit: 0.32</li>
+<li>Nahrung: Apfel, Melonenscheibe, Süßbeere, Leuchtbeere, Chorusfrucht, Karotte, Gebackene Kartoffel, Rote Beete, Getrockneter Seetang, Steak, Gebratenes Schweinefleisch, Gebratenes Hühnchen, Gebratenes Kaninchen, Gebratenes Hammelfleisch, Gebratener Kabeljau, Gebratener Lachs, Brot, Kekse, Kuchen, Kürbiskuchen, Kaninchenragout, Rote-Beete-Suppe, Pilzsuppe, Honigflasche</li>
+</ul>
+</li>
+<li><strong>Knarz</strong>
+<ul>
+<li>Grundleben: 50 (max. 148)</li>
+<li>Kampftyp: Nahkampf</li>
+<li>Schaden: 0 (max. 6.6)</li>
+<li>Leuchtfeuereffekte: Regeneration III, Resistenz II</li>
+<li>Inventar: 1 Reihen</li>
+<li>Fähigkeiten: Poison, Slow, Thorns</li>
+<li>Kann aufsammeln: Nein</li>
+<li>Geschwindigkeit: 0.2</li>
+<li>Nahrung: Honigwabe, Harzklumpen</li>
+</ul>
+</li>
+<li><strong>Verwüster</strong>
+<ul>
+<li>Grundleben: 45 (max. 124)</li>
+<li>Kampftyp: Nahkampf</li>
+<li>Schaden: 0 (max. 12)</li>
+<li>Leuchtfeuereffekte: Regeneration III, Stärke II</li>
+<li>Inventar: 4 Reihen</li>
+<li>Fähigkeiten: Fly/Ride, Stomp</li>
+<li>Kann aufsammeln: Ja</li>
+<li>Geschwindigkeit: 0.33</li>
+<li>Nahrung: Rote Beete, Karotten, Weizen, Blätter</li>
+</ul>
+</li>
+<li><strong>Wärter</strong>
+<ul>
+<li>Grundleben: 50 (max. 155)</li>
+<li>Kampftyp: Fernkampf</li>
+<li>Schaden: 0 (max. 25)</li>
+<li>Leuchtfeuereffekte: Absorption III</li>
+<li>Inventar: 1 Reihen</li>
+<li>Fähigkeiten: Knockback, Shield</li>
+<li>Kann aufsammeln: Nein</li>
+<li>Geschwindigkeit: 0.2</li>
+<li>Nahrung: Leuchtbeere, Antiker Schrott, Sculk, Sculk-Kreischer</li>
+</ul>
+</li>
+<li><strong>Wither</strong>
+<ul>
+<li>Grundleben: 55 (max. 113)</li>
+<li>Kampftyp: Nahkampf</li>
+<li>Schaden: 0 (max. 20)</li>
+<li>Leuchtfeuereffekte: Feuerresistenz, Stärke III, Resistenz II</li>
+<li>Inventar: 1 Reihen</li>
+<li>Fähigkeiten: Knockback, Thorns, Wither</li>
+<li>Kann aufsammeln: Nein</li>
+<li>Geschwindigkeit: 0.25</li>
+<li>Nahrung: Seelensand, Seelenerde, Kohle, Holzkohle, Feuerstein, Scharzpulver</li>
+<li><strong>Verschwindet beim Freilassen</strong></li>
+</ul>
+</li>
+</ul>
+</doc-tab>
+</doc-tabs>
+<hr>
+<h2 id="klassen">Klassen</h2>
+<p>Klassen verändern die Stärke (bzw. Fähigkeiten) eines Haustiers. Die Art der Bewegung, Erscheinung oder das Level-System des Haustiers ändert sich hierbei nicht. Jede Petklasse bietet unterschiedliche Fähigkeiten.</p>
+<p>Steigt das Level deines Haustiers, so können unterschiedliche Fähigkeiten gesteigert werden:</p>
+<ul>
+<li>Schaden</li>
+<li>Maximales Leben</li>
+<li>Lebensregeneration über Zeit</li>
+<li>Leuchtfeuer-Effekte</li>
+<li>Reitgeschwindigkeit/Flugreichweite</li>
+<li>Vergrößertes Inventar</li>
+</ul>
+<p>Viele Fähigkeiten und Zustände werden erst im späteren Verlauf freigeschaltet.</p>
+<p><a href="https://docs.google.com/spreadsheets/d/1-OIfTc-EogHypyZgFHk6HFBQd_LuoNDw50PtR9IuBOI/edit?usp=sharing" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none cursor-pointer transition-colors duration-200 ease-out focus:outline-hidden bg-button-primary hover:bg-button-primary-hover text-button-primary-text px-4 h-10 text-sm rounded-md">
+    <span>Alle Petklassen einsehen</span>
+</a></p>
+<hr>
+<h2 id="zustände">Zustände</h2>
+<p>Ein Pet kann mit <code translate="no" v-pre>/petbehaviour</code> in verschiedene Zustände versetzt werden:</p>
+<div class="table-wrapper scrollbar overflow-hidden">
+<table class="compact">
+<thead>
+<tr>
+<th style="text-align: center;">Zustand</th>
+<th>Beschreibung</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;">Friendly</td>
+<td>Dein Pet greift keine Mobs an, egal ob es selbst angegriffen wird.</td>
+</tr>
+<tr>
+<td style="text-align: center;">Normal</td>
+<td>Dein Pet greift nur an, wenn du/es von einem Gegner getroffen wirst/wird.</td>
+</tr>
+<tr>
+<td style="text-align: center;">Aggressive</td>
+<td>Dein Pet greift alles im Umkreis von 15 Blöcken an (Mobs sowie Spieler).</td>
+</tr>
+<tr>
+<td style="text-align: center;">Farm</td>
+<td>Dein Pet greift alle Mobs im Umkreis von 15 Blöcken um dich an.</td>
+</tr>
+<tr>
+<td style="text-align: center;">Raid</td>
+<td>Dein Pet greift nur feindliche Mobs an (Zombies, Skelette, etc) und keine Pets anderer Personen oder Villager.</td>
+</tr>
+<tr>
+<td style="text-align: center;">Duel</td>
+<td>Dein Pet greift Pets anderer Spieler an, deren Zustand auch auf &quot;duel&quot; gestellt ist (im Umkreis von 5 Blöcken).</td>
+</tr>
+</tbody>
+</table>
+</div>
+<hr>
+<h2 id="zusätzliche-informationen">Zusätzliche Informationen</h2>
+<h3 id="rüstung--waffen-anziehen">Rüstung &amp; Waffen anziehen</h3>
+<p>Durch das Schleichen + Rechtsklicken mit Waffen &amp; Rüstungen kann manchen Pets Equipment angelegt werden. Diese sind rein optisch und dienen dazu, deine Pets interessanter aussehen zu lassen.</p>
+<p>Das Equipment kann entfernt werden, indem du mit deinem Pet via Schleichen + Rechtsklick mit einer Schere interagierst.</p>
+<hr>
+<h2 id="befehle">Befehle</h2>
+<p><code translate="no" v-pre>/petinfo</code><br />
+Zeigt Informationen zum aktiven Pet.</p>
+<p><code translate="no" v-pre>/petname &lt;neuer name&gt;</code><br />
+Benennt das aktive Pet um.</p>
+<p><code translate="no" v-pre>/petlist</code><br />
+Listet alle deine Pets auf.</p>
+<p><code translate="no" v-pre>/petswitch</code><br />
+Ermöglicht das Wechseln oder Rufen von Pets.</p>
+<p><code translate="no" v-pre>/petstore</code><br />
+Schickt dein aktives Pet in einen virtuellen Stall.</p>
+<p><code translate="no" v-pre>/petinventory</code><br />
+Öffnet das Pet-Inventar.</p>
+<p><code translate="no" v-pre>/petcall</code><br />
+Ruft das aktive Pet zu dir.</p>
+<p><code translate="no" v-pre>/petsendaway</code><br />
+Schickt das Pet weg. Es kann weiterhin durch /petcall gerufen werden.</p>
+<p><code translate="no" v-pre>/petpickup</code><br />
+Aktiviert/Deaktiviert das Aufheben von Items durch das Pet.</p>
+<p><code translate="no" v-pre>/petrelease</code><br />
+Lässt das aktive Pet frei. Wardens und Witherkelette verschwinden beim Verwenden von /petrelease. Es gibt dann keine Möglichkeit, das freigelassene Pet erneut zu zähmen.</p>
+<p><code translate="no" v-pre>/petrespawn [pay/show/auto]</code><br />
+Belebt ein totes Pet wieder.</p>
+<p><code translate="no" v-pre>/pettrade [accept/reject/cancel/spielername]</code><br />
+Hiermit kann ein aktives Pet verkauft/gekauft werden. Wird der Betrag leer gelassen, ist es ein Geschenk.</p>
+<p><code translate="no" v-pre>/petskill</code><br />
+Zeigt die Fähigkeiten deines aktiven Pets.</p>
+<p><code translate="no" v-pre>/petchooseskilltree oder /pcst</code><br />
+Hiermit kann der Skill deines aktiven Pets ausgewählt oder gewechselt werden.</p>
+<p><code translate="no" v-pre>/petbehavior oder /petbehaviour</code><br />
+Ändert den Zustand deines aktiven Pets.</p>
+<p><code translate="no" v-pre>/petbeacon</code><br />
+Hiermit können Beaconeffekte ausgewählt werden, die das Pet je nach Skilltree und Level ausstrahlen kann.</p>
+
+                
+                <!-- Required only on API pages -->
+                <doc-toolbar-member-filter-no-results></doc-toolbar-member-filter-no-results>
+            </div>
+            <footer id="retype-content-footer" class="clear-both">
+            
+                <nav id="retype-nextprev" class="print:hidden flex mt-14">
+                    <div class="w-1/2">
+                        <a class="px-5 py-4 h-full flex items-center break-normal font-medium text-body-link border border-base-border hover:border-base-border-hover rounded-l-lg transition-colors duration-150 relative hover:z-5" href="../../besondere-funktionen/customcrafting/">
+                            <svg xmlns="http://www.w3.org/2000/svg" class="mr-3" width="24" height="24" viewBox="0 0 24 24" fill="currentColor" overflow="visible"><path d="M19 11H7.41l5.29-5.29a.996.996 0 10-1.41-1.41l-7 7a1 1 0 000 1.42l7 7a1.024 1.024 0 001.42-.01.996.996 0 000-1.41L7.41 13H19c.55 0 1-.45 1-1s-.45-1-1-1z" /><path fill="none" d="M0 0h24v24H0z" /></svg>
+                            <span>
+                                <span class="block text-xs font-normal text-base-text-muted">Vorheriger</span>
+                                <span class="block mt-1">Custom​Crafting</span>
+                            </span>
+                        </a>
+                    </div>
+            
+                    <div class="w-1/2">
+                        <a class="px-5 py-4 -mx-px h-full flex items-center justify-end break-normal font-medium text-body-link border border-base-border hover:border-base-border-hover rounded-r-lg transition-colors duration-150 relative hover:z-5" href="../../besondere-funktionen/partikel/">
+                            <span>
+                                <span class="block text-xs font-normal text-right text-base-text-muted">Nächster</span>
+                                <span class="block mt-1">Partikel</span>
+                            </span>
+                            <svg xmlns="http://www.w3.org/2000/svg" class="ml-3" width="24" height="24" viewBox="0 0 24 24" fill="currentColor" overflow="visible"><path d="M19.92 12.38a1 1 0 00-.22-1.09l-7-7a.996.996 0 10-1.41 1.41l5.3 5.3H5c-.55 0-1 .45-1 1s.45 1 1 1h11.59l-5.29 5.29a.996.996 0 000 1.41c.19.2.44.3.7.3s.51-.1.71-.29l7-7c.09-.09.16-.21.21-.33z" /><path fill="none" d="M0 0h24v24H0z" /></svg>
+                        </a>
+                    </div>
+                </nav>
+            </footer>
+        </main>
+
+        <div id="retype-page-footer" class="print:border-none border-t border-base-border pt-6 mb-8">
+            <footer class="flex flex-wrap items-center justify-between print:justify-center">
+                <div id="retype-footer-links" class="print:hidden">
+                    <ul class="flex flex-wrap items-center text-sm">
+                        <li>
+                            <a class="block mr-4 py-2 text-sm whitespace-nowrap transition-colors duration-200 ease-linear text-footer-link hover:text-footer-link-hover md:mb-0" href="https://teamwiki.openmc.net/">Internes Teamwiki</a>
+                        </li>
+                        <li>
+                            <a class="block mr-4 py-2 text-sm whitespace-nowrap transition-colors duration-200 ease-linear text-footer-link hover:text-footer-link-hover md:mb-0" href="https://openmc.net/impressum/">Impressum</a>
+                        </li>
+                        <li>
+                            <a class="block mr-4 py-2 text-sm whitespace-nowrap transition-colors duration-200 ease-linear text-footer-link hover:text-footer-link-hover md:mb-0" href="https://openmc.net/datenschutzerklaerung/">Datenschutzerklärung</a>
+                        </li>
+                    </ul>
+                </div>
+                <div id="retype-copyright" class="print:justify-center py-2 text-footer-text font-footer-link text-sm leading-relaxed"><p>OpenMC Wiki © 2026 ist lizensiert unter <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.de">CC BY-NC-ND 4.0</a>. OpenMC.net steht nicht in Verbindung mit Mojang Studios oder Minecraft®.</p></div>
+            </footer>
+        </div>
+    </div>
+
+    <!-- Rendered if sidebar right is enabled -->
+    <!-- Sidebar right skeleton-->
+    <div v-cloak class="fixed top-0 bottom-0 right-0 translate-x-full bg-sidebar-right-bg border-sidebar-right-border lg:sticky lg:border-l lg:shrink-0 lg:pt-6 lg:translate-x-0 sm:w-1/2 lg:w-64 lg:z-0 md:w-104 sidebar-right skeleton">
+        <div class="pl-5">
+            <div class="w-32 h-3 mb-4 bg-skeleton-bg rounded-full loading"></div>
+            <div class="w-48 h-3 mb-4 bg-skeleton-bg rounded-full loading"></div>
+            <div class="w-40 h-3 mb-4 bg-skeleton-bg rounded-full loading"></div>
+        </div>
+    </div>
+
+    <!-- User should be able to hide sidebar right -->
+    <doc-sidebar-right v-cloak></doc-sidebar-right>
+</div>
+
+        </div>
+    </div>
+
+    <doc-search-mobile></doc-search-mobile>
+    <doc-back-to-top></doc-back-to-top>
+</div>
+
+
+    <div id="retype-overlay-target"></div>
+
+        <script data-cfasync="false">window.__DOCS__ = { "title": "MyPet", level: 2, icon: "file", hasPrism: false, hasInstagram: false, hasMermaid: false, hasMath: false, tocDepth: 23, "md": "/besondere-funktionen/mypet.md" }</script>
+</body>
+</html>

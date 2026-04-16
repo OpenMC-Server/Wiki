@@ -1,0 +1,1190 @@
+<!DOCTYPE html>
+<html lang="de" class="h-full">
+<head>
+    <script defer data-domain="domain1.com,domain2.com" src="https://plausible.example.com/js/script.js"></script>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta name="color-scheme" content="light dark">
+    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="4.5.3.829681137088">
+
+    <!-- See retype.com -->
+    <meta name="generator" content="Retype 4.5.3">
+
+    <!-- Primary Meta Tags -->
+    <title>Pipe-Sammelvariablen  | OpenMC Wiki</title>
+    <meta name="title" content="Pipe-Sammelvariablen  | OpenMC Wiki">
+    <meta name="description" content="Pipe-Sammelvariablen ermöglichen es dir, mehrere Items mit einer einzelnen Variable über das Pipe-System zu sortieren.">
+
+    <!-- Canonical -->
+    <link rel="canonical" href="https://wiki.openmc.net/craftbook-pipes/pipe-sammelvariablen/">
+    <link rel="sitemap" type="application/xml" title="Sitemap" href="https://wiki.openmc.net/sitemap.xml">
+
+    <!-- Open Graph -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://wiki.openmc.net/craftbook-pipes/pipe-sammelvariablen/">
+    <meta property="og:title" content="Pipe-Sammelvariablen  | OpenMC Wiki">
+    <meta property="og:description" content="Pipe-Sammelvariablen ermöglichen es dir, mehrere Items mit einer einzelnen Variable über das Pipe-System zu sortieren.">
+    <meta property="og:site_name" content="Wiki">
+    <meta property="og:locale" content="de_DE">
+
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:url" content="https://wiki.openmc.net/craftbook-pipes/pipe-sammelvariablen/">
+    <meta name="twitter:title" content="Pipe-Sammelvariablen  | OpenMC Wiki">
+    <meta name="twitter:description" content="Pipe-Sammelvariablen ermöglichen es dir, mehrere Items mit einer einzelnen Variable über das Pipe-System zu sortieren.">
+
+    <!-- Alternate Markdown -->
+    <link rel="alternate" type="text/markdown" href="https://wiki.openmc.net/craftbook-pipes/pipe-sammelvariablen.md">
+
+    <script data-cfasync="false">(function(){var cl=document.documentElement.classList,ls=localStorage.getItem("retype_scheme"),hd=cl.contains("dark"),hl=cl.contains("light"),wm=window.matchMedia&&window.matchMedia("(prefers-color-scheme: dark)").matches;if(ls==="dark"||(!ls&&wm&&!hd&&!hl)){cl.remove("light");cl.add("dark")}else if(ls==="light"||(!ls&&!wm&&!hd&&!hl)){cl.remove("dark");cl.add("light")}})();</script>
+
+    <link id="retype-favicon" rel="icon" href="../../images/favicon.png" />
+    <link href="../../resources/css/retype.css?v=4.5.3.829681137088" rel="stylesheet">
+
+    <script data-cfasync="false" src="../../resources/js/config.js?v=4.5.3.829681137088" data-turbo-eval="false" defer></script>
+    <script data-cfasync="false" src="../../resources/js/retype.js?v=4.5.3" data-turbo-eval="false" defer></script>
+    <script id="lunr-js" data-cfasync="false" src="../../resources/js/lunr.js?v=4.5.3.829681137088" data-turbo-eval="false" defer></script>
+</head>
+<body>
+    <div id="retype-app" class="relative text-base antialiased text-base-text bg-base-bg font-body">
+    <div class="absolute bottom-0 left-0" style="top: 5rem; right: 50%"></div>
+
+    <header id="retype-header" class="sticky top-0 z-30 flex w-full h-16 bg-header-bg border-b border-header-border md:h-20">
+        <div class="container relative flex items-center justify-between pr-6 grow md:justify-start">
+            <!-- Mobile menu button skeleton -->
+            <button v-cloak class="skeleton retype-mobile-menu-button flex items-center justify-center shrink-0 overflow-hidden dark:text-white focus:outline-hidden rounded-full w-10 h-10 ml-3.5 md:hidden"><svg xmlns="http://www.w3.org/2000/svg" class="mb-px shrink-0" width="24" height="24" viewBox="0 0 24 24" role="presentation" style="margin-bottom: 0px;"><g fill="currentColor"><path d="M2 4h20v2H2zM2 11h20v2H2zM2 18h20v2H2z"></path></g></svg></button>
+            <div v-cloak id="retype-sidebar-left-toggle-button"></div>
+    
+            <!-- Logo -->
+            <div class="flex items-center justify-between h-full py-2 md:w-75">
+                <div class="flex items-center px-2 md:px-6">
+                    <a id="retype-branding-logo" href="https://wiki.openmc.net/" class="flex items-center leading-snug text-2xl">
+                        <span class="w-10 mr-2 grow-0 shrink-0 overflow-hidden">
+                            <img class="max-h-10 dark:hidden md:inline-block" src="../../images/logo_text_schwarz.png" alt="" width="40" height="40">
+                            <img class="max-h-10 hidden dark:inline-block" src="../../images/logo_text_weiß.png" alt="" width="40" height="40">
+                        </span>
+                        <span class="dark:text-white font-bold line-clamp-1 md:line-clamp-2">Wiki</span>
+                    </a>
+                </div>
+    
+                <span class="hidden h-8 border-r md:inline-block border-base-border"></span>
+            </div>
+    
+            <div class="flex justify-between md:grow">
+                <!-- Top Nav -->
+                <nav id="retype-header-nav" class="hidden md:flex">
+                    <ul class="flex flex-col mb-4 md:pl-16 md:mb-0 md:flex-row md:items-center">
+                        <li class="mr-6">
+                            <a class="py-2 md:mb-0 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-header-text font-header-text hover:text-header-text-hover" href="https://openmc.net/">Website</a>
+                        </li>
+                        <li class="mr-6">
+                            <a class="py-2 md:mb-0 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-header-text font-header-text hover:text-header-text-hover" href="https://openmc.net/forum/">Forum</a>
+                        </li>
+                        <li class="mr-6">
+                            <a class="py-2 md:mb-0 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-header-text font-header-text hover:text-header-text-hover" href="https://map.openmc.net/">Livemap</a>
+                        </li>
+                        <li class="mr-6">
+                            <a class="py-2 md:mb-0 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-header-text font-header-text hover:text-header-text-hover" href="https://discord.com/invite/ecqPF34">Discord</a>
+                        </li>
+                        <li class="mr-6">
+                            <a class="py-2 md:mb-0 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-header-text font-header-text hover:text-header-text-hover" href="https://instagram.com/openmc/">Instagram</a>
+                        </li>
+    
+                    </ul>
+                </nav>
+    
+                <div v-cloak class="flex justify-end grow">
+                    <div id="retype-mobile-search-button"></div>
+                    <doc-search-desktop></doc-search-desktop>
+    
+                    <doc-theme-switch class="lg:ml-2"></doc-theme-switch>
+                    <doc-history></doc-history>
+                </div>
+            </div>
+        </div>
+    </header>
+
+
+    <div id="retype-container" class="container relative flex bg-white">
+        <!-- Sidebar Skeleton -->
+        <div v-cloak class="fixed flex flex-col shrink-0 duration-300 ease-in-out bg-sidebar-left-bg border-sidebar-left-border sidebar top-20 w-75 border-r h-screen md:sticky transition-transform skeleton">
+        
+            <div class="flex items-center h-16 px-6">
+                <input id="retype-filter-input-mock" class="w-full h-10 pl-8 px-3 py-2 transition-colors duration-200 ease-linear bg-filter-bg border border-filter-border rounded-lg shadow-none md:text-sm hover:border-filter-border-hover focus:outline-hidden focus:border-filter-border-focus placeholder-filter-placeholder" type="text">
+            </div>
+        
+            <div class="pl-6 mt-1 mb-4">
+                <div class="w-32 h-3 mb-4 bg-skeleton-bg rounded-full loading"></div>
+                <div class="w-48 h-3 mb-4 bg-skeleton-bg rounded-full loading"></div>
+                <div class="w-40 h-3 mb-4 bg-skeleton-bg rounded-full loading"></div>
+                <div class="w-32 h-3 mb-4 bg-skeleton-bg rounded-full loading"></div>
+                <div class="w-48 h-3 mb-4 bg-skeleton-bg rounded-full loading"></div>
+                <div class="w-40 h-3 mb-4 bg-skeleton-bg rounded-full loading"></div>
+            </div>
+        
+            <div class="shrink-0 mt-auto bg-transparent dark:border-base-border">
+                <a class="flex items-center justify-center flex-nowrap h-16 text-gray-350 dark:text-dark-400 hover:text-gray-600 dark:hover:text-dark-300 transition-colors duration-150 ease-in docs-powered-by" target="_blank" href="https://retype.com/" rel="noopener">
+                    <span class="text-xs whitespace-nowrap">Powered by</span>
+                    <svg xmlns="http://www.w3.org/2000/svg" class="ml-2" fill="currentColor" width="96" height="20" overflow="visible"><path d="M0 0v20h13.59V0H0zm11.15 17.54H2.44V2.46h8.71v15.08zM15.8 20h2.44V4.67L15.8 2.22zM20.45 6.89V20h2.44V9.34z"/><g><path d="M40.16 8.44c0 1.49-.59 2.45-1.75 2.88l2.34 3.32h-2.53l-2.04-2.96h-1.43v2.96h-2.06V5.36h3.5c1.43 0 2.46.24 3.07.73s.9 1.27.9 2.35zm-2.48 1.1c.26-.23.38-.59.38-1.09 0-.5-.13-.84-.4-1.03s-.73-.28-1.39-.28h-1.54v2.75h1.5c.72 0 1.2-.12 1.45-.35zM51.56 5.36V7.2h-4.59v1.91h4.13v1.76h-4.13v1.92h4.74v1.83h-6.79V5.36h6.64zM60.09 7.15v7.48h-2.06V7.15h-2.61V5.36h7.28v1.79h-2.61zM70.81 14.64h-2.06v-3.66l-3.19-5.61h2.23l1.99 3.45 1.99-3.45H74l-3.19 5.61v3.66zM83.99 6.19c.65.55.97 1.4.97 2.55s-.33 1.98-1 2.51-1.68.8-3.04.8h-1.23v2.59h-2.06V5.36h3.26c1.42 0 2.45.28 3.1.83zm-1.51 3.65c.25-.28.37-.69.37-1.22s-.16-.92-.48-1.14c-.32-.23-.82-.34-1.5-.34H79.7v3.12h1.38c.68 0 1.15-.14 1.4-.42zM95.85 5.36V7.2h-4.59v1.91h4.13v1.76h-4.13v1.92H96v1.83h-6.79V5.36h6.64z"/></g></svg>
+                </a>
+            </div>
+        </div>
+        
+        <!-- Sidebar component -->
+        <doc-sidebar v-cloak>
+            <template #sidebar-footer>
+                <div class="shrink-0 mt-auto border-t md:bg-transparent md:border-none dark:border-base-border">
+        
+                    <div class="py-3 px-6 md:hidden border-b dark:border-base-border">
+                        <nav>
+                            <ul class="flex flex-wrap justify-center items-center">
+                                <li class="mr-6">
+                                    <a class="block py-1 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-header-text font-header-text hover:text-header-text-hover" href="https://openmc.net/">Website</a>
+                                </li>
+                                <li class="mr-6">
+                                    <a class="block py-1 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-header-text font-header-text hover:text-header-text-hover" href="https://openmc.net/forum/">Forum</a>
+                                </li>
+                                <li class="mr-6">
+                                    <a class="block py-1 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-header-text font-header-text hover:text-header-text-hover" href="https://map.openmc.net/">Livemap</a>
+                                </li>
+                                <li class="mr-6">
+                                    <a class="block py-1 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-header-text font-header-text hover:text-header-text-hover" href="https://discord.com/invite/ecqPF34">Discord</a>
+                                </li>
+                                <li class="mr-6">
+                                    <a class="block py-1 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-header-text font-header-text hover:text-header-text-hover" href="https://instagram.com/openmc/">Instagram</a>
+                                </li>
+        
+                            </ul>
+                        </nav>
+                    </div>
+        
+                    <a class="flex items-center justify-center flex-nowrap h-16 text-gray-350 dark:text-dark-400 hover:text-gray-600 dark:hover:text-dark-300 transition-colors duration-150 ease-in docs-powered-by" target="_blank" href="https://retype.com/" rel="noopener">
+                        <span class="text-xs whitespace-nowrap">Powered by</span>
+                        <svg xmlns="http://www.w3.org/2000/svg" class="ml-2" fill="currentColor" width="96" height="20" overflow="visible"><path d="M0 0v20h13.59V0H0zm11.15 17.54H2.44V2.46h8.71v15.08zM15.8 20h2.44V4.67L15.8 2.22zM20.45 6.89V20h2.44V9.34z"/><g><path d="M40.16 8.44c0 1.49-.59 2.45-1.75 2.88l2.34 3.32h-2.53l-2.04-2.96h-1.43v2.96h-2.06V5.36h3.5c1.43 0 2.46.24 3.07.73s.9 1.27.9 2.35zm-2.48 1.1c.26-.23.38-.59.38-1.09 0-.5-.13-.84-.4-1.03s-.73-.28-1.39-.28h-1.54v2.75h1.5c.72 0 1.2-.12 1.45-.35zM51.56 5.36V7.2h-4.59v1.91h4.13v1.76h-4.13v1.92h4.74v1.83h-6.79V5.36h6.64zM60.09 7.15v7.48h-2.06V7.15h-2.61V5.36h7.28v1.79h-2.61zM70.81 14.64h-2.06v-3.66l-3.19-5.61h2.23l1.99 3.45 1.99-3.45H74l-3.19 5.61v3.66zM83.99 6.19c.65.55.97 1.4.97 2.55s-.33 1.98-1 2.51-1.68.8-3.04.8h-1.23v2.59h-2.06V5.36h3.26c1.42 0 2.45.28 3.1.83zm-1.51 3.65c.25-.28.37-.69.37-1.22s-.16-.92-.48-1.14c-.32-.23-.82-.34-1.5-.34H79.7v3.12h1.38c.68 0 1.15-.14 1.4-.42zM95.85 5.36V7.2h-4.59v1.91h4.13v1.76h-4.13v1.92H96v1.83h-6.79V5.36h6.64z"/></g></svg>
+                    </a>
+                </div>
+            </template>
+        </doc-sidebar>
+
+        <div class="grow min-w-0 bg-body-bg">
+            <!-- Render "toolbar" template here on api pages --><!-- Render page content -->
+<div class="flex">
+    <div id="retype-main" class="min-w-0 p-4 grow md:px-16">
+        <main class="relative pb-12 lg:pt-2">
+            <div class="relative retype-markdown" id="retype-content">
+                <!-- Rendered if sidebar right is enabled -->
+                <div id="retype-sidebar-right-toggle"></div>
+                <doc-page-actions></doc-page-actions>
+
+                <!-- Page content  -->
+<h1 id="pipe-sammelvariablen">Pipe-Sammelvariablen <a href="https://tally.so/r/WO8gxJ" target="_blank" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none cursor-pointer transition-colors duration-200 ease-out focus:outline-hidden bg-button-success hover:bg-button-success-hover text-button-success-text px-2.5 h-6 text-xs rounded">
+    <span class="docs-emoji mr-2">&#x1F4A1;</span>
+    <span>Feedback geben</span>
+</a></h1>
+<p>Pipe-Sammelvariablen ermöglichen es dir, mehrere Items mit einer einzelnen Variable über das Pipe-System zu sortieren.</p>
+<p>Auf dieser Seite findest du die Sammelvariablen für mehrere Items. Möchtest du stattdessen die Variablen für einzelne Items ansehen, sieh dir die Seite
+<a href="../pipe-variablen/">Pipe-Variablen</a> an.</p>
+<p>Durch die Möglichkeit, mehrere Items mit nur einem Schild zu sortieren, ist es möglich, noch kompaktere und bessere Pipe-Systeme zu bauen. Die Sammelvariablen sind im Vergleich mit der MC1229-Schaltung eine gute Alternative, um mehrere Items auf einmal sortieren. Alle Variablen sind in Kleinschreibung verfasst.</p>
+<hr>
+<h2 id="sammelvariablen-im-spiel-abrufen">Sammelvariablen im Spiel abrufen</h2>
+<p>Es ist möglich, alle Sammelvariablen auch in Minecraft abzurufen. Folgender Befehl steht dafür zur Verfügung:</p>
+<p><code translate="no" v-pre>/pipeid</code><br />
+Zeigt alle möglichen Sammelvariablen für ein Item im Chat an. Dazu muss das Item bei der Eingabe des Befehls in der Hand gehalten werden. Die Variablen können sowohl durch Anklicken in die Zwischenablage kopiert werden, als auch durch Klick auf “Schild erstellen” ein entsprechendes Schild erstellt werden. Zum Platzieren muss anschließend der Schildbearbeitungsmodus mit <code translate="no" v-pre>/sign</code> aktiviert werden. Mit einem Rechtsklick können wiederum alle zugehörigen Items zu einer ID angesehen werden.</p>
+<p><code translate="no" v-pre>/pipeid &lt;suchbegriff&gt;</code><br />
+Zeigt die Sammelvariablen für ein spezifisches Item an, welches sich nicht im Inventar befinden muss. Es werden sowohl englische als auch deutsche Itemnamen akzeptiert. Achtung: Bei englischen Namen muss dieser in Form der “Minecraft-ID” eingeben werden. Beispielsweise führt “melon_slice” zu einem Ergebnis, aber “melon slice” nicht. Bei den deutschen Namen dürfen keine Unterstriche verwendet werden. Wenn sich das Fenster nach der Suche öffnet, einfach das gewünschte Item anklicken und die Variablen werden wie oben im Chat angezeigt. Mit einem Rechtsklick können wiederum alle zugehörigen Items zu einer ID angesehen werden.</p>
+<hr>
+<h2 id="liste-der-sammelvariablen">Liste der Sammelvariablen</h2>
+<p>Nachfolgend findest du eine Auflistung aller Pipe-Sammelvariablen auf OpenMC.</p>
+<div class="flex mb-6">
+    <div class="shrink-0 w-1.5 rounded-tl-lg rounded-bl-lg bg-callout-primary"></div>
+    <div class="flex w-full py-4 border border-l-0 rounded-tr-lg rounded-br-lg doc-callout bg-callout-base-bg border-callout-base-border" role="alert">
+        <div class="flex items-center ml-4 h-7">
+            <svg xmlns="http://www.w3.org/2000/svg" class="block text-callout-primary" width="22" height="22" viewBox="0 0 24 24" role="presentation">
+                <g fill="currentColor"><g>
+                    <path d="M12 1C5.93 1 1 5.93 1 12s4.93 11 11 11 11-4.93 11-11S18.07 1 12 1zm0 20c-4.96 0-9-4.04-9-9s4.04-9 9-9 9 4.04 9 9-4.04 9-9 9z"></path>
+                    <path d="M12 11c-.55 0-1 .45-1 1v4c0 .55.45 1 1 1s1-.45 1-1v-4c0-.55-.45-1-1-1zM12.01 7c-.56 0-1 .45-1 1s.45 1 1 1 1-.45 1-1-.45-1-1-1z"></path>
+                    <path fill="none" d="M0 0h24v24H0z"></path>
+                </g></g>
+            </svg>
+        </div>
+        <div class="pr-5 ml-3 w-full">
+            <h5>Nach Sammelvariablen suchen</h5>
+<p>Um nach einer spezifischen Sammelvariable zu suchen, kannst du die Suche deines Browsers (<code translate="no" v-pre>STRG + F</code>) verwenden.</p>
+        </div>
+    </div>
+</div>
+<h3 id="holz-laub-setzlinge">Holz, Laub, Setzlinge</h3>
+<h4 id="stämme--holz-gemischte-holztypen">Stämme + Holz (gemischte Holztypen)</h4>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%za%</strong></span>
+</span> <strong>Alle Holzstämme</strong><br />
+<em>oak_log, spruce_log, birch_log, jungle_log, acacia_log, dark_oak_log, crimson_stem, warped_stem, mangrove_log, cherry_log, pale_oak_log</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%wx%</strong></span>
+</span> <strong>Alle Hölzer</strong><br />
+<em>oak_wood, spruce_wood, birch_wood, jungle_wood, acacia_wood, dark_oak_wood, mangrove_wood, crimson_hyphae, warped_hyphae, cherry_wood, bamboo_block, pale_oak_wood</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%zb%</strong></span>
+</span> <strong>Alle entrindeten Holzstämme</strong><br />
+<em>stripped_oak_log, stripped_spruce_log, stripped_birch_log, stripped_acacia_log, stripped_jungle_log, stripped_dark_oak_log, stripped_crimson_stem, stripped_warped_stem, stripped_mangrove_log, stripped_cherry_log, stripped_pale_oak_log</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%ww%</strong></span>
+</span> <strong>Alle entrindeten Hölzer</strong><br />
+<em>stripped_oak_wood, stripped_spruce_wood, stripped_birch_wood, stripped_acacia_wood, stripped_jungle_wood, stripped_dark_oak_wood, stripped_crimson_hyphae, stripped_warped_hyphae, stripped_mangrove_wood, stripped_cherry_wood, stripped_bamboo_block, stripped_pale_oak_wood</em></p>
+<h4 id="stämme--holz-einzelne-holztypen">Stämme + Holz (einzelne Holztypen)</h4>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%aa%</strong></span>
+</span> <strong>Alle Eichenstämme/hölzer</strong><br />
+<em>oak_log, oak_wood, stripped_oak_log, stripped_oak_wood</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%ab%</strong></span>
+</span> <strong>Alle Fichtenstämme/hölzer</strong><br />
+<em>spruce_log, spruce_wood, stripped_spruce_log, stripped_spruce_wood</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%ac%</strong></span>
+</span> <strong>Alle Birkenstämme/hölzer</strong><br />
+<em>birch_log, birch_wood, stripped_birch_log, stripped_birch_wood</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%ad%</strong></span>
+</span> <strong>Alle Tropenbaumstämme/hölzer</strong><br />
+<em>jungle_log, jungle_wood, stripped_jungle_log, stripped_jungle_wood</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%ae%</strong></span>
+</span> <strong>Alle Akazienstämme/hölzer</strong><br />
+<em>acacia_log, acacia_wood, stripped_acacia_log, stripped_acacia_wood</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%af%</strong></span>
+</span> <strong>Alle Schwarzeichenstämme/hölzer</strong><br />
+<em>dark_oak_log, dark_oak_wood, stripped_dark_oak_log, stripped_dark_oak_wood</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%ea%</strong></span>
+</span> <strong>Alle Wirrstielstämme/hölzer</strong><br />
+<em>warped_stem, warped_hyphae, stripped_warped_stem, stripped_warped_hyphae</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%eb%</strong></span>
+</span> <strong>Alle Karmesinstämme/hölzer</strong><br />
+<em>crimson_stem, crimson_hyphae, stripped_crimson_stem, stripped_crimson_hyphae</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%wr%</strong></span>
+</span> <strong>Alle Mangrovenstämme/hölzer</strong><br />
+<em>mangrove_log, mangrove_wood, stripped_mangrove_log, stripped_mangrove_wood</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%aec%</strong></span>
+</span> <strong>Alle Kirschstämme/hölzer</strong><br />
+<em>cherry_log, cherry_wood, stripped_cherry_log, stripped_cherry_wood</em></p>
+<h4 id="alle-holzerzeugnisse--stämme-einzelne-holztypen">Alle Holzerzeugnisse + Stämme (einzelne Holztypen)</h4>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%th%</strong></span>
+</span> <strong>Alle Eichenstämme/hölzer + Erzeugnisse</strong><br />
+<em>oak_planks, oak_sapling, oak_log, stripped_oak_log, stripped_oak_wood, oak_wood, oak_leaves, oak_slab, oak_stairs, oak_pressure_plate, oak_fence, oak_trapdoor, oak_fence_gate, oak_fence, oak_button, oak_door, oak_boat, oak_sign, oak_hanging_sign, oak_shelf</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%ti%</strong></span>
+</span> <strong>Alle Fichtenstämme/hölzer + Erzeugnisse</strong><br />
+<em>spruce_planks, spruce_sapling, spruce_log, stripped_spruce_log, stripped_spruce_wood, spruce_wood, spruce_leaves, spruce_slab, spruce_stairs, spruce_pressure_plate, spruce_fence, spruce_trapdoor, spruce_fence_gate, spruce_fence, spruce_button, spruce_door, spruce_boat, spruce_sign, spruce_hanging_sign, spruce_shelf</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%tj%</strong></span>
+</span> <strong>Alle Birkenstämme/hölzer + Erzeugnisse</strong><br />
+<em>birch_planks, birch_sapling, birch_log, stripped_birch_log, stripped_birch_wood, birch_wood, birch_leaves, birch_slab, birch_stairs, birch_pressure_plate, birch_fence, birch_trapdoor, birch_fence_gate, birch_fence, birch_button, birch_door, birch_boat, birch_sign, birch_hanging_sign, birch_shelf</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%tk%</strong></span>
+</span> <strong>Alle Tropenbaumstämme/hölzer + Erzeugnisse</strong><br />
+<em>jungle_planks, jungle_sapling, jungle_log, stripped_jungle_log, stripped_jungle_wood, jungle_wood, jungle_leaves, jungle_slab, jungle_stairs, jungle_pressure_plate, jungle_fence, jungle_trapdoor, jungle_fence_gate, jungle_fence, jungle_button, jungle_door, jungle_boat, jungle_sign, jungle_hanging_sign, jungle_shelf</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%tl%</strong></span>
+</span> <strong>Alle Akazienstämme/hölzer + Erzeugnisse</strong><br />
+<em>acacia_planks, acacia_sapling, acacia_log, stripped_acacia_log, stripped_acacia_wood, acacia_wood, acacia_leaves, acacia_slab, acacia_stairs, acacia_pressure_plate, acacia_fence, acacia_trapdoor, acacia_fence_gate, acacia_fence, acacia_button, acacia_door, acacia_boat, acacia_sign, acacia_hanging_sign, acacia_shelf</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%tm%</strong></span>
+</span> <strong>Alle Schwarzeichenstämme/hölzer + Erzeugnisse</strong><br />
+<em>dark_oak_planks, dark_oak_sapling, dark_oak_log, stripped_dark_oak_log, stripped_dark_oak_wood, dark_oak_wood, dark_oak_leaves, dark_oak_slab, dark_oak_stairs, dark_oak_pressure_plate, dark_oak_fence, dark_oak_trapdoor, dark_oak_fence_gate, dark_oak_fence, dark_oak_button, dark_oak_door, dark_oak_boat, dark_oak_sign, dark_oak_hanging_sign, dark_oak_shelf</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%to%</strong></span>
+</span> <strong>Alle Wirrstielstämme/hölzer + Erzeugnisse</strong><br />
+<em>warped_nylium, warped_planks, warped_stem, stripped_warped_stem, stripped_warped_hyphae, warped_hyphae, warped_fungus, warped_roots, warped_slab, warped_pressure_plate, warped_fence, warped_trapdoor, warped_fence_gate, warped_stairs, warped_button, warped_door, warped_sign, warped_hanging_sign, warped_shelf</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%tn%</strong></span>
+</span> <strong>Alle Karmesinstämme/hölzer + Erzeugnisse</strong><br />
+<em>crimson_nylium, crimson_planks, crimson_stem, stripped_crimson_stem, stripped_crimson_hyphae, crimson_hyphae, crimson_fungus, crimson_roots, crimson_slab, crimson_pressure_plate, crimson_fence, crimson_trapdoor, crimson_fence_gate, crimson_stairs, crimson_button, crimson_door, crimson_sign, crimson_hanging_sign, crimson_shelf</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%wz%</strong></span>
+</span> <strong>Alle Mangrovenstämme/hölzer + Erzeugnisse</strong><br />
+<em>mangrove_planks, mangrove_log, stripped_mangrove_log, stripped_mangrove_wood, mangrove_wood, mangrove_leaves, mangrove_slab, mangrove_stairs, mangrove_pressure_plate, mangrove_fence, mangrove_trapdoor, mangrove_fence_gate, mangrove_fence, mangrove_button, mangrove_door, mangrove_boat, mangrove_sign, mangrove_propagule, mangrove_shelf</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%aee%</strong></span>
+</span> <strong>Alle Kirschstämme/hölzer + Erzeugnisse</strong><br />
+<em>cherry_log, cherry_wood, stripped_cherry_log, stripped_cherry_wood, cherry_planks, cherry_slab, cherry_stairs, cherry_pressure_plate, cherry_fence, cherry_trapdoor, cherry_fence_gate, cherry_fence, cherry_button, cherry_door, cherry_boat, cherry_sign, cherry_hanging_sign, cherry_sapling, cherry_leaves, cherry_shelf</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%aef%</strong></span>
+</span> <strong>Alle Bambusblöcke + Erzeugnisse</strong><br />
+<em>bamboo_block, stripped_bamboo_block, bamboo_planks, bamboo_slab, bamboo_stairs, bamboo_pressure_plate, bamboo_fence, bamboo_trapdoor, bamboo_fence_gate, bamboo_fence, bamboo_button, bamboo_door, bamboo_raft, bamboo_sign, bamboo_hanging_sign, bamboo_mosaic, bamboo_mosaic_stairs, bamboo_mosaic_slab</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%peh%</strong></span>
+</span> <strong>Alle Blasseichenholzstämme/Hölzer + Erzeugnisse</strong><br />
+<em>pale_oak_log, pale_oak_wood, stripped_pale_oak_log, stripped_pale_oak_wood, pale_oak_planks, pale_oak_stairs, pale_oak_slab, pale_oak_fence, pale_oak_fence_gate, pale_oak_door, pale_oak_trapdoor, pale_oak_pressure_plate, pale_oak_button, pale_oak_sign, pale_oak_hanging_sign, pale_oak_boat, pale_oak_chest_boat, pale_oak_sapling, pale_oak_leaves</em></p>
+<h4 id="alle-holzerzeugnisse-ohne-stämme-einzelne-holztypen">Alle Holzerzeugnisse (ohne Stämme, einzelne Holztypen)</h4>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%kc%</strong></span>
+</span> <strong>Alle Eichenerzeugnisse</strong><br />
+<em>oak_planks, oak_slab, oak_stairs, oak_pressure_plate, oak_fence, oak_trapdoor, oak_fence_gate, oak_fence, oak_button, oak_door, oak_boat, oak_sign, oak_hanging_sign, oak_shelf</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%kd%</strong></span>
+</span> <strong>Alle Fichtenerzeugnisse</strong><br />
+<em>spruce_planks, spruce_slab, spruce_stairs, spruce_pressure_plate, spruce_fence, spruce_trapdoor, spruce_fence_gate, spruce_fence, spruce_button, spruce_door, spruce_boat, spruce_sign, spruce_hanging_sign, spruce_shelf</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%ke%</strong></span>
+</span> <strong>Alle Birkenerzeugnisse</strong><br />
+<em>birch_planks, birch_slab, birch_stairs, birch_pressure_plate, birch_fence, birch_trapdoor, birch_fence_gate, birch_fence, birch_button, birch_door, birch_boat, birch_sign, birch_hanging_sign, birch_shelf</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%kf%</strong></span>
+</span> <strong>Alle Tropenbaumerzeugnisse</strong><br />
+<em>jungle_planks, jungle_slab, jungle_stairs, jungle_pressure_plate, jungle_fence, jungle_trapdoor, jungle_fence_gate, jungle_fence, jungle_button, jungle_door, jungle_boat, jungle_sign, jungle_hanging_sign, jungle_shelf</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%lb%</strong></span>
+</span> <strong>Alle Akazienerzeugnisse</strong><br />
+<em>acacia_planks, acacia_slab, acacia_stairs, acacia_pressure_plate, acacia_fence, acacia_trapdoor, acacia_fence_gate, acacia_fence, acacia_button, acacia_door, acacia_boat, acacia_sign, acacia_hanging_sign, acacia_shelf</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%lc%</strong></span>
+</span> <strong>Alle Schwarzeichenerzeugnisse</strong><br />
+<em>dark_oak_planks, dark_oak_slab, dark_oak_stairs, dark_oak_pressure_plate, dark_oak_fence, dark_oak_trapdoor, dark_oak_fence_gate, dark_oak_fence, dark_oak_button, dark_oak_door, dark_oak_boat, dark_oak_sign, dark_oak_hanging_sign, dark_oak_shelf</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%ld%</strong></span>
+</span> <strong>Alle Karmesinerzeugnisse</strong><br />
+<em>crimson_planks, crimson_slab, crimson_pressure_plate, crimson_fence, crimson_trapdoor, crimson_fence_gate, crimson_stairs, crimson_button, crimson_door, crimson_sign, crimson_hanging_sign, crimson_shelf</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%lf%</strong></span>
+</span> <strong>Alle Wirrstielerzeugnisse</strong><br />
+<em>warped_planks, warped_slab, warped_pressure_plate, warped_fence, warped_trapdoor, warped_fence_gate, warped_stairs, warped_button, warped_door, warped_sign, warped_hanging_sign, warped_shelf</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%wy%</strong></span>
+</span> <strong>Alle Mangrovenerzeugnisse</strong><br />
+<em>mangrove_planks, mangrove_slab, mangrove_stairs, mangrove_pressure_plate, mangrove_fence, mangrove_trapdoor, mangrove_fence_gate, mangrove_fence, mangrove_button, mangrove_door, mangrove_boat, mangrove_sign, mangrove_shelf</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%aed%</strong></span>
+</span> <strong>Alle Kirscherzeugnisse</strong><br />
+<em>cherry_planks, cherry_slab, cherry_stairs, cherry_pressure_plate, cherry_fence, cherry_trapdoor, cherry_fence_gate, cherry_fence, cherry_button, cherry_door, cherry_boat, cherry_sign, cherry_hanging_sign, cherry_shelf</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%ael%</strong></span>
+</span> <strong>Alle Bambuserzeugnisse</strong><br />
+<em>bamboo_block, bamboo_planks, bamboo_slab, bamboo_stairs, bamboo_pressure_plate, bamboo_fence, bamboo_trapdoor, bamboo_fence_gate, bamboo_fence, bamboo_button, bamboo_door, bamboo_raft, bamboo_sign, bamboo_hanging_sign, bamboo_mosaic, bamboo_mosaic_stairs, bamboo_mosaic_slab</em></p>
+<h4 id="bretter-setzlinge-laub-holzstufen-und-treppen">Bretter, Setzlinge, Laub, Holzstufen und Treppen</h4>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%zc%</strong></span>
+</span> <strong>Alle Holzbretter</strong><br />
+<em>oak_planks, spruce_planks, birch_planks, jungle_planks, acacia_planks, dark_oak_planks, crimson_planks, warped_planks, mangrove_planks, cherry_planks, bamboo_planks, bamboo_mosaic, pale_oak_planks,</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%zd%</strong></span>
+</span> <strong>Alle Setzlinge</strong><br />
+<em>oak_sapling, spruce_sapling, birch_sapling, jungle_sapling, acacia_sapling, dark_oak_sapling, mangrove_propagule, cherry_sapling, pale_oak_sapling</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%rr%</strong></span>
+</span> <strong>Alle Blätter</strong><br />
+<em>oak_leaves, dark_oak_leaves, spruce_leaves, birch_leaves, jungle_leaves, acacia_leaves, mangrove_leaves, azalea_leaves, flowering_azalea_leaves, cherry_leaves, pale_oak_leaves</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%ts%</strong></span>
+</span> <strong>Alle Holzstufen</strong><br />
+<em>oak_slab, spruce_slab, birch_slab, jungle_slab, acacia_slab, dark_oak_slab, crimson_slab, warped_slab, mangrove_slab, cherry_slab, bamboo_slab, bamboo_mosaic_slab, pale_oak_slap</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%tt%</strong></span>
+</span> <strong>Alle Holztreppen</strong><br />
+<em>oak_stairs, spruce_stairs, birch_stairs, jungle_stairs, acacia_stairs, dark_oak_stairs, crimson_stairs, warped_stairs, mangrove_stairs, cherry_stairs, bamboo_stairs, bamboo_mosaic_stairs, pale_oak_stairs</em></p>
+<h3 id="schilder-türen-etc">Schilder, Türen, etc.</h3>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%zf%</strong></span>
+</span> <strong>Alle Schilder</strong><br />
+<em>oak_sign, spruce_sign, birch_sign, jungle_sign, acacia_sign, dark_oak_sign, crimson_sign, warped_sign, mangrove_sign, cherry_sign, bamboo_sign, pale_oak_sign</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%aeg%</strong></span>
+</span> <strong>Alle Hängechilder</strong><br />
+<em>oak_hanging_sign, spruce_hanging_sign, birch_hanging_sign, jungle_hanging_sign, acacia_hanging_sign, dark_oak_hanging_sign, mangrove_hanging_sign, crimson_hanging_sign, warped_hanging_sign, cherry_hanging_sign, bamboo_hanging_sign</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%ahq%</strong></span>
+</span> <strong>Alle Falltüren</strong><br />
+<em>oak_trapdoor, spruce_trapdoor, birch_trapdoor, jungle_trapdoor, acacia_trapdoor, dark_oak_trapdoor, iron_trapdoor, crimson_trapdoor, warped_trapdoor, mangrove_trapdoor, cherry_trapdoor, bamboo_trapdoor, copper_trapdoor, exposed_copper_trapdoor, weathered_copper_trapdoor, oxidized_copper_trapdoor, waxed_copper_trapdoor, waxed_exposed_copper_trapdoor, waxed_weathered_copper_trapdoor, waxed_oxidized_copper_trapdoor, pale_oak_trapdoor</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%zi%</strong></span>
+</span> <strong>Alle Knöpfe</strong><br />
+<em>stone_button, dark_oak_button, acacia_button, jungle_button, birch_button, spruce_button, oak_button, crimson_button, warped_button, mangrove_button, polished_blackstone_button, cherry_button, bamboo_button, pale_oak_button</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%ajt%</strong></span>
+</span> <strong>Alle Druckplatten</strong><br />
+<em>light_weighted_pressure_plate, heavy_weighted_pressure_plate, stone_pressure_plate, polished_blackstone_pressure_plate, oak_pressure_plate, spruce_pressure_plate, birch_pressure_plate, jungle_pressure_plate, acacia_pressure_plate, dark_oak_pressure_plate, mangrove_pressure_plate, crimson_pressure_plate, warped_pressure_plate, bamboo_pressure_plate, cherry_presure_plate, pale_oak_pressure_plate</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%ahp%</strong></span>
+</span> <strong>Alle Türen</strong><br />
+<em>oak_door, spruce_door, birch_door, jungle_door, acacia_door, dark_oak_door, mangrove_door, crimson_door, warped_door, iron_door, cherry_door, bamboo_door, copper_door, exposed_copper_door, weathered_copper_door, oxidized_copper_door, waxed_copper_door, waxed_exposed_copper_door, waxed_weathered_copper_door, waxed_oxidized_copper_door, pale_oak_door</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%zk%</strong></span>
+</span> <strong>Alle Zäune</strong><br />
+<em>oak_fence, birch_fence, spruce_fence, jungle_fence, acacia_fence, dark_oak_fence, nether_brick_fence, crimson_fence, warped_fence, mangrove_fence, cherry_fence, bamboo_fence, pale_oak_fence</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%zl%</strong></span>
+</span> <strong>Alle Zauntore</strong><br />
+<em>oak_fence_gate, spruce_fence_gate, birch_fence_gate, jungle_fence_gate, acacia_fence_gate, dark_oak_fence_gate, crimson_fence_gate, warped_fence_gate, mangrove_fence_gate, cherry_fence_gate, bamboo_fence_gate, pale_oak_fence_gate</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%zm%</strong></span>
+</span> <strong>Alle Treppen</strong><br />
+<em>diorite_stairs, polished_andesite_stairs, red_nether_brick_stairs, andesite_stairs, granite_stairs, smooth_quartz_stairs, stone_stairs, end_stone_brick_stairs, mossy_cobblestone_stairs, jungle_stairs, birch_stairs, spruce_stairs, polished_diorite_stairs, sandstone_stairs, smooth_sandstone_stairs, mossy_stone_brick_stairs, dark_oak_stairs, mangrove_stairs, purpur_stairs, stone_brick_stairs, brick_stairs, cobblestone_stairs, oak_stairs, smooth_red_sandstone_stairs, polished_granite_stairs, red_sandstone_stairs, dark_prismarine_stairs, prismarine_brick_stairs, prismarine_stairs, nether_brick_stairs, acacia_stairs, quartz_stairs, crimson_stairs, warped_stairs, blackstone_stairs, polished_blackstone_stairs, polished_blackstone_brick_stairs, cobbled_deepslate_stairs, deepslate_brick_stairs, deepslate_tile_stairs, polished_deepslate_stairs, cherry_stairs, bamboo_stairs, bamboo_mosaic_stairs, mud_brick_stairs, tuff_stairs, polished_tuff_stairs, tuff_brick_stairs, pale_oak_stairs, resin_brick_stairs, cut_copper_stairs, exposed_cut_copper_stairs, weathered_cut_copper_stairs, oxidized_cut_copper_stairs, waxed_cut_copper_stairs, waxed_exposed_cut_copper_stairs, waxed_weathered_cut_copper_stairs, waxed_oxidized_cut_copper_stairs</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%zn%</strong></span>
+</span> <strong>Alle Stufen</strong><br />
+<em>smooth_stone_slab, oak_slab, spruce_slab, birch_slab, acacia_slab, jungle_slab, dark_oak_slab, mangrove_slab, stone_slab, sandstone_slab, cut_sandstone_slab, petrified_oak_slab, brick_slab, stone_brick_slab, nether_brick_slab, quartz_slab, red_sandstone_slab, cut_red_sandstone_slab, purpur_slab, prismarine_slab, prismarine_brick_slab, dark_prismarine_slab, polished_diorite_slab, smooth_red_sandstone_slab, mossy_stone_brick_slab, polished_granite_slab, mossy_cobblestone_slab, end_stone_brick_slab, smooth_sandstone_slab, smooth_quartz_slab, granite_slab, andesite_slab, red_nether_brick_slab, polished_andesite_slab, diorite_slab, cobblestone_slab, warped_slab, crimson_slab, blackstone_slab, polished_blackstone_slab, polished_blackstone_brick_slab, cobbled_deepslate_slab, deepslate_brick_slab, deepslate_tile_slab, polished_deepslate_slab, cherry_slab, bamboo_slab, bamboo_mosaic_slab, mud_brick_slab, tuff_slab, polished_tuff_slab, tuff_brick_slab, resin_brick_slab, pale_oak_slab, cut_copper_slab, exposed_cut_copper_slab, weathered_cut_copper_slab, oxidized_cut_copper_slab, waxed_cut_copper_slab, waxed_exposed_cut_copper_slab, waxed_weathered_cut_copper_slab, waxed_oxidized_cut_copper_slab</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%zo%</strong></span>
+</span> <strong>Alle Mauern</strong><br />
+<em>cobblestone_wall, mossy_cobblestone_wall, brick_wall, prismarine_wall, red_sandstone_wall, mossy_stone_brick_wall, granite_wall, stone_brick_wall, nether_brick_wall, andesite_wall, red_nether_brick_wall, sandstone_wall, end_stone_brick_wall, diorite_wall, blackstone_wall, polished_blackstone_wall, polished_blackstone_brick_wall, cobbled_deepslate_wall, deepslate_brick_wall, deepslate_tile_wall, polished_deepslate_wall, mud_brick_wall, tuff_wall, polished_tuff_wall, tuff_brick_wall, resin_brick_wall</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%vs%</strong></span>
+</span> <strong>Alle Boote</strong><br />
+<em>oak_boat, spruce_boat, birch_boat, jungle_boat, acacia_boat, dark_oak_boat, cherry_boat, bamboo_raft, pale_oak_boat</em></p>
+<h3 id="bunte-blöcke">Bunte Blöcke</h3>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%sp%</strong></span>
+</span> <strong>Alle Gläser</strong><br />
+<em>glass, black_stained_glass, red_stained_glass, green_stained_glass, brown_stained_glass, blue_stained_glass, purple_stained_glass, cyan_stained_glass, light_gray_stained_glass, gray_stained_glass, pink_stained_glass, lime_stained_glass, yellow_stained_glass, light_blue_stained_glass, magenta_stained_glass, orange_stained_glass, white_stained_glass, tinted_glass</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%zq%</strong></span>
+</span> <strong>Alle Glasscheiben</strong><br />
+<em>white_stained_glass_pane, orange_stained_glass_pane, magenta_stained_glass_pane, light_blue_stained_glass_pane, yellow_stained_glass_pane, lime_stained_glass_pane, pink_stained_glass_pane, gray_stained_glass_pane, light_gray_stained_glass_pane, cyan_stained_glass_pane, purple_stained_glass_pane, blue_stained_glass_pane, brown_stained_glass_pane, green_stained_glass_pane, red_stained_glass_pane, black_stained_glass_pane, glass_pane</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%zr%</strong></span>
+</span> <strong>Alle Keramiken</strong><br />
+<em>terracotta, black_terracotta, blue_terracotta, brown_terracotta, cyan_terracotta, gray_terracotta, green_terracotta, light_blue_terracotta, light_gray_terracotta, lime_terracotta, magenta_terracotta, orange_terracotta, pink_terracotta, purple_terracotta, red_terracotta, white_terracotta, yellow_terracotta</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%zs%</strong></span>
+</span> <strong>Alle glasierten Keramiken</strong><br />
+<em>white_glazed_terracotta, orange_glazed_terracotta, magenta_glazed_terracotta, light_blue_glazed_terracotta, yellow_glazed_terracotta, lime_glazed_terracotta, cyan_glazed_terracotta, purple_glazed_terracotta, blue_glazed_terracotta, brown_glazed_terracotta, green_glazed_terracotta, red_glazed_terracotta, black_glazed_terracotta, light_gray_glazed_terracotta, pink_glazed_terracotta, gray_glazed_terracotta</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%zt%</strong></span>
+</span> <strong>Alle Betone</strong><br />
+<em>white_concrete, orange_concrete, magenta_concrete, light_blue_concrete, yellow_concrete, lime_concrete, pink_concrete, gray_concrete, light_gray_concrete, cyan_concrete, purple_concrete, blue_concrete, brown_concrete, green_concrete, red_concrete, black_concrete</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%zu%</strong></span>
+</span> <strong>Alle Trockenbetone</strong><br />
+<em>black_concrete_powder, blue_concrete_powder, brown_concrete_powder, cyan_concrete_powder, gray_concrete_powder, green_concrete_powder, light_blue_concrete_powder, light_gray_concrete_powder, lime_concrete_powder, magenta_concrete_powder, orange_concrete_powder, pink_concrete_powder, purple_concrete_powder, red_concrete_powder, white_concrete_powder, yellow_concrete_powder</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%zx%</strong></span>
+</span> <strong>Alle Shulkerboxen</strong><br />
+<em>shulker_box, black_shulker_box, white_shulker_box, orange_shulker_box, magenta_shulker_box, light_blue_shulker_box, pink_shulker_box, gray_shulker_box, light_gray_shulker_box, cyan_shulker_box, purple_shulker_box, blue_shulker_box, brown_shulker_box, green_shulker_box, red_shulker_box</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%zy%</strong></span>
+</span> <strong>Alle Wollen</strong><br />
+<em>black_wool, blue_wool, brown_wool, cyan_wool, gray_wool, green_wool, light_blue_wool, light_gray_wool, lime_wool, magenta_wool, orange_wool, pink_wool, purple_wool, red_wool, white_wool, yellow_wool</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%zz%</strong></span>
+</span> <strong>Alle Teppiche</strong><br />
+<em>white_carpet, orange_carpet, magenta_carpet, light_blue_carpet, yellow_carpet, lime_carpet, pink_carpet, gray_carpet, light_gray_carpet, cyan_carpet, purple_carpet, blue_carpet, brown_carpet, green_carpet, red_carpet, black_carpet</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%yg%</strong></span>
+</span> <strong>Alle Betten</strong><br />
+<em>white_bed, orange_bed, magenta_bed, light_blue_bed, yellow_bed, lime_bed, pink_bed, gray_bed, light_gray_bed, cyan_bed, purple_bed, blue_bed, brown_bed, green_bed, red_bed, black_bed</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%yh%</strong></span>
+</span> <strong>Alle Banner</strong><br />
+<em>black_banner, white_banner, orange_banner, magenta_banner, light_blue_banner, yellow_banner, lime_banner, pink_banner, gray_banner, light_gray_banner, red_banner, green_banner, brown_banner, blue_banner, purple_banner, cyan_banner</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%yi%</strong></span>
+</span> <strong>Alle Bannervorlagen</strong><br />
+<em>flower_banner_pattern, creeper_banner_pattern, mojang_banner_pattern, globe_banner_pattern, piglin_banner_pattern, skull_banner_pattern, flow_banner_pattern, guster_banner_pattern, bordure_indented_banner_pattern, field_masoned_banner_pattern</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%rz%</strong></span>
+</span> <strong>Alle Kerzen</strong><br />
+<em>candle, white_candle, orange_candle, magenta_candle, light_blue_candle, yellow_candle, lime_candle, pink_candle, gray_candle, light_gray_candle, cyan_candle, purple_candle, blue_candle, brown_candle, green_candle, red_candle, black_candle</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%tg%</strong></span>
+</span> <strong>Alle lebenden Korallen, Korallenblöcke und Korallenfächer</strong><br />
+<em>tube_coral_block, tube_coral, tube_coral_fan, brain_coral_block, brain_coral, brain_coral_fan, bubble_coral_block, bubble_coral, bubble_coral_fan, fire_coral_block, fire_coral, fire_coral_fan, horn_coral_block, horn_coral, horn_coral_fan</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%kbb%</strong></span>
+</span> <strong>Alle toten Korallen, Korallenblöcke und Korallenfächer</strong><br />
+<em>dead_tube_coral_block, dead_tube_coral, dead_tube_coral_fan, dead_brain_coral_block, dead_brain_coral, dead_brain_coral_fan, dead_bubble_coral_block, dead_brain_coral, dead_brain_coral_fan, dead_fire_coral_block, dead_fire_coral, dead_fire_coral_fan, dead_horn_coral_block, dead_horn_coral, dead_horn_coral_fan</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%ed%</strong></span>
+</span> <strong>Alle lebenden Korallenblöcke</strong><br />
+<em>tube_coral_block, brain_coral_block, fire_coral_block, horn_coral_block, bubble_coral_block</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%ee%</strong></span>
+</span> <strong>Alle toten Korallenblöcke</strong><br />
+<em>dead_tube_coral_block, dead_brain_coral_block, dead_fire_coral_block, dead_horn_coral_block, dead_bubble_coral_block</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%ef%</strong></span>
+</span> <strong>Alle lebenden Korallen</strong><br />
+<em>tube_coral, brain_coral, fire_coral, horn_coral, bubble_coral</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%fa%</strong></span>
+</span> <strong>Alle toten Korallen</strong><br />
+<em>dead_tube_coral, dead_brain_coral, dead_fire_coral, dead_horn_coral, dead_bubble_coral</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%fb%</strong></span>
+</span> <strong>Alle lebenden Korallenfächer</strong><br />
+<em>tube_coral_fan, brain_coral_fan, fire_coral_fan, horn_coral_fan, bubble_coral_fan</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%vs%</strong></span>
+</span> <strong>Alle toten Korallenfächer</strong><br />
+<em>dead_tube_coral_fan, dead_brain_coral_fan, dead_fire_coral_fan, dead_horn_coral_fan, dead_bubble_coral_fan</em></p>
+<h3 id="blumen-farben">Blumen, Farben</h3>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%yy%</strong></span>
+</span> <strong>Alle Blumen</strong><br />
+<em>dandelion, poppy, blue_orchid, allium, azure_bluet, red_tulip, orange_tulip, white_tulip, pink_tulip, oxeye_daisy, cornflower, lily_of_the_valley, wither_rose, sunflower, lilac, rose_bush, peony, torchflower, pink_petals, pitcher_pod, pitcher_crop, closed_eyeblossom, open_eyeblossom</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%zw%</strong></span>
+</span> <strong>Alle Farben</strong><br />
+<em>white_dye, orange_dye, magenta_dye, light_blue_dye, yellow_dye, lime_dye, pink_dye, gray_dye, light_gray_dye, cyan_dye, purple_dye, blue_dye, green_dye, brown_dye, red_dye, black_dye</em></p>
+<h3 id="stein-steinarten">Stein, Steinarten</h3>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%tq%</strong></span>
+</span> <strong>Alle Bruchsteinerzeugnisse</strong><br />
+<em>cobblestone, cobblestone_slab, cobblestone_stairs, cobblestone_wall, mossy_cobblestone, mossy_cobblestone_slab, mossy_cobblestone_stairs, mossy_cobblestone_wall</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%tr%</strong></span>
+</span> <strong>Alle Steinerzeugnisse</strong><br />
+<em>stone, stone_slab, stone_stairs, smooth_stone, smooth_stone_slab</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%tu%</strong></span>
+</span> <strong>Alle Andesiterzeugnisse</strong><br />
+<em>andesite, andesite_slab, andesite_stairs, andesite_wall</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%tv%</strong></span>
+</span> <strong>Alle polierten Andesiterzeugnisse</strong><br />
+<em>polished_andesite, polished_andesite_slab, polished_andesite_stairs</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%tw%</strong></span>
+</span> <strong>Alle Dioriterzeugnisse</strong><br />
+<em>diorite, diorite_slab, diorite_stairs, diorite_wall</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%tx%</strong></span>
+</span> <strong>Alle polierten Dioriterzeugnisse</strong><br />
+<em>polished_diorite, polished_diorite_slab, polished_diorite_stairs</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%op%</strong></span>
+</span> <strong>Alle Graniterzeugnisse</strong><br />
+<em>granite, granite_slab, granite_stairs, granite_wall</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%tz%</strong></span>
+</span> <strong>Alle polierten Graniterzeugnisse</strong><br />
+<em>polished_granite, polished_granite_slab, polished_granite_stairs</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%va%</strong></span>
+</span> <strong>Alle Steinziegelerzeugnisse</strong><br />
+<em>stone_bricks, stone_brick_slab, stone_brick_stairs, stone_brick_wall, mossy_stone_bricks, mossy_stone_brick_slab, mossy_stone_brick_stairs, mossy_stone_brick_wall, cracked_stone_bricks, chiseled_stone_bricks</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%aac%</strong></span>
+</span> <strong>Alle polierten Schwarzsteinerzeugnisse</strong><br />
+<em>polished_blackstone_wall, polished_blackstone_brick_wall, polished_blackstone_button, polished_blackstone_pressure_plate, polished_blackstone, polished_blackstone_slab, polished_blackstone_stairs, chiseled_polished_blackstone, polished_blackstone_bricks, polished_blackstone_brick_slab, polished_blackstone_brick_stairs, cracked_polished_blackstone_bricks</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%aho%</strong></span>
+</span> <strong>Alle Tuffblöcke- &amp; Erzeugnisse</strong><br />
+<em>tuff, tuff_stairs, tuff_slab, tuff_wall, chiseled_tuff, polished_tuff, polished_tuff_stairs, polished_tuff_slab, polished_tuff_wall, tuff_bricks, tuff_brick_stairs, tuff_brick_slab, tuff_brick_wall, chiseled_tuff_bricks</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%ant%</strong></span>
+</span> <strong>Alle bemoosten Bruchsteine</strong><br />
+<em>mossy_cobblestone, mossy_cobblestone_wall, mossy_cobblestone_stairs, mossy_cobblestone_slab</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%anu%</strong></span>
+</span> <strong>Alle bemoosten Steinziegel</strong><br />
+<em>mossy_stone_bricks, mossy_stone_brick_wall, mossy_stone_brick_stairs, mossy_stone_bricks_slab</em></p>
+<h3 id="tiefenschiefer">Tiefenschiefer</h3>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%sk%</strong></span>
+</span> <strong>Alle Tiefenschiefererzeugnisse</strong><br />
+<em>deepslate, polished_deepslate, polished_deepslate_slab, polished_deepslate_stairs, polished_deepslate_wall, deepslate_bricks, cracked_deepslate_bricks, deepslate_brick_slab, deepslate_brick_stairs, deepslate_brick_wall, deepslate_tiles, cracked_deepslate_tiles, deepslate_tile_slab, deepslate_tile_stairs, deepslate_tile_wall, chiseled_deepslate</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%sy%</strong></span>
+</span> <strong>Alle Tiefenschieferartenerzeugnisse</strong><br />
+<em>deepslate, polished_deepslate, polished_deepslate_slab, polished_deepslate_stairs, polished_deepslate_wall</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%sz%</strong></span>
+</span> <strong>Alle Tiefenschieferziegelerzeugnisse</strong><br />
+<em>deepslate_bricks, cracked_deepslate_bricks, deepslate_brick_slab, deepslate_brick_stairs, deepslate_brick_wall</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%ty%</strong></span>
+</span> <strong>Alle Tiefenschieferziegelerzeugnisse</strong><br />
+<em>deepslate_tiles, cracked_deepslate_tiles, deepslate_tile_slab, deepslate_tile_stairs, deepslate_tile_wall</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%si%</strong></span>
+</span> <strong>Alle Bruchtiefernschiefererzeugnisse</strong><br />
+<em>cobbled_deepslate, cobbled_deepslate_slab, cobbled_deepslate_stairs, cobbled_deepslate_wall</em></p>
+<h3 id="nether">Nether</h3>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%vg%</strong></span>
+</span> <strong>Alle Schwarzsteinerzeugnisse</strong><br />
+<em>blackstone, blackstone_slab, blackstone_stairs, blackstone_wall</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%vh%</strong></span>
+</span> <strong>Alle polierten, gerissenen, gemeißelten Schwarzsteinerzeugnisse</strong><br />
+<em>polished_blackstone, polished_blackstone_slab, polished_blackstone_stairs, polished_blackstone_wall, polished_blackstone_bricks, polished_blackstone_brick_slab, polished_blackstone_brick_stairs, polished_blackstone_brick_wall, cracked_polished_blackstone_bricks, chiseled_polished_blackstone</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%vi%</strong></span>
+</span> <strong>Alle Netherziegelerzeugnisse</strong><br />
+<em>nether_brick, nether_bricks, nether_brick_slab, nether_brick_stairs, nether_brick_wall, nether_brick_fence, cracked_nether_bricks, chiseled_nether_bricks</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%vj%</strong></span>
+</span> <strong>Alle roten Netherziegelerzeugnisse</strong><br />
+<em>red_nether_bricks, red_nether_brick_slab, red_nether_brick_stairs, red_nether_brick_wall</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%vk%</strong></span>
+</span> <strong>Alle Quartzerzeugnisse</strong><br />
+<em>quartz, quartz_block, quartz_slab, quartz_stairs, smooth_quartz, smooth_quartz_slab, smooth_quartz_stairs, chiseled_quartz_block, quartz_pillar, quartz_bricks</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%pw%</strong></span>
+</span> <strong>Diverse Netherpflanzen</strong><br />
+<em>nether_wart_block, warped_wart_block, shroomlight, nether_wart, warped_fungus, crimson_fungus, twisting_vines, weeping_vines, warped_roots, crimson_roots</em></p>
+<h3 id="sandstein">Sandstein</h3>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%vc%</strong></span>
+</span> <strong>Alle Sandsteinerzeugnisse</strong><br />
+<em>sandstone, sandstone_slab, sandstone_stairs, sandstone_wall</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%vd%</strong></span>
+</span> <strong>Alle glatten, geschnittenen, gemeißelten Sandsteinerzeugnisse</strong><br />
+<em>smooth_sandstone, smooth_sandstone_slab, smooth_sandstone_stairs, cut_sandstone, cut_sandstone_slab, chiseled_sandstone</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%ve%</strong></span>
+</span> <strong>Alle roten Sandsteinerzeugnisse</strong><br />
+<em>red_sandstone, red_sandstone_slab, red_sandstone_stairs, red_sandstone_wall</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%vf%</strong></span>
+</span> <strong>Alle glatten, geschnittenen, gemeißelten roten Sandsteinerzeugnisse</strong><br />
+<em>smooth_red_sandstone, smooth_red_sandstone_slab, smooth_red_sandstone_stairs, cut_red_sandstone, cut_red_sandstone_slab, chiseled_red_sandstone</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%ec%</strong></span>
+</span> <strong>Alle Sandsteinerzeugnisse und roten Sandsteinerzeugnisse</strong><br />
+<em>sandstone, sandstone_slab, sandstone_stairs, sandstone_wall, smooth_sandstone, smooth_sandstone_slab, smooth_sandstone_stairs, cut_sandstone, cut_sandstone_slab, chiseled_sandstone, red_sandstone, red_sandstone_slab, red_sandstone_stairs, red_sandstone_wall, smooth_red_sandstone, smooth_red_sandstone_slab, smooth_red_sandstone_stairs, cut_red_sandstone, cut_red_sandstone_slab, chiseled_red_sandstone</em></p>
+<h3 id="pflanzen-erde-gras-sand-kies-ziegel">Pflanzen, Erde, Gras, Sand, Kies, Ziegel</h3>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%yz%</strong></span>
+</span> <strong>Diverse Pflanzen</strong><br />
+<em>seagrass, sea_pickle, kelp, lily_pad, short_grass, fern, dead_bush , brown_mushroom, red_mushroom, vine, weeping_vines, twisting_vines, crimson_fungus, warped_fungus, crimson_roots, warped_roots, nether_sprouts, azalea, flowering_azalea, big_dripleaf, small_dripleaf, glow_lichen, hanging_roots, spore_blossom, pale_hanging_moss</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%aeb%</strong></span>
+</span> <strong>Alle Wasserpflanzen</strong><br />
+<em>kelp, dried_kelp, dried_kelp_block, sea_pickle, seagrass, small_dripleaf, big_dripleaf, glow_lichen</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%sn%</strong></span>
+</span> <strong>Erde + Variationen</strong><br />
+<em>dirt, coarse_dirt, grass_block, podzol, mycelium, moss_block, moss_carpet, rooted_dirt</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%aaa%</strong></span>
+</span> <strong>Alle Schlammerzeugnisse</strong><br />
+<em>mud, muddy_mangrove_roots, mud_brick_slab, packed_mud, mud_brick, mud_brick_stairs, mud_brick_wall</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%vq%</strong></span>
+</span> <strong>Kies, Sand, Roter Sand, Feuerstein</strong><br />
+<em>gravel, flint, sand, red_sand</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%uu%</strong></span>
+</span> <strong>Alle Ziegelsteine und Ziegelsteinerzeugnisse</strong><br />
+<em>brick, bricks, brick_slab, brick_stairs, brick_wall</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%sl%</strong></span>
+</span> <strong>Gras (Pflanze) + Variationen</strong><br />
+<em>short_grass, tall_grass, fern, large_fern, dead_bush, lily_pad, seagrass, tall_seagrass, big_dripleaf, small_dripleaf, glow_lichen, hanging_roots</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%sg%</strong></span>
+</span> <strong>Gras (Pflanze) + Variationen mit Nether</strong><br />
+<em>short_grass, tall_grass, fern, large_fern, dead_bush, lily_pad, seagrass, nether_sprouts, crimson_roots, warped_roots, big_dripleaf, small_dripleaf, glow_lichen, hanging_roots</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%wv%</strong></span>
+</span> <strong>Alle Azaleen-Items</strong><br />
+<em>azalea, flowering_azalea, azalea_leaves, flowering_azalea_leaves</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%wn%</strong></span>
+</span> <strong>Rote + braune Pilze</strong><br />
+<em>red_mushroom, brown_mushroom, red_mushroom_block, brown_mushroom_block, mushroom_stem</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%wo%</strong></span>
+</span> <strong>Alle + braune + Netherpilze</strong><br />
+<em>red_mushroom, brown_mushroom, red_mushroom_block, brown_mushroom_block, mushroom_stem, crimson_fungus, warped_fungus</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%xa%</strong></span>
+</span> <strong>Zuckerrohr, Kaktus, Bambus</strong><br />
+<em>sugar_cane, cactus, bamboo</em></p>
+<h3 id="redstone">Redstone</h3>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%vt%</strong></span>
+</span> <strong>Alle Loren</strong><br />
+<em>minecart, chest_minecart, furnace_minecart, hopper_minecart, tnt_minecart</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%vu%</strong></span>
+</span> <strong>Alle Schienen</strong><br />
+<em>rail, powered_rail, detector_rail, activator_rail</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%sx%</strong></span>
+</span> <strong>Alle Redstone-Komponenten</strong><br />
+<em>redstone_torch, lever, repeater, comparator, dispenser, dropper, observer, daylight_detector, piston, sticky_piston, tripwire_hook, target, hopper, note_block, trapped_chest, sculk_sensor</em></p>
+<h3 id="prismarin-endstein-purpur-eis-schnee">Prismarin, Endstein, Purpur, Eis, Schnee</h3>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%vn%</strong></span>
+</span> <strong>Alle Prismarinerzeugnisse</strong><br />
+<em>prismarine, prismarine_slab, prismarine_stairs, prismarine_wall</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%vo%</strong></span>
+</span> <strong>Alle Prismarinerzeugnisse und dunkle Prismarinerzeugnisse</strong><br />
+<em>prismarine, prismarine_slab, prismarine_stairs, prismarine_wall, prismarine_bricks, prismarine_brick_slab, prismarine_brick_stairs, dark_prismarine, dark_prismarine_slab, dark_prismarine_stairs</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%vl%</strong></span>
+</span> <strong>Alle Endsteinerzeugnisse</strong><br />
+<em>end_stone, end_stone_bricks, end_stone_brick_slab, end_stone_brick_stairs, end_stone_brick_wall</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%vm%</strong></span>
+</span> <strong>Alle Purpurerzeugnisse</strong><br />
+<em>purpur_block, purpur_slab, purpur_stairs, purpur_pillar</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%sv%</strong></span>
+</span> <strong>Schnee + Eis</strong><br />
+<em>snowball, snow, snow_block, ice, packed_ice, blue_ice, powder_snow_bucket</em></p>
+<h3 id="kupfer">Kupfer</h3>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%rt%</strong></span>
+</span> <strong>Alle Kupferblöcke und Kupferblockerzeugnisse</strong><br />
+<em>exposed_copper, weathered_copper, oxidized_copper, cut_copper, exposed_cut_copper, weathered_cut_copper, oxidized_cut_copper, waxed_copper_block, waxed_exposed_copper, waxed_weathered_copper, waxed_oxidized_copper, waxed_cut_copper, waxed_exposed_cut_copper, waxed_weathered_cut_copper, waxed_oxidized_cut_copper, cut_copper_slab, exposed_cut_copper_slab, weathered_cut_copper_slab, oxidized_cut_copper_slab, cut_copper_stairs, exposed_cut_copper_stairs, weathered_cut_copper_stairs, oxidized_cut_copper_stairs, waxed_cut_copper_slab, waxed_exposed_cut_copper_slab, waxed_weathered_cut_copper_slab, waxed_oxidized_cut_copper_slab, waxed_cut_copper_stairs, waxed_exposed_cut_copper_stairs, waxed_weathered_cut_copper_stairs, waxed_oxidized_cut_copper_stairs, copper_bulb, exposed_copper_bulb, weathered_copper_bulb, oxidized_copper_bulb, waxed_copper_bulb, waxed_exposed_copper_bulb, waxed_weathered_copper_bulb, waxed_oxidized_copper_bulb, chiseled_copper, exposed_chiseled_copper, weathered_chiseled_copper, oxidized_chiseled_copper, waxed_chiseled_copper, waxed_exposed_chiseled_copper, waxed_weathered_chiseled_copper, waxed_oxidized_chiseled_copper, copper_grate, exposed_copper_grate, weathered_copper_grate, oxidized_copper_grate, waxed_copper_grate, waxed_exposed_copper_grate, waxed_weathered_copper_grate, waxed_oxidized_copper_grate, copper_door, exposed_copper_door, weathered_copper_door, oxidized_copper_door, waxed_copper_door, waxed_exposed_copper_door, waxed_weathered_copper_door, waxed_oxidized_copper_door, copper_trapdoor, exposed_copper_trapdoor, weathered_copper_trapdoor, oxidized_copper_trapdoor, waxed_copper_trapdoor, waxed_exposed_copper_trapdoor, waxed_weathered_copper_trapdoor, waxed_oxidized_copper_trapdoor, copper_bars, exposed_copper_bars, weathered_copper_bars, oxidized_copper_bars, waxed_copper_bars, waxed_exposed_copper_bars, waxed_weathered_copper_bars, waxed_oxidized_copper_bars, copper_chain, exposed_copper_chain, weathered_copper_chain, oxidized_copper_chain, waxed_copper_chain, waxed_exposed_copper_chain, waxed_weathered_copper_chain, waxed_oxidized_copper_chain, copper_chest,exposed_copper_chest, weathered_copper_chest, oxidized_copper_chest, waxed_copper_chest, waxed_exposed_copper_chest, waxed_weathered_copper_chest, waxed_oxidized_copper_chest, copper_golem_statue, exposed_copper_golem_statue, weathered_copper_golem_statue, oxidized_copper_golem_statue, waxed_copper_golem_statue, waxed_exposed_copper_golem_statue, waxed_weathered_copper_golem_statue, waxed_oxidized_copper_golem_statue, copper_lantern,exposed_copper_lantern, weathered_copper_lantern, oxidized_copper_lantern, waxed_copper_lantern, waxed_exposed_copper_lantern, waxed_weathered_copper_lantern, waxed_oxidized_copper_lantern</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%uh%</strong></span>
+</span> <strong>Alle unbearbeiteten Kupferblöcke</strong><br />
+<em>exposed_copper, weathered_copper, oxidized_copper</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%ru%</strong></span>
+</span> <strong>Alle geschnittenen Kupferblöcke</strong><br />
+<em>cut_copper, exposed_cut_copper, weathered_cut_copper, oxidized_cut_copper</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%rv%</strong></span>
+</span> <strong>Alle gewachsten Kupferblöcke</strong><br />
+<em>waxed_copper_block, waxed_exposed_copper, waxed_weathered_copper, waxed_oxidized_copper, waxed_cut_copper, waxed_exposed_cut_copper, waxed_weathered_cut_copper, waxed_oxidized_cut_copper</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%ui%</strong></span>
+</span> <strong>Alle Kupferstufen</strong><br />
+<em>cut_copper_slab, exposed_cut_copper_slab, weathered_cut_copper_slab, oxidized_cut_copper_slab, waxed_cut_copper_slab, waxed_exposed_cut_copper_slab, waxed_weathered_cut_copper_slab, waxed_oxidized_cut_copper_slab</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%uj%</strong></span>
+</span> <strong>Alle Kupfertreppen</strong><br />
+<em>cut_copper_stairs, exposed_cut_copper_stairs, weathered_cut_copper_stairs, oxidized_cut_copper_stairs, waxed_cut_copper_stairs, waxed_exposed_cut_copper_stairs, waxed_weathered_cut_copper_stairs, waxed_oxidized_cut_copper_stairs</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%rw%</strong></span>
+</span> <strong>Alle geschnittenen Kupferblockerzeugnisse</strong><br />
+<em>cut_copper_slab, exposed_cut_copper_slab, weathered_cut_copper_slab, oxidized_cut_copper_slab, cut_copper_stairs, exposed_cut_copper_stairs, weathered_cut_copper_stairs, oxidized_cut_copper_stairs</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%rx%</strong></span>
+</span> <strong>Alle gewachsten, geschnittenen Kupferblockerzeugnisse</strong><br />
+<em>waxed_cut_copper_slab, waxed_exposed_cut_copper_slab, waxed_weathered_cut_copper_slab, waxed_oxidized_cut_copper_slab, waxed_cut_copper_stairs, waxed_exposed_cut_copper_stairs, waxed_weathered_cut_copper_stairs, waxed_oxidized_cut_copper_stairs</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%ahj%</strong></span>
+</span> <strong>Alle Kupferleuchten</strong><br />
+<em>copper_bulb, exposed_copper_bulb, weathered_copper_bulb, oxidized_copper_bulb, waxed_copper_bulb, waxed_exposed_copper_bulb, waxed_weathered_copper_bulb, waxed_oxidized_copper_bulb</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%ahk%</strong></span>
+</span> <strong>Alle gemeißelten Kupferblöcke</strong><br />
+<em>chiseled_copper, exposed_chiseled_copper, weathered_chiseled_copper, oxidized_chiseled_copper, waxed_chiseled_copper, waxed_exposed_chiseled_copper, waxed_weathered_chiseled_copper, waxed_oxidized_chiseled_copper</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%ahl%</strong></span>
+</span> <strong>Alle Kupferrost-Blöcke</strong><br />
+<em>copper_grate, exposed_copper_grate, weathered_copper_grate, oxidized_copper_grate, waxed_copper_grate, waxed_exposed_copper_grate, waxed_weathered_copper_grate, waxed_oxidized_copper_grate</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%ahm%</strong></span>
+</span> <strong>Alle Kupfertüren</strong><br />
+<em>copper_door, exposed_copper_door, weathered_copper_door, oxidized_copper_door, waxed_copper_door, waxed_exposed_copper_door, waxed_weathered_copper_door, waxed_oxidized_copper_door</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%ahn%</strong></span>
+</span> <strong>Alle Kupferfalltüren</strong><br />
+<em>copper_trapdoor, exposed_copper_trapdoor, weathered_copper_trapdoor, oxidized_copper_trapdoor, waxed_copper_trapdoor, waxed_exposed_copper_trapdoor, waxed_weathered_copper_trapdoor, waxed_oxidized_copper_trapdoor</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%ano%</strong></span>
+</span> <strong>Alle Kupfergitter</strong><br />
+<em>copper_bars, exposed_copper_bars, weathered_copper_bars, oxidized_copper_bars, waxed_copper_bars, waxed_exposed_copper_bars, waxed_weathered_copper_bars, waxed_oxidized_copper_bars</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%anp%</strong></span>
+</span> <strong>Alle Kupferketten</strong><br />
+<em>copper_chain, exposed_copper_chain, weathered_copper_chain, oxidized_copper_chain, waxed_copper_chain, waxed_exposed_copper_chain, waxed_weathered_copper_chain, waxed_oxidized_copper_chain</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%anq%</strong></span>
+</span> <strong>Alle Kupferkisten</strong><br />
+<em>copper_chest, exposed_copper_chest, weathered_copper_chest, oxidized_copper_chest, waxed_copper_chest, waxed_exposed_copper_chest, waxed_weathered_copper_chest, waxed_oxidized_copper_chest</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%anr%</strong></span>
+</span> <strong>Alle Kupfergolemstatuen</strong><br />
+<em>copper_golem_statue, exposed_copper_golem_statue, weathered_copper_golem_statue, oxidized_copper_golem_statue, waxed_copper_golem_statue, waxed_exposed_copper_golem_statue, waxed_weathered_copper_golem_statue, waxed_oxidized_copper_golem_statue</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%vh%</strong></span>
+</span> <strong>Alle Kupferlaternen</strong><br />
+<em>copper_lantern, exposed_copper_lantern, weathered_copper_lantern, oxidized_copper_lantern, waxed_copper_lantern, waxed_exposed_copper_lantern, waxed_weathered_copper_lantern, waxed_oxidized_copper_lantern</em></p>
+<h3 id="dekorationen-und-sonstige-baublöcke">Dekorationen und sonstige Baublöcke</h3>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%sw%</strong></span>
+</span> <strong>Diverse Dekorationen</strong><br />
+<em>armor_stand, scaffolding, painting, item_frame, bell, chain, campfire, soul_campfire, cobweb, dragon_egg, lead, name_tag, flower_pot, glow_item_frame</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%vv%</strong></span>
+</span> <strong>Alle Dorfbewohner-Arbeitsplatzblöcke</strong><br />
+<em>blast_furnace, cartography_table, brewing_stand, composter, barrel, fletching_table, cauldron, lectern, stonecutter, loom, smithing_table, grindstone</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%xz%</strong></span>
+</span> <strong>Diverse Nutzblöcke (ohne Redstone)</strong><br />
+<em>crafting_table, ladder, chest, ender_chest, furnace, smoker, enchanting_table, anvil, chipped_anvil, damaged_anvil, jukebox, lodestone, respawn_anchor, conduit, end_crystal, beacon</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%sm%</strong></span>
+</span> <strong>Diverse Nutzblöcke</strong><br />
+<em>crafting_table, ladder, chest, trapped_chest, ender_chest, furnace, smoker, hopper, enchanting_table, anvil, chipped_anvil, damaged_anvil, jukebox, note_block, lodestone, respawn_anchor, conduit, end_crystal, beacon, lightning_rod, crafter</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%vz%</strong></span>
+</span> <strong>Fackeln + Laternen</strong><br />
+<em>torch, soul_torch, lantern, soul_lantern</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%aen%</strong></span>
+</span> <strong>Alle Lichtquellen</strong><br />
+<em>torch, soul_torch, lantern, soul_lantern, end_rod, glowstone, shroomlight, ochre_froglight, verdant_froglight, pearlescent_froglight, sea_lantern, redstone_lamp, copper_bulb, exposed_copper_bulb, weathered_copper_bulb, oxidized_copper_bulb, waxed_copper_bulb, waxed_exposed_copper_bulb, waxed_weathered_copper_bulb, waxed_oxidized_copper_bulb</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%wp%</strong></span>
+</span> <strong>Alle Kopfvarianten</strong></p>
+<div class="flex mb-6">
+    <div class="shrink-0 w-1.5 rounded-tl-lg rounded-bl-lg bg-callout-warning"></div>
+    <div class="flex w-full py-4 border border-l-0 rounded-tr-lg rounded-br-lg doc-callout bg-callout-base-bg border-callout-base-border" role="alert">
+        <div class="flex items-center ml-4 h-7">
+            <svg xmlns="http://www.w3.org/2000/svg" class="block text-callout-warning" width="22" height="22" viewBox="0 0 24 24" role="presentation">
+                <g fill="currentColor"><g>
+                    <path d="M22.48 15.59L14.01 1.45A2.968 2.968 0 0012.16.09c-.78-.19-1.58-.07-2.27.35-.41.25-.76.6-1.01 1.01v.01L.4 15.6c-.83 1.43-.33 3.27 1.1 4.1.45.26.95.4 1.48.4h16.95c.8-.01 1.55-.33 2.11-.9.56-.57.87-1.33.86-2.13a3.04 3.04 0 00-.42-1.48zm-1.87 2.21c-.19.19-.44.3-.69.3H2.99c-.17 0-.34-.05-.49-.13a.992.992 0 01-.37-1.35L10.6 2.48c.08-.14.2-.25.34-.33a.992.992 0 011.37.33l8.46 14.13c.09.15.13.32.13.49 0 .26-.1.51-.29.7z"></path>
+                    <path d="M11.45 12.1c.55 0 1-.45 1-1v-4c0-.55-.45-1-1-1s-1 .45-1 1v4c0 .56.45 1 1 1zM11.46 14.1c-.56 0-1 .45-1 1s.45 1 1 1 1-.45 1-1-.45-1-1-1z"></path>
+                </g></g>
+            </svg>
+        </div>
+        <div class="pr-5 ml-3 w-full">
+<p>Zu gesonderten Infos rund um <code translate="no" v-pre>player_head</code> kannst du <a href="https://wiki.openmc.net/craftbook-pipes/pipe-variablen/#k%C3%B6pfe">hier</a> vorbeischauen.</p>
+        </div>
+    </div>
+</div>
+<p><em>player_head, zombie_head, skeleton_skull, creeper_head, wither_skeleton_skull, dragon_head</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%vx%</strong></span>
+</span> <strong>Bücher + Bücherregale</strong><br />
+<em>paper, book, writable_book, written_book, bookshelf, chiseled_bookshelf</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%anl%</strong></span>
+</span> <strong>Alle Holzregale</strong><br />
+<em>acacia_shelf, bamboo_shelf, birch_shelf, spruce_shelf, cherry_shelf, crimson_shelf, dark_oak_shelf, jungle_shelf, mangrove_shelf, oak_shelf, pale_oak_shelf, warped_shelf</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%wi%</strong></span>
+</span> <strong>Bienennutzblöcke + Honig</strong><br />
+<em>bee_nest, beehive, honey_block, honeycomb, honeycomb_block, honey_bottle</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%aej%</strong></span>
+</span> <strong>Alle Sculk-Gegenstände</strong><br />
+<em>sculk, sculk_vein, sculk_catalyst, sculk_shrieker, sculk_sensor, calibrated_sculk_sensor</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%sz%</strong></span>
+</span> <strong>Alle Blitzableiter</strong><br />
+<em>lightning_rod, exposed_lightning_rod, weathered_lightning_rod, oxidized_lightning_rod, waxed_lightning_rod, waxed_exposed_lightning_rod, waxed_weathered_lightning_rod, waxed_oxidized_lightning_rod</em></p>
+<h3 id="werkzeuge">Werkzeuge</h3>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%yu%</strong></span>
+</span> <strong>Alle Spitzhacken</strong><br />
+<em>wooden_pickaxe, stone_pickaxe, copper_pickaxe, iron_pickaxe, golden_pickaxe, diamond_pickaxe, netherite_pickaxe</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%yv%</strong></span>
+</span> <strong>Alle Schaufeln</strong><br />
+<em>wooden_shovel, stone_shovel, copper_shovel, iron_shovel, golden_shovel, diamond_shovel, netherite_shovel</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%yw%</strong></span>
+</span> <strong>Alle Äxte</strong><br />
+<em>wooden_axe, stone_axe, copper_axe, iron_axe, golden_axe, diamond_axe, netherite_axe</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%yx%</strong></span>
+</span> <strong>Alle Hacken</strong><br />
+<em>wooden_hoe, stone_hoe, copper_hoe, iron_hoe, golden_hoe, diamond_hoe, netherite_hoe</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%uv%</strong></span>
+</span> <strong>Alle Holzwerkzeuge</strong><br />
+<em>wooden_pickaxe, wooden_shovel, wooden_axe, wooden_hoe</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%uw%</strong></span>
+</span> <strong>Alle Steinwerkzeuge</strong><br />
+<em>stone_pickaxe, stone_shovel, stone_axe, stone_hoe</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%anm%</strong></span>
+</span> <strong>Alle Kupferwerkzeuge</strong><br />
+<em>copper_pickaxe, copper_shovel, copper_axe, stone_hoe</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%ux%</strong></span>
+</span> <strong>Alle Eisenwerkzeuge</strong><br />
+<em>iron_pickaxe, iron_shovel, iron_axe, iron_hoe</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%uy%</strong></span>
+</span> <strong>Alle Goldwerkzeuge</strong><br />
+<em>golden_pickaxe, golden_shovel, golden_axe, golden_hoe</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%uz%</strong></span>
+</span> <strong>Alle Diamantwerkzeuge</strong><br />
+<em>diamond_pickaxe, diamond_shovel, diamond_axe, diamond_hoe</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%wu%</strong></span>
+</span> <strong>Alle Netheritewerkzeuge</strong><br />
+<em>netherite_pickaxe, netherite_shovel, netherite_axe, netherite_hoe</em></p>
+<h3 id="waffen-rüstungen">Waffen, Rüstungen</h3>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%yn%</strong></span>
+</span> <strong>Alle Lederrüstungsteile</strong><br />
+<em>leather_helmet, leather_chestplate, leather_leggings, leather_boots</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%yo%</strong></span>
+</span> <strong>Alle Kettenrüstungsteile</strong><br />
+<em>chainmail_helmet, chainmail_chestplate, chainmail_leggings, chainmail_boots</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%yp%</strong></span>
+</span> <strong>Alle Goldrüstungsteile</strong><br />
+<em>golden_helmet, golden_chestplate, golden_leggings, golden_boots</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%ann%</strong></span>
+</span> <strong>Alle Kupferrüstungsteile</strong><br />
+<em>copper_helmet, copper_chestplate, copper_leggings, copper_boots</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%yq%</strong></span>
+</span> <strong>Alle Eisenrüstungsteile</strong><br />
+<em>iron_helmet, iron_chestplate, iron_leggings, iron_boots</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%yr%</strong></span>
+</span> <strong>Alle Diamantrüstungsteile</strong><br />
+<em>diamond_helmet, diamond_chestplate, diamond_leggings, diamond_boots</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%ys%</strong></span>
+</span> <strong>Alle Netheriterüstungsteile</strong><br />
+<em>netherite_helmet, netherite_chestplate, netherite_leggings, netherite_boots</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%aag%</strong></span>
+</span> <strong>Alle Helme</strong><br />
+<em>leather_helmet, chainmail_helmet, golden_helmet, iron_helmet, diamond_helmet, netherite_helmet, turtle_helmet</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%aah%</strong></span>
+</span> <strong>Alle Brustplatten</strong><br />
+<em>leather_chestplate, chainmail_chestplate, golden_chestplate, iron_chestplate, diamond_chestplate, netherite_chestplate</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%aai%</strong></span>
+</span> <strong>Alle Hosen</strong><br />
+<em>leather_leggings, chainmail_leggings, golden_leggings, iron_leggings, diamond_leggings, netherite_leggings</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%aaj%</strong></span>
+</span> <strong>Alle Schuhe</strong><br />
+<em>leather_boots, chainmail_boots, golden_boots, iron_boots, diamond_boots, netherite_boots</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%yt%</strong></span>
+</span> <strong>Alle Schwerter</strong><br />
+<em>wooden_sword, stone_sword, copper_sword, iron_sword, golden_sword, diamond_sword, netherite_sword</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%anj%</strong></span>
+</span> <strong>Alle Speere</strong><br />
+<em>wooden_spear, stone_spear, copper_spear, golden_spear, iron_spear, diamond_spear, netherite_spear</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%wt%</strong></span>
+</span> <strong>Alle Waffen</strong><br />
+<em>wooden_sword, stone_sword, iron_sword, golden_sword, diamond_sword, netherite_sword, bow, crossbow, trident, flint_and_steel, shield, mace, wooden_spear, stone_spear, copper_spear, golden_spear, iron_spear, diamond_spear, netherite_spear</em></p>
+<h3 id="essen">Essen</h3>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%su%</strong></span>
+</span> <strong>Alle Nutz- und essbaren Pflanzen</strong><br />
+<em>apple, potato, baked_potato, poisonous_potato, carrot, golden_carrot, beetroot, beetroot_seeds, beetroot_soup, wheat, wheat_seeds, hay_block, bread, melon, melon_slice, glistering_melon_slice, pumpkin, carved_pumpkin, pumpkin_seeds, pumpkin_pie, jack_o_lantern, cocoa_beans, cookie, sweet_berries, kelp, dried_kelp, dried_kelp_block, chorus_flower, chorus_fruit, popped_chorus_fruit, glow_berries</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%wk%</strong></span>
+</span> <strong>Alle rohen Fleischarten</strong><br />
+<em>beef, chicken, porkchop, mutton, rabbit</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%wl%</strong></span>
+</span> <strong>Alle gebratenen Fleischarten</strong><br />
+<em>cooked_beef, cooked_chicken, cooked_porkchop, cooked_mutton, cooked_rabbit</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%wm%</strong></span>
+</span> <strong>Alle Fischarten</strong><br />
+<em>cod, cooked_cod, salmon, cooked_salmon, pufferfish, tropical_fish</em></p>
+<h3 id="mineralien">Mineralien</h3>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%ry%</strong></span>
+</span> <strong>Alle Erze</strong><br />
+<em>diamond_ore, iron_ore, lapis_ore, coal_ore, gold_ore, emerald_ore, redstone_ore, nether_quartz_ore, nether_gold_ore, ancient_debris, gilded_blackstone, copper_ore, deepslate_coal_ore, deepslate_iron_ore, deepslate_copper_ore, deepslate_gold_ore, deepslate_redstone_ore, deepslate_emerald_ore, deepslate_lapis_ore, deepslate_diamond_ore</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%sj%</strong></span>
+</span> <strong>Alle Tiefenschiefererze</strong><br />
+<em>deepslate_coal_ore, deepslate_iron_ore, deepslate_copper_ore, deepslate_gold_ore, deepslate_redstone_ore, deepslate_emerald_ore, deepslate_lapis_ore, deepslate_diamond_ore</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%st%</strong></span>
+</span> <strong>Alle Mineralien</strong><br />
+<em>coal, charcoal, iron_nugget, iron_ingot, lapis_lazuli, gold_nugget, gold_ingot, redstone, diamond, emerald, netherite_scrap, netherite_ingot, copper_ingot, raw_copper, raw_gold, raw_iron</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%rs%</strong></span>
+</span> <strong>Alle Mineralblöcke</strong><br />
+<em>coal_block, iron_block, lapis_block, iron_block, gold_block, redstone_block, diamond_block, emerald_block, netherite_block, copper_block, raw_copper_block, raw_gold_block, raw_iron_block</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%rp%</strong></span>
+</span> <strong>Amethyst</strong><br />
+<em>amethyst_block, small_amethyst_bud, medium_amethyst_bud, large_amethyst_bud, amethyst_cluster, amethyst_shard</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%ul%</strong></span>
+</span> <strong>Kohle</strong><br />
+<em>coal_ore, coal, charcoal, coal_block, deepslate_coal_ore</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%um%</strong></span>
+</span> <strong>Eisen</strong><br />
+<em>iron_ore, iron_nugget, iron_ingot, raw_iron, iron_block, raw_iron_block, deepslate_iron_ore</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%un%</strong></span>
+</span> <strong>Kupfer</strong><br />
+<em>copper_ore, copper_ingot, raw_copper, copper_block, raw_copper_block, deepslate_copper_ore</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%uo%</strong></span>
+</span> <strong>Gold</strong><br />
+<em>gold_ore, nether_gold_ore, gold_nugget, gold_ingot, raw_gold, gold_block, raw_gold_block, deepslate_gold_ore</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%up%</strong></span>
+</span> <strong>Redstone</strong><br />
+<em>redstone_ore, redstone, redstone_block, deepslate_redstone_ore</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%uq%</strong></span>
+</span> <strong>Smaragd</strong><br />
+<em>emerald_ore, emerald, emerald_block, deepslate_emerald_ore</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%ur%</strong></span>
+</span> <strong>Lapislazuli</strong><br />
+<em>lapis_ore, lapis_lazuli, lapis_block, deepslate_lapis_ore</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%us%</strong></span>
+</span> <strong>Diamant</strong><br />
+<em>diamond_ore, diamond, diamond_block, deepslate_diamond_ore</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%ut%</strong></span>
+</span> <strong>Netherit</strong><br />
+<em>ancient_debris, netherite_scrap, netherite_ingot, netherite_block</em></p>
+<h3 id="mob-drops">Mob Drops</h3>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%xb%</strong></span>
+</span> <strong>Alle Monster-Drops</strong><br />
+<em>rotten_flesh, gunpowder, arrow, bone, slime_ball, string, spider_eye, nautilus_shell, blaze_rod, ender_pearl, ghast_tear, totem_of_undying, magma_cream, shulker_shell, nether_star, phantom_membrane, breeze_rod</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%xc%</strong></span>
+</span> <strong>Alle Tier-Drops</strong><br />
+<em>egg, feather, leather, ink_sac, rabbit_hide, rabbit_foot, glow_ink_sac</em></p>
+<h3 id="andere-items">Andere Items</h3>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%sq%</strong></span>
+</span> <strong>Alle Eimer</strong><br />
+<em>bucket, water_bucket, lava_bucket, milk_bucket, pufferfish_bucket, salmon_bucket, cod_bucket, tropical_fish_bucket, axolotl_bucket, powder_snow_bucket</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%yk%</strong></span>
+</span> <strong>Alle Schallplatten</strong><br />
+<em>music_disc_wait, music_disc_cat, music_disc_13, music_disc_blocks, music_disc_chirp, music_disc_far, music_disc_mall, music_disc_11, music_disc_strad, music_disc_stal, music_disc_mellohi, music_disc_pigstep, music_disc_ward, music_disc_relic, music_disc_precipice, music_disc_creator, music_disc_creator_music_box, music_disc_otherside</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%ws%</strong></span>
+</span> <strong>Uhr, Kompass, Karten</strong><br />
+<em>clock, compass, map, filled_map</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%pz%</strong></span>
+</span> <strong>Pferderüstungen + Sattel</strong><br />
+<em>leather_horse_armor, iron_horse_armor, diamond_horse_armor, golden_horse_armor, saddle</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%akd%</strong></span>
+</span>  <strong>Alle Geschirre</strong><br />
+<em>white_harness, light_gray_harness, gray_harness, black_harness, brown_harness, red_harness, orange_harness, yellow_harness, lime_harness, green_harness, cyan_harness, light_blue_harness, blue_harness, purple_harness, magenta_harness, pink_harness</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%ank%</strong></span>
+</span>  <strong>Alle Nautiluspanzer</strong><br />
+<em>iron_nautilus_armor, copper_nautilus_armor, gold_nautilus_armor, diamond_nautilus_armor, netherite_nautilus_armor</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%aaf%</strong></span>
+</span> <strong>Alle Ofenerzeugnisse</strong><br />
+<em>porkchop, beef, chicken, cod, salmon, potato, mutton, rabbit, kelp, raw_copper, raw_iron, raw_gold, nether_gold_ore, ancient_debris, copper_ore, diamond_ore, gold_ore, iron_ore, lapis_ore, redstone_ore, coal_ore, emerald_ore, nether_quartz_ore, iron_pickaxe, iron_shovel, iron_axe, iron_hoe, golden_pickaxe, golden_shovel, golden_axe, golden_hoe, chainmail_helmet, chainmail_chestplate, chainmail_leggings, chainmail_boots, golden_helmet, golden_chestplate, golden_leggings, golden_boots, iron_helmet, iron_chestplate, iron_leggings, iron_boots, iron_sword, golden_sword, iron_horse_armor, golden_horse_armor, sand, red_sand, cobblestone, sandstone, red_sandstone, stone, quartz_block, clay_ball, netherrack, nether_bricks, basalt, clay, stone_bricks, polished_blackstone_bricks, cobbled_deepslate, deepslate_bricks, deepslate_tiles, black_terracotta, blue_terracotta, brown_terracotta, cyan_terracotta, gray_terracotta, green_terracotta, light_blue_terracotta, light_gray_terracotta, lime_terracotta, magenta_terracotta, orange_terracotta, pink_terracotta, purple_terracotta, red_terracotta, white_terracotta, yellow_terracotta, cactus, oak_log, spruce_log, birch_log, jungle_log, acacia_log, dark_oak_log, crimson_stem, warped_stem, mangrove_log, oak_wood, spruce_wood, birch_wood, jungle_wood, acacia_wood, dark_oak_wood, mangrove_wood, crimson_hyphae, warped_hyphae, stripped_oak_log, stripped_spruce_log, stripped_birch_log, stripped_acacia_log, stripped_jungle_log, stripped_dark_oak_log, stripped_crimson_stem, stripped_warped_stem, stripped_mangrove_log, stripped_oak_wood, stripped_spruce_wood, stripped_birch_wood, stripped_acacia_wood, stripped_jungle_wood, stripped_dark_oak_wood, stripped_crimson_hyphae, stripped_warped_hyphae, stripped_mangrove_wood, chorus_fruit, wet_sponge, sea_pickle, deepslate_copper_ore, deepslate_diamond_ore, deepslate_emerald_ore, deepslate_gold_ore, deepslate_iron_ore, deepslate_lapis_ore, deepslate_redstone_ore</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%aad%</strong></span>
+</span> <strong>Alle Räucherofenerzeugnisse</strong><br />
+<em>porkchop, beef, chicken, cod, salmon, potato, mutton, rabbit, kelp</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%aae%</strong></span>
+</span> <strong>Alle Schmelzofenerzeugnisse</strong><br />
+<em>raw_copper, raw_iron, _raw_gold, nether_gold_ore, ancient_debris, copper_ore, diamond_ore, gold_ore, iron_ore, lapis_ore, redstone_ore, coal_ore, emerald_ore, nether_quartz_ore, iron_pickaxe, iron_shovel, iron_axe, iron_hoe, golden_pickaxe, golden_shovel, golden_axe, golden_hoe, chainmail_helmet, chainmail_chestplate, chainmail_leggings, chainmail_boots, golden_helmet, golden_chestplate, golden_leggings, golden_boots, iron_helmet, iron_chestplate, iron_leggings, iron_boots, iron_sword, golden_sword, iron_horse_armor, golden_horse_armor, deepslate_copper_ore, deepslate_diamond_ore, deepslate_emerald_ore, deepslate_gold_ore, deepslate_iron_ore, deepslate_lapis_ore, deepslate_redstone_ore</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%aeh%</strong></span>
+</span> <strong>Alle Schmiedevorlagen</strong><br />
+<em>netherite_upgrade_smithing_template, sentry_armor_trim_smithing_template, vex_armor_trim_smithing_template, wild_armor_trim_smithing_template, coast_armor_trim_smithing_template, dune_armor_trim_smithing_template, wayfinder_armor_trim_smithing_template, raiser_armor_trim_smithing_template, shaper_armor_trim_smithing_template, host_armor_trim_smithing_template, ward_armor_trim_smithing_template, silence_armor_trim_smithing_template, tide_armor_trim_smithing_template, snout_armor_trim_smithing_template, rib_armor_trim_smithing_template, eye_armor_trim_smithing_template, spire_armor_trim_smithing_template, flow_armor_trim_smithing_template, bolt_armor_trim_smithing_template</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%aei%</strong></span>
+</span> <strong>Alle Töpferscherben</strong><br />
+<em>angler_pottery_sherd, miner_pottery_sherd, brewer_pottery_sherd, explorer_pottery_sherd, burn_pottery_sherd, friend_pottery_sherd, sheaf_pottery_sherd, arms_up_pottery_sherd, danger_pottery_sherd, howl_pottery_sherd, heart_pottery_sherd, heartbreak_pottery_sherd, prize_pottery_sherd, blade_pottery_sherd, plenty_pottery_sherd, snort_pottery_sherd, archer_pottery_sherd, skull_pottery_sherd, mourner_pottery_sherd, shelter_pottery_sherd, flow_pottery_sherd, guster_pottery_sherd, scrape_pottery_sherd</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%har%</strong></span>
+</span> <strong>Alle Harz Erzeugnisse</strong><br />
+<em>creaking_heart, resin_clump, resin_brick, resin_block, resin_bricks, chiseled_resin_bricks, resin_brick_stairs, resin_brick_slap, resin_brick_wall</em></p>
+<p><span class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-secondary-text bg-badge-secondary border border-badge-secondary-border h-6 px-2 text-xs rounded-md">
+    <span><strong>%bun%</strong></span>
+</span> <strong>Alle Bündel</strong><br />
+<em>bundle, white_bundle, light_gray_bundle, gray_bundle, black_bundle, brown_bundle, red_bundle, orange_bundle, yellow_bundle, lime_bundle, green_bundle, light_blue_bundle, cyan_bundle, blue_bundle, purple_bundle, magenta_bundle, pink_bundle</em></p>
+
+                
+                <!-- Required only on API pages -->
+                <doc-toolbar-member-filter-no-results></doc-toolbar-member-filter-no-results>
+            </div>
+            <footer id="retype-content-footer" class="clear-both">
+            
+                <nav id="retype-nextprev" class="print:hidden flex mt-14">
+                    <div class="w-1/2">
+                        <a class="px-5 py-4 h-full flex items-center break-normal font-medium text-body-link border border-base-border hover:border-base-border-hover rounded-l-lg transition-colors duration-150 relative hover:z-5" href="../../craftbook-pipes/pipe-variablen/">
+                            <svg xmlns="http://www.w3.org/2000/svg" class="mr-3" width="24" height="24" viewBox="0 0 24 24" fill="currentColor" overflow="visible"><path d="M19 11H7.41l5.29-5.29a.996.996 0 10-1.41-1.41l-7 7a1 1 0 000 1.42l7 7a1.024 1.024 0 001.42-.01.996.996 0 000-1.41L7.41 13H19c.55 0 1-.45 1-1s-.45-1-1-1z" /><path fill="none" d="M0 0h24v24H0z" /></svg>
+                            <span>
+                                <span class="block text-xs font-normal text-base-text-muted">Vorheriger</span>
+                                <span class="block mt-1">Pipe-​Variablen</span>
+                            </span>
+                        </a>
+                    </div>
+            
+                    <div class="w-1/2">
+                        <a class="px-5 py-4 -mx-px h-full flex items-center justify-end break-normal font-medium text-body-link border border-base-border hover:border-base-border-hover rounded-r-lg transition-colors duration-150 relative hover:z-5" href="../../besondere-funktionen/customcrafting/">
+                            <span>
+                                <span class="block text-xs font-normal text-right text-base-text-muted">Nächster</span>
+                                <span class="block mt-1">Custom​Crafting</span>
+                            </span>
+                            <svg xmlns="http://www.w3.org/2000/svg" class="ml-3" width="24" height="24" viewBox="0 0 24 24" fill="currentColor" overflow="visible"><path d="M19.92 12.38a1 1 0 00-.22-1.09l-7-7a.996.996 0 10-1.41 1.41l5.3 5.3H5c-.55 0-1 .45-1 1s.45 1 1 1h11.59l-5.29 5.29a.996.996 0 000 1.41c.19.2.44.3.7.3s.51-.1.71-.29l7-7c.09-.09.16-.21.21-.33z" /><path fill="none" d="M0 0h24v24H0z" /></svg>
+                        </a>
+                    </div>
+                </nav>
+            </footer>
+        </main>
+
+        <div id="retype-page-footer" class="print:border-none border-t border-base-border pt-6 mb-8">
+            <footer class="flex flex-wrap items-center justify-between print:justify-center">
+                <div id="retype-footer-links" class="print:hidden">
+                    <ul class="flex flex-wrap items-center text-sm">
+                        <li>
+                            <a class="block mr-4 py-2 text-sm whitespace-nowrap transition-colors duration-200 ease-linear text-footer-link hover:text-footer-link-hover md:mb-0" href="https://teamwiki.openmc.net/">Internes Teamwiki</a>
+                        </li>
+                        <li>
+                            <a class="block mr-4 py-2 text-sm whitespace-nowrap transition-colors duration-200 ease-linear text-footer-link hover:text-footer-link-hover md:mb-0" href="https://openmc.net/impressum/">Impressum</a>
+                        </li>
+                        <li>
+                            <a class="block mr-4 py-2 text-sm whitespace-nowrap transition-colors duration-200 ease-linear text-footer-link hover:text-footer-link-hover md:mb-0" href="https://openmc.net/datenschutzerklaerung/">Datenschutzerklärung</a>
+                        </li>
+                    </ul>
+                </div>
+                <div id="retype-copyright" class="print:justify-center py-2 text-footer-text font-footer-link text-sm leading-relaxed"><p>OpenMC Wiki © 2026 ist lizensiert unter <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.de">CC BY-NC-ND 4.0</a>. OpenMC.net steht nicht in Verbindung mit Mojang Studios oder Minecraft®.</p></div>
+            </footer>
+        </div>
+    </div>
+
+    <!-- Rendered if sidebar right is enabled -->
+    <!-- Sidebar right skeleton-->
+    <div v-cloak class="fixed top-0 bottom-0 right-0 translate-x-full bg-sidebar-right-bg border-sidebar-right-border lg:sticky lg:border-l lg:shrink-0 lg:pt-6 lg:translate-x-0 sm:w-1/2 lg:w-64 lg:z-0 md:w-104 sidebar-right skeleton">
+        <div class="pl-5">
+            <div class="w-32 h-3 mb-4 bg-skeleton-bg rounded-full loading"></div>
+            <div class="w-48 h-3 mb-4 bg-skeleton-bg rounded-full loading"></div>
+            <div class="w-40 h-3 mb-4 bg-skeleton-bg rounded-full loading"></div>
+        </div>
+    </div>
+
+    <!-- User should be able to hide sidebar right -->
+    <doc-sidebar-right v-cloak></doc-sidebar-right>
+</div>
+
+        </div>
+    </div>
+
+    <doc-search-mobile></doc-search-mobile>
+    <doc-back-to-top></doc-back-to-top>
+</div>
+
+
+    <div id="retype-overlay-target"></div>
+
+        <script data-cfasync="false">window.__DOCS__ = { "title": "Pipe-Sammelvariablen", level: 2, icon: "file", hasPrism: false, hasInstagram: false, hasMermaid: false, hasMath: false, tocDepth: 23, "md": "/craftbook-pipes/pipe-sammelvariablen.md" }</script>
+</body>
+</html>

@@ -1,0 +1,10034 @@
+<!DOCTYPE html>
+<html lang="de" class="h-full">
+<head>
+    <script defer data-domain="domain1.com,domain2.com" src="https://plausible.example.com/js/script.js"></script>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta name="color-scheme" content="light dark">
+    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="4.5.3.829681137088">
+
+    <!-- See retype.com -->
+    <meta name="generator" content="Retype 4.5.3">
+
+    <!-- Primary Meta Tags -->
+    <title>Pipe-Variablen  | OpenMC Wiki</title>
+    <meta name="title" content="Pipe-Variablen  | OpenMC Wiki">
+    <meta name="description" content="Pipe-Variablen ermöglichen es dir, mit besonders kurzen Schreibweisen mehrere Items auf ein Pipe-Schild zu schreiben. Auf dieser Seite findest du die Variablen für einzelne Items.">
+
+    <!-- Canonical -->
+    <link rel="canonical" href="https://wiki.openmc.net/craftbook-pipes/pipe-variablen/">
+    <link rel="sitemap" type="application/xml" title="Sitemap" href="https://wiki.openmc.net/sitemap.xml">
+
+    <!-- Open Graph -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://wiki.openmc.net/craftbook-pipes/pipe-variablen/">
+    <meta property="og:title" content="Pipe-Variablen  | OpenMC Wiki">
+    <meta property="og:description" content="Pipe-Variablen ermöglichen es dir, mit besonders kurzen Schreibweisen mehrere Items auf ein Pipe-Schild zu schreiben. Auf dieser Seite findest du die Variablen für einzelne Items.">
+    <meta property="og:site_name" content="Wiki">
+    <meta property="og:locale" content="de_DE">
+
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:url" content="https://wiki.openmc.net/craftbook-pipes/pipe-variablen/">
+    <meta name="twitter:title" content="Pipe-Variablen  | OpenMC Wiki">
+    <meta name="twitter:description" content="Pipe-Variablen ermöglichen es dir, mit besonders kurzen Schreibweisen mehrere Items auf ein Pipe-Schild zu schreiben. Auf dieser Seite findest du die Variablen für einzelne Items.">
+
+    <!-- Alternate Markdown -->
+    <link rel="alternate" type="text/markdown" href="https://wiki.openmc.net/craftbook-pipes/pipe-variablen.md">
+
+    <script data-cfasync="false">(function(){var cl=document.documentElement.classList,ls=localStorage.getItem("retype_scheme"),hd=cl.contains("dark"),hl=cl.contains("light"),wm=window.matchMedia&&window.matchMedia("(prefers-color-scheme: dark)").matches;if(ls==="dark"||(!ls&&wm&&!hd&&!hl)){cl.remove("light");cl.add("dark")}else if(ls==="light"||(!ls&&!wm&&!hd&&!hl)){cl.remove("dark");cl.add("light")}})();</script>
+
+    <link id="retype-favicon" rel="icon" href="../../images/favicon.png" />
+    <link href="../../resources/css/retype.css?v=4.5.3.829681137088" rel="stylesheet">
+
+    <script data-cfasync="false" src="../../resources/js/config.js?v=4.5.3.829681137088" data-turbo-eval="false" defer></script>
+    <script data-cfasync="false" src="../../resources/js/retype.js?v=4.5.3" data-turbo-eval="false" defer></script>
+    <script id="lunr-js" data-cfasync="false" src="../../resources/js/lunr.js?v=4.5.3.829681137088" data-turbo-eval="false" defer></script>
+</head>
+<body>
+    <div id="retype-app" class="relative text-base antialiased text-base-text bg-base-bg font-body">
+    <div class="absolute bottom-0 left-0" style="top: 5rem; right: 50%"></div>
+
+    <header id="retype-header" class="sticky top-0 z-30 flex w-full h-16 bg-header-bg border-b border-header-border md:h-20">
+        <div class="container relative flex items-center justify-between pr-6 grow md:justify-start">
+            <!-- Mobile menu button skeleton -->
+            <button v-cloak class="skeleton retype-mobile-menu-button flex items-center justify-center shrink-0 overflow-hidden dark:text-white focus:outline-hidden rounded-full w-10 h-10 ml-3.5 md:hidden"><svg xmlns="http://www.w3.org/2000/svg" class="mb-px shrink-0" width="24" height="24" viewBox="0 0 24 24" role="presentation" style="margin-bottom: 0px;"><g fill="currentColor"><path d="M2 4h20v2H2zM2 11h20v2H2zM2 18h20v2H2z"></path></g></svg></button>
+            <div v-cloak id="retype-sidebar-left-toggle-button"></div>
+    
+            <!-- Logo -->
+            <div class="flex items-center justify-between h-full py-2 md:w-75">
+                <div class="flex items-center px-2 md:px-6">
+                    <a id="retype-branding-logo" href="https://wiki.openmc.net/" class="flex items-center leading-snug text-2xl">
+                        <span class="w-10 mr-2 grow-0 shrink-0 overflow-hidden">
+                            <img class="max-h-10 dark:hidden md:inline-block" src="../../images/logo_text_schwarz.png" alt="" width="40" height="40">
+                            <img class="max-h-10 hidden dark:inline-block" src="../../images/logo_text_weiß.png" alt="" width="40" height="40">
+                        </span>
+                        <span class="dark:text-white font-bold line-clamp-1 md:line-clamp-2">Wiki</span>
+                    </a>
+                </div>
+    
+                <span class="hidden h-8 border-r md:inline-block border-base-border"></span>
+            </div>
+    
+            <div class="flex justify-between md:grow">
+                <!-- Top Nav -->
+                <nav id="retype-header-nav" class="hidden md:flex">
+                    <ul class="flex flex-col mb-4 md:pl-16 md:mb-0 md:flex-row md:items-center">
+                        <li class="mr-6">
+                            <a class="py-2 md:mb-0 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-header-text font-header-text hover:text-header-text-hover" href="https://openmc.net/">Website</a>
+                        </li>
+                        <li class="mr-6">
+                            <a class="py-2 md:mb-0 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-header-text font-header-text hover:text-header-text-hover" href="https://openmc.net/forum/">Forum</a>
+                        </li>
+                        <li class="mr-6">
+                            <a class="py-2 md:mb-0 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-header-text font-header-text hover:text-header-text-hover" href="https://map.openmc.net/">Livemap</a>
+                        </li>
+                        <li class="mr-6">
+                            <a class="py-2 md:mb-0 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-header-text font-header-text hover:text-header-text-hover" href="https://discord.com/invite/ecqPF34">Discord</a>
+                        </li>
+                        <li class="mr-6">
+                            <a class="py-2 md:mb-0 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-header-text font-header-text hover:text-header-text-hover" href="https://instagram.com/openmc/">Instagram</a>
+                        </li>
+    
+                    </ul>
+                </nav>
+    
+                <div v-cloak class="flex justify-end grow">
+                    <div id="retype-mobile-search-button"></div>
+                    <doc-search-desktop></doc-search-desktop>
+    
+                    <doc-theme-switch class="lg:ml-2"></doc-theme-switch>
+                    <doc-history></doc-history>
+                </div>
+            </div>
+        </div>
+    </header>
+
+
+    <div id="retype-container" class="container relative flex bg-white">
+        <!-- Sidebar Skeleton -->
+        <div v-cloak class="fixed flex flex-col shrink-0 duration-300 ease-in-out bg-sidebar-left-bg border-sidebar-left-border sidebar top-20 w-75 border-r h-screen md:sticky transition-transform skeleton">
+        
+            <div class="flex items-center h-16 px-6">
+                <input id="retype-filter-input-mock" class="w-full h-10 pl-8 px-3 py-2 transition-colors duration-200 ease-linear bg-filter-bg border border-filter-border rounded-lg shadow-none md:text-sm hover:border-filter-border-hover focus:outline-hidden focus:border-filter-border-focus placeholder-filter-placeholder" type="text">
+            </div>
+        
+            <div class="pl-6 mt-1 mb-4">
+                <div class="w-32 h-3 mb-4 bg-skeleton-bg rounded-full loading"></div>
+                <div class="w-48 h-3 mb-4 bg-skeleton-bg rounded-full loading"></div>
+                <div class="w-40 h-3 mb-4 bg-skeleton-bg rounded-full loading"></div>
+                <div class="w-32 h-3 mb-4 bg-skeleton-bg rounded-full loading"></div>
+                <div class="w-48 h-3 mb-4 bg-skeleton-bg rounded-full loading"></div>
+                <div class="w-40 h-3 mb-4 bg-skeleton-bg rounded-full loading"></div>
+            </div>
+        
+            <div class="shrink-0 mt-auto bg-transparent dark:border-base-border">
+                <a class="flex items-center justify-center flex-nowrap h-16 text-gray-350 dark:text-dark-400 hover:text-gray-600 dark:hover:text-dark-300 transition-colors duration-150 ease-in docs-powered-by" target="_blank" href="https://retype.com/" rel="noopener">
+                    <span class="text-xs whitespace-nowrap">Powered by</span>
+                    <svg xmlns="http://www.w3.org/2000/svg" class="ml-2" fill="currentColor" width="96" height="20" overflow="visible"><path d="M0 0v20h13.59V0H0zm11.15 17.54H2.44V2.46h8.71v15.08zM15.8 20h2.44V4.67L15.8 2.22zM20.45 6.89V20h2.44V9.34z"/><g><path d="M40.16 8.44c0 1.49-.59 2.45-1.75 2.88l2.34 3.32h-2.53l-2.04-2.96h-1.43v2.96h-2.06V5.36h3.5c1.43 0 2.46.24 3.07.73s.9 1.27.9 2.35zm-2.48 1.1c.26-.23.38-.59.38-1.09 0-.5-.13-.84-.4-1.03s-.73-.28-1.39-.28h-1.54v2.75h1.5c.72 0 1.2-.12 1.45-.35zM51.56 5.36V7.2h-4.59v1.91h4.13v1.76h-4.13v1.92h4.74v1.83h-6.79V5.36h6.64zM60.09 7.15v7.48h-2.06V7.15h-2.61V5.36h7.28v1.79h-2.61zM70.81 14.64h-2.06v-3.66l-3.19-5.61h2.23l1.99 3.45 1.99-3.45H74l-3.19 5.61v3.66zM83.99 6.19c.65.55.97 1.4.97 2.55s-.33 1.98-1 2.51-1.68.8-3.04.8h-1.23v2.59h-2.06V5.36h3.26c1.42 0 2.45.28 3.1.83zm-1.51 3.65c.25-.28.37-.69.37-1.22s-.16-.92-.48-1.14c-.32-.23-.82-.34-1.5-.34H79.7v3.12h1.38c.68 0 1.15-.14 1.4-.42zM95.85 5.36V7.2h-4.59v1.91h4.13v1.76h-4.13v1.92H96v1.83h-6.79V5.36h6.64z"/></g></svg>
+                </a>
+            </div>
+        </div>
+        
+        <!-- Sidebar component -->
+        <doc-sidebar v-cloak>
+            <template #sidebar-footer>
+                <div class="shrink-0 mt-auto border-t md:bg-transparent md:border-none dark:border-base-border">
+        
+                    <div class="py-3 px-6 md:hidden border-b dark:border-base-border">
+                        <nav>
+                            <ul class="flex flex-wrap justify-center items-center">
+                                <li class="mr-6">
+                                    <a class="block py-1 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-header-text font-header-text hover:text-header-text-hover" href="https://openmc.net/">Website</a>
+                                </li>
+                                <li class="mr-6">
+                                    <a class="block py-1 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-header-text font-header-text hover:text-header-text-hover" href="https://openmc.net/forum/">Forum</a>
+                                </li>
+                                <li class="mr-6">
+                                    <a class="block py-1 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-header-text font-header-text hover:text-header-text-hover" href="https://map.openmc.net/">Livemap</a>
+                                </li>
+                                <li class="mr-6">
+                                    <a class="block py-1 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-header-text font-header-text hover:text-header-text-hover" href="https://discord.com/invite/ecqPF34">Discord</a>
+                                </li>
+                                <li class="mr-6">
+                                    <a class="block py-1 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-header-text font-header-text hover:text-header-text-hover" href="https://instagram.com/openmc/">Instagram</a>
+                                </li>
+        
+                            </ul>
+                        </nav>
+                    </div>
+        
+                    <a class="flex items-center justify-center flex-nowrap h-16 text-gray-350 dark:text-dark-400 hover:text-gray-600 dark:hover:text-dark-300 transition-colors duration-150 ease-in docs-powered-by" target="_blank" href="https://retype.com/" rel="noopener">
+                        <span class="text-xs whitespace-nowrap">Powered by</span>
+                        <svg xmlns="http://www.w3.org/2000/svg" class="ml-2" fill="currentColor" width="96" height="20" overflow="visible"><path d="M0 0v20h13.59V0H0zm11.15 17.54H2.44V2.46h8.71v15.08zM15.8 20h2.44V4.67L15.8 2.22zM20.45 6.89V20h2.44V9.34z"/><g><path d="M40.16 8.44c0 1.49-.59 2.45-1.75 2.88l2.34 3.32h-2.53l-2.04-2.96h-1.43v2.96h-2.06V5.36h3.5c1.43 0 2.46.24 3.07.73s.9 1.27.9 2.35zm-2.48 1.1c.26-.23.38-.59.38-1.09 0-.5-.13-.84-.4-1.03s-.73-.28-1.39-.28h-1.54v2.75h1.5c.72 0 1.2-.12 1.45-.35zM51.56 5.36V7.2h-4.59v1.91h4.13v1.76h-4.13v1.92h4.74v1.83h-6.79V5.36h6.64zM60.09 7.15v7.48h-2.06V7.15h-2.61V5.36h7.28v1.79h-2.61zM70.81 14.64h-2.06v-3.66l-3.19-5.61h2.23l1.99 3.45 1.99-3.45H74l-3.19 5.61v3.66zM83.99 6.19c.65.55.97 1.4.97 2.55s-.33 1.98-1 2.51-1.68.8-3.04.8h-1.23v2.59h-2.06V5.36h3.26c1.42 0 2.45.28 3.1.83zm-1.51 3.65c.25-.28.37-.69.37-1.22s-.16-.92-.48-1.14c-.32-.23-.82-.34-1.5-.34H79.7v3.12h1.38c.68 0 1.15-.14 1.4-.42zM95.85 5.36V7.2h-4.59v1.91h4.13v1.76h-4.13v1.92H96v1.83h-6.79V5.36h6.64z"/></g></svg>
+                    </a>
+                </div>
+            </template>
+        </doc-sidebar>
+
+        <div class="grow min-w-0 bg-body-bg">
+            <!-- Render "toolbar" template here on api pages --><!-- Render page content -->
+<div class="flex">
+    <div id="retype-main" class="min-w-0 p-4 grow md:px-16">
+        <main class="relative pb-12 lg:pt-2">
+            <div class="relative retype-markdown" id="retype-content">
+                <!-- Rendered if sidebar right is enabled -->
+                <div id="retype-sidebar-right-toggle"></div>
+                <doc-page-actions></doc-page-actions>
+
+                <!-- Page content  -->
+<h1 id="pipe-variablen">Pipe-Variablen <a href="https://tally.so/r/WO8gxJ" target="_blank" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none cursor-pointer transition-colors duration-200 ease-out focus:outline-hidden bg-button-success hover:bg-button-success-hover text-button-success-text px-2.5 h-6 text-xs rounded">
+    <span class="docs-emoji mr-2">&#x1F4A1;</span>
+    <span>Feedback geben</span>
+</a></h1>
+<p>Pipe-Variablen ermöglichen es dir, mit besonders kurzen Schreibweisen mehrere Items auf ein Pipe-Schild zu schreiben.<br />
+Auf dieser Seite findest du die Variablen für einzelne Items. Möchtest du stattdessen mehrere Items mit einer Variable zusammenfassen, sieh dir die Seite <a href="../pipe-sammelvariablen/">Pipe-Sammelvariablen</a> an.</p>
+<hr>
+<h2 id="variablen-im-spiel-abrufen">Variablen im Spiel abrufen</h2>
+<p>Es ist möglich, alle Variablen auch in Minecraft abzurufen. Folgende Befehle stehen dafür zur Verfügung:</p>
+<p><code translate="no" v-pre>/pipeid</code><br />
+Zeigt alle möglichen Variablen für ein Item im Chat an. Dazu muss das Item bei der Eingabe des Befehls in der Hand gehalten werden. Die Variablen können sowohl durch Anklicken in die Zwischenablage kopiert werden, als auch durch Klick auf “Schild erstellen” ein entsprechendes Schild erstellt werden. Zum Platzieren muss anschließend der Schildbearbeitungsmodus mit <code translate="no" v-pre>/sign</code> aktiviert werden.</p>
+<p><code translate="no" v-pre>/pipeid &lt;suchbegriff&gt;</code><br />
+Zeigt die Variablen für ein spezifisches Item an, welches sich nicht im Inventar befinden muss. Es werden sowohl englische als auch deutsche Itemnamen akzeptiert. Achtung: Bei englischen Namen muss dieser in Form der “Minecraft-ID” eingeben werden. Beispielsweise führt “melon_slice” zu einem Ergebnis, aber “melon slice” nicht. Bei den deutschen Namen dürfen keine Unterstriche verwendet werden. Wenn sich das Fenster nach der Suche öffnet, einfach das gewünschte Item anklicken und die Variablen werden wie oben im Chat angezeigt.</p>
+<p><code translate="no" v-pre>/pipesign &lt;item&gt;</code><br />
+Erstellt direkt ein Schild mit der passenden Pipe-ID, welches im Schildbearbeitungsmodus (<code translate="no" v-pre>/sign</code>) an einer Pipe platziert werden kann.</p>
+<hr>
+<h2 id="liste-der-variablen">Liste der Variablen</h2>
+<p>Nachfolgend findest du eine Auflistung aller Pipe-Variablen auf OpenMC. Je nach Bedarf kannst du die verschiedenen Variablenlängen verwenden.</p>
+<div class="flex mb-6">
+    <div class="shrink-0 w-1.5 rounded-tl-lg rounded-bl-lg bg-callout-primary"></div>
+    <div class="flex w-full py-4 border border-l-0 rounded-tr-lg rounded-br-lg doc-callout bg-callout-base-bg border-callout-base-border" role="alert">
+        <div class="flex items-center ml-4 h-7">
+            <svg xmlns="http://www.w3.org/2000/svg" class="block text-callout-primary" width="22" height="22" viewBox="0 0 24 24" role="presentation">
+                <g fill="currentColor"><g>
+                    <path d="M12 1C5.93 1 1 5.93 1 12s4.93 11 11 11 11-4.93 11-11S18.07 1 12 1zm0 20c-4.96 0-9-4.04-9-9s4.04-9 9-9 9 4.04 9 9-4.04 9-9 9z"></path>
+                    <path d="M12 11c-.55 0-1 .45-1 1v4c0 .55.45 1 1 1s1-.45 1-1v-4c0-.55-.45-1-1-1zM12.01 7c-.56 0-1 .45-1 1s.45 1 1 1 1-.45 1-1-.45-1-1-1z"></path>
+                    <path fill="none" d="M0 0h24v24H0z"></path>
+                </g></g>
+            </svg>
+        </div>
+        <div class="pr-5 ml-3 w-full">
+            <h5>Nach Variablen suchen</h5>
+<p>Um nach einer spezifischen Variable zu suchen, kannst du die Suche deines Browsers (<code translate="no" v-pre>STRG + F</code>) verwenden.</p>
+        </div>
+    </div>
+</div>
+<h3 id="baumstämme">Baumstämme</h3>
+<div class="table-wrapper scrollbar overflow-hidden">
+<table class="compact">
+<thead>
+<tr>
+<th>Deutscher Itemname</th>
+<th>Minecraft-ID</th>
+<th>Abkürzung</th>
+<th>Kurzform</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Eichenstamm</td>
+<td>oak_log</td>
+<td>%oak%</td>
+<td>17</td>
+</tr>
+<tr>
+<td>Fichtenstamm</td>
+<td>spruce_log</td>
+<td>%spruce%</td>
+<td>%s%</td>
+</tr>
+<tr>
+<td>Birkenstamm</td>
+<td>birch_log</td>
+<td>%birch%</td>
+<td>%b%</td>
+</tr>
+<tr>
+<td>Tropenbaumstamm</td>
+<td>jungle_log</td>
+<td>%jungle%</td>
+<td>%j%</td>
+</tr>
+<tr>
+<td>Akazienstamm</td>
+<td>acacia_log</td>
+<td>%acacia%</td>
+<td>162</td>
+</tr>
+<tr>
+<td>Schwarzeichenstamm</td>
+<td>dark_oak_log</td>
+<td>%darkoak%</td>
+<td>%g%</td>
+</tr>
+<tr>
+<td>Karmesinstiel</td>
+<td>crimson_stem</td>
+<td>%crimson%</td>
+<td>%ag%</td>
+</tr>
+<tr>
+<td>Wirrstiel</td>
+<td>warped_stem</td>
+<td>%warped%</td>
+<td>%ah%</td>
+</tr>
+<tr>
+<td>Mangrovenstamm</td>
+<td>mangrove_log</td>
+<td>%mangrove%</td>
+<td>%xh%</td>
+</tr>
+<tr>
+<td>Kirschstamm</td>
+<td>cherry_log</td>
+<td>%cherry%</td>
+<td>%abl%</td>
+</tr>
+<tr>
+<td>Bambusblock</td>
+<td>bamboo_block</td>
+<td>%bambooblock%</td>
+<td>%aax%</td>
+</tr>
+<tr>
+<td>Blasseichenstamm</td>
+<td>pale_oak_log</td>
+<td>%poak_l%</td>
+<td>%aht%</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id="entrindete-baumstämme">Entrindete Baumstämme</h3>
+<p class="compact">				</p>
+<div class="table-wrapper scrollbar overflow-hidden">
+<table class="compact">
+<thead>
+<tr>
+<th>Deutscher Itemname</th>
+<th>Minecraft-ID</th>
+<th>Abkürzung</th>
+<th>Kurzform</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Entrindeter Eichenstamm</td>
+<td>stripped_oak_log</td>
+<td>%s_oak%</td>
+<td>%ai%</td>
+</tr>
+<tr>
+<td>Entrindeter Fichtenstamm</td>
+<td>stripped_spruce_log</td>
+<td>%s_spruce%</td>
+<td>%aj%</td>
+</tr>
+<tr>
+<td>Entrindeter Birkenstamm</td>
+<td>stripped_birch_log</td>
+<td>%s_birch%</td>
+<td>%ak%</td>
+</tr>
+<tr>
+<td>Entrindeter Tropenbaumstamm</td>
+<td>stripped_jungle_log</td>
+<td>%s_jungle%</td>
+<td>%al%</td>
+</tr>
+<tr>
+<td>Entrindeter Akazienstamm</td>
+<td>stripped_acacia_log</td>
+<td>%s_acacia%</td>
+<td>%am%</td>
+</tr>
+<tr>
+<td>Entrindeter Schwarzeichenstamm</td>
+<td>stripped_dark_oak_log</td>
+<td>%s_darkoak%</td>
+<td>%an%</td>
+</tr>
+<tr>
+<td>Entrindeter Karmesinstiel</td>
+<td>stripped_crimson_stem</td>
+<td>%s_crimson%</td>
+<td>%ao%</td>
+</tr>
+<tr>
+<td>Entrindeter Wirrstiel</td>
+<td>stripped_warped_stem</td>
+<td>%s_warped%</td>
+<td>%ap%</td>
+</tr>
+<tr>
+<td>Entrindeter Mangrovenstamm</td>
+<td>stripped_mangrove_log</td>
+<td>%s_mangrove%</td>
+<td>%xe%</td>
+</tr>
+<tr>
+<td>Entrindeter Kirschstamm</td>
+<td>stripped_cherry_log</td>
+<td>%s_cherry%</td>
+<td>%abm%</td>
+</tr>
+<tr>
+<td>Entrindeter Bambusblock</td>
+<td>stripped_bamboo_block</td>
+<td>%s_bamboo%</td>
+<td>%aay%</td>
+</tr>
+<tr>
+<td>Entrindeter Blasseichenstamm</td>
+<td>stripped_pale_oak_log</td>
+<td>%spoak_l%</td>
+<td>%ahv%</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id="holzblöcke">Holzblöcke</h3>
+<div class="table-wrapper scrollbar overflow-hidden">
+<table class="compact">
+<thead>
+<tr>
+<th>Deutscher Itemname</th>
+<th>Minecraft-ID</th>
+<th>Abkürzung</th>
+<th>Kurzform</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Eichenholz</td>
+<td>oak_wood</td>
+<td>%oak_wd%</td>
+<td>%aq%</td>
+</tr>
+<tr>
+<td>Fichtenholz</td>
+<td>spruce_wood</td>
+<td>%spruce_wd%</td>
+<td>%ar%</td>
+</tr>
+<tr>
+<td>Birkenholz</td>
+<td>birch_wood</td>
+<td>%birch_wd%</td>
+<td>%as%</td>
+</tr>
+<tr>
+<td>Tropenholz</td>
+<td>jungle_wood</td>
+<td>%jungle_wd%</td>
+<td>%at%</td>
+</tr>
+<tr>
+<td>Akazienholz</td>
+<td>acacia_wood</td>
+<td>%acacia_wd%</td>
+<td>%au%</td>
+</tr>
+<tr>
+<td>Schwarzeichenholz</td>
+<td>dark_oak_wood</td>
+<td>%darkoak_wd%</td>
+<td>%av%</td>
+</tr>
+<tr>
+<td>Karmesinhyphen</td>
+<td>crimson_hyphae</td>
+<td>%crimson_hy%</td>
+<td>%aw%</td>
+</tr>
+<tr>
+<td>Wirrhyphen</td>
+<td>warped_hyphae</td>
+<td>%warped_hy%</td>
+<td>%ax%</td>
+</tr>
+<tr>
+<td>Mangrovenholz</td>
+<td>mangrove_wood</td>
+<td>%mangrove_wd%</td>
+<td>%xi%</td>
+</tr>
+<tr>
+<td>Kirschholz</td>
+<td>cherry_wood</td>
+<td>%cherry_wd%</td>
+<td>%abn%</td>
+</tr>
+<tr>
+<td>Blasseichenholz</td>
+<td>pale_oak_wood</td>
+<td>%poak_w%</td>
+<td>%ahu%</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id="entrindete-holzblöcke">Entrindete Holzblöcke</h3>
+<div class="table-wrapper scrollbar overflow-hidden">
+<table class="compact">
+<thead>
+<tr>
+<th>Deutscher Itemname</th>
+<th>Minecraft-ID</th>
+<th>Abkürzung</th>
+<th>Kurzform</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Entrindetes Eichenholz</td>
+<td>stripped_oak_wood</td>
+<td>%s_oak_wd%</td>
+<td>%ay%</td>
+</tr>
+<tr>
+<td>Entrindetes Fichtenholz</td>
+<td>stripped_spruce_wood</td>
+<td>%s_spruce_wd%</td>
+<td>%az%</td>
+</tr>
+<tr>
+<td>Entrindetes Birkenholz</td>
+<td>stripped_birch_wood</td>
+<td>%s_birch_wd%</td>
+<td>%bg%</td>
+</tr>
+<tr>
+<td>Entrindetes Tropenholz</td>
+<td>stripped_jungle_wood</td>
+<td>%s_jungle_wd%</td>
+<td>%bh%</td>
+</tr>
+<tr>
+<td>Entrindetes Akazienholz</td>
+<td>stripped_acacia_wood</td>
+<td>%s_acacia_wd%</td>
+<td>%bi%</td>
+</tr>
+<tr>
+<td>Entrindetes Schwarzeichenholz</td>
+<td>stripped_dark_oak_wood</td>
+<td>%s_darkoak_wd%</td>
+<td>%bj%</td>
+</tr>
+<tr>
+<td>Geschälte Karmesinhyphen</td>
+<td>stripped_crimson_hyphae</td>
+<td>%s_crimson_hy%</td>
+<td>%bk%</td>
+</tr>
+<tr>
+<td>Geschälte Wirrhyphen</td>
+<td>stripped_warped_hyphae</td>
+<td>%s_warped_hy%</td>
+<td>%bl%</td>
+</tr>
+<tr>
+<td>Entrindetes Mangrovenholz</td>
+<td>stripped_mangrove_wood</td>
+<td>%s_mangrove_wd%</td>
+<td>%xf%</td>
+</tr>
+<tr>
+<td>Entrindetes Kirschholz</td>
+<td>stripped_cherry_wood</td>
+<td>%s_cherry_wd%</td>
+<td>%abo%</td>
+</tr>
+<tr>
+<td>Entrindetes Blasseichenholz                        stripped_pale_oak_wood</td>
+<td>%spoak_w%</td>
+<td>%ahw%</td>
+<td> </td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id="holzbretter-und-stöcke">Holzbretter und Stöcke</h3>
+<div class="table-wrapper scrollbar overflow-hidden">
+<table class="compact">
+<thead>
+<tr>
+<th>Deutscher Itemname</th>
+<th>Minecraft-ID</th>
+<th>Abkürzung</th>
+<th>Kurzform</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Eichenholzbretter</td>
+<td>oak_planks</td>
+<td>%oak_pl%</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Fichtenholzbretter</td>
+<td>spruce_planks</td>
+<td>%spruce_pl%</td>
+<td>5:1</td>
+</tr>
+<tr>
+<td>Birkenholzbretter</td>
+<td>birch_planks</td>
+<td>%birch_pl%</td>
+<td>5:2</td>
+</tr>
+<tr>
+<td>Tropenholzbretter</td>
+<td>jungle_planks</td>
+<td>%jungle_pl%</td>
+<td>5:3</td>
+</tr>
+<tr>
+<td>Akazienholzbretter</td>
+<td>acacia_planks</td>
+<td>%acacia_pl%</td>
+<td>5:4</td>
+</tr>
+<tr>
+<td>Schwarzeichenholzbretter</td>
+<td>dark_oak_planks</td>
+<td>%darkoak_pl%</td>
+<td>5:5</td>
+</tr>
+<tr>
+<td>Karmesinbretter</td>
+<td>crimson_planks</td>
+<td>%crimson_pl%</td>
+<td>%bn%</td>
+</tr>
+<tr>
+<td>Wirrbretter</td>
+<td>warped_planks</td>
+<td>%warped_pl%</td>
+<td>%bo%</td>
+</tr>
+<tr>
+<td>Mangrovenholzbretter</td>
+<td>mangrove_planks</td>
+<td>%mangrove_pl%</td>
+<td>%xo%</td>
+</tr>
+<tr>
+<td>Kirschholzbretter</td>
+<td>cherry_planks</td>
+<td>%cherry_pl%</td>
+<td>%abb%</td>
+</tr>
+<tr>
+<td>Bambusbretter</td>
+<td>bamboo_planks</td>
+<td>%bamboo_pl%</td>
+<td>%aal%</td>
+</tr>
+<tr>
+<td>Bambusmosaik</td>
+<td>bamboo_mosaic</td>
+<td>%bamboo_mo%</td>
+<td>%aak%</td>
+</tr>
+<tr>
+<td>Blasseichenholzbretter</td>
+<td>pale_oak_planks</td>
+<td>%poak_pl%</td>
+<td>%ahx%</td>
+</tr>
+<tr>
+<td>Stock</td>
+<td>stick</td>
+<td>%stick%</td>
+<td>280</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id="holzstufen">Holzstufen</h3>
+<div class="table-wrapper scrollbar overflow-hidden">
+<table class="compact">
+<thead>
+<tr>
+<th>Deutscher Itemname</th>
+<th>Minecraft-ID</th>
+<th>Abkürzung</th>
+<th>Kurzform</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Eichenholzstufe</td>
+<td>oak_slab</td>
+<td>%oak_sl%</td>
+<td>126</td>
+</tr>
+<tr>
+<td>Fichtenholzstufe</td>
+<td>spruce_slab</td>
+<td>%spruce_sl%</td>
+<td>%v%</td>
+</tr>
+<tr>
+<td>Birkenholzstufe</td>
+<td>birch_slab</td>
+<td>%birch_sl%</td>
+<td>%e%</td>
+</tr>
+<tr>
+<td>Tropenholzstufe</td>
+<td>jungle_slab</td>
+<td>%jungle_sl%</td>
+<td>%nx%</td>
+</tr>
+<tr>
+<td>Akazienholzstufe</td>
+<td>acacia_slab</td>
+<td>%acacia_sl%</td>
+<td>%ny%</td>
+</tr>
+<tr>
+<td>Schwarzeichenholzstufe</td>
+<td>dark_oak_slab</td>
+<td>%darkoak_sl%</td>
+<td>%y%</td>
+</tr>
+<tr>
+<td>Karmesinstufe</td>
+<td>crimson_slab</td>
+<td>%crimson_sl%</td>
+<td>%bp%</td>
+</tr>
+<tr>
+<td>Wirrstufe</td>
+<td>warped_slab</td>
+<td>%warped_sl%</td>
+<td>%bq%</td>
+</tr>
+<tr>
+<td>Mangrovenholzstufe</td>
+<td>mangrove_slab</td>
+<td>%mangrove_sl%</td>
+<td>%xl%</td>
+</tr>
+<tr>
+<td>Kirschholztufe</td>
+<td>cherry_slab</td>
+<td>%cherry_sl%</td>
+<td>%abd%</td>
+</tr>
+<tr>
+<td>Bambusstufe</td>
+<td>bamboo_slab</td>
+<td>%bamboo_sl%</td>
+<td>%aap%</td>
+</tr>
+<tr>
+<td>Bambusmosaikstufe</td>
+<td>bamboo_mosaic_slab</td>
+<td>%bamboo_mo_sl%</td>
+<td>%aao%</td>
+</tr>
+<tr>
+<td>Versteinerte Eichenholzstufe</td>
+<td>petrified_oak_slab</td>
+<td>%p_oak_sl%</td>
+<td>%a5%</td>
+</tr>
+<tr>
+<td>Blasseichenholzstufe</td>
+<td>pale_oak_slap</td>
+<td>%poak_sl%</td>
+<td>%ahz%</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id="holztreppen">Holztreppen</h3>
+<div class="table-wrapper scrollbar overflow-hidden">
+<table class="compact">
+<thead>
+<tr>
+<th>Deutscher Itemname</th>
+<th>Minecraft-ID</th>
+<th>Abkürzung</th>
+<th>Kurzform</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Eichenholztreppe</td>
+<td>oak_stairs</td>
+<td>%oak_st%</td>
+<td>53</td>
+</tr>
+<tr>
+<td>Fichtenholztreppe</td>
+<td>spruce_stairs</td>
+<td>%spruce_st%</td>
+<td>134</td>
+</tr>
+<tr>
+<td>Birkenholztreppe</td>
+<td>birch_stairs</td>
+<td>%birch_st%</td>
+<td>135</td>
+</tr>
+<tr>
+<td>Tropenholztreppe</td>
+<td>jungle_stairs</td>
+<td>%jungle_st%</td>
+<td>136</td>
+</tr>
+<tr>
+<td>Akazienholztreppe</td>
+<td>acacia_stairs</td>
+<td>%acacia_st%</td>
+<td>163</td>
+</tr>
+<tr>
+<td>Schwarzeichenholztreppe</td>
+<td>dark_oak_stairs</td>
+<td>%darkoak_st%</td>
+<td>164</td>
+</tr>
+<tr>
+<td>Karmesintreppe</td>
+<td>crimson_stairs</td>
+<td>%crimson_st%</td>
+<td>%br%</td>
+</tr>
+<tr>
+<td>Wirrtreppe</td>
+<td>warped_stairs</td>
+<td>%warped_st%</td>
+<td>%bs%</td>
+</tr>
+<tr>
+<td>Mangrovenholztreppe</td>
+<td>mangrove_stairs</td>
+<td>%mangrove_st%</td>
+<td>%xk%</td>
+</tr>
+<tr>
+<td>Kirschholztreppe</td>
+<td>cherry_stairs</td>
+<td>%cherry_st%</td>
+<td>%abc%</td>
+</tr>
+<tr>
+<td>Bambustreppe</td>
+<td>bamboo_stairs</td>
+<td>%bamboo_st%</td>
+<td>%aan%</td>
+</tr>
+<tr>
+<td>Bambusmosaiktreppe</td>
+<td>bamboo_mosaic_stairs</td>
+<td>%bamboo_mo_st%</td>
+<td>%aam%</td>
+</tr>
+<tr>
+<td>Blasseichenholztreppe</td>
+<td>pale_oak_\stairs</td>
+<td>%poak_st%</td>
+<td>%ahy%</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id="zäune">Zäune</h3>
+<div class="table-wrapper scrollbar overflow-hidden">
+<table class="compact">
+<thead>
+<tr>
+<th>Deutscher Itemname</th>
+<th>Minecraft-ID</th>
+<th>Abkürzung</th>
+<th>Kurzform</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Eichenholzzaun</td>
+<td>oak_fence</td>
+<td>%oak_fc%</td>
+<td>85</td>
+</tr>
+<tr>
+<td>Fichtenholzzaum</td>
+<td>spruce_fence</td>
+<td>%spruce_fc%</td>
+<td>188</td>
+</tr>
+<tr>
+<td>Birkenholzzaun</td>
+<td>birch_fence</td>
+<td>%birch_fc%</td>
+<td>189</td>
+</tr>
+<tr>
+<td>Tropenholzzaun</td>
+<td>jungle_fence</td>
+<td>%jungle_fc%</td>
+<td>190</td>
+</tr>
+<tr>
+<td>Akazienholzzaun</td>
+<td>acacia_fence</td>
+<td>%acacia_fc%</td>
+<td>192</td>
+</tr>
+<tr>
+<td>Schwarzeichenholzzaun</td>
+<td>dark_oak_fence</td>
+<td>%darkoak_fc%</td>
+<td>191</td>
+</tr>
+<tr>
+<td>Karmesinzaun</td>
+<td>crimson_fence</td>
+<td>%crimson_fc%</td>
+<td>%bt%</td>
+</tr>
+<tr>
+<td>Wirrzaun</td>
+<td>warped_fence</td>
+<td>%warped_fc%</td>
+<td>%bu%</td>
+</tr>
+<tr>
+<td>Eisengitter</td>
+<td>iron_bars</td>
+<td>%ironbars%</td>
+<td>101</td>
+</tr>
+<tr>
+<td>Kupfergitter</td>
+<td>copper_bars</td>
+<td>%cpr_bars%</td>
+<td>%akf%</td>
+</tr>
+<tr>
+<td>Angelaufenes Kupfergitter</td>
+<td>exposed_copper_bars</td>
+<td>%o_cpr_bars%</td>
+<td>%akg%</td>
+</tr>
+<tr>
+<td>Oxidiertes Kupfergitter</td>
+<td>oxidized_copper_bars</td>
+<td>%o_cpr_bars%</td>
+<td>%akh%</td>
+</tr>
+<tr>
+<td>Gewachstes Kupfergitter</td>
+<td>waxed_copper_bars</td>
+<td>%wa_cpr_bars%</td>
+<td>%aki%</td>
+</tr>
+<tr>
+<td>Gewachstes angelaufenes Kupfergitter</td>
+<td>waxed_exposed_copper_bars</td>
+<td>%wa_e_cpr_bars%</td>
+<td>%akj%</td>
+</tr>
+<tr>
+<td>Gewachstes verwittertes Kupfergitter</td>
+<td>waxed_weathered_copper_bars</td>
+<td>%wa_w_cpr_bars%</td>
+<td>%akk%</td>
+</tr>
+<tr>
+<td>Gewachstes oxidiertes Kupfergitter</td>
+<td>waxed_oxidized_copper_bars</td>
+<td>%wa_o_cpr_bars%</td>
+<td>%akl%</td>
+</tr>
+<tr>
+<td>Mangrovenholzzaun</td>
+<td>mangrove_fence</td>
+<td>%mangrove_fc%</td>
+<td>%xr%</td>
+</tr>
+<tr>
+<td>Kirschholzzaun</td>
+<td>cherry_fence</td>
+<td>%cherry_fc%</td>
+<td>%abg%</td>
+</tr>
+<tr>
+<td>Bambuszaun</td>
+<td>bamboo_fence</td>
+<td>%bamboo_fc%</td>
+<td>%aas%</td>
+</tr>
+<tr>
+<td>Blasseichenholzzaun</td>
+<td>pale_oak_fence</td>
+<td>%poak_fe%</td>
+<td>%aia%</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id="zauntore">Zauntore</h3>
+<div class="table-wrapper scrollbar overflow-hidden">
+<table class="compact">
+<thead>
+<tr>
+<th>Deutscher Itemname</th>
+<th>Minecraft-ID</th>
+<th>Abkürzung</th>
+<th>Kurzform</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Eichenholzzauntor</td>
+<td>oak_fence_gate</td>
+<td>%oak_fg%</td>
+<td>107</td>
+</tr>
+<tr>
+<td>Fichtenholzzauntor</td>
+<td>spruce_fence_gate</td>
+<td>%spruce_fg%</td>
+<td>183</td>
+</tr>
+<tr>
+<td>Birkenholzzauntor</td>
+<td>birch_fence_gate</td>
+<td>%birch_fg%</td>
+<td>184</td>
+</tr>
+<tr>
+<td>Tropenholzzauntor</td>
+<td>jungle_fence_gate</td>
+<td>%jungle_fg%</td>
+<td>185</td>
+</tr>
+<tr>
+<td>Akazienholzzauntor</td>
+<td>acacia_fence_gate</td>
+<td>%acacia_fg%</td>
+<td>187</td>
+</tr>
+<tr>
+<td>Schwarzeichenholzzauntor</td>
+<td>dark_oak_fence_gate</td>
+<td>%darkoak_fg%</td>
+<td>186</td>
+</tr>
+<tr>
+<td>Karmesinzauntor</td>
+<td>crimson_fence_gate</td>
+<td>%crimson_fg%</td>
+<td>%bv%</td>
+</tr>
+<tr>
+<td>Wirrzauntor</td>
+<td>warped_fence_gate</td>
+<td>%warped_fg%</td>
+<td>%bw%</td>
+</tr>
+<tr>
+<td>Mangrovenholzzauntor</td>
+<td>mangrove_fence_gate</td>
+<td>%mangrove_fg%</td>
+<td>%xq%</td>
+</tr>
+<tr>
+<td>Kirschholzzauntor</td>
+<td>cherry_fence_gate</td>
+<td>%cherry_fg%</td>
+<td>%abh%</td>
+</tr>
+<tr>
+<td>Bambuszauntor</td>
+<td>bamboo_fence_gate</td>
+<td>%bamboo_fg%</td>
+<td>%aat%</td>
+</tr>
+<tr>
+<td>Blasseichenholzzauntor</td>
+<td>pale_oak_fence_gate</td>
+<td>%poak_fega%</td>
+<td>%aib%</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id="laub">Laub</h3>
+<div class="table-wrapper scrollbar overflow-hidden">
+<table class="compact">
+<thead>
+<tr>
+<th>Deutscher Itemname</th>
+<th>Minecraft-ID</th>
+<th>Abkürzung</th>
+<th>Kurzform</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Eichenlaub</td>
+<td>oak_leaves</td>
+<td>%oak_lv%</td>
+<td>18</td>
+</tr>
+<tr>
+<td>Fichtenlaub</td>
+<td>spruce_leaves</td>
+<td>%spruce_lv%</td>
+<td>18:1</td>
+</tr>
+<tr>
+<td>Birkenlaub</td>
+<td>birch_leaves</td>
+<td>%birch_lv%</td>
+<td>18:2</td>
+</tr>
+<tr>
+<td>Tropenbaumlaub</td>
+<td>jungle_leaves</td>
+<td>%jungle_lv%</td>
+<td>18:3</td>
+</tr>
+<tr>
+<td>Akazienlaub</td>
+<td>acacia_leaves</td>
+<td>%acacia_lv%</td>
+<td>161</td>
+</tr>
+<tr>
+<td>Schwarzeichenlaub</td>
+<td>dark_oak_leaves</td>
+<td>%darkoak_lv%</td>
+<td>%f%</td>
+</tr>
+<tr>
+<td>Netherwarzenblock</td>
+<td>nether_wart_block</td>
+<td>%netwart_bl%</td>
+<td>214</td>
+</tr>
+<tr>
+<td>Wirrwarzenblock</td>
+<td>warped_wart_block</td>
+<td>%warwart_bl%</td>
+<td>%bx%</td>
+</tr>
+<tr>
+<td>Azaleenlaub</td>
+<td>azalea_leaves</td>
+<td>%azalea_lv%</td>
+<td>%ge%</td>
+</tr>
+<tr>
+<td>Blühendes Azaleenlaub</td>
+<td>flowering_azalea_leaves</td>
+<td>%fl_azalea_lv%</td>
+<td>%gf%</td>
+</tr>
+<tr>
+<td>Mangrovenlaub</td>
+<td>mangrove_leaves</td>
+<td>%mangrove_lv%</td>
+<td>%xp%</td>
+</tr>
+<tr>
+<td>Kirschlaub</td>
+<td>cherry_leaves</td>
+<td>%cherry_lv%</td>
+<td>%abp%</td>
+</tr>
+<tr>
+<td>Blasseichenlaub</td>
+<td>pale_oak_leaves</td>
+<td>%poak_le%</td>
+<td>%ail%</td>
+</tr>
+<tr>
+<td>Laubhaufen</td>
+<td>leaf_litter</td>
+<td>%le_li%</td>
+<td>%yj%</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id="setzlinge">Setzlinge</h3>
+<div class="table-wrapper scrollbar overflow-hidden">
+<table class="compact">
+<thead>
+<tr>
+<th>Deutscher Itemname</th>
+<th>Minecraft-ID</th>
+<th>Abkürzung</th>
+<th>Kurzform</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Eichensetzling</td>
+<td>oak_sapling</td>
+<td>%oak_sp%</td>
+<td>6</td>
+</tr>
+<tr>
+<td>Fichtensetzling</td>
+<td>spruce_sapling</td>
+<td>%spruce_sp%</td>
+<td>6:1</td>
+</tr>
+<tr>
+<td>Birkensetzling</td>
+<td>birch_sapling</td>
+<td>%birch_sp%</td>
+<td>6:2</td>
+</tr>
+<tr>
+<td>Tropenbaumsetzling</td>
+<td>jungle_sapling</td>
+<td>%jungle_sp%</td>
+<td>6:3</td>
+</tr>
+<tr>
+<td>Akaziensetzling</td>
+<td>acacia_sapling</td>
+<td>%acacia_sp%</td>
+<td>6:4</td>
+</tr>
+<tr>
+<td>Schwarzeichensetzling</td>
+<td>dark_oak_sapling</td>
+<td>%darkoak_sp%</td>
+<td>6:5</td>
+</tr>
+<tr>
+<td>Mangroven-Keimling</td>
+<td>mangrove_propagule</td>
+<td>%mangrove_pp%</td>
+<td>%xv%</td>
+</tr>
+<tr>
+<td>Kirschsetzling</td>
+<td>cherry_sapling</td>
+<td>%cherry_sp%</td>
+<td>%abs%</td>
+</tr>
+<tr>
+<td>Blasseichensetzling</td>
+<td>pale_oak_sapling</td>
+<td>%poak_sa%</td>
+<td>%aik%</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id="schilder-schrift">Schilder (Schrift)</h3>
+<div class="table-wrapper scrollbar overflow-hidden">
+<table class="compact">
+<thead>
+<tr>
+<th>Deutscher Itemname</th>
+<th>Minecraft-ID</th>
+<th>Abkürzung</th>
+<th>Kurzform</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Eichenholzschild</td>
+<td>oak_sign</td>
+<td>%oak_si%</td>
+<td>323</td>
+</tr>
+<tr>
+<td>Fichtenholzschild</td>
+<td>spruce_sign</td>
+<td>%spruce_si%</td>
+<td>%by%</td>
+</tr>
+<tr>
+<td>Birkenholzschild</td>
+<td>birch_sign</td>
+<td>%birch_si%</td>
+<td>%bz%</td>
+</tr>
+<tr>
+<td>Tropenholzschild</td>
+<td>jungle_sign</td>
+<td>%jungle_si%</td>
+<td>%cg%</td>
+</tr>
+<tr>
+<td>Akazienholzschild</td>
+<td>acacia_sign</td>
+<td>%acacia_si%</td>
+<td>%ch%</td>
+</tr>
+<tr>
+<td>Schwarzeichenholzschild</td>
+<td>dark_oak_sign</td>
+<td>%darkoak_si%</td>
+<td>%ci%</td>
+</tr>
+<tr>
+<td>Karmesinschild</td>
+<td>crimson_sign</td>
+<td>%crimson_si%</td>
+<td>%cj%</td>
+</tr>
+<tr>
+<td>Wirrschild</td>
+<td>warped_sign</td>
+<td>%warped_si%</td>
+<td>%ck%</td>
+</tr>
+<tr>
+<td>Mangrovenholzschild</td>
+<td>mangrove_sign</td>
+<td>%mangrove_si%</td>
+<td>%xm%</td>
+</tr>
+<tr>
+<td>Kirschholzschild</td>
+<td>cherry_sign</td>
+<td>%cherry_si%</td>
+<td>%abj%</td>
+</tr>
+<tr>
+<td>Bambusschild</td>
+<td>bamboo_sign</td>
+<td>%bamboo_si%</td>
+<td>%aav%</td>
+</tr>
+<tr>
+<td>Blasseichenholzschild</td>
+<td>pale_oak_sign</td>
+<td>%poak_si%</td>
+<td>%aig%</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id="hängeschilder">Hängeschilder</h3>
+<div class="table-wrapper scrollbar overflow-hidden">
+<table class="compact">
+<thead>
+<tr>
+<th>Deutscher Itemname</th>
+<th>Minecraft-ID</th>
+<th>Abkürzung</th>
+<th>Kurzform</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Eichenholzhängeschild</td>
+<td>oak_hanging_sign</td>
+<td>%oak_hg_si%</td>
+<td>%abw%</td>
+</tr>
+<tr>
+<td>Fichtenholzhängeschild</td>
+<td>spruce_hanging_sign</td>
+<td>%spruce_hg_si%</td>
+<td>%abx%</td>
+</tr>
+<tr>
+<td>Birkenholzhängeschild</td>
+<td>birch_hanging_sign</td>
+<td>%birch_hg_si%</td>
+<td>%aby%</td>
+</tr>
+<tr>
+<td>Jungleholzhängeschild</td>
+<td>jungle_hanging_sign</td>
+<td>%jungle_hg_si%</td>
+<td>%abz%</td>
+</tr>
+<tr>
+<td>Akazienholzhängeschild</td>
+<td>acacia_hanging_sign</td>
+<td>%acacia_hg_si%</td>
+<td>%aca%</td>
+</tr>
+<tr>
+<td>Schwarzeichenholzhängeschild</td>
+<td>dark_oak_hanging_sign</td>
+<td>%darkoak_hg_si%</td>
+<td>%acb%</td>
+</tr>
+<tr>
+<td>Karmesinholzhängeschild</td>
+<td>crimson_hanging_sign</td>
+<td>%crimson_hg_si%</td>
+<td>%acf%</td>
+</tr>
+<tr>
+<td>Wirrholzhängeschild</td>
+<td>warped_hanging_sign</td>
+<td>%warped_hg_si%</td>
+<td>%acg%</td>
+</tr>
+<tr>
+<td>Magrovenholzhängeschild</td>
+<td>mangrove_hanging_sign</td>
+<td>%mangrove_hg_si%</td>
+<td>%acc%</td>
+</tr>
+<tr>
+<td>Kirschholzhängeschild</td>
+<td>cherry_hanging_sign</td>
+<td>%cherry_hg_si%</td>
+<td>%acd%</td>
+</tr>
+<tr>
+<td>Bambushängeschild</td>
+<td>bamboo_hanging_sign</td>
+<td>%bamboo_hg_si%</td>
+<td>%ace%</td>
+</tr>
+<tr>
+<td>Blasseichenholzhängeschild</td>
+<td>pale_oak_hanging_sign</td>
+<td>%poak_hg_si%</td>
+<td>%aih%</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id="bruchstein">Bruchstein</h3>
+<div class="table-wrapper scrollbar overflow-hidden">
+<table class="compact">
+<thead>
+<tr>
+<th>Deutscher Itemname</th>
+<th>Minecraft-ID</th>
+<th>Abkürzung</th>
+<th>Kurzform</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Bruchstein</td>
+<td>cobblestone</td>
+<td>%cobble%</td>
+<td>4</td>
+</tr>
+<tr>
+<td>Bruchsteinstufe</td>
+<td>cobblestone_slab</td>
+<td>%cobble_sl%</td>
+<td>%c%</td>
+</tr>
+<tr>
+<td>Bruchsteintreppe</td>
+<td>cobblestone_stairs</td>
+<td>%cobble_st%</td>
+<td>67</td>
+</tr>
+<tr>
+<td>Bruchsteinmauer</td>
+<td>cobblestone_wall</td>
+<td>%cobble_wl%</td>
+<td>139</td>
+</tr>
+<tr>
+<td>Bemooster Bruchstein</td>
+<td>mossy_cobblestone</td>
+<td>%m_cobble%</td>
+<td>48</td>
+</tr>
+<tr>
+<td>Bemooste Bruchsteinstufe</td>
+<td>mossy_cobblestone_slab</td>
+<td>%m_cobble_sl%</td>
+<td>%cl%</td>
+</tr>
+<tr>
+<td>Bemooste Bruchsteintreppe</td>
+<td>mossy_cobblestone_stairs</td>
+<td>%m_cobble_st%</td>
+<td>%cm%</td>
+</tr>
+<tr>
+<td>Bemooste Bruchsteinmauer</td>
+<td>mossy_cobblestone_wall</td>
+<td>%m_cobble_wl%</td>
+<td>%m%</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id="stein">Stein</h3>
+<div class="table-wrapper scrollbar overflow-hidden">
+<table class="compact">
+<thead>
+<tr>
+<th>Deutscher Itemname</th>
+<th>Minecraft-ID</th>
+<th>Abkürzung</th>
+<th>Kurzform</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Stein</td>
+<td>stone</td>
+<td>%stone%</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Steinstufe</td>
+<td>stone_slab</td>
+<td>%stone_sl%</td>
+<td>%cn%</td>
+</tr>
+<tr>
+<td>Steintreppe</td>
+<td>stone_stairs</td>
+<td>%stone_st%</td>
+<td>%co%</td>
+</tr>
+<tr>
+<td>Glatter Stein</td>
+<td>smooth_stone</td>
+<td>%sm_stone%</td>
+<td>%cp%</td>
+</tr>
+<tr>
+<td>Glatte Steinstufe</td>
+<td>smooth_stone_slab</td>
+<td>%sm_stone_sl%</td>
+<td>%oh%</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id="andesit-diorit-granit">Andesit, Diorit, Granit</h3>
+<div class="table-wrapper scrollbar overflow-hidden">
+<table class="compact">
+<thead>
+<tr>
+<th>Deutscher Itemname</th>
+<th>Minecraft-ID</th>
+<th>Abkürzung</th>
+<th>Kurzform</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Andesit</td>
+<td>andesite</td>
+<td>%andest%</td>
+<td>1:5</td>
+</tr>
+<tr>
+<td>Andesitstufe</td>
+<td>andesite_slab</td>
+<td>%andest_sl%</td>
+<td>%cq%</td>
+</tr>
+<tr>
+<td>Andesittreppe</td>
+<td>andesite_stairs</td>
+<td>%andest_st%</td>
+<td>%cr%</td>
+</tr>
+<tr>
+<td>Andesitmauer</td>
+<td>andesite_wall</td>
+<td>%andest_wl%</td>
+<td>%cs%</td>
+</tr>
+<tr>
+<td>Polierter Andesit</td>
+<td>polished_andesite</td>
+<td>%p_andest%</td>
+<td>1:6</td>
+</tr>
+<tr>
+<td>Polierte Andesitstufe</td>
+<td>polished_andesite_slab</td>
+<td>%p_andest_sl%</td>
+<td>%ct%</td>
+</tr>
+<tr>
+<td>Polierte Andesittreppe</td>
+<td>polished_andesite_stairs</td>
+<td>%p_andest_st%</td>
+<td>%cu%</td>
+</tr>
+<tr>
+<td>Diorit</td>
+<td>diorite</td>
+<td>%diorite%</td>
+<td>1:3</td>
+</tr>
+<tr>
+<td>Dioritstufe</td>
+<td>diorite_slab</td>
+<td>%diorite_sl%</td>
+<td>%cv%</td>
+</tr>
+<tr>
+<td>Diorittreppe</td>
+<td>diorite_stairs</td>
+<td>%diorite_st%</td>
+<td>%cw%</td>
+</tr>
+<tr>
+<td>Dioritmauer</td>
+<td>diorite_wall</td>
+<td>%diorite_wl%</td>
+<td>%cx%</td>
+</tr>
+<tr>
+<td>Polierter Diorit</td>
+<td>polished_diorite</td>
+<td>%p_diorite%</td>
+<td>1:4</td>
+</tr>
+<tr>
+<td>Polierte Dioritstufe</td>
+<td>polished_diorite_slab</td>
+<td>%p_diorite_sl%</td>
+<td>%cy%</td>
+</tr>
+<tr>
+<td>Polierte Diorittreppe</td>
+<td>polished_diorite_stairs</td>
+<td>%p_diorite_st%</td>
+<td>%cz%</td>
+</tr>
+<tr>
+<td>Granit</td>
+<td>granite</td>
+<td>%granite%</td>
+<td>1:1</td>
+</tr>
+<tr>
+<td>Granitstufe</td>
+<td>granite_slab</td>
+<td>%granite_sl%</td>
+<td>%dg%</td>
+</tr>
+<tr>
+<td>Granittreppe</td>
+<td>granite_stairs</td>
+<td>%granite_st%</td>
+<td>%dh%</td>
+</tr>
+<tr>
+<td>Granitmauer</td>
+<td>granite_wall</td>
+<td>%granite_wl%</td>
+<td>%di%</td>
+</tr>
+<tr>
+<td>Polierter Granit</td>
+<td>polished_granite</td>
+<td>%p_granite%</td>
+<td>1:2</td>
+</tr>
+<tr>
+<td>Polierte Granitstufe</td>
+<td>polished_granite_slab</td>
+<td>%p_granite_sl%</td>
+<td>%dj%</td>
+</tr>
+<tr>
+<td>Polierte Granittreppe</td>
+<td>polished_granite_stairs</td>
+<td>%p_granite_st%</td>
+<td>%dk%</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id="höhlensteine">Höhlensteine</h3>
+<div class="table-wrapper scrollbar overflow-hidden">
+<table class="compact">
+<thead>
+<tr>
+<th>Deutscher Itemname</th>
+<th>Minecraft-ID</th>
+<th>Abkürzung</th>
+<th>Kurzform</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Kalzit</td>
+<td>calcite</td>
+<td>%calcite%</td>
+<td>%of%</td>
+</tr>
+<tr>
+<td>Tuffstein</td>
+<td>tuff</td>
+<td>%tuff%</td>
+<td>%re%</td>
+</tr>
+<tr>
+<td>Tropfsteinblock</td>
+<td>dripstone_block</td>
+<td>%dripst_bl%</td>
+<td>%qr%</td>
+</tr>
+<tr>
+<td>Spitzer Tropfstein</td>
+<td>pointed_dripstone</td>
+<td>%point_dripst%</td>
+<td>%qs%</td>
+</tr>
+<tr>
+<td>Glatter Basalt</td>
+<td>smooth_basalt</td>
+<td>%sm_basalt%</td>
+<td>%rb%</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id="tuffstein">Tuffstein</h3>
+<div class="table-wrapper scrollbar overflow-hidden">
+<table class="compact">
+<thead>
+<tr>
+<th>Deutscher Itemname</th>
+<th>Minecraft-ID</th>
+<th>Abkürzung</th>
+<th>Kurzform</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Tuffsteintreppe</td>
+<td>tuff_stairs</td>
+<td>%tuff_st%</td>
+<td>%agc%</td>
+</tr>
+<tr>
+<td>Tuffsteinstufe</td>
+<td>tuff_slab</td>
+<td>%tuff_sl%</td>
+<td>%agd%</td>
+</tr>
+<tr>
+<td>Tuffsteinmauer</td>
+<td>tuff_wall</td>
+<td>%tuff_wl%</td>
+<td>%age%</td>
+</tr>
+<tr>
+<td>Gemeißelter Tuffstein</td>
+<td>chiseled_tuff</td>
+<td>%ch_tuff%</td>
+<td>%agf%</td>
+</tr>
+<tr>
+<td>Polierter Tuffstein</td>
+<td>polished_tuff</td>
+<td>%p_tuff%</td>
+<td>%agg%</td>
+</tr>
+<tr>
+<td>Polierte Tuffsteintreppe</td>
+<td>polished_tuff_stairs</td>
+<td>%p_tuff_st%</td>
+<td>%agh%</td>
+</tr>
+<tr>
+<td>Polierte Tuffsteinstufe</td>
+<td>polished_tuff_slab</td>
+<td>%p_tuff_sl%</td>
+<td>%agi%</td>
+</tr>
+<tr>
+<td>Polierte Tuffsteinmauer</td>
+<td>polished_tuff_wall</td>
+<td>%p_tuff_wl%</td>
+<td>%agj%</td>
+</tr>
+<tr>
+<td>Tuffsteinziegel</td>
+<td>tuff_bricks</td>
+<td>%tuff_br%</td>
+<td>%agk%</td>
+</tr>
+<tr>
+<td>Tuffsteinziegeltreppe</td>
+<td>tuff_brick_stairs</td>
+<td>%tuff_br_st%</td>
+<td>%agl%</td>
+</tr>
+<tr>
+<td>Tuffsteinziegelstufe</td>
+<td>tuff_brick_slab</td>
+<td>%tuff_br_sl%</td>
+<td>%agm%</td>
+</tr>
+<tr>
+<td>Tuffsteinziegelmauer</td>
+<td>tuff_brick_wall</td>
+<td>%tuff_br_wl%</td>
+<td>%agn%</td>
+</tr>
+<tr>
+<td>Gemeißelte Tuffsteinziegel</td>
+<td>chiseled_tuff_bricks</td>
+<td>%ch_tuff_br%</td>
+<td>%ago%</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id="steinziegel">Steinziegel</h3>
+<div class="table-wrapper scrollbar overflow-hidden">
+<table class="compact">
+<thead>
+<tr>
+<th>Deutscher Itemname</th>
+<th>Minecraft-ID</th>
+<th>Abkürzung</th>
+<th>Kurzform</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Steinziegel</td>
+<td>stone_bricks</td>
+<td>%stbrick%</td>
+<td>98</td>
+</tr>
+<tr>
+<td>Steinziegelstufe</td>
+<td>stone_brick_slab</td>
+<td>%stbrick_sl%</td>
+<td>%q%</td>
+</tr>
+<tr>
+<td>Steinziegeltreppe</td>
+<td>stone_brick_stairs</td>
+<td>%stbrick_st%</td>
+<td>109</td>
+</tr>
+<tr>
+<td>Steinziegelmauer</td>
+<td>stone_brick_wall</td>
+<td>%stbrick_wl%</td>
+<td>%dl%</td>
+</tr>
+<tr>
+<td>Bemooste Steinziegel</td>
+<td>mossy_stone_bricks</td>
+<td>%m_stbrick%</td>
+<td>98:1</td>
+</tr>
+<tr>
+<td>Bemooste Steinziegelstufe</td>
+<td>mossy_stone_brick_slab</td>
+<td>%m_stbrick_sl%</td>
+<td>%dm%</td>
+</tr>
+<tr>
+<td>Bemooste Steinziegeltreppe</td>
+<td>mossy_stone_brick_stairs</td>
+<td>%m_stbrick_st%</td>
+<td>%dn%</td>
+</tr>
+<tr>
+<td>Bemooste Steinziegelmauer</td>
+<td>mossy_stone_brick_wall</td>
+<td>%m_stbrick_wl%</td>
+<td>%do%</td>
+</tr>
+<tr>
+<td>Rissige Steinziegel</td>
+<td>cracked_stone_bricks</td>
+<td>%cr_stbrick%</td>
+<td>98:2</td>
+</tr>
+<tr>
+<td>Gemeißelte Steinziegel</td>
+<td>chiseled_stone_bricks</td>
+<td>%ch_stbrick%</td>
+<td>98:3</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id="tiefenschiefer">Tiefenschiefer</h3>
+<div class="table-wrapper scrollbar overflow-hidden">
+<table class="compact">
+<thead>
+<tr>
+<th>Deutscher Itemname</th>
+<th>Minecraft-ID</th>
+<th>Abkürzung</th>
+<th>Kurzform</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Tiefenschiefer</td>
+<td>deepslate</td>
+<td>%deepsl%</td>
+<td>%ph%</td>
+</tr>
+<tr>
+<td>Polierter Tiefenschiefer</td>
+<td>polished_deepslate</td>
+<td>%p_deepsl%</td>
+<td>%pi%</td>
+</tr>
+<tr>
+<td>Polierte Tiefenschieferstufe</td>
+<td>polished_deepslate_slab</td>
+<td>%p_deepsl_sl%</td>
+<td>%pj%</td>
+</tr>
+<tr>
+<td>Polierte Tiefenschiefertreppe</td>
+<td>polished_deepslate_stairs</td>
+<td>%p_deepsl_st%</td>
+<td>%pk%</td>
+</tr>
+<tr>
+<td>Polierte Tiefenschiefermauer</td>
+<td>polished_deepslate_wall</td>
+<td>%p_deepsl_wl%</td>
+<td>%pl%</td>
+</tr>
+<tr>
+<td>Gemeißelter Tiefenschiefer</td>
+<td>chiseled_deepslate</td>
+<td>%ch_deepsl%</td>
+<td>%ue%</td>
+</tr>
+<tr>
+<td>Tiefenschieferziegel</td>
+<td>deepslate_bricks</td>
+<td>%deepsl_br%</td>
+<td>%pm%</td>
+</tr>
+<tr>
+<td>Rissige Tiefenschieferziegel</td>
+<td>cracked_deepslate_bricks</td>
+<td>%cr_deepsl_br%</td>
+<td>%pn%</td>
+</tr>
+<tr>
+<td>Tiefenschieferziegelstufe</td>
+<td>deepslate_brick_slab</td>
+<td>%deepsl_br_sl%</td>
+<td>%po%</td>
+</tr>
+<tr>
+<td>Tiefenschieferziegeltreppe</td>
+<td>deepslate_brick_stairs</td>
+<td>%deepsl_br_st%</td>
+<td>%pp%</td>
+</tr>
+<tr>
+<td>Tiefenschieferziegelmauer</td>
+<td>deepslate_brick_wall</td>
+<td>%deepsl_br_wl%</td>
+<td>%pq%</td>
+</tr>
+<tr>
+<td>Tiefenschieferfliesen</td>
+<td>deepslate_tiles</td>
+<td>%deepsl_t%</td>
+<td>%pr%</td>
+</tr>
+<tr>
+<td>Rissige Tiefenschieferfliesen</td>
+<td>cracked_deepslate_tiles</td>
+<td>%cr_deepsl_t%</td>
+<td>%ps%</td>
+</tr>
+<tr>
+<td>Tieferschiefenfliesenstufe</td>
+<td>deepslate_tile_slab</td>
+<td>%deepsl_t_sl%</td>
+<td>%pt%</td>
+</tr>
+<tr>
+<td>Tieferschiefenfliesentreppe</td>
+<td>deepslate_tile_stairs</td>
+<td>%deepsl_t_st%</td>
+<td>%pu%</td>
+</tr>
+<tr>
+<td>Tieferschiefenfliesenmauer</td>
+<td>deepslate_tile_wall</td>
+<td>%deepsl_t_wl%</td>
+<td>%pv%</td>
+</tr>
+<tr>
+<td>Bruchtiefenschiefer</td>
+<td>cobbled_deepslate</td>
+<td>%co_deepsl%</td>
+<td>%px%</td>
+</tr>
+<tr>
+<td>Bruchtiefenschieferstufe</td>
+<td>cobbled_deepslate_slab</td>
+<td>%co_deepsl_sl%</td>
+<td>%uf%</td>
+</tr>
+<tr>
+<td>Bruchtiefenschiefertreppe</td>
+<td>cobbled_deepslate_stairs</td>
+<td>%co_deepsl_st%</td>
+<td>%ug%</td>
+</tr>
+<tr>
+<td>Bruchtiefenschiefermauer</td>
+<td>cobbled_deepslate_wall</td>
+<td>%co_deepsl_wl%</td>
+<td>%qg%</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id="lehmziegel">Lehmziegel</h3>
+<div class="table-wrapper scrollbar overflow-hidden">
+<table class="compact">
+<thead>
+<tr>
+<th>Deutscher Itemname</th>
+<th>Minecraft-ID</th>
+<th>Abkürzung</th>
+<th>Kurzform</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Ton</td>
+<td>clay</td>
+<td>%clay%</td>
+<td>82</td>
+</tr>
+<tr>
+<td>Tonklumpen</td>
+<td>clay_ball</td>
+<td>%clay_ball%</td>
+<td>337</td>
+</tr>
+<tr>
+<td>Ziegel</td>
+<td>brick</td>
+<td>%brick_in%</td>
+<td>336</td>
+</tr>
+<tr>
+<td>Ziegelsteine</td>
+<td>bricks</td>
+<td>%brick%</td>
+<td>45</td>
+</tr>
+<tr>
+<td>Ziegelsteinstufe</td>
+<td>brick_slab</td>
+<td>%brick_sl%</td>
+<td>44:4</td>
+</tr>
+<tr>
+<td>Ziegelsteintreppe</td>
+<td>brick_stairs</td>
+<td>%brick_st%</td>
+<td>108</td>
+</tr>
+<tr>
+<td>Ziegelsteinmauer</td>
+<td>brick_wall</td>
+<td>%brick_wl%</td>
+<td>%dp%</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id="schlamm">Schlamm</h3>
+<div class="table-wrapper scrollbar overflow-hidden">
+<table class="compact">
+<thead>
+<tr>
+<th>Deutscher Itemname</th>
+<th>Minecraft-ID</th>
+<th>Abkürzung</th>
+<th>Kurzform</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Schlamm</td>
+<td>mud</td>
+<td>%mud%</td>
+<td>%xg%</td>
+</tr>
+<tr>
+<td>Fester Schlamm</td>
+<td>packed_mud</td>
+<td>%p_mud%</td>
+<td>%a7%</td>
+</tr>
+<tr>
+<td>Schlammziegel</td>
+<td>mud_bricks</td>
+<td>%mudbr%</td>
+<td>%a8%</td>
+</tr>
+<tr>
+<td>Schlammziegelstufe</td>
+<td>mud_brick_slab</td>
+<td>%mud_br_s%</td>
+<td>%a6%</td>
+</tr>
+<tr>
+<td>Schlammziegeltreppe</td>
+<td>mud_brick_stairs</td>
+<td>%m_br_st%</td>
+<td>%e1%</td>
+</tr>
+<tr>
+<td>Schlammziegelmauer</td>
+<td>mud_brick_wall</td>
+<td>%mud_br_wl%</td>
+<td>%f4%</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id="harz">Harz</h3>
+<div class="table-wrapper scrollbar overflow-hidden">
+<table class="compact">
+<thead>
+<tr>
+<th>Deutscher Itemname</th>
+<th>Minecraft-ID</th>
+<th>Abkürzung</th>
+<th>Kurzform</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Knarzherz</td>
+<td>creaking_heart</td>
+<td>%c_heart%</td>
+<td>%aim%</td>
+</tr>
+<tr>
+<td>Harzklumpen</td>
+<td>resin_clump</td>
+<td>%r_clu%</td>
+<td>%ais%</td>
+</tr>
+<tr>
+<td>Harzziegel</td>
+<td>resin_brick</td>
+<td>%r_bri%</td>
+<td>%ait%</td>
+</tr>
+<tr>
+<td>Harzblock</td>
+<td>resin_block</td>
+<td>%r_blo%</td>
+<td>%aiu%</td>
+</tr>
+<tr>
+<td>Harzziegel</td>
+<td>resin_bricks</td>
+<td>%r_bris%</td>
+<td>%aiv%</td>
+</tr>
+<tr>
+<td>Gemeißelter Harzziegel</td>
+<td>chiseled_resin_bricks</td>
+<td>%c_r_bris%</td>
+<td>%aiw%</td>
+</tr>
+<tr>
+<td>Harzziegeltreppe</td>
+<td>resin_brick_stairs</td>
+<td>%r_bri_st%</td>
+<td>%aix%</td>
+</tr>
+<tr>
+<td>Harzziegelstufe</td>
+<td>resin_brick_slap</td>
+<td>%r_bri_sl%</td>
+<td>%aiy%</td>
+</tr>
+<tr>
+<td>Harzziegelmauer</td>
+<td>resin_brick_wall</td>
+<td>%r_bri_wa%</td>
+<td>%aiz%</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id="sandstein">Sandstein</h3>
+<div class="table-wrapper scrollbar overflow-hidden">
+<table class="compact">
+<thead>
+<tr>
+<th>Deutscher Itemname</th>
+<th>Minecraft-ID</th>
+<th>Abkürzung</th>
+<th>Kurzform</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Sandstein</td>
+<td>sandstone</td>
+<td>%sandst%</td>
+<td>24</td>
+</tr>
+<tr>
+<td>Sandsteinstufe</td>
+<td>sandstone_slab</td>
+<td>%sandst_sl%</td>
+<td>44:1</td>
+</tr>
+<tr>
+<td>Sandsteintreppe</td>
+<td>sandstone_stairs</td>
+<td>%sandst_st%</td>
+<td>128</td>
+</tr>
+<tr>
+<td>Sandsteinmauer</td>
+<td>sandstone_wall</td>
+<td>%sandst_wl%</td>
+<td>%dq%</td>
+</tr>
+<tr>
+<td>Glatter Sandstein</td>
+<td>smooth_sandstone</td>
+<td>%sm_sandst%</td>
+<td>%og%</td>
+</tr>
+<tr>
+<td>Glatte Sandsteinstufe</td>
+<td>smooth_sandstone_slab</td>
+<td>%sm_sandst_sl%</td>
+<td>%dr%</td>
+</tr>
+<tr>
+<td>Glatte Sandsteintreppe</td>
+<td>smooth_sandstone_stairs</td>
+<td>%sm_sandst_st%</td>
+<td>%ds%</td>
+</tr>
+<tr>
+<td>Geschnittener Sandstein</td>
+<td>cut_sandstone</td>
+<td>%ct_sandst%</td>
+<td>%dt%</td>
+</tr>
+<tr>
+<td>Geschnittene Sandsteinstufe</td>
+<td>cut_sandstone_slab</td>
+<td>%ct_sandst_sl%</td>
+<td>%du%</td>
+</tr>
+<tr>
+<td>Gemeißelter Sandstein</td>
+<td>chiseled_sandstone</td>
+<td>%ch_sandst%</td>
+<td>24:1</td>
+</tr>
+<tr>
+<td>Roter Sandstein</td>
+<td>red_sandstone</td>
+<td>%rsandst%</td>
+<td>179</td>
+</tr>
+<tr>
+<td>Rote Sandsteinstufe</td>
+<td>red_sandstone_slab</td>
+<td>%rsandst_sl%</td>
+<td>182</td>
+</tr>
+<tr>
+<td>Rote Sandsteintreppe</td>
+<td>red_sandstone_stairs</td>
+<td>%rsandst_st%</td>
+<td>180</td>
+</tr>
+<tr>
+<td>Rote Sandsteinmauer</td>
+<td>red_sandstone_wall</td>
+<td>%rsandst_wl%</td>
+<td>%dv%</td>
+</tr>
+<tr>
+<td>Glatter roter Sandstein</td>
+<td>smooth_red_sandstone</td>
+<td>%sm_rsandst%</td>
+<td>%d%</td>
+</tr>
+<tr>
+<td>Glatte rote Sandsteinstufe</td>
+<td>smooth_red_sandstone_slab</td>
+<td>%sm_rsandst_sl%</td>
+<td>%dw%</td>
+</tr>
+<tr>
+<td>Glatte rote Sandsteintreppe</td>
+<td>smooth_red_sandstone_stairs</td>
+<td>%sm_rsandst_st%</td>
+<td>%dx%</td>
+</tr>
+<tr>
+<td>Geschnittener roter Sandstein</td>
+<td>cut_red_sandstone</td>
+<td>%ct_rsandst%</td>
+<td>%dy%</td>
+</tr>
+<tr>
+<td>Geschnittene rote Sandsteinstufe</td>
+<td>cut_red_sandstone_slab</td>
+<td>%ct_rsandst_sl%</td>
+<td>%dz%</td>
+</tr>
+<tr>
+<td>Gemeißelter roter Sandstein</td>
+<td>chiseled_red_sandstone</td>
+<td>%ch_rsandst%</td>
+<td>%z%</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id="netherboden">Netherboden</h3>
+<div class="table-wrapper scrollbar overflow-hidden">
+<table class="compact">
+<thead>
+<tr>
+<th>Deutscher Itemname</th>
+<th>Minecraft-ID</th>
+<th>Abkürzung</th>
+<th>Kurzform</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Netherrack</td>
+<td>netherrack</td>
+<td>%netrack%</td>
+<td>87</td>
+</tr>
+<tr>
+<td>Seelensand</td>
+<td>soul_sand</td>
+<td>%soulsand%</td>
+<td>88</td>
+</tr>
+<tr>
+<td>Seelenerde</td>
+<td>soul_soil</td>
+<td>%soulsoil%</td>
+<td>%eg%</td>
+</tr>
+<tr>
+<td>Magmablock</td>
+<td>magma_block</td>
+<td>%magma_bl%</td>
+<td>213</td>
+</tr>
+<tr>
+<td>Karmesin-Nezel</td>
+<td>crimson_nylium</td>
+<td>%crimson_nyl%</td>
+<td>%eh%</td>
+</tr>
+<tr>
+<td>Wirr-Nezel</td>
+<td>warped_nylium</td>
+<td>%warped_nyl%</td>
+<td>%ei%</td>
+</tr>
+<tr>
+<td>Basalt</td>
+<td>basalt</td>
+<td>%basalt%</td>
+<td>%ej%</td>
+</tr>
+<tr>
+<td>Polierter Basalt</td>
+<td>polished_basalt</td>
+<td>%p_basalt%</td>
+<td>%ek%</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id="schwarzstein">Schwarzstein</h3>
+<div class="table-wrapper scrollbar overflow-hidden">
+<table class="compact">
+<thead>
+<tr>
+<th>Deutscher Itemname</th>
+<th>Minecraft-ID</th>
+<th>Abkürzung</th>
+<th>Kurzform</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Schwarzstein</td>
+<td>blackstone</td>
+<td>%blkst%</td>
+<td>%el%</td>
+</tr>
+<tr>
+<td>Schwarzsteinstufe</td>
+<td>blackstone_slab</td>
+<td>%blkst_sl%</td>
+<td>%em%</td>
+</tr>
+<tr>
+<td>Schwarzsteintreppe</td>
+<td>blackstone_stairs</td>
+<td>%blkst_st%</td>
+<td>%en%</td>
+</tr>
+<tr>
+<td>Schwarzsteinmauer</td>
+<td>blackstone_wall</td>
+<td>%blkst_wl%</td>
+<td>%eo%</td>
+</tr>
+<tr>
+<td>Polierter Schwarzstein</td>
+<td>polished_blackstone</td>
+<td>%p_blkst%</td>
+<td>%ep%</td>
+</tr>
+<tr>
+<td>Polierte Schwarzsteinstufe</td>
+<td>polished_blackstone_slab</td>
+<td>%p_blkst_sl%</td>
+<td>%eq%</td>
+</tr>
+<tr>
+<td>Polierte Schwarzsteintreppe</td>
+<td>polished_blackstone_stairs</td>
+<td>%p_blkst_st%</td>
+<td>%er%</td>
+</tr>
+<tr>
+<td>Polierte Schwarzsteinmauer</td>
+<td>polished_blackstone_wall</td>
+<td>%p_blkst_wl%</td>
+<td>%es%</td>
+</tr>
+<tr>
+<td>Polierte Schwarzsteinziegel</td>
+<td>polished_blackstone_bricks</td>
+<td>%p_blkst_br%</td>
+<td>%et%</td>
+</tr>
+<tr>
+<td>Polierte Schwarzsteinziegelstufe</td>
+<td>polished_blackstone_brick_slab</td>
+<td>%p_blkst_br_sl%</td>
+<td>%eu%</td>
+</tr>
+<tr>
+<td>Polierte Schwarzsteinziegeltreppe</td>
+<td>polished_blackstone_brick_stairs</td>
+<td>%p_blkst_br_st%</td>
+<td>%ev%</td>
+</tr>
+<tr>
+<td>Polierte Schwarzsteinziegelmauer</td>
+<td>polished_blackstone_brick_wall</td>
+<td>%p_blkst_br_wl%</td>
+<td>%ew%</td>
+</tr>
+<tr>
+<td>Rissige polierte Schwarzsteinziegel</td>
+<td>cracked_polished_blackstone_bricks</td>
+<td>%cr_p_blkst_br%</td>
+<td>%ex%</td>
+</tr>
+<tr>
+<td>Gemeißelter polierter Schwarzstein</td>
+<td>chiseled_polished_blackstone</td>
+<td>%ch_p_blkst%</td>
+<td>%ey%</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id="netherziegel">Netherziegel</h3>
+<div class="table-wrapper scrollbar overflow-hidden">
+<table class="compact">
+<thead>
+<tr>
+<th>Deutscher Itemname</th>
+<th>Minecraft-ID</th>
+<th>Abkürzung</th>
+<th>Kurzform</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Netherziegel (Item)</td>
+<td>nether_brick</td>
+<td>%nbrick_in%</td>
+<td>405</td>
+</tr>
+<tr>
+<td>Netherziegel (Block)</td>
+<td>nether_bricks</td>
+<td>%nbrick%</td>
+<td>112</td>
+</tr>
+<tr>
+<td>Netherziegelstufe</td>
+<td>nether_brick_slab</td>
+<td>%nbrick_sl%</td>
+<td>44:6</td>
+</tr>
+<tr>
+<td>Netherziegeltreppe</td>
+<td>nether_brick_stairs</td>
+<td>%nbrick_st%</td>
+<td>114</td>
+</tr>
+<tr>
+<td>Netherziegelmauer</td>
+<td>nether_brick_wall</td>
+<td>%nbrick_wl%</td>
+<td>%ez%</td>
+</tr>
+<tr>
+<td>Netherziegelzaun</td>
+<td>nether_brick_fence</td>
+<td>%nbrick_fc%</td>
+<td>113</td>
+</tr>
+<tr>
+<td>Rote Netherziegel</td>
+<td>red_nether_bricks</td>
+<td>%rnbrick%</td>
+<td>215</td>
+</tr>
+<tr>
+<td>Rote Netherziegelstufe</td>
+<td>red_nether_brick_slab</td>
+<td>%rnbrick_sl%</td>
+<td>%fg%</td>
+</tr>
+<tr>
+<td>Rote Netherziegeltreppe</td>
+<td>red_nether_brick_stairs</td>
+<td>%rnbrick_st%</td>
+<td>%fh%</td>
+</tr>
+<tr>
+<td>Rote Netherziegelmauer</td>
+<td>red_nether_brick_wall</td>
+<td>%rnbrick_wl%</td>
+<td>%fi%</td>
+</tr>
+<tr>
+<td>Rissige Netherziegel</td>
+<td>cracked_nether_bricks</td>
+<td>%cr_nbrick%</td>
+<td>%fj%</td>
+</tr>
+<tr>
+<td>Gemeißelte Netherziegel</td>
+<td>chiseled_nether_bricks</td>
+<td>%ch_nbrick%</td>
+<td>%fk%</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id="quarzblöcke">Quarzblöcke</h3>
+<div class="table-wrapper scrollbar overflow-hidden">
+<table class="compact">
+<thead>
+<tr>
+<th>Deutscher Itemname</th>
+<th>Minecraft-ID</th>
+<th>Abkürzung</th>
+<th>Kurzform</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Quarzblock</td>
+<td>quartz_block</td>
+<td>%quartz%</td>
+<td>155</td>
+</tr>
+<tr>
+<td>Quarzstufe</td>
+<td>quartz_slab</td>
+<td>%quartz_sl%</td>
+<td>44:7</td>
+</tr>
+<tr>
+<td>Quarztreppe</td>
+<td>quartz_stairs</td>
+<td>%quartz_st%</td>
+<td>156</td>
+</tr>
+<tr>
+<td>Glatter Quarzblock</td>
+<td>smooth_quartz</td>
+<td>%sm_quartz%</td>
+<td>%fl%</td>
+</tr>
+<tr>
+<td>Glatte Quarzstufe</td>
+<td>smooth_quartz_slab</td>
+<td>%sm_quartz_sl%</td>
+<td>%fm%</td>
+</tr>
+<tr>
+<td>Glatte Quarztreppe</td>
+<td>smooth_quartz_stairs</td>
+<td>%sm_quartz_st%</td>
+<td>%fn%</td>
+</tr>
+<tr>
+<td>Gemeißelter Quarzblock</td>
+<td>chiseled_quartz_block</td>
+<td>%ch_quartz%</td>
+<td>%u%</td>
+</tr>
+<tr>
+<td>Quarzsäule</td>
+<td>quartz_pillar</td>
+<td>%quartz_pi%</td>
+<td>%p%</td>
+</tr>
+<tr>
+<td>Quarzziegel</td>
+<td>quartz_bricks</td>
+<td>%quartz_br%</td>
+<td>%fo%</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id="endstein">Endstein</h3>
+<div class="table-wrapper scrollbar overflow-hidden">
+<table class="compact">
+<thead>
+<tr>
+<th>Deutscher Itemname</th>
+<th>Minecraft-ID</th>
+<th>Abkürzung</th>
+<th>Kurzform</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Endstein</td>
+<td>end_stone</td>
+<td>%endst%</td>
+<td>121</td>
+</tr>
+<tr>
+<td>Endsteinziegel</td>
+<td>end_stone_bricks</td>
+<td>%endst_br%</td>
+<td>206</td>
+</tr>
+<tr>
+<td>Endsteinziegelstufe</td>
+<td>end_stone_brick_slab</td>
+<td>%endst_br_sl%</td>
+<td>%fp%</td>
+</tr>
+<tr>
+<td>Endsteinziegeltreppe</td>
+<td>end_stone_brick_stairs</td>
+<td>%endst_br_st%</td>
+<td>%fq%</td>
+</tr>
+<tr>
+<td>Endsteinziegelmauer</td>
+<td>end_stone_brick_wall</td>
+<td>%endst_br_wl%</td>
+<td>%fr%</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id="purpur">Purpur</h3>
+<div class="table-wrapper scrollbar overflow-hidden">
+<table class="compact">
+<thead>
+<tr>
+<th>Deutscher Itemname</th>
+<th>Minecraft-ID</th>
+<th>Abkürzung</th>
+<th>Kurzform</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Purpurblock</td>
+<td>purpur_block</td>
+<td>%purpur%</td>
+<td>201</td>
+</tr>
+<tr>
+<td>Purpurstufe</td>
+<td>purpur_slab</td>
+<td>%purpur_sl%</td>
+<td>205</td>
+</tr>
+<tr>
+<td>Purpurtreppe</td>
+<td>purpur_stairs</td>
+<td>%purpur_st%</td>
+<td>203</td>
+</tr>
+<tr>
+<td>Purpursäule</td>
+<td>purpur_pillar</td>
+<td>%purpur_pi%</td>
+<td>202</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id="prismarin">Prismarin</h3>
+<div class="table-wrapper scrollbar overflow-hidden">
+<table class="compact">
+<thead>
+<tr>
+<th>Deutscher Itemname</th>
+<th>Minecraft-ID</th>
+<th>Abkürzung</th>
+<th>Kurzform</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Prismarinscherbe</td>
+<td>prismarine_shard</td>
+<td>%prism_shard%</td>
+<td>409</td>
+</tr>
+<tr>
+<td>Prismarinkristalle</td>
+<td>prismarine_crystals</td>
+<td>%prism_cryst%</td>
+<td>410</td>
+</tr>
+<tr>
+<td>Prismarin</td>
+<td>prismarine</td>
+<td>%prism%</td>
+<td>168</td>
+</tr>
+<tr>
+<td>Prismarinstufe</td>
+<td>prismarine_slab</td>
+<td>%prism_sl%</td>
+<td>%fs%</td>
+</tr>
+<tr>
+<td>Prismarintreppe</td>
+<td>prismarine_stairs</td>
+<td>%prism_st%</td>
+<td>%ft%</td>
+</tr>
+<tr>
+<td>Prismarinmauer</td>
+<td>prismarine_wall</td>
+<td>%prism_wl%</td>
+<td>%fu%</td>
+</tr>
+<tr>
+<td>Prismarinziegel</td>
+<td>prismarine_bricks</td>
+<td>%prism_br%</td>
+<td>%a%</td>
+</tr>
+<tr>
+<td>Prismarinziegelstufe</td>
+<td>prismarine_brick_slab</td>
+<td>%prism_br_sl%</td>
+<td>%fv%</td>
+</tr>
+<tr>
+<td>Prismarinziegeltreppe</td>
+<td>prismarine_brick_stairs</td>
+<td>%prism_br_st%</td>
+<td>%fw%</td>
+</tr>
+<tr>
+<td>Dunkler Prismarin</td>
+<td>dark_prismarine</td>
+<td>%dk_prism%</td>
+<td>%t%</td>
+</tr>
+<tr>
+<td>Dunkle Prismarinstufe</td>
+<td>dark_prismarine_slab</td>
+<td>%dk_prism_sl%</td>
+<td>%fx%</td>
+</tr>
+<tr>
+<td>Dunkle Prismarintreppe</td>
+<td>dark_prismarine_stairs</td>
+<td>%dk_prism_st%</td>
+<td>%fy%</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id="obsidian">Obsidian</h3>
+<div class="table-wrapper scrollbar overflow-hidden">
+<table class="compact">
+<thead>
+<tr>
+<th>Deutscher Itemname</th>
+<th>Minecraft-ID</th>
+<th>Abkürzung</th>
+<th>Kurzform</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Obsidian</td>
+<td>obsidian</td>
+<td>%obsidian%</td>
+<td>49</td>
+</tr>
+<tr>
+<td>Weinender Obsidian</td>
+<td>crying_obsidian</td>
+<td>%cry_obsidian%</td>
+<td>%fz%</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id="sculk">Sculk</h3>
+<div class="table-wrapper scrollbar overflow-hidden">
+<table class="compact">
+<thead>
+<tr>
+<th>Deutscher Itemname</th>
+<th>Minecraft-ID</th>
+<th>Abkürzung</th>
+<th>Kurzform</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Sculk</td>
+<td>sculk</td>
+<td>%sculk%</td>
+<td>%ix%</td>
+</tr>
+<tr>
+<td>Sculk-Ader</td>
+<td>sculk_vein</td>
+<td>%sculkvein%</td>
+<td>%a9%</td>
+</tr>
+<tr>
+<td>Sculk-Katalysator</td>
+<td>sculk_catalyst</td>
+<td>%sculk_calst%</td>
+<td>%e8%</td>
+</tr>
+<tr>
+<td>Sculk-Kreischer</td>
+<td>sculk_shrieker</td>
+<td>%sculk_shkr%</td>
+<td>%e9%</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id="erze">Erze</h3>
+<div class="table-wrapper scrollbar overflow-hidden">
+<table class="compact">
+<thead>
+<tr>
+<th>Deutscher Itemname</th>
+<th>Minecraft-ID</th>
+<th>Abkürzung</th>
+<th>Kurzform</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Steinkohle</td>
+<td>coal_ore</td>
+<td>%coal_ore%</td>
+<td>16</td>
+</tr>
+<tr>
+<td>Eisenerz</td>
+<td>iron_ore</td>
+<td>%iron_ore%</td>
+<td>15</td>
+</tr>
+<tr>
+<td>Kupfererz</td>
+<td>copper_ore</td>
+<td>%copper_ore%</td>
+<td>%ob%</td>
+</tr>
+<tr>
+<td>Golderz</td>
+<td>gold_ore</td>
+<td>%gold_ore%</td>
+<td>14</td>
+</tr>
+<tr>
+<td>Redstone-Erz</td>
+<td>redstone_ore</td>
+<td>%redstone_ore%</td>
+<td>73</td>
+</tr>
+<tr>
+<td>Smaragderz</td>
+<td>emerald_ore</td>
+<td>%emerald_ore%</td>
+<td>129</td>
+</tr>
+<tr>
+<td>Lapislazulierz</td>
+<td>lapis_ore</td>
+<td>%lapis_ore%</td>
+<td>21</td>
+</tr>
+<tr>
+<td>Diamanterz</td>
+<td>diamond_ore</td>
+<td>%diamond_ore%</td>
+<td>56</td>
+</tr>
+<tr>
+<td>Netherquarzerz</td>
+<td>nether_quartz_ore</td>
+<td>%quartz_ore%</td>
+<td>153</td>
+</tr>
+<tr>
+<td>Nethergolderz</td>
+<td>nether_gold_ore</td>
+<td>%nth_gold_ore%</td>
+<td>%gg%</td>
+</tr>
+<tr>
+<td>Golddurchzogener Schwarzstein</td>
+<td>gilded_blackstone</td>
+<td>%blk_gold_ore%</td>
+<td>%gh%</td>
+</tr>
+<tr>
+<td>Antiker Schrott</td>
+<td>ancient_debris</td>
+<td>%netherite_ore%</td>
+<td>%gi%</td>
+</tr>
+<tr>
+<td>Tiefenschiefer-Steinkohle</td>
+<td>deepslate_coal_ore</td>
+<td>%dpsl_coal_o%</td>
+<td>%qh%</td>
+</tr>
+<tr>
+<td>Tiefenschiefer-Eisenerz</td>
+<td>deepslate_iron_ore</td>
+<td>%dpsl_iron_o%</td>
+<td>%qi%</td>
+</tr>
+<tr>
+<td>Tiefenschiefer-Kupfererz</td>
+<td>deepslate_copper_ore</td>
+<td>%dpsl_copper_o%</td>
+<td>%qj%</td>
+</tr>
+<tr>
+<td>Tiefenschiefer-Golderz</td>
+<td>deepslate_gold_ore</td>
+<td>%dpsl_gold_o%</td>
+<td>%qk%</td>
+</tr>
+<tr>
+<td>Tiefenschiefer-Redstone-Erz</td>
+<td>deepslate_redstone_ore</td>
+<td>%dpsl_redst_o%</td>
+<td>%ql%</td>
+</tr>
+<tr>
+<td>Tiefenschiefer-Smaragderz</td>
+<td>deepslate_emerald_ore</td>
+<td>%dpsl_emerld_o%</td>
+<td>%qm%</td>
+</tr>
+<tr>
+<td>Tiefenschiefer-Lapislazulierz</td>
+<td>deepslate_lapis_ore</td>
+<td>%dpsl_lapis_o%</td>
+<td>%qn%</td>
+</tr>
+<tr>
+<td>Tiefenschiefer-Diamanterz</td>
+<td>deepslate_diamond_ore</td>
+<td>%dpsl_dia_o%</td>
+<td>%qo%</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id="mineralien">Mineralien</h3>
+<div class="table-wrapper scrollbar overflow-hidden">
+<table class="compact">
+<thead>
+<tr>
+<th>Deutscher Itemname</th>
+<th>Minecraft-ID</th>
+<th>Abkürzung</th>
+<th>Kurzform</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Kohle</td>
+<td>coal</td>
+<td>%coal_in%</td>
+<td>263</td>
+</tr>
+<tr>
+<td>Holzkohle</td>
+<td>charcoal</td>
+<td>%charcoal%</td>
+<td>%o%</td>
+</tr>
+<tr>
+<td>Eisenklumpen</td>
+<td>iron_nugget</td>
+<td>%iron_ng%</td>
+<td>452</td>
+</tr>
+<tr>
+<td>Eisenbarren</td>
+<td>iron_ingot</td>
+<td>%iron_in%</td>
+<td>265</td>
+</tr>
+<tr>
+<td>Kupferbarren</td>
+<td>copper_ingot</td>
+<td>%copper_in%</td>
+<td>%rh%</td>
+</tr>
+<tr>
+<td>Kupferklumpen</td>
+<td>copper_nugget</td>
+<td>%cpr_ng%</td>
+<td>%sr%</td>
+</tr>
+<tr>
+<td>Goldklumpen</td>
+<td>gold_nugget</td>
+<td>%gold_ng%</td>
+<td>371</td>
+</tr>
+<tr>
+<td>Goldbarren</td>
+<td>gold_ingot</td>
+<td>%gold_in%</td>
+<td>266</td>
+</tr>
+<tr>
+<td>Redstone</td>
+<td>redstone</td>
+<td>%redstone_in%</td>
+<td>331</td>
+</tr>
+<tr>
+<td>Smaragd</td>
+<td>emerald</td>
+<td>%emerald_in%</td>
+<td>388</td>
+</tr>
+<tr>
+<td>Lapislazuli</td>
+<td>lapis_lazuli</td>
+<td>%lapis_in%</td>
+<td>%h%</td>
+</tr>
+<tr>
+<td>Diamant</td>
+<td>diamond</td>
+<td>%diamond_in%</td>
+<td>264</td>
+</tr>
+<tr>
+<td>Quarz</td>
+<td>quartz</td>
+<td>%quartz_in%</td>
+<td>406</td>
+</tr>
+<tr>
+<td>Netheritplatten</td>
+<td>netherite_scrap</td>
+<td>%netherite_scr%</td>
+<td>%gj%</td>
+</tr>
+<tr>
+<td>Netheritbarren</td>
+<td>netherite_ingot</td>
+<td>%netherite_in%</td>
+<td>%gk%</td>
+</tr>
+<tr>
+<td>Roheisen</td>
+<td>raw_iron</td>
+<td>%raw_iron%</td>
+<td>%rn%</td>
+</tr>
+<tr>
+<td>Rohkupfer</td>
+<td>raw_copper</td>
+<td>%raw_copper%</td>
+<td>%rl%</td>
+</tr>
+<tr>
+<td>Rohgold</td>
+<td>raw_gold</td>
+<td>%raw_gold%</td>
+<td>%rm%</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id="mineralblöcke">Mineralblöcke</h3>
+<div class="table-wrapper scrollbar overflow-hidden">
+<table class="compact">
+<thead>
+<tr>
+<th>Deutscher Itemname</th>
+<th>Minecraft-ID</th>
+<th>Abkürzung</th>
+<th>Kurzform</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Kohleblock</td>
+<td>coal_block</td>
+<td>%coal%</td>
+<td>173</td>
+</tr>
+<tr>
+<td>Eisenblock</td>
+<td>iron_block</td>
+<td>%iron%</td>
+<td>42</td>
+</tr>
+<tr>
+<td>Kupferblock</td>
+<td>copper_block</td>
+<td>%copper%</td>
+<td>%ha%</td>
+</tr>
+<tr>
+<td>Goldblock</td>
+<td>gold_block</td>
+<td>%gold%</td>
+<td>41</td>
+</tr>
+<tr>
+<td>Redstoneblock</td>
+<td>redstone_block</td>
+<td>%redstone%</td>
+<td>152</td>
+</tr>
+<tr>
+<td>Smaragdblock</td>
+<td>emerald_block</td>
+<td>%emerald%</td>
+<td>133</td>
+</tr>
+<tr>
+<td>Lapislazuliblock</td>
+<td>lapis_block</td>
+<td>%lapis%</td>
+<td>22</td>
+</tr>
+<tr>
+<td>Diamantblock</td>
+<td>diamond_block</td>
+<td>%diamond%</td>
+<td>57</td>
+</tr>
+<tr>
+<td>Netheritblock</td>
+<td>netherite_block</td>
+<td>%netherite%</td>
+<td>%gl%</td>
+</tr>
+<tr>
+<td>Roheisenblock</td>
+<td>raw_iron_block</td>
+<td>%raw_iron_bl%</td>
+<td>%oe%</td>
+</tr>
+<tr>
+<td>Rohkupferblock</td>
+<td>raw_copper_block</td>
+<td>%raw_copper_bl%</td>
+<td>%oc%</td>
+</tr>
+<tr>
+<td>Rohgoldblock</td>
+<td>raw_gold_block</td>
+<td>%raw_gold_bl%</td>
+<td>%od%</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id="amethyst">Amethyst</h3>
+<div class="table-wrapper scrollbar overflow-hidden">
+<table class="compact">
+<thead>
+<tr>
+<th>Deutscher Itemname</th>
+<th>Minecraft-ID</th>
+<th>Abkürzung</th>
+<th>Kurzform</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Amethystblock</td>
+<td>amethyst_block</td>
+<td>%amethyst_bl%</td>
+<td>%fd%</td>
+</tr>
+<tr>
+<td>Kleine Amethystknospe</td>
+<td>small_amethyst_bud</td>
+<td>%small_am_bud%</td>
+<td>%fe%</td>
+</tr>
+<tr>
+<td>Mittlere Amethystknospe</td>
+<td>medium_amethyst_bud</td>
+<td>%med_am_bud%</td>
+<td>%ff%</td>
+</tr>
+<tr>
+<td>Große Amethystknospe</td>
+<td>large_amethyst_bud</td>
+<td>%large_am_bud%</td>
+<td>%ga%</td>
+</tr>
+<tr>
+<td>Amethysthaufen</td>
+<td>amethyst_cluster</td>
+<td>%amethyst_cl%</td>
+<td>%gb%</td>
+</tr>
+<tr>
+<td>Amethystscherbe</td>
+<td>amethyst_shard</td>
+<td>%amethyst%</td>
+<td>%rf%</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id="kupferblöcke">Kupferblöcke</h3>
+<div class="table-wrapper scrollbar overflow-hidden">
+<table class="compact">
+<thead>
+<tr>
+<th>Deutscher Itemname</th>
+<th>Minecraft-ID</th>
+<th>Abkürzung</th>
+<th>Kurzform</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Angelaufener Kupferblock</td>
+<td>exposed_copper</td>
+<td>%e_cpr%</td>
+<td>%hb%</td>
+</tr>
+<tr>
+<td>Verwitterter Kupferblock</td>
+<td>weathered_copper</td>
+<td>%w_cpr%</td>
+<td>%hc%</td>
+</tr>
+<tr>
+<td>Oxidierter Kupferblock</td>
+<td>oxidized_copper</td>
+<td>%o_cpr%</td>
+<td>%hd%</td>
+</tr>
+<tr>
+<td>Geschnittener Kupferblock</td>
+<td>cut_copper</td>
+<td>%c_cpr%</td>
+<td>%he%</td>
+</tr>
+<tr>
+<td>Angelaufener geschnittener Kupferblock</td>
+<td>exposed_cut_copper</td>
+<td>%e_c_cpr%</td>
+<td>%hf%</td>
+</tr>
+<tr>
+<td>Verwitterter geschnittener Kupferblock</td>
+<td>weathered_cut_copper</td>
+<td>%w_c_cpr%</td>
+<td>%ua%</td>
+</tr>
+<tr>
+<td>Oxidierter geschnittener Kupferblock</td>
+<td>oxidized_cut_copper</td>
+<td>%o_c_cpr%</td>
+<td>%uc%</td>
+</tr>
+<tr>
+<td>Gewachster Kupferblock</td>
+<td>waxed_copper_block</td>
+<td>%wa_cpr%</td>
+<td>%ia%</td>
+</tr>
+<tr>
+<td>Gewachster angelaufener Kupferblock</td>
+<td>waxed_exposed_copper</td>
+<td>%wa_e_cpr%</td>
+<td>%ib%</td>
+</tr>
+<tr>
+<td>Gewachster verwitterter Kupferblock</td>
+<td>waxed_weathered_copper</td>
+<td>%wa_w_cpr%</td>
+<td>%ic%</td>
+</tr>
+<tr>
+<td>Gewachster oxidierter Kupferblock</td>
+<td>waxed_oxidized_copper</td>
+<td>%wa_o_cpr%</td>
+<td>%id%</td>
+</tr>
+<tr>
+<td>Gewachster geschnittener Kupferblock</td>
+<td>waxed_cut_copper</td>
+<td>%wa_c_cpr%</td>
+<td>%ie%</td>
+</tr>
+<tr>
+<td>Gewachster angelaufener geschnittener Kupferblock</td>
+<td>waxed_exposed_cut_copper</td>
+<td>%wa_e_c_cpr%</td>
+<td>%if%</td>
+</tr>
+<tr>
+<td>Gewachster verwitterter geschnittener Kupferblock</td>
+<td>waxed_weathered_cut_copper</td>
+<td>%wa_w_c_cpr%</td>
+<td>%ja%</td>
+</tr>
+<tr>
+<td>Gewachster oxidierter geschnittener Kupferblock</td>
+<td>waxed_oxidized_cut_copper</td>
+<td>%wa_o_c_cpr%</td>
+<td>%jb%</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id="kupferblockerzeugnisse">Kupferblockerzeugnisse</h3>
+<div class="table-wrapper scrollbar overflow-hidden">
+<table class="compact">
+<thead>
+<tr>
+<th>Deutscher Itemname</th>
+<th>Minecraft-ID</th>
+<th>Abkürzung</th>
+<th>Kurzform</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Geschnittene Kupferstufe</td>
+<td>cut_copper_slab</td>
+<td>%c_cpr_sl%</td>
+<td>%jc%</td>
+</tr>
+<tr>
+<td>Angelaufene geschnittene Kupferstufe</td>
+<td>exposed_cut_copper_slab</td>
+<td>%e_c_cpr_sl%</td>
+<td>%jd%</td>
+</tr>
+<tr>
+<td>Verwitterte geschnittene Kupferstufe</td>
+<td>weathered_cut_copper_slab</td>
+<td>%w_c_cpr_sl%</td>
+<td>%je%</td>
+</tr>
+<tr>
+<td>Oxidierte geschnittene Kupferstufe</td>
+<td>oxidized_cut_copper_slab</td>
+<td>%o_c_cpr_sl%</td>
+<td>%jf%</td>
+</tr>
+<tr>
+<td>Geschnittene Kupfertreppe</td>
+<td>cut_copper_stairs</td>
+<td>%c_cpr_st%</td>
+<td>%kx%</td>
+</tr>
+<tr>
+<td>Angelaufene geschnittene Kupfertreppe</td>
+<td>exposed_cut_copper_stairs</td>
+<td>%e_c_cpr_st%</td>
+<td>%ub%</td>
+</tr>
+<tr>
+<td>Verwitterte geschnittene Kupfertreppe</td>
+<td>weathered_cut_copper_stairs</td>
+<td>%w_c_cpr_st%</td>
+<td>%la%</td>
+</tr>
+<tr>
+<td>Oxidierte geschnittene Kupfertreppe</td>
+<td>oxidized_cut_copper_stairs</td>
+<td>%o_c_cpr_st%</td>
+<td>%le%</td>
+</tr>
+<tr>
+<td>Gewachste geschnittene Kupferstufe</td>
+<td>waxed_cut_copper_slab</td>
+<td>%wa_c_cpr_sl%</td>
+<td>%ma%</td>
+</tr>
+<tr>
+<td>Gewachste angelaufene geschnittene Kupferstufe</td>
+<td>waxed_exposed_cut_copper_slab</td>
+<td>%wa_e_c_cpr_sl%</td>
+<td>%mb%</td>
+</tr>
+<tr>
+<td>Gewachste verwitterte geschnittene Kupferstufe</td>
+<td>waxed_weathered_cut_copper_slab</td>
+<td>%wa_w_c_cpr_sl%</td>
+<td>%mc%</td>
+</tr>
+<tr>
+<td>Gewachste oxidierte geschnittene Kupferstufe</td>
+<td>waxed_oxidized_cut_copper_slab</td>
+<td>%wa_o_c_cpr_sl%</td>
+<td>%md%</td>
+</tr>
+<tr>
+<td>Gewachste geschnittene Kupfertreppe</td>
+<td>waxed_cut_copper_stairs</td>
+<td>%wa_c_cpr_st%</td>
+<td>%me%</td>
+</tr>
+<tr>
+<td>Gewachste angelaufene geschnittene Kupfertreppe</td>
+<td>waxed_exposed_cut_copper_stairs</td>
+<td>%wa_e_c_cpr_st%</td>
+<td>%mf%</td>
+</tr>
+<tr>
+<td>Gewachste verwitterte geschnittene Kupfertreppe</td>
+<td>waxed_weathered_cut_copper_stairs</td>
+<td>%wa_w_c_cpr_st%</td>
+<td>%ud%</td>
+</tr>
+<tr>
+<td>Gewachste oxidierte geschnittene Kupfertreppe</td>
+<td>waxed_oxidized_cut_copper_stairs</td>
+<td>%wa_o_c_cpr_st%</td>
+<td>%oa%</td>
+</tr>
+<tr>
+<td>Gemeißelter Kupferblock</td>
+<td>chiseled_copper</td>
+<td>%ch_cpr%</td>
+<td>%aew%</td>
+</tr>
+<tr>
+<td>Angelaufener gemeißelter Kupferblock</td>
+<td>exposed_chiseled_copper</td>
+<td>%e_ch_cpr%</td>
+<td>%aex%</td>
+</tr>
+<tr>
+<td>Verwitterter gemeißelter Kupferblock</td>
+<td>weathered_chiseled_copper</td>
+<td>%w_ch_cpr%</td>
+<td>%aey%</td>
+</tr>
+<tr>
+<td>Oxidierter gemeißelter Kupferblock</td>
+<td>oxidized_chiseled_copper</td>
+<td>%o_ch_cpr%</td>
+<td>%aez%</td>
+</tr>
+<tr>
+<td>Gewachster gemeißelter Kupferblock</td>
+<td>waxed_chiseled_copper</td>
+<td>%wa_ch_cpr%</td>
+<td>%afa%</td>
+</tr>
+<tr>
+<td>Gewachster angelaufener gemeißelter Kupferblock</td>
+<td>waxed_exposed_chiseled_copper</td>
+<td>%wa_e_ch_cpr%</td>
+<td>%afb%</td>
+</tr>
+<tr>
+<td>Gewachster verwitterter gemeißelter Kupferblock</td>
+<td>waxed_weathered_chiseled_copper</td>
+<td>%wa_w_ch_cpr%</td>
+<td>%afc%</td>
+</tr>
+<tr>
+<td>Gewachster oxidierter gemeißelter Kupferblock</td>
+<td>waxed_oxidized_chiseled_copper</td>
+<td>%wa_o_ch_cpr%</td>
+<td>%afd%</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id="kupferleuchten">Kupferleuchten</h3>
+<div class="table-wrapper scrollbar overflow-hidden">
+<table class="compact">
+<thead>
+<tr>
+<th>Deutscher Itemname</th>
+<th>Minecraft-ID</th>
+<th>Abkürzung</th>
+<th>Kurzform</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Kupferleuchte</td>
+<td>copper_bulb</td>
+<td>%cpr_bulb%</td>
+<td>%aeo%</td>
+</tr>
+<tr>
+<td>Angelaufene Kupferleuchte</td>
+<td>exposed_copper_bulb</td>
+<td>%e_cpr_bulb%</td>
+<td>%aep%</td>
+</tr>
+<tr>
+<td>Verwitterte Kupferleuchte</td>
+<td>weathered_copper_bulb</td>
+<td>%w_cpr_bulb%</td>
+<td>%aeq%</td>
+</tr>
+<tr>
+<td>Oxidierte Kupferleuchte</td>
+<td>oxidized_copper_bulb</td>
+<td>%o_cpr_bulb%</td>
+<td>%aer%</td>
+</tr>
+<tr>
+<td>Gewachste Kupferleuchte</td>
+<td>waxed_copper_bulb</td>
+<td>%wa_cpr_bulb%</td>
+<td>%aes%</td>
+</tr>
+<tr>
+<td>Gewachste angelaufene Kupferleuchte</td>
+<td>waxed_exposed_copper_bulb</td>
+<td>%wa_e_cpr_bulb%</td>
+<td>%aet%</td>
+</tr>
+<tr>
+<td>Gewachste verwitterte Kupferleuchte</td>
+<td>waxed_weathered_copper_bulb</td>
+<td>%wa_w_cpr_bulb%</td>
+<td>%aeu%</td>
+</tr>
+<tr>
+<td>Gewachste oxidierte Kupferleuchte</td>
+<td>waxed_oxidized_copper_bulb</td>
+<td>%wa_o_cpr_bulb%</td>
+<td>%aev%</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id="kupferrost-blöcke">Kupferrost-Blöcke</h3>
+<div class="table-wrapper scrollbar overflow-hidden">
+<table class="compact">
+<thead>
+<tr>
+<th>Deutscher Itemname</th>
+<th>Minecraft-ID</th>
+<th>Abkürzung</th>
+<th>Kurzform</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Kupferrost</td>
+<td>copper_grate</td>
+<td>%cpr_gr%</td>
+<td>%afe%</td>
+</tr>
+<tr>
+<td>Angelaufener Kupferrost</td>
+<td>exposed_copper_grate</td>
+<td>%e_cpr_gr%</td>
+<td>%aff%</td>
+</tr>
+<tr>
+<td>Verwitterter Kupferrost</td>
+<td>weathered_copper_grate</td>
+<td>%w_cpr_gr%</td>
+<td>%afg%</td>
+</tr>
+<tr>
+<td>Oxidierter Kupferrost</td>
+<td>oxidized_copper_grate</td>
+<td>%o_cpr_gr%</td>
+<td>%afh%</td>
+</tr>
+<tr>
+<td>Gewachster Kupferrost</td>
+<td>waxed_copper_grate</td>
+<td>%wa_cpr_gr%</td>
+<td>%afi%</td>
+</tr>
+<tr>
+<td>Gewachster angelaufener Kupferrost</td>
+<td>waxed_exposed_copper_grate</td>
+<td>%wa_e_cpr_gr%</td>
+<td>%afj%</td>
+</tr>
+<tr>
+<td>Gewachster verwitterter Kupferrost</td>
+<td>waxed_weathered_copper_grate</td>
+<td>%wa_w_cpr_gr%</td>
+<td>%afk%</td>
+</tr>
+<tr>
+<td>Gewachster oxidierter Kupferrost</td>
+<td>waxed_oxidized_copper_grate</td>
+<td>%wa_o_cpr_gr%</td>
+<td>%afl%</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id="fruchtbarer-boden">Fruchtbarer Boden</h3>
+<div class="table-wrapper scrollbar overflow-hidden">
+<table class="compact">
+<thead>
+<tr>
+<th>Deutscher Itemname</th>
+<th>Minecraft-ID</th>
+<th>Abkürzung</th>
+<th>Kurzform</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Erde</td>
+<td>dirt</td>
+<td>%dirt%</td>
+<td>3</td>
+</tr>
+<tr>
+<td>Grobe Erde</td>
+<td>coarse_dirt</td>
+<td>%coarsedirt%</td>
+<td>3:1</td>
+</tr>
+<tr>
+<td>Grasblock</td>
+<td>grass_block</td>
+<td>%grass%</td>
+<td>2</td>
+</tr>
+<tr>
+<td>Podsol</td>
+<td>podzol</td>
+<td>%podzol%</td>
+<td>3:2</td>
+</tr>
+<tr>
+<td>Myzel</td>
+<td>mycelium</td>
+<td>%mycelium%</td>
+<td>110</td>
+</tr>
+<tr>
+<td>Moosblock</td>
+<td>moss_block</td>
+<td>%moss_bl%</td>
+<td>%qx%</td>
+</tr>
+<tr>
+<td>Mossteppich</td>
+<td>moss_carpet</td>
+<td>%moss_carpet%</td>
+<td>%qy%</td>
+</tr>
+<tr>
+<td>Blassmoosblock</td>
+<td>pale_moss_block</td>
+<td>%pmoss_b%</td>
+<td>%ain%</td>
+</tr>
+<tr>
+<td>Blassmoosteppich</td>
+<td>pale_moss_carpet</td>
+<td>%pmoss_c%</td>
+<td>%aio%</td>
+</tr>
+<tr>
+<td>Wurzelerde</td>
+<td>rooted_dirt</td>
+<td>%ro_dirt%</td>
+<td>%qz%</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id="sand-und-kies">Sand und Kies</h3>
+<div class="table-wrapper scrollbar overflow-hidden">
+<table class="compact">
+<thead>
+<tr>
+<th>Deutscher Itemname</th>
+<th>Minecraft-ID</th>
+<th>Abkürzung</th>
+<th>Kurzform</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Kies</td>
+<td>gravel</td>
+<td>%gravel%</td>
+<td>13</td>
+</tr>
+<tr>
+<td>Seltsamer Kies</td>
+<td>suspicious_gravel</td>
+<td>%sus_gravel%</td>
+<td>%ack%</td>
+</tr>
+<tr>
+<td>Feuerstein</td>
+<td>flint</td>
+<td>%flint%</td>
+<td>318</td>
+</tr>
+<tr>
+<td>Sand</td>
+<td>sand</td>
+<td>%sand%</td>
+<td>12</td>
+</tr>
+<tr>
+<td>Seltsamer Sand</td>
+<td>suspicious_sand</td>
+<td>%sus_sand%</td>
+<td>%acl%</td>
+</tr>
+<tr>
+<td>Roter Sand</td>
+<td>red_sand</td>
+<td>%rsand%</td>
+<td>%r%</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id="schnee-und-eis">Schnee und Eis</h3>
+<div class="table-wrapper scrollbar overflow-hidden">
+<table class="compact">
+<thead>
+<tr>
+<th>Deutscher Itemname</th>
+<th>Minecraft-ID</th>
+<th>Abkürzung</th>
+<th>Kurzform</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Schneeball</td>
+<td>snowball</td>
+<td>%snow_ball%</td>
+<td>332</td>
+</tr>
+<tr>
+<td>Schnee</td>
+<td>snow</td>
+<td>%snow_cover%</td>
+<td>78</td>
+</tr>
+<tr>
+<td>Schneeblock</td>
+<td>snow_block</td>
+<td>%snow%</td>
+<td>80</td>
+</tr>
+<tr>
+<td>Eis</td>
+<td>ice</td>
+<td>%ice%</td>
+<td>79</td>
+</tr>
+<tr>
+<td>Packeis</td>
+<td>packed_ice</td>
+<td>%packedice%</td>
+<td>174</td>
+</tr>
+<tr>
+<td>Blaueis</td>
+<td>blue_ice</td>
+<td>%blueice%</td>
+<td>%gm%</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id="glas">Glas</h3>
+<div class="table-wrapper scrollbar overflow-hidden">
+<table class="compact">
+<thead>
+<tr>
+<th>Deutscher Itemname</th>
+<th>Minecraft-ID</th>
+<th>Abkürzung</th>
+<th>Kurzform</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Glas</td>
+<td>glass</td>
+<td>%glass%</td>
+<td>20</td>
+</tr>
+<tr>
+<td>Weißes Glas</td>
+<td>white_stained_glass</td>
+<td>%glass_whi%</td>
+<td>95</td>
+</tr>
+<tr>
+<td>Hellgraues Glas</td>
+<td>light_gray_stained_glass</td>
+<td>%glass_lgr%</td>
+<td>95:8</td>
+</tr>
+<tr>
+<td>Graues Glas</td>
+<td>gray_stained_glass</td>
+<td>%glass_gry%</td>
+<td>95:7</td>
+</tr>
+<tr>
+<td>Schwarzes Glas</td>
+<td>black_stained_glass</td>
+<td>%glass_blk%</td>
+<td>%sf%</td>
+</tr>
+<tr>
+<td>Gelbes Glas</td>
+<td>yellow_stained_glass</td>
+<td>%glass_yel%</td>
+<td>95:4</td>
+</tr>
+<tr>
+<td>Oranges Glas</td>
+<td>orange_stained_glass</td>
+<td>%glass_ora%</td>
+<td>95:1</td>
+</tr>
+<tr>
+<td>Rotes Glas</td>
+<td>red_stained_glass</td>
+<td>%glass_red%</td>
+<td>%se%</td>
+</tr>
+<tr>
+<td>Rosa Glas</td>
+<td>pink_stained_glass</td>
+<td>%glass_pnk%</td>
+<td>95:6</td>
+</tr>
+<tr>
+<td>Magenta Glas</td>
+<td>magenta_stained_glass</td>
+<td>%glass_mag%</td>
+<td>95:2</td>
+</tr>
+<tr>
+<td>Violettes Glas</td>
+<td>purple_stained_glass</td>
+<td>%glass_pur%</td>
+<td>%sa%</td>
+</tr>
+<tr>
+<td>Blaues Glas</td>
+<td>blue_stained_glass</td>
+<td>%glass_blu%</td>
+<td>%sb%</td>
+</tr>
+<tr>
+<td>Türkises Glas</td>
+<td>cyan_stained_glass</td>
+<td>%glass_cya%</td>
+<td>95:9</td>
+</tr>
+<tr>
+<td>Grünes Glas</td>
+<td>green_stained_glass</td>
+<td>%glass_grn%</td>
+<td>%sd%</td>
+</tr>
+<tr>
+<td>Hellgrünes Glas</td>
+<td>lime_stained_glass</td>
+<td>%glass_lim%</td>
+<td>95:5</td>
+</tr>
+<tr>
+<td>Hellblaues Glas</td>
+<td>light_blue_stained_glass</td>
+<td>%glass_lbl%</td>
+<td>95:3</td>
+</tr>
+<tr>
+<td>Braunes Glas</td>
+<td>brown_stained_glass</td>
+<td>%glass_bro%</td>
+<td>%sc%</td>
+</tr>
+<tr>
+<td>Getöntes Glas</td>
+<td>tinted_glass</td>
+<td>%tint_glass%</td>
+<td>%rd%</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id="glasscheiben">Glasscheiben</h3>
+<div class="table-wrapper scrollbar overflow-hidden">
+<table class="compact">
+<thead>
+<tr>
+<th>Deutscher Itemname</th>
+<th>Minecraft-ID</th>
+<th>Abkürzung</th>
+<th>Kurzform</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Glasscheibe</td>
+<td>glass_pane</td>
+<td>%glasspane%</td>
+<td>102</td>
+</tr>
+<tr>
+<td>Weiße Glasscheibe</td>
+<td>white_stained_glass_pane</td>
+<td>%glasspane_whi%</td>
+<td>160</td>
+</tr>
+<tr>
+<td>Hellgraue Glasscheibe</td>
+<td>light_gray_stained_glass_pane</td>
+<td>%glasspane_lgr%</td>
+<td>%p8%</td>
+</tr>
+<tr>
+<td>Graue Glasscheibe</td>
+<td>gray_stained_glass_pane</td>
+<td>%glasspane_gry%</td>
+<td>%p7%</td>
+</tr>
+<tr>
+<td>Schwarze Glasscheibe</td>
+<td>black_stained_glass_pane</td>
+<td>%glasspane_blk%</td>
+<td>%pf%</td>
+</tr>
+<tr>
+<td>Gelbe Glasscheibe</td>
+<td>yellow_stained_glass_pane</td>
+<td>%glasspane_yel%</td>
+<td>%p4%</td>
+</tr>
+<tr>
+<td>Orange Glasscheibe</td>
+<td>orange_stained_glass_pane</td>
+<td>%glasspane_ora%</td>
+<td>%p1%</td>
+</tr>
+<tr>
+<td>Rote Glasscheibe</td>
+<td>red_stained_glass_pane</td>
+<td>%glasspane_red%</td>
+<td>%pe%</td>
+</tr>
+<tr>
+<td>Rosa Glasscheibe</td>
+<td>pink_stained_glass_pane</td>
+<td>%glasspane_pnk%</td>
+<td>%p6%</td>
+</tr>
+<tr>
+<td>Magenta Glasscheibe</td>
+<td>magenta_stained_glass_pane</td>
+<td>%glasspane_mag%</td>
+<td>%p2%</td>
+</tr>
+<tr>
+<td>Violette Glasscheibe</td>
+<td>purple_stained_glass_pane</td>
+<td>%glasspane_pur%</td>
+<td>%pa%</td>
+</tr>
+<tr>
+<td>Blaue Glasscheibe</td>
+<td>blue_stained_glass_pane</td>
+<td>%glasspane_blu%</td>
+<td>%pb%</td>
+</tr>
+<tr>
+<td>Türkise Glasscheibe</td>
+<td>cyan_stained_glass_pane</td>
+<td>%glasspane_cya%</td>
+<td>%p9%</td>
+</tr>
+<tr>
+<td>Grüne Glasscheibe</td>
+<td>green_stained_glass_pane</td>
+<td>%glasspane_grn%</td>
+<td>%pd%</td>
+</tr>
+<tr>
+<td>Hellgrüne Glasscheibe</td>
+<td>lime_stained_glass_pane</td>
+<td>%glasspane_lim%</td>
+<td>%p5%</td>
+</tr>
+<tr>
+<td>Hellblaue Glasscheibe</td>
+<td>light_blue_stained_glass_pane</td>
+<td>%glasspane_lbl%</td>
+<td>%p3%</td>
+</tr>
+<tr>
+<td>Braune Glasscheibe</td>
+<td>brown_stained_glass_pane</td>
+<td>%glasspane_bro%</td>
+<td>%pc%</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id="wolle">Wolle</h3>
+<div class="table-wrapper scrollbar overflow-hidden">
+<table class="compact">
+<thead>
+<tr>
+<th>Deutscher Itemname</th>
+<th>Minecraft-ID</th>
+<th>Abkürzung</th>
+<th>Kurzform</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Weiße Wolle</td>
+<td>white_wool</td>
+<td>%wool_whi%</td>
+<td>35</td>
+</tr>
+<tr>
+<td>Hellgraue Wolle</td>
+<td>light_gray_wool</td>
+<td>%wool_lgr%</td>
+<td>35:8</td>
+</tr>
+<tr>
+<td>Graue Wolle</td>
+<td>gray_wool</td>
+<td>%wool_gry%</td>
+<td>35:7</td>
+</tr>
+<tr>
+<td>Schwarze Wolle</td>
+<td>black_wool</td>
+<td>%wool_blk%</td>
+<td>%wf%</td>
+</tr>
+<tr>
+<td>Gelbe Wolle</td>
+<td>yellow_wool</td>
+<td>%wool_yel%</td>
+<td>35:4</td>
+</tr>
+<tr>
+<td>Orange Wolle</td>
+<td>orange_wool</td>
+<td>%wool_ora%</td>
+<td>35:1</td>
+</tr>
+<tr>
+<td>Rote Wolle</td>
+<td>red_wool</td>
+<td>%wool_red%</td>
+<td>%we%</td>
+</tr>
+<tr>
+<td>Rosa Wolle</td>
+<td>pink_wool</td>
+<td>%wool_pnk%</td>
+<td>35:6</td>
+</tr>
+<tr>
+<td>Magenta Wolle</td>
+<td>magenta_wool</td>
+<td>%wool_mag%</td>
+<td>35:2</td>
+</tr>
+<tr>
+<td>Violette Wolle</td>
+<td>purple_wool</td>
+<td>%wool_pur%</td>
+<td>%wa%</td>
+</tr>
+<tr>
+<td>Blaue Wolle</td>
+<td>blue_wool</td>
+<td>%wool_blu%</td>
+<td>%wb%</td>
+</tr>
+<tr>
+<td>Türkise Wolle</td>
+<td>cyan_wool</td>
+<td>%wool_cya%</td>
+<td>35:9</td>
+</tr>
+<tr>
+<td>Grüne Wolle</td>
+<td>green_wool</td>
+<td>%wool_grn%</td>
+<td>%wd%</td>
+</tr>
+<tr>
+<td>Hellgrüne Wolle</td>
+<td>lime_wool</td>
+<td>%wool_lim%</td>
+<td>35:5</td>
+</tr>
+<tr>
+<td>Hellblaue Wolle</td>
+<td>light_blue_wool</td>
+<td>%wool_lbl%</td>
+<td>35:3</td>
+</tr>
+<tr>
+<td>Braune Wolle</td>
+<td>brown_wool</td>
+<td>%wool_bro%</td>
+<td>%wc%</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id="teppich">Teppich</h3>
+<div class="table-wrapper scrollbar overflow-hidden">
+<table class="compact">
+<thead>
+<tr>
+<th>Deutscher Itemname</th>
+<th>Minecraft-ID</th>
+<th>Abkürzung</th>
+<th>Kurzform</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Weißer Teppich</td>
+<td>white_carpet</td>
+<td>%carpet_whi%</td>
+<td>171</td>
+</tr>
+<tr>
+<td>Hellgrauer Teppich</td>
+<td>light_gray_carpet</td>
+<td>%carpet_lgr%</td>
+<td>%c8%</td>
+</tr>
+<tr>
+<td>Grauer Teppich</td>
+<td>gray_carpet</td>
+<td>%carpet_gry%</td>
+<td>%c7%</td>
+</tr>
+<tr>
+<td>Schwarzer Teppich</td>
+<td>black_carpet</td>
+<td>%carpet_blk%</td>
+<td>%cf%</td>
+</tr>
+<tr>
+<td>Gelber Teppich</td>
+<td>yellow_carpet</td>
+<td>%carpet_yel%</td>
+<td>%c4%</td>
+</tr>
+<tr>
+<td>Oranger Teppich</td>
+<td>orange_carpet</td>
+<td>%carpet_ora%</td>
+<td>%c1%</td>
+</tr>
+<tr>
+<td>Roter Teppich</td>
+<td>red_carpet</td>
+<td>%carpet_red%</td>
+<td>%ce%</td>
+</tr>
+<tr>
+<td>Rosa Teppich</td>
+<td>pink_carpet</td>
+<td>%carpet_pnk%</td>
+<td>%c6%</td>
+</tr>
+<tr>
+<td>Magenta Teppich</td>
+<td>magenta_carpet</td>
+<td>%carpet_mag%</td>
+<td>%c2%</td>
+</tr>
+<tr>
+<td>Violetter Teppich</td>
+<td>purple_carpet</td>
+<td>%carpet_pur%</td>
+<td>%ca%</td>
+</tr>
+<tr>
+<td>Blauer Teppich</td>
+<td>blue_carpet</td>
+<td>%carpet_blu%</td>
+<td>%cb%</td>
+</tr>
+<tr>
+<td>Türkiser Teppich</td>
+<td>cyan_carpet</td>
+<td>%carpet_cya%</td>
+<td>%c9%</td>
+</tr>
+<tr>
+<td>Grüner Teppich</td>
+<td>green_carpet</td>
+<td>%carpet_grn%</td>
+<td>%cd%</td>
+</tr>
+<tr>
+<td>Hellgrüner Teppich</td>
+<td>lime_carpet</td>
+<td>%carpet_lim%</td>
+<td>%c5%</td>
+</tr>
+<tr>
+<td>Hellblauer Teppich</td>
+<td>light_blue_carpet</td>
+<td>%carpet_lbl%</td>
+<td>%c3%</td>
+</tr>
+<tr>
+<td>Brauner Teppich</td>
+<td>brown_carpet</td>
+<td>%carpet_bro%</td>
+<td>%cc%</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id="keramik">Keramik</h3>
+<div class="table-wrapper scrollbar overflow-hidden">
+<table class="compact">
+<thead>
+<tr>
+<th>Deutscher Itemname</th>
+<th>Minecraft-ID</th>
+<th>Abkürzung</th>
+<th>Kurzform</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Keramik</td>
+<td>terracotta</td>
+<td>%terrac%</td>
+<td>172</td>
+</tr>
+<tr>
+<td>Weiße Keramik</td>
+<td>white_terracotta</td>
+<td>%terrac_whi%</td>
+<td>159</td>
+</tr>
+<tr>
+<td>Hellgraue Keramik</td>
+<td>light_gray_terracotta</td>
+<td>%terrac_lgr%</td>
+<td>%t8%</td>
+</tr>
+<tr>
+<td>Graue Keramik</td>
+<td>gray_terracotta</td>
+<td>%terrac_gry%</td>
+<td>%t7%</td>
+</tr>
+<tr>
+<td>Schwarze Keramik</td>
+<td>black_terracotta</td>
+<td>%terrac_blk%</td>
+<td>%tf%</td>
+</tr>
+<tr>
+<td>Gelbe Keramik</td>
+<td>yellow_terracotta</td>
+<td>%terrac_yel%</td>
+<td>%t4%</td>
+</tr>
+<tr>
+<td>Orange Keramik</td>
+<td>orange_terracotta</td>
+<td>%terrac_ora%</td>
+<td>%t1%</td>
+</tr>
+<tr>
+<td>Rote Keramik</td>
+<td>red_terracotta</td>
+<td>%terrac_red%</td>
+<td>%te%</td>
+</tr>
+<tr>
+<td>Pinke Keramik</td>
+<td>pink_terracotta</td>
+<td>%terrac_pnk%</td>
+<td>%t6%</td>
+</tr>
+<tr>
+<td>Magenta Keramik</td>
+<td>magenta_terracotta</td>
+<td>%terrac_mag%</td>
+<td>%t2%</td>
+</tr>
+<tr>
+<td>Violette Keramik</td>
+<td>purple_terracotta</td>
+<td>%terrac_pur%</td>
+<td>%ta%</td>
+</tr>
+<tr>
+<td>Blaue Keramik</td>
+<td>blue_terracotta</td>
+<td>%terrac_blu%</td>
+<td>%tb%</td>
+</tr>
+<tr>
+<td>Türkise Keramik</td>
+<td>cyan_terracotta</td>
+<td>%terrac_cya%</td>
+<td>%t9%</td>
+</tr>
+<tr>
+<td>Grüne Keramik</td>
+<td>green_terracotta</td>
+<td>%terrac_grn%</td>
+<td>%td%</td>
+</tr>
+<tr>
+<td>Hellgrüne Keramik</td>
+<td>lime_terracotta</td>
+<td>%terrac_lim%</td>
+<td>%t5%</td>
+</tr>
+<tr>
+<td>Hellblaue Keramik</td>
+<td>light_blue_terracotta</td>
+<td>%terrac_lbl%</td>
+<td>%t3%</td>
+</tr>
+<tr>
+<td>Braune Keramik</td>
+<td>brown_terracotta</td>
+<td>%terrac_bro%</td>
+<td>%tc%</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id="glasierte-keramik">Glasierte Keramik</h3>
+<div class="table-wrapper scrollbar overflow-hidden">
+<table class="compact">
+<thead>
+<tr>
+<th>Deutscher Itemname</th>
+<th>Minecraft-ID</th>
+<th>Abkürzung</th>
+<th>Kurzform</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Weiße glasierte Keramik</td>
+<td>white_glazed_terracotta</td>
+<td>%gl_terrac_whi%</td>
+<td>235</td>
+</tr>
+<tr>
+<td>Hellgraue glasierte Keramik</td>
+<td>light_gray_glazed_terracotta</td>
+<td>%gl_terrac_lgr%</td>
+<td>243</td>
+</tr>
+<tr>
+<td>Graue glasierte Keramik</td>
+<td>gray_glazed_terracotta</td>
+<td>%gl_terrac_gry%</td>
+<td>242</td>
+</tr>
+<tr>
+<td>Schwarze glasierte Keramik</td>
+<td>black_glazed_terracotta</td>
+<td>%gl_terrac_blk%</td>
+<td>250</td>
+</tr>
+<tr>
+<td>Gelbe glasierte Keramik</td>
+<td>yellow_glazed_terracotta</td>
+<td>%gl_terrac_yel%</td>
+<td>239</td>
+</tr>
+<tr>
+<td>Orange glasierte Keramik</td>
+<td>orange_glazed_terracotta</td>
+<td>%gl_terrac_ora%</td>
+<td>236</td>
+</tr>
+<tr>
+<td>Rote glasierte Keramik</td>
+<td>red_glazed_terracotta</td>
+<td>%gl_terrac_red%</td>
+<td>249</td>
+</tr>
+<tr>
+<td>Rosa glasierte Keramik</td>
+<td>pink_glazed_terracotta</td>
+<td>%gl_terrac_pnk%</td>
+<td>241</td>
+</tr>
+<tr>
+<td>Magenta glasierte Keramik</td>
+<td>magenta_glazed_terracotta</td>
+<td>%gl_terrac_mag%</td>
+<td>237</td>
+</tr>
+<tr>
+<td>Violette glasierte Keramik</td>
+<td>purple_glazed_terracotta</td>
+<td>%gl_terrac_pur%</td>
+<td>245</td>
+</tr>
+<tr>
+<td>Blaue glasierte Keramik</td>
+<td>blue_glazed_terracotta</td>
+<td>%gl_terrac_blu%</td>
+<td>246</td>
+</tr>
+<tr>
+<td>Türkise glasierte Keramik</td>
+<td>cyan_glazed_terracotta</td>
+<td>%gl_terrac_cya%</td>
+<td>244</td>
+</tr>
+<tr>
+<td>Grüne glasierte Keramik</td>
+<td>green_glazed_terracotta</td>
+<td>%gl_terrac_grn%</td>
+<td>248</td>
+</tr>
+<tr>
+<td>Hellgrüne glasierte Keramik</td>
+<td>lime_glazed_terracotta</td>
+<td>%gl_terrac_lim%</td>
+<td>240</td>
+</tr>
+<tr>
+<td>Hellblaue glasierte Keramik</td>
+<td>light_blue_glazed_terracotta</td>
+<td>%gl_terrac_lbl%</td>
+<td>238</td>
+</tr>
+<tr>
+<td>Braune glasierte Keramik</td>
+<td>brown_glazed_terracotta</td>
+<td>%gl_terrac_bro%</td>
+<td>247</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id="trockenbeton">Trockenbeton</h3>
+<div class="table-wrapper scrollbar overflow-hidden">
+<table class="compact">
+<thead>
+<tr>
+<th>Deutscher Itemname</th>
+<th>Minecraft-ID</th>
+<th>Abkürzung</th>
+<th>Kurzform</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Weißer Trockenbeton</td>
+<td>white_concrete_powder</td>
+<td>%concrpow_whi%</td>
+<td>252</td>
+</tr>
+<tr>
+<td>Hellgrauer Trockenbeton</td>
+<td>light_gray_concrete_powder</td>
+<td>%concrpow_lgr%</td>
+<td>%q8%</td>
+</tr>
+<tr>
+<td>Grauer Trockenbeton</td>
+<td>gray_concrete_powder</td>
+<td>%concrpow_gry%</td>
+<td>%q7%</td>
+</tr>
+<tr>
+<td>Schwarzer Trockenbeton</td>
+<td>black_concrete_powder</td>
+<td>%concrpow_blk%</td>
+<td>%qf%</td>
+</tr>
+<tr>
+<td>Gelber Trockenbeton</td>
+<td>yellow_concrete_powder</td>
+<td>%concrpow_yel%</td>
+<td>%q4%</td>
+</tr>
+<tr>
+<td>Oranger Trockenbeton</td>
+<td>orange_concrete_powder</td>
+<td>%concrpow_ora%</td>
+<td>%q1%</td>
+</tr>
+<tr>
+<td>Roter Trockenbeton</td>
+<td>red_concrete_powder</td>
+<td>%concrpow_red%</td>
+<td>%qe%</td>
+</tr>
+<tr>
+<td>Rosa Trockenbeton</td>
+<td>pink_concrete_powder</td>
+<td>%concrpow_pnk%</td>
+<td>%q6%</td>
+</tr>
+<tr>
+<td>Magenta Trockenbeton</td>
+<td>magenta_concrete_powder</td>
+<td>%concrpow_mag%</td>
+<td>%q2%</td>
+</tr>
+<tr>
+<td>Violetter Trockenbeton</td>
+<td>purple_concrete_powder</td>
+<td>%concrpow_pur%</td>
+<td>%qa%</td>
+</tr>
+<tr>
+<td>Blauer Trockenbeton</td>
+<td>blue_concrete_powder</td>
+<td>%concrpow_blu%</td>
+<td>%qb%</td>
+</tr>
+<tr>
+<td>Türkiser Trockenbeton</td>
+<td>cyan_concrete_powder</td>
+<td>%concrpow_cya%</td>
+<td>%q9%</td>
+</tr>
+<tr>
+<td>Grüner Trockenbeton</td>
+<td>green_concrete_powder</td>
+<td>%concrpow_grn%</td>
+<td>%qd%</td>
+</tr>
+<tr>
+<td>Hellgrüner Trockenbeton</td>
+<td>lime_concrete_powder</td>
+<td>%concrpow_lim%</td>
+<td>%q5%</td>
+</tr>
+<tr>
+<td>Hellblauer Trockenbeton</td>
+<td>light_blue_concrete_powder</td>
+<td>%concrpow_lbl%</td>
+<td>%q3%</td>
+</tr>
+<tr>
+<td>Brauner Trockenbeton</td>
+<td>brown_concrete_powder</td>
+<td>%concrpow_bro%</td>
+<td>%qc%</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id="beton">Beton</h3>
+<div class="table-wrapper scrollbar overflow-hidden">
+<table class="compact">
+<thead>
+<tr>
+<th>Deutscher Itemname</th>
+<th>Minecraft-ID</th>
+<th>Abkürzung</th>
+<th>Kurzform</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Weißer Beton</td>
+<td>white_concrete</td>
+<td>%concr_whi%</td>
+<td>251</td>
+</tr>
+<tr>
+<td>Hellgrauer Beton</td>
+<td>light_gray_concrete</td>
+<td>%concr_lgr%</td>
+<td>%b8%</td>
+</tr>
+<tr>
+<td>Grauer Beton</td>
+<td>gray_concrete</td>
+<td>%concr_gry%</td>
+<td>%b7%</td>
+</tr>
+<tr>
+<td>Schwarzer Beton</td>
+<td>black_concrete</td>
+<td>%concr_blk%</td>
+<td>%bf%</td>
+</tr>
+<tr>
+<td>Gelber Beton</td>
+<td>yellow_concrete</td>
+<td>%concr_yel%</td>
+<td>%b4%</td>
+</tr>
+<tr>
+<td>Oranger Beton</td>
+<td>orange_concrete</td>
+<td>%concr_ora%</td>
+<td>%b1%</td>
+</tr>
+<tr>
+<td>Roter Beton</td>
+<td>red_concrete</td>
+<td>%concr_red%</td>
+<td>%be%</td>
+</tr>
+<tr>
+<td>Rosa Beton</td>
+<td>pink_concrete</td>
+<td>%concr_pnk%</td>
+<td>%b6%</td>
+</tr>
+<tr>
+<td>Magenta Beton</td>
+<td>magenta_concrete</td>
+<td>%concr_mag%</td>
+<td>%b2%</td>
+</tr>
+<tr>
+<td>Violetter Beton</td>
+<td>purple_concrete</td>
+<td>%concr_pur%</td>
+<td>%ba%</td>
+</tr>
+<tr>
+<td>Blauer Beton</td>
+<td>blue_concrete</td>
+<td>%concr_blu%</td>
+<td>%bb%</td>
+</tr>
+<tr>
+<td>Türkiser Beton</td>
+<td>cyan_concrete</td>
+<td>%concr_cya%</td>
+<td>%b9%</td>
+</tr>
+<tr>
+<td>Grüner Beton</td>
+<td>green_concrete</td>
+<td>%concr_grn%</td>
+<td>%bd%</td>
+</tr>
+<tr>
+<td>Hellgrüner Beton</td>
+<td>lime_concrete</td>
+<td>%concr_lim%</td>
+<td>%b5%</td>
+</tr>
+<tr>
+<td>Hellblauer Beton</td>
+<td>light_blue_concrete</td>
+<td>%concr_lbl%</td>
+<td>%b3%</td>
+</tr>
+<tr>
+<td>Brauner Beton</td>
+<td>brown_concrete</td>
+<td>%concr_bro%</td>
+<td>%bc%</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id="türen">Türen</h3>
+<div class="table-wrapper scrollbar overflow-hidden">
+<table class="compact">
+<thead>
+<tr>
+<th>Deutscher Itemname</th>
+<th>Minecraft-ID</th>
+<th>Abkürzung</th>
+<th>Kurzform</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Eichenholztür</td>
+<td>oak_door</td>
+<td>%oak_door%</td>
+<td>324</td>
+</tr>
+<tr>
+<td>Fichtenholztür</td>
+<td>spruce_door</td>
+<td>%spruce_door%</td>
+<td>427</td>
+</tr>
+<tr>
+<td>Birkenholztür</td>
+<td>birch_door</td>
+<td>%birch_door%</td>
+<td>428</td>
+</tr>
+<tr>
+<td>Tropenholztür</td>
+<td>jungle_door</td>
+<td>%jungle_door%</td>
+<td>429</td>
+</tr>
+<tr>
+<td>Akazienholztür</td>
+<td>acacia_door</td>
+<td>%acacia_door%</td>
+<td>430</td>
+</tr>
+<tr>
+<td>Schwarzeichenholztür</td>
+<td>dark_oak_door</td>
+<td>%darkoak_door%</td>
+<td>431</td>
+</tr>
+<tr>
+<td>Karmesintür</td>
+<td>crimson_door</td>
+<td>%crimson_door%</td>
+<td>%gn%</td>
+</tr>
+<tr>
+<td>Wirrtür</td>
+<td>warped_door</td>
+<td>%warped_door%</td>
+<td>%go%</td>
+</tr>
+<tr>
+<td>Eisentür</td>
+<td>iron_door</td>
+<td>%iron_door%</td>
+<td>330</td>
+</tr>
+<tr>
+<td>Mangrovenholztür</td>
+<td>mangrove_door</td>
+<td>%mangrove_door%</td>
+<td>%xs%</td>
+</tr>
+<tr>
+<td>Kirschholztür</td>
+<td>cherry_door</td>
+<td>%cherry_door%</td>
+<td>%abf%</td>
+</tr>
+<tr>
+<td>Bambustür</td>
+<td>bamboo_door</td>
+<td>%bamboo_door%</td>
+<td>%aar%</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h4 id="kupfertüren">Kupfertüren</h4>
+<div class="table-wrapper scrollbar overflow-hidden">
+<table class="compact">
+<thead>
+<tr>
+<th>Deutscher Itemname</th>
+<th>Minecraft-ID</th>
+<th>Abkürzung</th>
+<th>Kurzform</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Kupfertür</td>
+<td>copper_door</td>
+<td>%cpr_door%</td>
+<td>%afm%</td>
+</tr>
+<tr>
+<td>Angelaufene Kupfertür</td>
+<td>exposed_copper_door</td>
+<td>%e_cpr_door%</td>
+<td>%afn%</td>
+</tr>
+<tr>
+<td>Verwitterte Kupfertür</td>
+<td>weathered_copper_door</td>
+<td>%w_cpr_door%</td>
+<td>%afo%</td>
+</tr>
+<tr>
+<td>Oxidierte Kupfertür</td>
+<td>oxidized_copper_door</td>
+<td>%o_cpr_door%</td>
+<td>%afp%</td>
+</tr>
+<tr>
+<td>Gewachste Kupfertür</td>
+<td>waxed_copper_door</td>
+<td>%wa_cpr_door%</td>
+<td>%afq%</td>
+</tr>
+<tr>
+<td>Gewachste angelaufene Kupfertür</td>
+<td>waxed_exposed_copper_door</td>
+<td>%wa_e_cpr_door%</td>
+<td>%afr%</td>
+</tr>
+<tr>
+<td>Gewachste verwitterte Kupfertür</td>
+<td>waxed_weathered_copper_door</td>
+<td>%wa_w_cpr_door%</td>
+<td>%afs%</td>
+</tr>
+<tr>
+<td>Gewachste oxidierte Kupfertür</td>
+<td>waxed_oxidized_copper_door</td>
+<td>%wa_o_cpr_door%</td>
+<td>%aft%</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id="falltüren">Falltüren</h3>
+<div class="table-wrapper scrollbar overflow-hidden">
+<table class="compact">
+<thead>
+<tr>
+<th>Deutscher Itemname</th>
+<th>Minecraft-ID</th>
+<th>Abkürzung</th>
+<th>Kurzform</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Eichenholzfalltür</td>
+<td>oak_trapdoor</td>
+<td>%oak_trap%</td>
+<td>96</td>
+</tr>
+<tr>
+<td>Fichtenholzfalltür</td>
+<td>spruce_trapdoor</td>
+<td>%spruce_trap%</td>
+<td>%gp%</td>
+</tr>
+<tr>
+<td>Birkenholzfalltür</td>
+<td>birch_trapdoor</td>
+<td>%birch_trap%</td>
+<td>%gq%</td>
+</tr>
+<tr>
+<td>Tropenholzfalltür</td>
+<td>jungle_trapdoor</td>
+<td>%jungle_trap%</td>
+<td>%gr%</td>
+</tr>
+<tr>
+<td>Akazienholzfalltür</td>
+<td>acacia_trapdoor</td>
+<td>%acacia_trap%</td>
+<td>%gs%</td>
+</tr>
+<tr>
+<td>Schwarzeichenholzfalltür</td>
+<td>dark_oak_trapdoor</td>
+<td>%darkoak_trap%</td>
+<td>%gt%</td>
+</tr>
+<tr>
+<td>Karmesinfalltür</td>
+<td>crimson_trapdoor</td>
+<td>%crimson_trap%</td>
+<td>%gu%</td>
+</tr>
+<tr>
+<td>Wirrfalltür</td>
+<td>warped_trapdoor</td>
+<td>%warped_trap%</td>
+<td>%gv%</td>
+</tr>
+<tr>
+<td>Eisenfalltür</td>
+<td>iron_trapdoor</td>
+<td>%iron_trap%</td>
+<td>167</td>
+</tr>
+<tr>
+<td>Mangrovenholzfalltür</td>
+<td>mangrove_trapdoor</td>
+<td>%mangrove_trap</td>
+<td>%xj%</td>
+</tr>
+<tr>
+<td>Kirschholzfalltür</td>
+<td>cherry_trapdoor</td>
+<td>%cherry_trap%</td>
+<td>%abk%</td>
+</tr>
+<tr>
+<td>Bambusfalltür</td>
+<td>bamboo_trapdoor</td>
+<td>%bamboo_trap%</td>
+<td>%aaw%</td>
+</tr>
+<tr>
+<td>Blasseichenholzfalltür</td>
+<td>pale_oak_trapdoor</td>
+<td>%poak_trdo%</td>
+<td>%aid%</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h4 id="kupferfalltüren">Kupferfalltüren</h4>
+<div class="table-wrapper scrollbar overflow-hidden">
+<table class="compact">
+<thead>
+<tr>
+<th>Deutscher Itemname</th>
+<th>Minecraft-ID</th>
+<th>Abkürzung</th>
+<th>Kurzform</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Kupferfalltür</td>
+<td>copper_trapdoor</td>
+<td>%cpr_door%</td>
+<td>%afu%</td>
+</tr>
+<tr>
+<td>Angelaufene Kupferfalltür</td>
+<td>exposed_copper_trapdoor</td>
+<td>%e_cpr_trap%</td>
+<td>%afv%</td>
+</tr>
+<tr>
+<td>Verwitterte Kupferfalltür</td>
+<td>weathered_copper_trapdoor</td>
+<td>%w_cpr_trap%</td>
+<td>%afw%</td>
+</tr>
+<tr>
+<td>Oxidierte Kupferfalltür</td>
+<td>oxidized_copper_trapdoor</td>
+<td>%o_cpr_trap%</td>
+<td>%afx%</td>
+</tr>
+<tr>
+<td>Gewachste Kupferfalltür</td>
+<td>waxed_copper_trapdoor</td>
+<td>%wa_cpr_trap%</td>
+<td>%afy%</td>
+</tr>
+<tr>
+<td>Gewachste angelaufene Kupferfalltür</td>
+<td>waxed_exposed_copper_trapdoor</td>
+<td>%wa_e_cpr_trap%</td>
+<td>%afz%</td>
+</tr>
+<tr>
+<td>Gewachste verwitterte Kupferfalltür</td>
+<td>waxed_weathered_copper_trapdoor</td>
+<td>%wa_w_cpr_trap%</td>
+<td>%aga%</td>
+</tr>
+<tr>
+<td>Gewachste oxidierte Kupferfalltür</td>
+<td>waxed_oxidized_copper_trapdoor</td>
+<td>%wa_o_cpr_trap%</td>
+<td>%agb%</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id="knöpfe">Knöpfe</h3>
+<div class="table-wrapper scrollbar overflow-hidden">
+<table class="compact">
+<thead>
+<tr>
+<th>Deutscher Itemname</th>
+<th>Minecraft-ID</th>
+<th>Abkürzung</th>
+<th>Kurzform</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Eichenholzknopf</td>
+<td>oak_button</td>
+<td>%oak_btn%</td>
+<td>143</td>
+</tr>
+<tr>
+<td>Fichtenholzknopf</td>
+<td>spruce_button</td>
+<td>%spruce_btn%</td>
+<td>%gw%</td>
+</tr>
+<tr>
+<td>Birkenholzknopf</td>
+<td>birch_button</td>
+<td>%birch_btn%</td>
+<td>%gx%</td>
+</tr>
+<tr>
+<td>Tropenholzknopf</td>
+<td>jungle_button</td>
+<td>%jungle_btn%</td>
+<td>%gy%</td>
+</tr>
+<tr>
+<td>Akazienholzknopf</td>
+<td>acacia_button</td>
+<td>%acacia_btn%</td>
+<td>%gz%</td>
+</tr>
+<tr>
+<td>Schwarzeichenholzknopf</td>
+<td>dark_oak_button</td>
+<td>%darkoak_btn%</td>
+<td>%hg%</td>
+</tr>
+<tr>
+<td>Karmesinknopf</td>
+<td>crimson_button</td>
+<td>%crimson_btn%</td>
+<td>%nv%</td>
+</tr>
+<tr>
+<td>Wirrknopf</td>
+<td>warped_button</td>
+<td>%warped_btn%</td>
+<td>%hi%</td>
+</tr>
+<tr>
+<td>Steinknopf</td>
+<td>stone_button</td>
+<td>%stone_btn%</td>
+<td>77</td>
+</tr>
+<tr>
+<td>Polierter Schwarzsteinknopf</td>
+<td>polished_blackstone_button</td>
+<td>%p_blkst_btn%</td>
+<td>%nw%</td>
+</tr>
+<tr>
+<td>Mangrovenholzknopf</td>
+<td>mangrove_button</td>
+<td>%mangrove_btn%</td>
+<td>%xt%</td>
+</tr>
+<tr>
+<td>Kirschholznopf</td>
+<td>cherry_button</td>
+<td>%cherry_btn%</td>
+<td>%abe%</td>
+</tr>
+<tr>
+<td>Bambusknopf</td>
+<td>bamboo_button</td>
+<td>%bamboo_btn%</td>
+<td>%aaq%</td>
+</tr>
+<tr>
+<td>Blasseichenholzknopf</td>
+<td>pale_oak_button</td>
+<td>%poak_bu%</td>
+<td>%aif%</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id="druckplatten">Druckplatten</h3>
+<div class="table-wrapper scrollbar overflow-hidden">
+<table class="compact">
+<thead>
+<tr>
+<th>Deutscher Itemname</th>
+<th>Minecraft-ID</th>
+<th>Abkürzung</th>
+<th>Kurzform</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Eichenholzdruckplatte</td>
+<td>oak_pressure_plate</td>
+<td>%oak_prpl%</td>
+<td>72</td>
+</tr>
+<tr>
+<td>Fichtenholzdruckplatte</td>
+<td>spruce_pressure_plate</td>
+<td>%spruce_prpl%</td>
+<td>%hk%</td>
+</tr>
+<tr>
+<td>Birkenholzdruckplatte</td>
+<td>birch_pressure_plate</td>
+<td>%birch_prpl%</td>
+<td>%hl%</td>
+</tr>
+<tr>
+<td>Tropenholzdruckplatte</td>
+<td>jungle_pressure_plate</td>
+<td>%jungle_prpl%</td>
+<td>%hm%</td>
+</tr>
+<tr>
+<td>Akazienholzdruckplatte</td>
+<td>acacia_pressure_plate</td>
+<td>%acacia_prpl%</td>
+<td>%hn%</td>
+</tr>
+<tr>
+<td>Schwarzeichenholzdruckplatte</td>
+<td>dark_oak_pressure_plate</td>
+<td>%darkoak_prpl%</td>
+<td>%ho%</td>
+</tr>
+<tr>
+<td>Karmesindruckplatte</td>
+<td>crimson_pressure_plate</td>
+<td>%crimson_prpl%</td>
+<td>%hp%</td>
+</tr>
+<tr>
+<td>Wirrdruckplatte</td>
+<td>warped_pressure_plate</td>
+<td>%warped_prpl%</td>
+<td>%hq%</td>
+</tr>
+<tr>
+<td>Steindruckplatte</td>
+<td>stone_pressure_plate</td>
+<td>%stone_prpl%</td>
+<td>70</td>
+</tr>
+<tr>
+<td>Polierte Schwarzsteindruckplatte</td>
+<td>polished_blackstone_pressure_plate</td>
+<td>%p_blkst_prpl%</td>
+<td>%hr%</td>
+</tr>
+<tr>
+<td>Feinwägeplatte</td>
+<td>light_weighted_pressure_plate</td>
+<td>%gold_prpl%</td>
+<td>147</td>
+</tr>
+<tr>
+<td>Grobwägeplatte</td>
+<td>heavy_weighted_pressure_plate</td>
+<td>%iron_prpl%</td>
+<td>148</td>
+</tr>
+<tr>
+<td>Mangrovenholzdruckplatte</td>
+<td>mangrove_pressure_plate</td>
+<td>%mangrove_prpl%</td>
+<td>%xn%</td>
+</tr>
+<tr>
+<td>Kirschholzdruckplatte</td>
+<td>cherry_pressure_plate</td>
+<td>%cherry_prpl%</td>
+<td>%abi%</td>
+</tr>
+<tr>
+<td>Bambusdruckplatte</td>
+<td>bamboo_pressure_plate</td>
+<td>%bamboo_prpl%</td>
+<td>%aau%</td>
+</tr>
+<tr>
+<td>Blasseichenholzdruckplatte</td>
+<td>pale_oak_pressure_plate</td>
+<td>%poak_prpl%</td>
+<td>%aie%</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id="boote-und-minecarts">Boote und Minecarts</h3>
+<div class="table-wrapper scrollbar overflow-hidden">
+<table class="compact">
+<thead>
+<tr>
+<th>Deutscher Itemname</th>
+<th>Minecraft-ID</th>
+<th>Abkürzung</th>
+<th>Kurzform</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Eichenholzboot</td>
+<td>oak_boat</td>
+<td>%oak_boat%</td>
+<td>333</td>
+</tr>
+<tr>
+<td>Fichtenholzboot</td>
+<td>spruce_boat</td>
+<td>%spruce_boat%</td>
+<td>444</td>
+</tr>
+<tr>
+<td>Birkenholzboot</td>
+<td>birch_boat</td>
+<td>%birch_boat%</td>
+<td>445</td>
+</tr>
+<tr>
+<td>Tropenholzboot</td>
+<td>jungle_boat</td>
+<td>%jungle_boat%</td>
+<td>446</td>
+</tr>
+<tr>
+<td>Akazienholzboot</td>
+<td>acacia_boat</td>
+<td>%acacia_boat%</td>
+<td>447</td>
+</tr>
+<tr>
+<td>Schwarzeichenholzboot</td>
+<td>dark_oak_boat</td>
+<td>%darkoak_boat%</td>
+<td>448</td>
+</tr>
+<tr>
+<td>Mangrovenholzboot</td>
+<td>mangrove_boat</td>
+<td>%mangrove_boat%</td>
+<td>%xu%</td>
+</tr>
+<tr>
+<td>Kirschholzboot</td>
+<td>cherrye_boat</td>
+<td>%cherry_boat%</td>
+<td>%abq%</td>
+</tr>
+<tr>
+<td>Bambusfloß</td>
+<td>bamboo_raft</td>
+<td>%bamboo_raft%</td>
+<td>%aaz%</td>
+</tr>
+<tr>
+<td>Blasseichenholzboot</td>
+<td>pale_oak_boat</td>
+<td>%poak_bo%</td>
+<td>%aii%</td>
+</tr>
+<tr>
+<td>Eichenholztruhenboot</td>
+<td>oak_chest_boat</td>
+<td>%oak_c_boat%</td>
+<td>%yl%</td>
+</tr>
+<tr>
+<td>Fichtenholztruhenboot</td>
+<td>spruce_chest_boat</td>
+<td>%spruce_c_boat%</td>
+<td>%ym%</td>
+</tr>
+<tr>
+<td>Birkenholztruhenboot</td>
+<td>birch_chest_boat</td>
+<td>%birch_c_boat%</td>
+<td>%zj%</td>
+</tr>
+<tr>
+<td>Tropenholztruhenboot</td>
+<td>jungle_chest_boat</td>
+<td>%jungle_c_boat%</td>
+<td>%a1%</td>
+</tr>
+<tr>
+<td>Akazienholztruhenboot</td>
+<td>acacia_chest_boat</td>
+<td>%acacia_c_boat%</td>
+<td>%a2%</td>
+</tr>
+<tr>
+<td>Mangrovenholztruhenboot</td>
+<td>mangrove_chest_boat</td>
+<td>%mangrove_c_boat%</td>
+<td>%a3%</td>
+</tr>
+<tr>
+<td>Schwarzeichenholztruhenboot</td>
+<td>dark_oak_chest_boat</td>
+<td>%darkoak_c_boat%</td>
+<td>%a4%</td>
+</tr>
+<tr>
+<td>Kirschholztruhenboot</td>
+<td>cherry_chest_boat</td>
+<td>%cherry_c_boat%</td>
+<td>%abr%</td>
+</tr>
+<tr>
+<td>Bambus-Truhenfloß</td>
+<td>bamboo_chest_raft</td>
+<td>%bamboo_c_boat%</td>
+<td>%aba%</td>
+</tr>
+<tr>
+<td>Blasseichenholztruhenboot</td>
+<td>pale_oak_chest_boat</td>
+<td>%poak_chbo%</td>
+<td>%aij%</td>
+</tr>
+<tr>
+<td>Lore</td>
+<td>minecart</td>
+<td>%minecart%</td>
+<td>328</td>
+</tr>
+<tr>
+<td>Güterlore</td>
+<td>chest_minecart</td>
+<td>%minecart_che%</td>
+<td>342</td>
+</tr>
+<tr>
+<td>Antriebslore</td>
+<td>furnace_minecart</td>
+<td>%minecart_fur%</td>
+<td>343</td>
+</tr>
+<tr>
+<td>Trichterlore</td>
+<td>hopper_minecart</td>
+<td>%minecart_hop%</td>
+<td>408</td>
+</tr>
+<tr>
+<td>TNT-Lore</td>
+<td>tnt_minecart</td>
+<td>%minecart_tnt%</td>
+<td>407</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id="shulkerkisten">Shulkerkisten</h3>
+<div class="table-wrapper scrollbar overflow-hidden">
+<table class="compact">
+<thead>
+<tr>
+<th>Deutscher Itemname</th>
+<th>Minecraft-ID</th>
+<th>Abkürzung</th>
+<th>Kurzform</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Shulkerkiste</td>
+<td>shulker_box</td>
+<td>%shulkbox%</td>
+<td>%hs%</td>
+</tr>
+<tr>
+<td>Weiße Shulkerkiste</td>
+<td>white_shulker_box</td>
+<td>%shulkbox_whi%</td>
+<td>219</td>
+</tr>
+<tr>
+<td>Hellgraue Shulkerkiste</td>
+<td>light_gray_shulker_box</td>
+<td>%shulkbox_lgr%</td>
+<td>227</td>
+</tr>
+<tr>
+<td>Graue Shulkerkiste</td>
+<td>gray_shulker_box</td>
+<td>%shulkbox_gry%</td>
+<td>226</td>
+</tr>
+<tr>
+<td>Schwarze Shulkerkiste</td>
+<td>black_shulker_box</td>
+<td>%shulkbox_blk%</td>
+<td>234</td>
+</tr>
+<tr>
+<td>Gelbe Shulkerkiste</td>
+<td>yellow_shulker_box</td>
+<td>%shulkbox_yel%</td>
+<td>223</td>
+</tr>
+<tr>
+<td>Orange Shulkerkiste</td>
+<td>orange_shulker_box</td>
+<td>%shulkbox_ora%</td>
+<td>220</td>
+</tr>
+<tr>
+<td>Rote Shulkerkiste</td>
+<td>red_shulker_box</td>
+<td>%shulkbox_red%</td>
+<td>233</td>
+</tr>
+<tr>
+<td>Rosa Shulkerkiste</td>
+<td>pink_shulker_box</td>
+<td>%shulkbox_pnk%</td>
+<td>225</td>
+</tr>
+<tr>
+<td>Magenta Shulkerkiste</td>
+<td>magenta_shulker_box</td>
+<td>%shulkbox_mag%</td>
+<td>221</td>
+</tr>
+<tr>
+<td>Violette Shulkerkiste</td>
+<td>purple_shulker_box</td>
+<td>%shulkbox_pur%</td>
+<td>229</td>
+</tr>
+<tr>
+<td>Blaue Shulkerkiste</td>
+<td>blue_shulker_box</td>
+<td>%shulkbox_blu%</td>
+<td>230</td>
+</tr>
+<tr>
+<td>Türkise Shulkerkiste</td>
+<td>cyan_shulker_box</td>
+<td>%shulkbox_cya%</td>
+<td>228</td>
+</tr>
+<tr>
+<td>Grüne Shulkerkiste</td>
+<td>green_shulker_box</td>
+<td>%shulkbox_grn%</td>
+<td>232</td>
+</tr>
+<tr>
+<td>Hellgrüne Shulkerkiste</td>
+<td>lime_shulker_box</td>
+<td>%shulkbox_lim%</td>
+<td>224</td>
+</tr>
+<tr>
+<td>Hellblaue Shulkerkiste</td>
+<td>light_blue_shulker_box</td>
+<td>%shulkbox_lbl%</td>
+<td>222</td>
+</tr>
+<tr>
+<td>Braune Shulkerkiste</td>
+<td>brown_shulker_box</td>
+<td>%shulkbox_bro%</td>
+<td>231</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id="andere-funktionsblöcke">Andere Funktionsblöcke</h3>
+<div class="table-wrapper scrollbar overflow-hidden">
+<table class="compact">
+<thead>
+<tr>
+<th>Deutscher Itemname</th>
+<th>Minecraft-ID</th>
+<th>Abkürzung</th>
+<th>Kurzform</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Werkbank</td>
+<td>crafting_table</td>
+<td>%crafttable%</td>
+<td>58</td>
+</tr>
+<tr>
+<td>Leiter</td>
+<td>ladder</td>
+<td>%ladder%</td>
+<td>65</td>
+</tr>
+<tr>
+<td>Truhe</td>
+<td>chest</td>
+<td>%chest%</td>
+<td>54</td>
+</tr>
+<tr>
+<td>Redstone-Truhe</td>
+<td>trapped_chest</td>
+<td>%trap_chest%</td>
+<td>146</td>
+</tr>
+<tr>
+<td>Kupferkiste</td>
+<td>copper_chest</td>
+<td>%cpr_chest%</td>
+<td>%pg%</td>
+</tr>
+<tr>
+<td>Angelaufene Kupferkiste</td>
+<td>exposed_copper_chest</td>
+<td>%e_cpr_chest%</td>
+<td>%akv%</td>
+</tr>
+<tr>
+<td>Verwitterte Kupferkiste</td>
+<td>weathered_copper_chest</td>
+<td>%w_cpr_chest%</td>
+<td>%akw%</td>
+</tr>
+<tr>
+<td>Oxidierte Kupferkiste</td>
+<td>oxidized_copper_chest</td>
+<td>%o_cpr_chest%</td>
+<td>%akx%</td>
+</tr>
+<tr>
+<td>Gewachste Kupferkiste</td>
+<td>waxed_copper_chest</td>
+<td>%wa_cpr_chest%</td>
+<td>%aky%</td>
+</tr>
+<tr>
+<td>Gewachste angelaufene Kupferkiste</td>
+<td>waxed_exposed_copper_chest</td>
+<td>%wa_e_cpr_chest%</td>
+<td>%akz%</td>
+</tr>
+<tr>
+<td>Gewachste verwitterte Kupferkiste</td>
+<td>waxed_weathered_copper_chest</td>
+<td>%wa_w_cpr_chest%</td>
+<td>%ala%</td>
+</tr>
+<tr>
+<td>Gewachste oxidierte Kupferkiste</td>
+<td>waxed_oxidized_copper_chest</td>
+<td>%wa_o_cpr_chest%</td>
+<td>%alb%</td>
+</tr>
+<tr>
+<td>Fass</td>
+<td>barrel</td>
+<td>%barrel%</td>
+<td>%ht%</td>
+</tr>
+<tr>
+<td>Endertruhe</td>
+<td>ender_chest</td>
+<td>%end_chest%</td>
+<td>130</td>
+</tr>
+<tr>
+<td>Ofen</td>
+<td>furnace</td>
+<td>%furnace%</td>
+<td>61</td>
+</tr>
+<tr>
+<td>Schmelzofen</td>
+<td>blast_furnace</td>
+<td>%blast_furnace%</td>
+<td>%hu%</td>
+</tr>
+<tr>
+<td>Räucherofen</td>
+<td>smoker</td>
+<td>%smoker%</td>
+<td>%hv%</td>
+</tr>
+<tr>
+<td>Trichter</td>
+<td>hopper</td>
+<td>%hopper%</td>
+<td>154</td>
+</tr>
+<tr>
+<td>Zaubertisch</td>
+<td>enchanting_table</td>
+<td>%enchtable%</td>
+<td>116</td>
+</tr>
+<tr>
+<td>Amboss</td>
+<td>anvil</td>
+<td>%anvil_good%</td>
+<td>%hw%</td>
+</tr>
+<tr>
+<td>Angeschlagener Amboss</td>
+<td>chipped_anvil</td>
+<td>%anvil_medium%</td>
+<td>%hx%</td>
+</tr>
+<tr>
+<td>Beschädigter Amboss</td>
+<td>damaged_anvil</td>
+<td>%anvil_bad%</td>
+<td>%hy%</td>
+</tr>
+<tr>
+<td>Braustand</td>
+<td>brewing_stand</td>
+<td>%brewingstand%</td>
+<td>379</td>
+</tr>
+<tr>
+<td>Schleifstein</td>
+<td>grindstone</td>
+<td>%grindstone%</td>
+<td>%hz%</td>
+</tr>
+<tr>
+<td>Kartentisch</td>
+<td>cartography_table</td>
+<td>%cartotable%</td>
+<td>%ig%</td>
+</tr>
+<tr>
+<td>Bognertisch</td>
+<td>fletching_table</td>
+<td>%fletchtable%</td>
+<td>%ih%</td>
+</tr>
+<tr>
+<td>Schmiedetisch</td>
+<td>smithing_table</td>
+<td>%smithtable%</td>
+<td>%ii%</td>
+</tr>
+<tr>
+<td>Webstuhl</td>
+<td>loom</td>
+<td>%loom%</td>
+<td>%ij%</td>
+</tr>
+<tr>
+<td>Lesepult</td>
+<td>lectern</td>
+<td>%lectern%</td>
+<td>%ik%</td>
+</tr>
+<tr>
+<td>Steinsäge</td>
+<td>stonecutter</td>
+<td>%stonecutter%</td>
+<td>%il%</td>
+</tr>
+<tr>
+<td>Plattenspieler</td>
+<td>jukebox</td>
+<td>%jukebox%</td>
+<td>84</td>
+</tr>
+<tr>
+<td>Notenblock</td>
+<td>note_block</td>
+<td>%noteblock%</td>
+<td>25</td>
+</tr>
+<tr>
+<td>Leitstein</td>
+<td>lodestone</td>
+<td>%lodestone%</td>
+<td>%im%</td>
+</tr>
+<tr>
+<td>Seelenanker</td>
+<td>respawn_anchor</td>
+<td>%respawnanchor%</td>
+<td>%in%</td>
+</tr>
+<tr>
+<td>Aquisator</td>
+<td>conduit</td>
+<td>%conduit%</td>
+<td>%io%</td>
+</tr>
+<tr>
+<td>Leuchtfeuer</td>
+<td>beacon</td>
+<td>%beacon%</td>
+<td>138</td>
+</tr>
+<tr>
+<td>Enderkristall</td>
+<td>end_crystal</td>
+<td>%endcrystal%</td>
+<td>426</td>
+</tr>
+<tr>
+<td>Blitzableiter</td>
+<td>lightning_rod</td>
+<td>%light_rod%</td>
+<td>%qw%</td>
+</tr>
+<tr>
+<td>Angelaufener Blitzableiter</td>
+<td>exposed_lightning_rod</td>
+<td>%e_light_rod%</td>
+<td>%alz%</td>
+</tr>
+<tr>
+<td>Verwitterter Blitzableiter</td>
+<td>weathered_lightning_rod</td>
+<td>%w_light_rod%</td>
+<td>%ama%</td>
+</tr>
+<tr>
+<td>Oxidierter Blitzableiter</td>
+<td>oxidized_lightning_rod</td>
+<td>%o_light_rod%</td>
+<td>%amb%</td>
+</tr>
+<tr>
+<td>Gewachster Blitzableiter</td>
+<td>waxed_lightning_rod</td>
+<td>%wa_light_rod%</td>
+<td>%amc%</td>
+</tr>
+<tr>
+<td>Gewachster angelaufener Blitzableiter</td>
+<td>waxed_exposed_lightning_rod</td>
+<td>%wa_e_light_rod%</td>
+<td>%amd%</td>
+</tr>
+<tr>
+<td>Gewachster verwitterter Blitzableiter</td>
+<td>waxed_weathered_lightning_rod</td>
+<td>%wa_w_light_rod%</td>
+<td>%ame%</td>
+</tr>
+<tr>
+<td>Gewachster oxidierter Blitzableiter</td>
+<td>waxed_oxidized_lightning_rod</td>
+<td>%wa_o_light_rod%</td>
+<td>%amf%</td>
+</tr>
+<tr>
+<td>Werker</td>
+<td>crafter</td>
+<td>%crafter%</td>
+<td>%agp%</td>
+</tr>
+<tr>
+<td>Tresor</td>
+<td>vault</td>
+<td>%vault%</td>
+<td>%agq%</td>
+</tr>
+<tr>
+<td>Akazienholzregal</td>
+<td>acacia_shelf</td>
+<td>%acacia_sh%</td>
+<td>%amn%</td>
+</tr>
+<tr>
+<td>Bambusregal</td>
+<td>bamboo_shelf</td>
+<td>%bamboo_sh%</td>
+<td>%amo%</td>
+</tr>
+<tr>
+<td>Birkenholzregal</td>
+<td>birch_shelf</td>
+<td>%birch_sh%</td>
+<td>%amp%</td>
+</tr>
+<tr>
+<td>Fichtenholzregal</td>
+<td>spruce_shelf</td>
+<td>%spruce_sh%</td>
+<td>%anv%</td>
+</tr>
+<tr>
+<td>Kirschholzregal</td>
+<td>cherry_shelf</td>
+<td>%cherry_sh%</td>
+<td>%amq%</td>
+</tr>
+<tr>
+<td>Karmesinregal</td>
+<td>crimson_shelf</td>
+<td>%crimson_sh%</td>
+<td>%amr%</td>
+</tr>
+<tr>
+<td>Akazienholzregal</td>
+<td>dark_oak_shelf</td>
+<td>%darkoak_sh%</td>
+<td>%ams%</td>
+</tr>
+<tr>
+<td>Schwarzeichenholzregal</td>
+<td>jungle_shelf</td>
+<td>%jungle_sh%</td>
+<td>%amt%</td>
+</tr>
+<tr>
+<td>Mangrovenholzregal</td>
+<td>mangrove_shelf</td>
+<td>%mangrove_sh%</td>
+<td>%amu%</td>
+</tr>
+<tr>
+<td>Eichenholzregal</td>
+<td>oak_shelf</td>
+<td>%oak_sh%</td>
+<td>%amv%</td>
+</tr>
+<tr>
+<td>Blasseichenholzregal</td>
+<td>pale_oak_shelf</td>
+<td>%paleoak_sh%</td>
+<td>%amw%</td>
+</tr>
+<tr>
+<td>Wirrregal</td>
+<td>warped_shelf</td>
+<td>%warped_sh%</td>
+<td>%amx%</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id="tnt">TNT</h3>
+<div class="table-wrapper scrollbar overflow-hidden">
+<table class="compact">
+<thead>
+<tr>
+<th>Deutscher Itemname</th>
+<th>Minecraft-ID</th>
+<th>Abkürzung</th>
+<th>Kurzform</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>TNT</td>
+<td>tnt</td>
+<td>%tnt%</td>
+<td>46</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id="bücher">Bücher</h3>
+<div class="table-wrapper scrollbar overflow-hidden">
+<table class="compact">
+<thead>
+<tr>
+<th>Deutscher Itemname</th>
+<th>Minecraft-ID</th>
+<th>Abkürzung</th>
+<th>Kurzform</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Papier</td>
+<td>paper</td>
+<td>%paper%</td>
+<td>339</td>
+</tr>
+<tr>
+<td>Buch</td>
+<td>book</td>
+<td>%book%</td>
+<td>340</td>
+</tr>
+<tr>
+<td>Verzaubertes Buch</td>
+<td>enchanted_book</td>
+<td>%enchbook%</td>
+<td>403</td>
+</tr>
+<tr>
+<td>Buch und Feder</td>
+<td>writable_book</td>
+<td>%book_towrite%</td>
+<td>386</td>
+</tr>
+<tr>
+<td>Beschriebenes Buch</td>
+<td>written_book</td>
+<td>%book_written%</td>
+<td>387</td>
+</tr>
+<tr>
+<td>Bücherregal</td>
+<td>bookshelf</td>
+<td>%bookshelf%</td>
+<td>47</td>
+</tr>
+<tr>
+<td>Gearbeitetes Bücherregal</td>
+<td>chiseled_bookshelf</td>
+<td>%ch_bookshelf%</td>
+<td>%abu%</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id="schienen">Schienen</h3>
+<div class="table-wrapper scrollbar overflow-hidden">
+<table class="compact">
+<thead>
+<tr>
+<th>Deutscher Itemname</th>
+<th>Minecraft-ID</th>
+<th>Abkürzung</th>
+<th>Kurzform</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Schiene</td>
+<td>rail</td>
+<td>%rail%</td>
+<td>66</td>
+</tr>
+<tr>
+<td>Antriebsschiene</td>
+<td>powered_rail</td>
+<td>%power_rail%</td>
+<td>27</td>
+</tr>
+<tr>
+<td>Sensorschiene</td>
+<td>detector_rail</td>
+<td>%detect_rail%</td>
+<td>28</td>
+</tr>
+<tr>
+<td>Aktivierungsschiene</td>
+<td>activator_rail</td>
+<td>%activ_rail%</td>
+<td>157</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id="redstone">Redstone</h3>
+<div class="table-wrapper scrollbar overflow-hidden">
+<table class="compact">
+<thead>
+<tr>
+<th>Deutscher Itemname</th>
+<th>Minecraft-ID</th>
+<th>Abkürzung</th>
+<th>Kurzform</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Redstonefackel</td>
+<td>redstone_torch</td>
+<td>%redsttorch%</td>
+<td>76</td>
+</tr>
+<tr>
+<td>Hebel</td>
+<td>lever</td>
+<td>%lever%</td>
+<td>69</td>
+</tr>
+<tr>
+<td>Redstone-Verstärker</td>
+<td>repeater</td>
+<td>%repeater%</td>
+<td>356</td>
+</tr>
+<tr>
+<td>Redstone-Komparator</td>
+<td>comparator</td>
+<td>%comparator%</td>
+<td>404</td>
+</tr>
+<tr>
+<td>Werfer</td>
+<td>dispenser</td>
+<td>%dispenser%</td>
+<td>23</td>
+</tr>
+<tr>
+<td>Spender</td>
+<td>dropper</td>
+<td>%dropper%</td>
+<td>158</td>
+</tr>
+<tr>
+<td>Beobachter</td>
+<td>observer</td>
+<td>%observer%</td>
+<td>218</td>
+</tr>
+<tr>
+<td>Tageslichtsensor</td>
+<td>daylight_detector</td>
+<td>%daylightsens%</td>
+<td>151</td>
+</tr>
+<tr>
+<td>Kolben</td>
+<td>piston</td>
+<td>%piston%</td>
+<td>33</td>
+</tr>
+<tr>
+<td>Klebriger Kolben</td>
+<td>sticky_piston</td>
+<td>%stick_piston%</td>
+<td>29</td>
+</tr>
+<tr>
+<td>Haken</td>
+<td>tripwire_hook</td>
+<td>%tripwirehook%</td>
+<td>131</td>
+</tr>
+<tr>
+<td>Zielblock</td>
+<td>target</td>
+<td>%target%</td>
+<td>%ip%</td>
+</tr>
+<tr>
+<td>Sculk-Sensor</td>
+<td>sculk_sensor</td>
+<td>%sculksensor%</td>
+<td>%ra%</td>
+</tr>
+<tr>
+<td>Kalibrierter Sculk-Sensor</td>
+<td>calibrated_sculk_sensor</td>
+<td>%ca_sculksensor%</td>
+<td>%abt%</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id="beleuchtung">Beleuchtung</h3>
+<div class="table-wrapper scrollbar overflow-hidden">
+<table class="compact">
+<thead>
+<tr>
+<th>Deutscher Itemname</th>
+<th>Minecraft-ID</th>
+<th>Abkürzung</th>
+<th>Kurzform</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Fackel</td>
+<td>torch</td>
+<td>%torch%</td>
+<td>50</td>
+</tr>
+<tr>
+<td>Kupferfakel</td>
+<td>copper_torch</td>
+<td>%co_torch%</td>
+<td>%alt%</td>
+</tr>
+<tr>
+<td>Seelenfackel</td>
+<td>soul_torch</td>
+<td>%soul_torch%</td>
+<td>%iq%</td>
+</tr>
+<tr>
+<td>Laterne</td>
+<td>lantern</td>
+<td>%lantern%</td>
+<td>%ir%</td>
+</tr>
+<tr>
+<td>Kupferlaterne</td>
+<td>copper_lantern</td>
+<td>%cpr_ltn%</td>
+<td>%alk%</td>
+</tr>
+<tr>
+<td>Angelaufene Kupferlaterne</td>
+<td>exposed_copper_lantern</td>
+<td>%e_cpr_ltn%</td>
+<td>%all%</td>
+</tr>
+<tr>
+<td>Verwitterte Kupferlaterne</td>
+<td>weathered_copper_lantern</td>
+<td>%w_cpr_ltn%</td>
+<td>%alm%</td>
+</tr>
+<tr>
+<td>Oxidierte Kupferlaterne</td>
+<td>oxidized_copper_lantern</td>
+<td>%o_cpr_ltn%</td>
+<td>%aln%</td>
+</tr>
+<tr>
+<td>Gewachste Kupferlaterne</td>
+<td>waxed_copper_lantern</td>
+<td>%wa_cpr_ltn%</td>
+<td>%alo%</td>
+</tr>
+<tr>
+<td>Gewachste angelaufene Kupferlaterne</td>
+<td>waxed_exposed_copper_lantern</td>
+<td>%wa_e_cpr_ltn%</td>
+<td>%alp%</td>
+</tr>
+<tr>
+<td>Gewachste verwitterte Kupferlaterne</td>
+<td>waxed_weathered_copper_lantern</td>
+<td>%wa_w_cpr_ltn%</td>
+<td>%alq%</td>
+</tr>
+<tr>
+<td>Gewachste oxidierte Kupferlaterne</td>
+<td>waxed_oxidized_copper_lantern</td>
+<td>%wa_o_cpr_ltn%</td>
+<td>%alr%</td>
+</tr>
+<tr>
+<td>Seelenlaterne</td>
+<td>soul_lantern</td>
+<td>%soul_lantern%</td>
+<td>%is%</td>
+</tr>
+<tr>
+<td>Redstone-Lampe</td>
+<td>redstone_lamp</td>
+<td>%redstlamp%</td>
+<td>123</td>
+</tr>
+<tr>
+<td>Seelaterne</td>
+<td>sea_lantern</td>
+<td>%sealantern%</td>
+<td>169</td>
+</tr>
+<tr>
+<td>Glowstone-Staub</td>
+<td>glowstone_dust</td>
+<td>%glowstone_dst%</td>
+<td>348</td>
+</tr>
+<tr>
+<td>Glowstone</td>
+<td>glowstone</td>
+<td>%glowstone%</td>
+<td>89</td>
+</tr>
+<tr>
+<td>Pilzlicht</td>
+<td>shroomlight</td>
+<td>%shroomlight%</td>
+<td>%it%</td>
+</tr>
+<tr>
+<td>Endstab</td>
+<td>end_rod</td>
+<td>%endrod%</td>
+<td>198</td>
+</tr>
+<tr>
+<td>Ockernes Froschlicht</td>
+<td>ochre_froglight</td>
+<td>%froglight_och%</td>
+<td>%e7%</td>
+</tr>
+<tr>
+<td>Junggrünes Froschlicht</td>
+<td>verdant_froglight</td>
+<td>%froglight_ver%</td>
+<td>%f5%</td>
+</tr>
+<tr>
+<td>Perlmutternes Froschlicht</td>
+<td>pearlescent_froglight</td>
+<td>%froglight_pea%</td>
+<td>%f1%</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id="gras-und-vergleichbares">Gras und Vergleichbares</h3>
+<div class="table-wrapper scrollbar overflow-hidden">
+<table class="compact">
+<thead>
+<tr>
+<th>Deutscher Itemname</th>
+<th>Minecraft-ID</th>
+<th>Abkürzung</th>
+<th>Kurzform</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Gras</td>
+<td>grass</td>
+<td>%grassplant%</td>
+<td>31:1</td>
+</tr>
+<tr>
+<td>Hohes Gras</td>
+<td>tall_grass</td>
+<td>%t_grassplant%</td>
+<td>%iu%</td>
+</tr>
+<tr>
+<td>Niedriges Trockengras</td>
+<td>short_dry_grass</td>
+<td>%sho_\d_\grass%</td>
+<td>%vr%</td>
+</tr>
+<tr>
+<td>Hohes Trockengras</td>
+<td>tall_dry_grass</td>
+<td>%ta_d_grass%</td>
+<td>%wj%</td>
+</tr>
+<tr>
+<td>Farn</td>
+<td>fern</td>
+<td>%fern%</td>
+<td>31:2</td>
+</tr>
+<tr>
+<td>Großer Farn</td>
+<td>large_fern</td>
+<td>%t_fern%</td>
+<td>%iv%</td>
+</tr>
+<tr>
+<td>Toter Busch</td>
+<td>dead_bush</td>
+<td>%deadbush%</td>
+<td>32</td>
+</tr>
+<tr>
+<td>Busch</td>
+<td>bush</td>
+<td>%bush%</td>
+<td>%kb%</td>
+</tr>
+<tr>
+<td>Glühwürmchenbusch</td>
+<td>firefly_bush</td>
+<td>%fi_bush%</td>
+<td>%ka%</td>
+</tr>
+<tr>
+<td>Seerosenblatt</td>
+<td>lily_pad</td>
+<td>%lilypad%</td>
+<td>111</td>
+</tr>
+<tr>
+<td>Seegras</td>
+<td>seagrass</td>
+<td>%seagrass%</td>
+<td>%iw%</td>
+</tr>
+<tr>
+<td>Nethersprossen</td>
+<td>nether_sprouts</td>
+<td>%nsprouts%</td>
+<td>%iy%</td>
+</tr>
+<tr>
+<td>Karmesinwurzeln</td>
+<td>crimson_roots</td>
+<td>%crimsonroots%</td>
+<td>%iz%</td>
+</tr>
+<tr>
+<td>Wirrwurzeln</td>
+<td>warped_roots</td>
+<td>%warpedroots%</td>
+<td>%jg%</td>
+</tr>
+<tr>
+<td>Großes Tropfblatt</td>
+<td>big_dripleaf</td>
+<td>%big_dripl%</td>
+<td>%qp%</td>
+</tr>
+<tr>
+<td>Kleines Tropfblatt</td>
+<td>small_dripleaf</td>
+<td>%small_dripl%</td>
+<td>%qq%</td>
+</tr>
+<tr>
+<td>Sporenblüte</td>
+<td>spore_blossom</td>
+<td>%spore_bl%</td>
+<td>%rc%</td>
+</tr>
+<tr>
+<td>Rosa Blütenblätter</td>
+<td>pink_petals</td>
+<td>%pnk_petals%</td>
+<td>%ach%</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id="blumen">Blumen</h3>
+<div class="table-wrapper scrollbar overflow-hidden">
+<table class="compact">
+<thead>
+<tr>
+<th>Deutscher Itemname</th>
+<th>Minecraft-ID</th>
+<th>Abkürzung</th>
+<th>Kurzform</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Löwenzahn</td>
+<td>dandelion</td>
+<td>%dandelion%</td>
+<td>37</td>
+</tr>
+<tr>
+<td>Mohn</td>
+<td>poppy</td>
+<td>%poppy%</td>
+<td>38</td>
+</tr>
+<tr>
+<td>Blaue Orchidee</td>
+<td>blue_orchid</td>
+<td>%blueorchid%</td>
+<td>38:1</td>
+</tr>
+<tr>
+<td>Sternlauch</td>
+<td>allium</td>
+<td>%allium%</td>
+<td>38:2</td>
+</tr>
+<tr>
+<td>Porzellansternchen</td>
+<td>azure_bluet</td>
+<td>%azurebluet%</td>
+<td>38:3</td>
+</tr>
+<tr>
+<td>Rote Tulpe</td>
+<td>red_tulip</td>
+<td>%tulip_red%</td>
+<td>38:4</td>
+</tr>
+<tr>
+<td>Orange Tulpe</td>
+<td>orange_tulip</td>
+<td>%tulip_ora%</td>
+<td>38:5</td>
+</tr>
+<tr>
+<td>Weiße Tulpe</td>
+<td>white_tulip</td>
+<td>%tulip_whi%</td>
+<td>38:6</td>
+</tr>
+<tr>
+<td>Rosa Tulpe</td>
+<td>pink_tulip</td>
+<td>%tulip_pnk%</td>
+<td>38:7</td>
+</tr>
+<tr>
+<td>Margerite</td>
+<td>oxeye_daisy</td>
+<td>%oxeyedaisy%</td>
+<td>38:8</td>
+</tr>
+<tr>
+<td>Kornblume</td>
+<td>cornflower</td>
+<td>%cornflower%</td>
+<td>%jh%</td>
+</tr>
+<tr>
+<td>Maiglöckchen</td>
+<td>lily_of_the_valley</td>
+<td>%lilyofvalley%</td>
+<td>%ji%</td>
+</tr>
+<tr>
+<td>Witherrose</td>
+<td>wither_rose</td>
+<td>%witherrose%</td>
+<td>%jj%</td>
+</tr>
+<tr>
+<td>Sonnenblume</td>
+<td>sunflower</td>
+<td>%sunflower%</td>
+<td>%jk%</td>
+</tr>
+<tr>
+<td>Flieder</td>
+<td>lilac</td>
+<td>%lilac%</td>
+<td>%jl%</td>
+</tr>
+<tr>
+<td>Rosenstrauch</td>
+<td>rose_bush</td>
+<td>%rosebush%</td>
+<td>%jm%</td>
+</tr>
+<tr>
+<td>Pfingstrose</td>
+<td>peony</td>
+<td>%peony%</td>
+<td>%jn%</td>
+</tr>
+<tr>
+<td>Geschlossene Augenblüte</td>
+<td>closed_eyeblossom</td>
+<td>%c_eblos%</td>
+<td>%aiq%</td>
+</tr>
+<tr>
+<td>Geöffnete Augenblüte</td>
+<td>open_eyeblossom</td>
+<td>%o_eblos%</td>
+<td>%air%</td>
+</tr>
+<tr>
+<td>Wildblumen</td>
+<td>wildflowers</td>
+<td>%wflow%</td>
+<td>%wh%</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id="bienen">Bienen</h3>
+<div class="table-wrapper scrollbar overflow-hidden">
+<table class="compact">
+<thead>
+<tr>
+<th>Deutscher Itemname</th>
+<th>Minecraft-ID</th>
+<th>Abkürzung</th>
+<th>Kurzform</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Bienennest</td>
+<td>bee_nest</td>
+<td>%beenest%</td>
+<td>%jo%</td>
+</tr>
+<tr>
+<td>Bienenstock</td>
+<td>beehive</td>
+<td>%beehive%</td>
+<td>%jp%</td>
+</tr>
+<tr>
+<td>Honigblock</td>
+<td>honey_block</td>
+<td>%honey_bl%</td>
+<td>%jq%</td>
+</tr>
+<tr>
+<td>Honigwabe</td>
+<td>honeycomb</td>
+<td>%honeycomb%</td>
+<td>%jr%</td>
+</tr>
+<tr>
+<td>Honigwabenblock</td>
+<td>honeycomb_block</td>
+<td>%honeycomb_bl%</td>
+<td>%js%</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id="essbare-pflanzen">Essbare Pflanzen</h3>
+<div class="table-wrapper scrollbar overflow-hidden">
+<table class="compact">
+<thead>
+<tr>
+<th>Deutscher Itemname</th>
+<th>Minecraft-ID</th>
+<th>Abkürzung</th>
+<th>Kurzform</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Apfel</td>
+<td>apple</td>
+<td>%apple%</td>
+<td>260</td>
+</tr>
+<tr>
+<td>Goldener Apfel</td>
+<td>golden_apple</td>
+<td>%gold_apple%</td>
+<td>322</td>
+</tr>
+<tr>
+<td>Goldener Apfel (verzaubert)</td>
+<td>enchanted_golden_apple</td>
+<td>%notch_apple%</td>
+<td>%n%</td>
+</tr>
+<tr>
+<td>Kartoffel</td>
+<td>potato</td>
+<td>%potatp%</td>
+<td>392</td>
+</tr>
+<tr>
+<td>Ofenkartoffel</td>
+<td>baked_potato</td>
+<td>%baked_potato%</td>
+<td>393</td>
+</tr>
+<tr>
+<td>Vergiftete Kartoffel</td>
+<td>poisonous_potato</td>
+<td>%poison_potato%</td>
+<td>394</td>
+</tr>
+<tr>
+<td>Karotte</td>
+<td>carrot</td>
+<td>%carrot%</td>
+<td>391</td>
+</tr>
+<tr>
+<td>Karottenrute</td>
+<td>carrot_on_a_stick</td>
+<td>%carrot_sti%</td>
+<td>398</td>
+</tr>
+<tr>
+<td>Goldene Karotte</td>
+<td>golden_carrot</td>
+<td>%gold_carrot%</td>
+<td>396</td>
+</tr>
+<tr>
+<td>Rote Bete</td>
+<td>beetroot</td>
+<td>%beetroot%</td>
+<td>434</td>
+</tr>
+<tr>
+<td>Rote-Bete-Samen</td>
+<td>beetroot_seeds</td>
+<td>%beetroot_seed%</td>
+<td>435</td>
+</tr>
+<tr>
+<td>Borschtsch</td>
+<td>beetroot_soup</td>
+<td>%soup_beetroot%</td>
+<td>436</td>
+</tr>
+<tr>
+<td>Weizen</td>
+<td>wheat</td>
+<td>%wheat%</td>
+<td>296</td>
+</tr>
+<tr>
+<td>Weizensamen</td>
+<td>wheat_seeds</td>
+<td>%wheat_seed%</td>
+<td>295</td>
+</tr>
+<tr>
+<td>Strohballen</td>
+<td>hay_block</td>
+<td>%wheat_bl%</td>
+<td>170</td>
+</tr>
+<tr>
+<td>Brot</td>
+<td>bread</td>
+<td>%bread%</td>
+<td>297</td>
+</tr>
+<tr>
+<td>Melone</td>
+<td>melon</td>
+<td>%melon_bl%</td>
+<td>103</td>
+</tr>
+<tr>
+<td>Melonenscheibe</td>
+<td>melon_slice</td>
+<td>%melon%</td>
+<td>360</td>
+</tr>
+<tr>
+<td>Melonensamen</td>
+<td>melon_seeds</td>
+<td>%melon_seed%</td>
+<td>362</td>
+</tr>
+<tr>
+<td>Glitzernde Melonenscheibe</td>
+<td>glistering_melon_slice</td>
+<td>%gold_melon%</td>
+<td>382</td>
+</tr>
+<tr>
+<td>Kürbis</td>
+<td>pumpkin</td>
+<td>%pumpkin%</td>
+<td>%nz%</td>
+</tr>
+<tr>
+<td>Geschnitzter Kürbis</td>
+<td>carved_pumpkin</td>
+<td>%carv_pumpkin%</td>
+<td>86</td>
+</tr>
+<tr>
+<td>Kürbissamen</td>
+<td>pumpkin_seeds</td>
+<td>%pumpkin_seed%</td>
+<td>361</td>
+</tr>
+<tr>
+<td>Kürbiskuchen</td>
+<td>pumpkin_pie</td>
+<td>%pumpkin_pie%</td>
+<td>400</td>
+</tr>
+<tr>
+<td>Jack-O-Laterne</td>
+<td>jack_o_lantern</td>
+<td>%lit_pumpkin%</td>
+<td>91</td>
+</tr>
+<tr>
+<td>Kakaobohnen</td>
+<td>cocoa_beans</td>
+<td>%cocoabeans%</td>
+<td>%k%</td>
+</tr>
+<tr>
+<td>Keks</td>
+<td>cookie</td>
+<td>%cookie%</td>
+<td>357</td>
+</tr>
+<tr>
+<td>Süßbeeren</td>
+<td>sweet_berries</td>
+<td>%berries%</td>
+<td>%jt%</td>
+</tr>
+<tr>
+<td>Leuchtbeeren</td>
+<td>glow_berries</td>
+<td>%gl_berries%</td>
+<td>%ri%</td>
+</tr>
+<tr>
+<td>Seetang</td>
+<td>kelp</td>
+<td>%kelp%</td>
+<td>%ju%</td>
+</tr>
+<tr>
+<td>Getrockneter Seetang</td>
+<td>dried_kelp</td>
+<td>%dried_kelp%</td>
+<td>%jv%</td>
+</tr>
+<tr>
+<td>Getrockneter Seetangblock</td>
+<td>dried_kelp_block</td>
+<td>%dried_kelp_bl%</td>
+<td>%jw%</td>
+</tr>
+<tr>
+<td>Chorusblüte</td>
+<td>chorus_flower</td>
+<td>%chorus_flower%</td>
+<td>200</td>
+</tr>
+<tr>
+<td>Chorusfrucht</td>
+<td>chorus_fruit</td>
+<td>%chorus_frt%</td>
+<td>432</td>
+</tr>
+<tr>
+<td>Geplatzte Chorusfrucht</td>
+<td>popped_chorus_fruit</td>
+<td>%pp_chorus_frt%</td>
+<td>433</td>
+</tr>
+<tr>
+<td>Kannenpflanze</td>
+<td>pitcher_plant</td>
+<td>%pitcherplant%</td>
+<td>%aci%</td>
+</tr>
+<tr>
+<td>Kannenpflanzenkapsel</td>
+<td>pitcher_pod</td>
+<td>%pitcherpod%</td>
+<td>%aco%</td>
+</tr>
+<tr>
+<td>Fackellilie</td>
+<td>torchflower</td>
+<td>%torchflower%</td>
+<td>%acm%</td>
+</tr>
+<tr>
+<td>Fackelliliensamen</td>
+<td>torchflower_seeds</td>
+<td>%tflower_seed%</td>
+<td>%acp%</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id="fleisch-und-kuchen">Fleisch und Kuchen</h3>
+<div class="table-wrapper scrollbar overflow-hidden">
+<table class="compact">
+<thead>
+<tr>
+<th>Deutscher Itemname</th>
+<th>Minecraft-ID</th>
+<th>Abkürzung</th>
+<th>Kurzform</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Rohes Rindfleisch</td>
+<td>beef</td>
+<td>%beef%</td>
+<td>363</td>
+</tr>
+<tr>
+<td>Gebratenes Rindfleisch</td>
+<td>cooked_beef</td>
+<td>%ck_beef%</td>
+<td>364</td>
+</tr>
+<tr>
+<td>Rohes Hühnchen</td>
+<td>chicken</td>
+<td>%chicken%</td>
+<td>365</td>
+</tr>
+<tr>
+<td>Gebratenes Hühnchen</td>
+<td>cooked_chicken</td>
+<td>%ck_chicken%</td>
+<td>366</td>
+</tr>
+<tr>
+<td>Rohes Schweinefleisch</td>
+<td>porkchop</td>
+<td>%porkchop%</td>
+<td>319</td>
+</tr>
+<tr>
+<td>Gebratenes Schweinefleisch</td>
+<td>cooked_porkchop</td>
+<td>%ck_porkchop%</td>
+<td>320</td>
+</tr>
+<tr>
+<td>Rohes Hammelfleisch</td>
+<td>mutton</td>
+<td>%mutton%</td>
+<td>423</td>
+</tr>
+<tr>
+<td>Gebratenes Hammelfleisch</td>
+<td>cooked_mutton</td>
+<td>%ck_mutton%</td>
+<td>424</td>
+</tr>
+<tr>
+<td>Rohes Kaninchen</td>
+<td>rabbit</td>
+<td>%rabbit%</td>
+<td>411</td>
+</tr>
+<tr>
+<td>Gebratenes Kaninchen</td>
+<td>cooked_rabbit</td>
+<td>%ck_rabbit%</td>
+<td>412</td>
+</tr>
+<tr>
+<td>Roher Kabeljau</td>
+<td>cod</td>
+<td>%cod%</td>
+<td>349</td>
+</tr>
+<tr>
+<td>Gebratener Kabeljau</td>
+<td>cooked_cod</td>
+<td>%ck_cod%</td>
+<td>350</td>
+</tr>
+<tr>
+<td>Roher Lachs</td>
+<td>salmon</td>
+<td>%salmon%</td>
+<td>%l%</td>
+</tr>
+<tr>
+<td>Gebratener Lachs</td>
+<td>cooked_salmon</td>
+<td>%ck_salmon%</td>
+<td>%i%</td>
+</tr>
+<tr>
+<td>Kugelfisch</td>
+<td>pufferfish</td>
+<td>%pufferfish%</td>
+<td>%x%</td>
+</tr>
+<tr>
+<td>Tropenfisch</td>
+<td>tropical_fish</td>
+<td>%tropicalfish%</td>
+<td>%w%</td>
+</tr>
+<tr>
+<td>Ei</td>
+<td>egg</td>
+<td>%egg%</td>
+<td>344</td>
+</tr>
+<tr>
+<td>Blaues Ei</td>
+<td>blue_egg</td>
+<td>%egg_blu%</td>
+<td>%rq%</td>
+</tr>
+<tr>
+<td>Braunes Ei</td>
+<td>brown_egg</td>
+<td>%egg_bro%</td>
+<td>%ze%</td>
+</tr>
+<tr>
+<td>Kuchen</td>
+<td>cake</td>
+<td>%cake%</td>
+<td>354</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id="nicht-essbare-pflanzen">Nicht essbare Pflanzen</h3>
+<div class="table-wrapper scrollbar overflow-hidden">
+<table class="compact">
+<thead>
+<tr>
+<th>Deutscher Itemname</th>
+<th>Minecraft-ID</th>
+<th>Abkürzung</th>
+<th>Kurzform</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Zuckerrohr</td>
+<td>sugar_cane</td>
+<td>%sugarcane%</td>
+<td>338</td>
+</tr>
+<tr>
+<td>Zucker</td>
+<td>sugar</td>
+<td>%sugar%</td>
+<td>353</td>
+</tr>
+<tr>
+<td>Bambus</td>
+<td>bamboo</td>
+<td>%bamboo%</td>
+<td>%jx%</td>
+</tr>
+<tr>
+<td>Kaktus</td>
+<td>cactus</td>
+<td>%cactus%</td>
+<td>81</td>
+</tr>
+<tr>
+<td>Kaktusblüte</td>
+<td>cactus_flower</td>
+<td>%cac_flow%</td>
+<td>%zv%</td>
+</tr>
+<tr>
+<td>Meeresgurke</td>
+<td>sea_pickle</td>
+<td>%seapickle%</td>
+<td>%jy%</td>
+</tr>
+<tr>
+<td>Ranken</td>
+<td>vine</td>
+<td>%vine%</td>
+<td>106</td>
+</tr>
+<tr>
+<td>Zwirbelranken</td>
+<td>twisting_vines</td>
+<td>%twist_vine%</td>
+<td>%jz%</td>
+</tr>
+<tr>
+<td>Trauerranken</td>
+<td>weeping_vines</td>
+<td>%weep_vine%</td>
+<td>%kg%</td>
+</tr>
+<tr>
+<td>Leuchtflechte</td>
+<td>glow_lichen</td>
+<td>%gl_lichen%</td>
+<td>%qu%</td>
+</tr>
+<tr>
+<td>Hängewurzeln</td>
+<td>hanging_roots</td>
+<td>%hang_roots%</td>
+<td>%qv%</td>
+</tr>
+<tr>
+<td>Hängendes Blassmoos</td>
+<td>pale_hanging_moss</td>
+<td>%p_hg_moss%</td>
+<td>%aip%</td>
+</tr>
+<tr>
+<td>Netherwarze</td>
+<td>nether_wart</td>
+<td>%netwart%</td>
+<td>372</td>
+</tr>
+<tr>
+<td>Roter Pilz</td>
+<td>red_mushroom</td>
+<td>%shroom_red%</td>
+<td>40</td>
+</tr>
+<tr>
+<td>Brauner Pilz</td>
+<td>brown_mushroom</td>
+<td>%shroom_bro%</td>
+<td>39</td>
+</tr>
+<tr>
+<td>Roter Pilzblock</td>
+<td>red_mushroom_block</td>
+<td>%shroom_red_bl%</td>
+<td>100</td>
+</tr>
+<tr>
+<td>Brauner Pilzblock</td>
+<td>brown_mushroom_block</td>
+<td>%shroom_bro_bl%</td>
+<td>99</td>
+</tr>
+<tr>
+<td>Pilzstiel</td>
+<td>mushroom_stem</td>
+<td>%shroom_stem%</td>
+<td>%kh%</td>
+</tr>
+<tr>
+<td>Karmesinpilz</td>
+<td>crimson_fungus</td>
+<td>%crimson_fu%</td>
+<td>%ki%</td>
+</tr>
+<tr>
+<td>Wirrpilz</td>
+<td>warped_fungus</td>
+<td>%warped_fu%</td>
+<td>%kj%</td>
+</tr>
+<tr>
+<td>Wirrpilzrute</td>
+<td>warped_fungus_on_a_stick</td>
+<td>%warped_fg_sti%</td>
+<td>%kk%</td>
+</tr>
+<tr>
+<td>Azalee</td>
+<td>azalea</td>
+<td>%azalea%</td>
+<td>%gc%</td>
+</tr>
+<tr>
+<td>Blühende Azalee</td>
+<td>flowering_azalea</td>
+<td>%fl_azalea%</td>
+<td>%gd%</td>
+</tr>
+<tr>
+<td>Mangrovenwurzeln</td>
+<td>mangrove_roots</td>
+<td>%mangrove_rts%</td>
+<td>%vb%</td>
+</tr>
+<tr>
+<td>Schlammige Mangrovenwurzeln</td>
+<td>muddy_mangrove_roots</td>
+<td>%mud_mangrove_rts%</td>
+<td>%f2%</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id="korallen">Korallen</h3>
+<div class="table-wrapper scrollbar overflow-hidden">
+<table class="compact">
+<thead>
+<tr>
+<th>Deutscher Itemname</th>
+<th>Minecraft-ID</th>
+<th>Abkürzung</th>
+<th>Kurzform</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Hirnkoralle</td>
+<td>brain_coral</td>
+<td>%br_coral%</td>
+<td>%kl%</td>
+</tr>
+<tr>
+<td>Hirnkorallenfächer</td>
+<td>brain_coral_fan</td>
+<td>%br_coral_fn%</td>
+<td>%km%</td>
+</tr>
+<tr>
+<td>Hirnkorallenblock</td>
+<td>brain_coral_block</td>
+<td>%br_coral_bl%</td>
+<td>%kn%</td>
+</tr>
+<tr>
+<td>Blasenkoralle</td>
+<td>bubble_coral</td>
+<td>%bb_coral%</td>
+<td>%ko%</td>
+</tr>
+<tr>
+<td>Blasenkorallenfächer</td>
+<td>bubble_coral_fan</td>
+<td>%bb_coral_fn%</td>
+<td>%kp%</td>
+</tr>
+<tr>
+<td>Blasenkorallenblock</td>
+<td>bubble_coral_block</td>
+<td>%bb_coral_bl%</td>
+<td>%kq%</td>
+</tr>
+<tr>
+<td>Feuerkoralle</td>
+<td>fire_coral</td>
+<td>%fi_coral%</td>
+<td>%kr%</td>
+</tr>
+<tr>
+<td>Feuerkorallenfächer</td>
+<td>fire_coral_fan</td>
+<td>%fi_coral_fn%</td>
+<td>%ks%</td>
+</tr>
+<tr>
+<td>Feuerkorallenblock</td>
+<td>fire_coral_block</td>
+<td>%fi_coral_bl%</td>
+<td>%kt%</td>
+</tr>
+<tr>
+<td>Geweihkoralle</td>
+<td>horn_coral</td>
+<td>%ho_coral%</td>
+<td>%ku%</td>
+</tr>
+<tr>
+<td>Geweihkorallenfächer</td>
+<td>horn_coral_fan</td>
+<td>%ho_coral_fn%</td>
+<td>%kv%</td>
+</tr>
+<tr>
+<td>Geweihkorallenblock</td>
+<td>horn_coral_block</td>
+<td>%ho_coral_bl%</td>
+<td>%kw%</td>
+</tr>
+<tr>
+<td>Orgelkoralle</td>
+<td>tube_coral</td>
+<td>%tu_coral%</td>
+<td>%ky%</td>
+</tr>
+<tr>
+<td>Orgelkorallenfächer</td>
+<td>tube_coral_fan</td>
+<td>%tu_coral_fn%</td>
+<td>%bm%</td>
+</tr>
+<tr>
+<td>Orgelkorallenblock</td>
+<td>tube_coral_block</td>
+<td>%tu_coral_bl%</td>
+<td>%lg%</td>
+</tr>
+<tr>
+<td>Abgestorbene Hirnkoralle</td>
+<td>dead_brain_coral</td>
+<td>%d_br_coral%</td>
+<td>%lh%</td>
+</tr>
+<tr>
+<td>Abgestorbener Hirnkorallenfächer</td>
+<td>dead_brain_coral_fan</td>
+<td>%d_br_coral_fn%</td>
+<td>%li%</td>
+</tr>
+<tr>
+<td>Abgestorbener Hirnkorallenblock</td>
+<td>dead_brain_coral_block</td>
+<td>%d_br_coral_bl%</td>
+<td>%lj%</td>
+</tr>
+<tr>
+<td>Abgestorbene Blasenkoralle</td>
+<td>dead_bubble_coral</td>
+<td>%d_bb_coral%</td>
+<td>%lk%</td>
+</tr>
+<tr>
+<td>Abgestorbener Blasenkorallenfächer</td>
+<td>dead_bubble_coral_fan</td>
+<td>%d_bb_coral_fn%</td>
+<td>%ll%</td>
+</tr>
+<tr>
+<td>Abgestorbener Blasenkorallenblock</td>
+<td>dead_bubble_coral_block</td>
+<td>%d_bb_coral_bl%</td>
+<td>%lm%</td>
+</tr>
+<tr>
+<td>Abgestorbene Feuerkoralle</td>
+<td>dead_fire_coral</td>
+<td>%d_fi_coral%</td>
+<td>%ln%</td>
+</tr>
+<tr>
+<td>Abgestorbener Feuerkorallenfächer</td>
+<td>dead_fire_coral_fan</td>
+<td>%d_fi_coral_fn%</td>
+<td>%lo%</td>
+</tr>
+<tr>
+<td>Abgestorbener Feuerkorallenblock</td>
+<td>dead_fire_coral_block</td>
+<td>%d_fi_coral_bl%</td>
+<td>%lp%</td>
+</tr>
+<tr>
+<td>Abgestorbene Geweihkoralle</td>
+<td>dead_horn_coral</td>
+<td>%d_ho_coral%</td>
+<td>%lq%</td>
+</tr>
+<tr>
+<td>Abgestorbener Geweihkorallenfächer</td>
+<td>dead_horn_coral_fan</td>
+<td>%d_ho_coral_fn%</td>
+<td>%lr%</td>
+</tr>
+<tr>
+<td>Abgestorbener Geweihkorallenblock</td>
+<td>dead_horn_coral_block</td>
+<td>%d_ho_coral_bl%</td>
+<td>%ls%</td>
+</tr>
+<tr>
+<td>Abgestorbene Orgelkoralle</td>
+<td>dead_tube_coral</td>
+<td>%d_tu_coral%</td>
+<td>%lt%</td>
+</tr>
+<tr>
+<td>Abgestorbener Orgelkorallenfächer</td>
+<td>dead_tube_coral_fan</td>
+<td>%d_tu_coral_fn%</td>
+<td>%lu%</td>
+</tr>
+<tr>
+<td>Abgestorbener Orgelkorallenblock</td>
+<td>dead_tube_coral_block</td>
+<td>%d_tu_coral_bl%</td>
+<td>%lv%</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id="mobdrops">Mobdrops</h3>
+<div class="table-wrapper scrollbar overflow-hidden">
+<table class="compact">
+<thead>
+<tr>
+<th>Deutscher Itemname</th>
+<th>Minecraft-ID</th>
+<th>Abkürzung</th>
+<th>Kurzform</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Feder</td>
+<td>feather</td>
+<td>%feather%</td>
+<td>288</td>
+</tr>
+<tr>
+<td>Leder</td>
+<td>leather</td>
+<td>%leather%</td>
+<td>334</td>
+</tr>
+<tr>
+<td>Kaninchenfell</td>
+<td>rabbit_hide</td>
+<td>%rabbithide%</td>
+<td>415</td>
+</tr>
+<tr>
+<td>Hasenpfote</td>
+<td>rabbit_foot</td>
+<td>%rabbitfoot%</td>
+<td>414</td>
+</tr>
+<tr>
+<td>Hornschild</td>
+<td>scute</td>
+<td>%scute%</td>
+<td>%lw%</td>
+</tr>
+<tr>
+<td>Schildkrötenei</td>
+<td>turtle_egg</td>
+<td>%turtleegg%</td>
+<td>%lx%</td>
+</tr>
+<tr>
+<td>Schnüffler-Ei</td>
+<td>sniffer_egg</td>
+<td>%snifferegg%</td>
+<td>%acj%</td>
+</tr>
+<tr>
+<td>Tintenbeutel</td>
+<td>ink_sac</td>
+<td>%inksac%</td>
+<td>351</td>
+</tr>
+<tr>
+<td>Leuchttintenbeutel</td>
+<td>glow_ink_sac</td>
+<td>%gl_inksac%</td>
+<td>%rj%</td>
+</tr>
+<tr>
+<td>Bockshorn</td>
+<td>goat_horn</td>
+<td>%goathorn%</td>
+<td>%e6%</td>
+</tr>
+<tr>
+<td>Verrottetes Fleisch</td>
+<td>rotten_flesh</td>
+<td>%rottenflesh%</td>
+<td>367</td>
+</tr>
+<tr>
+<td>Pfeil</td>
+<td>arrow</td>
+<td>%arrow%</td>
+<td>262</td>
+</tr>
+<tr>
+<td>Spektralpfeil</td>
+<td>spectral_arrow</td>
+<td>%spec_arrow%</td>
+<td>439</td>
+</tr>
+<tr>
+<td>Getränkter Pfeil</td>
+<td>tipped_arrow</td>
+<td>%tipped_arrow%</td>
+<td>440</td>
+</tr>
+<tr>
+<td>Knochen</td>
+<td>bone</td>
+<td>%bone%</td>
+<td>352</td>
+</tr>
+<tr>
+<td>Knochenmehl</td>
+<td>bone_meal</td>
+<td>%bone_meal%</td>
+<td>%ly%</td>
+</tr>
+<tr>
+<td>Knochenblock</td>
+<td>bone_block</td>
+<td>%bone_bl%</td>
+<td>216</td>
+</tr>
+<tr>
+<td>Spinnenauge</td>
+<td>spider_eye</td>
+<td>%spidereye%</td>
+<td>375</td>
+</tr>
+<tr>
+<td>Fermentiertes Spinnenauge</td>
+<td>fermented_spider_eye</td>
+<td>%fer_spidereye%</td>
+<td>376</td>
+</tr>
+<tr>
+<td>Faden</td>
+<td>string</td>
+<td>%string%</td>
+<td>287</td>
+</tr>
+<tr>
+<td>Schwarzpulver</td>
+<td>gunpowder</td>
+<td>%gunpowder%</td>
+<td>289</td>
+</tr>
+<tr>
+<td>Enderperle</td>
+<td>ender_pearl</td>
+<td>%enderpearl%</td>
+<td>368</td>
+</tr>
+<tr>
+<td>Schleimball</td>
+<td>slime_ball</td>
+<td>%slime%</td>
+<td>341</td>
+</tr>
+<tr>
+<td>Schleimblock</td>
+<td>slime_block</td>
+<td>%slime_bl%</td>
+<td>165</td>
+</tr>
+<tr>
+<td>Phantomhaut</td>
+<td>phantom_membrane</td>
+<td>%phantommembr%</td>
+<td>%lz%</td>
+</tr>
+<tr>
+<td>Lohenrute</td>
+<td>blaze_rod</td>
+<td>%blazerod%</td>
+<td>369</td>
+</tr>
+<tr>
+<td>Lohenstaub</td>
+<td>blaze_powder</td>
+<td>%blazerod_pow%</td>
+<td>377</td>
+</tr>
+<tr>
+<td>Enderauge</td>
+<td>ender_eye</td>
+<td>%endereye%</td>
+<td>381</td>
+</tr>
+<tr>
+<td>Feuerkugel</td>
+<td>fire_charge</td>
+<td>%firecharge%</td>
+<td>385</td>
+</tr>
+<tr>
+<td>Feuerwerksrakete</td>
+<td>firework_rocket</td>
+<td>%firework_rock%</td>
+<td>401</td>
+</tr>
+<tr>
+<td>Feuerwerksstern</td>
+<td>firework_star</td>
+<td>%firework_star%</td>
+<td>402</td>
+</tr>
+<tr>
+<td>Ghastträne</td>
+<td>ghast_tear</td>
+<td>%ghasttear%</td>
+<td>370</td>
+</tr>
+<tr>
+<td>Magmacreme</td>
+<td>magma_cream</td>
+<td>%magma_cream%</td>
+<td>378</td>
+</tr>
+<tr>
+<td>Totem der Unsterblichkeit</td>
+<td>totem_of_undying</td>
+<td>%totem%</td>
+<td>449</td>
+</tr>
+<tr>
+<td>Nautilusschale</td>
+<td>nautilus_shell</td>
+<td>%nautilus%</td>
+<td>%mg%</td>
+</tr>
+<tr>
+<td>Herz des Meeres</td>
+<td>heart_of_the_sea</td>
+<td>%heartofsea%</td>
+<td>%mh%</td>
+</tr>
+<tr>
+<td>Netherstern</td>
+<td>nether_star</td>
+<td>%netstar%</td>
+<td>399</td>
+</tr>
+<tr>
+<td>Shulkerschale</td>
+<td>shulker_shell</td>
+<td>%shulkshell%</td>
+<td>450</td>
+</tr>
+<tr>
+<td>Echoscherbe</td>
+<td>echo_shard</td>
+<td>%echoshard%</td>
+<td>%uk%</td>
+</tr>
+<tr>
+<td>Böenrute</td>
+<td>breeze_rod</td>
+<td>%brzrod%</td>
+<td>%agt%</td>
+</tr>
+<tr>
+<td>Gürteltier-Hornschild</td>
+<td>armadillo_scute</td>
+<td>%arm_scute%</td>
+<td>%ahr%</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id="farbstoffe">Farbstoffe</h3>
+<div class="table-wrapper scrollbar overflow-hidden">
+<table class="compact">
+<thead>
+<tr>
+<th>Deutscher Itemname</th>
+<th>Minecraft-ID</th>
+<th>Abkürzung</th>
+<th>Kurzform</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Weißer Farbstoff</td>
+<td>white_dye</td>
+<td>%dye_whi%</td>
+<td>%y0%</td>
+</tr>
+<tr>
+<td>Hellgrauer Farbstoff</td>
+<td>light_gray_dye</td>
+<td>%dye_lgr%</td>
+<td>%y8%</td>
+</tr>
+<tr>
+<td>Grauer Farbstoff</td>
+<td>gray_dye</td>
+<td>%dye_gry%</td>
+<td>%y7%</td>
+</tr>
+<tr>
+<td>Schwarzer Farbstoff</td>
+<td>black_dye</td>
+<td>%dye_blk%</td>
+<td>%yf%</td>
+</tr>
+<tr>
+<td>Gelber Farbstoff</td>
+<td>yellow_dye</td>
+<td>%dye_yel%</td>
+<td>%y4%</td>
+</tr>
+<tr>
+<td>Oranger Farbstoff</td>
+<td>orange_dye</td>
+<td>%dye_ora%</td>
+<td>%y1%</td>
+</tr>
+<tr>
+<td>Roter Farbstoff</td>
+<td>red_dye</td>
+<td>%dye_red%</td>
+<td>%ye%</td>
+</tr>
+<tr>
+<td>Rosa Farbstoff</td>
+<td>pink_dye</td>
+<td>%dye_pnk%</td>
+<td>%y6%</td>
+</tr>
+<tr>
+<td>Magenta Farbstoff</td>
+<td>magenta_dye</td>
+<td>%dye_mag%</td>
+<td>%y2%</td>
+</tr>
+<tr>
+<td>Violetter Farbstoff</td>
+<td>purple_dye</td>
+<td>%dye_pur%</td>
+<td>%ya%</td>
+</tr>
+<tr>
+<td>Blauer Farbstoff</td>
+<td>blue_dye</td>
+<td>%dye_blu%</td>
+<td>%yb%</td>
+</tr>
+<tr>
+<td>Türkiser Farbstoff</td>
+<td>cyan_dye</td>
+<td>%dye_cya%</td>
+<td>%y9%</td>
+</tr>
+<tr>
+<td>Grüner Farbstoff</td>
+<td>green_dye</td>
+<td>%dye_grn%</td>
+<td>%yd%</td>
+</tr>
+<tr>
+<td>Hellgrüner Farbstoff</td>
+<td>lime_dye</td>
+<td>%dye_lim%</td>
+<td>%y5%</td>
+</tr>
+<tr>
+<td>Hellblauer Farbstoff</td>
+<td>light_blue_dye</td>
+<td>%dye_lbl%</td>
+<td>%y3%</td>
+</tr>
+<tr>
+<td>Brauner Farbstoff</td>
+<td>brown_dye</td>
+<td>%dye_bro%</td>
+<td>%yc%</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id="banner">Banner</h3>
+<div class="table-wrapper scrollbar overflow-hidden">
+<table class="compact">
+<thead>
+<tr>
+<th>Deutscher Itemname</th>
+<th>Minecraft-ID</th>
+<th>Abkürzung</th>
+<th>Kurzform</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Weißes Banner</td>
+<td>white_banner</td>
+<td>%banner_whi%</td>
+<td>%n0%</td>
+</tr>
+<tr>
+<td>Hellgraues Banner</td>
+<td>light_gray_banner</td>
+<td>%banner_lgr%</td>
+<td>%n8%</td>
+</tr>
+<tr>
+<td>Graues Banner</td>
+<td>gray_banner</td>
+<td>%banner_gry%</td>
+<td>%n7%</td>
+</tr>
+<tr>
+<td>Schwarzes Banner</td>
+<td>black_banner</td>
+<td>%banner_blk%</td>
+<td>%nf%</td>
+</tr>
+<tr>
+<td>Gelbes Banner</td>
+<td>yellow_banner</td>
+<td>%banner_yel%</td>
+<td>%n4%</td>
+</tr>
+<tr>
+<td>Oranges Banner</td>
+<td>orange_banner</td>
+<td>%banner_ora%</td>
+<td>%n1%</td>
+</tr>
+<tr>
+<td>Rotes Banner</td>
+<td>red_banner</td>
+<td>%banner_red%</td>
+<td>%ne%</td>
+</tr>
+<tr>
+<td>Rosa Banner</td>
+<td>pink_banner</td>
+<td>%banner_pnk%</td>
+<td>%n6%</td>
+</tr>
+<tr>
+<td>Magenta Banner</td>
+<td>magenta_banner</td>
+<td>%banner_mag%</td>
+<td>%n2%</td>
+</tr>
+<tr>
+<td>Violettes Banner</td>
+<td>purple_banner</td>
+<td>%banner_pur%</td>
+<td>%na%</td>
+</tr>
+<tr>
+<td>Blaues Banner</td>
+<td>blue_banner</td>
+<td>%banner_blu%</td>
+<td>%nb%</td>
+</tr>
+<tr>
+<td>Türkises Banner</td>
+<td>cyan_banner</td>
+<td>%banner_cya%</td>
+<td>%n9%</td>
+</tr>
+<tr>
+<td>Grünes Banner</td>
+<td>green_banner</td>
+<td>%banner_grn%</td>
+<td>%nd%</td>
+</tr>
+<tr>
+<td>Hellgrünes Banner</td>
+<td>lime_banner</td>
+<td>%banner_lim%</td>
+<td>%n5%</td>
+</tr>
+<tr>
+<td>Hellblaues Banner</td>
+<td>light_blue_banner</td>
+<td>%banner_lbl%</td>
+<td>%n3%</td>
+</tr>
+<tr>
+<td>Braunes Banner</td>
+<td>brown_banner</td>
+<td>%banner_bro%</td>
+<td>%nc%</td>
+</tr>
+<tr>
+<td>Bannervorlage Blume</td>
+<td>flower_banner_pattern</td>
+<td>%banpat_flower%</td>
+<td>%mi%</td>
+</tr>
+<tr>
+<td>Bannervorlage Creeper</td>
+<td>creeper_banner_pattern</td>
+<td>%banpat_creepr%</td>
+<td>%mj%</td>
+</tr>
+<tr>
+<td>Bannervorlage Schädel</td>
+<td>skull_banner_pattern</td>
+<td>%banpat_skull%</td>
+<td>%mk%</td>
+</tr>
+<tr>
+<td>Bannervorlage Mojang-Logo</td>
+<td>mojang_banner_pattern</td>
+<td>%banpat_mojang%</td>
+<td>%ml%</td>
+</tr>
+<tr>
+<td>Bannervorlage Globus</td>
+<td>globe_banner_pattern</td>
+<td>%banpat_globe%</td>
+<td>%mm%</td>
+</tr>
+<tr>
+<td>Bannervorlage Piglin</td>
+<td>piglin_banner_pattern</td>
+<td>%banpat_piglin%</td>
+<td>%mn%</td>
+</tr>
+<tr>
+<td>Bannervorlage Fluss</td>
+<td>flow_banner_pattern</td>
+<td>%banpat_flow%</td>
+<td>%ahd%</td>
+</tr>
+<tr>
+<td>Bannervorlage Windstoßer</td>
+<td>guster_banner_pattern</td>
+<td>%banpat_guster%</td>
+<td>%ahe%</td>
+</tr>
+<tr>
+<td>Bannervorlage Spickelbord</td>
+<td>bordure_indented_banner_pattern</td>
+<td>%banpat_boin%</td>
+<td>%aja%</td>
+</tr>
+<tr>
+<td>Bannervorlage Mauerung</td>
+<td>field_masoned_banner_pattern</td>
+<td>%banpat_fima%</td>
+<td>%ajb%</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id="betten">Betten</h3>
+<div class="table-wrapper scrollbar overflow-hidden">
+<table class="compact">
+<thead>
+<tr>
+<th>Deutscher Itemname</th>
+<th>Minecraft-ID</th>
+<th>Abkürzung</th>
+<th>Kurzform</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Weißes Bett</td>
+<td>white_bed</td>
+<td>%bed_whi%</td>
+<td>355</td>
+</tr>
+<tr>
+<td>Hellgraues Bett</td>
+<td>light_gray_bed</td>
+<td>%bed_lgr%</td>
+<td>%d8%</td>
+</tr>
+<tr>
+<td>Graues Bett</td>
+<td>gray_bed</td>
+<td>%bed_gry%</td>
+<td>%d7%</td>
+</tr>
+<tr>
+<td>Schwarzes Bett</td>
+<td>black_bed</td>
+<td>%bed_blk%</td>
+<td>%df%</td>
+</tr>
+<tr>
+<td>Gelbes Bett</td>
+<td>yellow_bed</td>
+<td>%bed_yel%</td>
+<td>%d4%</td>
+</tr>
+<tr>
+<td>Oranges Bett</td>
+<td>orange_bed</td>
+<td>%bed_ora%</td>
+<td>%d1%</td>
+</tr>
+<tr>
+<td>Rotes Bett</td>
+<td>red_bed</td>
+<td>%bed_red%</td>
+<td>%de%</td>
+</tr>
+<tr>
+<td>Rosa Bett</td>
+<td>pink_bed</td>
+<td>%bed_pnk%</td>
+<td>%d6%</td>
+</tr>
+<tr>
+<td>Magenta Bett</td>
+<td>magenta_bed</td>
+<td>%bed_mag%</td>
+<td>%d2%</td>
+</tr>
+<tr>
+<td>Violettes Bett</td>
+<td>purple_bed</td>
+<td>%bed_pur%</td>
+<td>%da%</td>
+</tr>
+<tr>
+<td>Blaues Bett</td>
+<td>blue_bed</td>
+<td>%bed_blu%</td>
+<td>%db%</td>
+</tr>
+<tr>
+<td>Türkises Bett</td>
+<td>cyan_bed</td>
+<td>%bed_cya%</td>
+<td>%d9%</td>
+</tr>
+<tr>
+<td>Grünes Bett</td>
+<td>green_bed</td>
+<td>%bed_grn%</td>
+<td>%dd%</td>
+</tr>
+<tr>
+<td>Hellgrünes Bett</td>
+<td>lime_bed</td>
+<td>%bed_lim%</td>
+<td>%d5%</td>
+</tr>
+<tr>
+<td>Hellblaues Bett</td>
+<td>light_blue_bed</td>
+<td>%bed_lbl%</td>
+<td>%d3%</td>
+</tr>
+<tr>
+<td>Braunes Bett</td>
+<td>brown_bed</td>
+<td>%bed_bro%</td>
+<td>%dc%</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id="kerzen">Kerzen</h3>
+<div class="table-wrapper scrollbar overflow-hidden">
+<table class="compact">
+<thead>
+<tr>
+<th>Deutscher Itemname</th>
+<th>Minecraft-ID</th>
+<th>Abkürzung</th>
+<th>Kurzform</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Kerze</td>
+<td>candle</td>
+<td>%candle%</td>
+<td>%oi%</td>
+</tr>
+<tr>
+<td>Weiße Kerze</td>
+<td>white_candle</td>
+<td>%candle_whi%</td>
+<td>%oj%</td>
+</tr>
+<tr>
+<td>Hellgraue Kerze</td>
+<td>light_gray_candle</td>
+<td>%candle_lgr%</td>
+<td>%os%</td>
+</tr>
+<tr>
+<td>Graue Kerze</td>
+<td>gray_candle</td>
+<td>%candle_gry%</td>
+<td>%or%</td>
+</tr>
+<tr>
+<td>Schwarze Kerze</td>
+<td>black_candle</td>
+<td>%candle_blk%</td>
+<td>%oz%</td>
+</tr>
+<tr>
+<td>Gelbe Kerze</td>
+<td>yellow_candle</td>
+<td>%candle_yel%</td>
+<td>%on%</td>
+</tr>
+<tr>
+<td>Orange Kerze</td>
+<td>orange_candle</td>
+<td>%candle_ora%</td>
+<td>%ok%</td>
+</tr>
+<tr>
+<td>Rote Kerze</td>
+<td>red_candle</td>
+<td>%candle_red%</td>
+<td>%oy%</td>
+</tr>
+<tr>
+<td>Rosa Kerze</td>
+<td>pink_candle</td>
+<td>%candle_pnk%</td>
+<td>%oq%</td>
+</tr>
+<tr>
+<td>Magenta Kerze</td>
+<td>magenta_candle</td>
+<td>%candle_mag%</td>
+<td>%ol%</td>
+</tr>
+<tr>
+<td>Violette Kerze</td>
+<td>purple_candle</td>
+<td>%candle_pur%</td>
+<td>%ou%</td>
+</tr>
+<tr>
+<td>Blaue Kerze</td>
+<td>blue_candle</td>
+<td>%candle_blu%</td>
+<td>%ov%</td>
+</tr>
+<tr>
+<td>Türkise Kerze</td>
+<td>cyan_candle</td>
+<td>%candle_cya%</td>
+<td>%ot%</td>
+</tr>
+<tr>
+<td>Grüne Kerze</td>
+<td>green_candle</td>
+<td>%candle_grn%</td>
+<td>%ox%</td>
+</tr>
+<tr>
+<td>Hellgrüne Kerze</td>
+<td>lime_candle</td>
+<td>%candle_lim%</td>
+<td>%oo%</td>
+</tr>
+<tr>
+<td>Hellblaue Kerze</td>
+<td>light_blue_candle</td>
+<td>%candle_lbl%</td>
+<td>%om%</td>
+</tr>
+<tr>
+<td>Braune Kerze</td>
+<td>brown_candle</td>
+<td>%candle_bro%</td>
+<td>%ow%</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id="köpfe">Köpfe</h3>
+<div class="flex mb-6">
+    <div class="shrink-0 w-1.5 rounded-tl-lg rounded-bl-lg bg-callout-warning"></div>
+    <div class="flex w-full py-4 border border-l-0 rounded-tr-lg rounded-br-lg doc-callout bg-callout-base-bg border-callout-base-border" role="alert">
+        <div class="flex items-center ml-4 h-7">
+            <svg xmlns="http://www.w3.org/2000/svg" class="block text-callout-warning" width="22" height="22" viewBox="0 0 24 24" role="presentation">
+                <g fill="currentColor"><g>
+                    <path d="M22.48 15.59L14.01 1.45A2.968 2.968 0 0012.16.09c-.78-.19-1.58-.07-2.27.35-.41.25-.76.6-1.01 1.01v.01L.4 15.6c-.83 1.43-.33 3.27 1.1 4.1.45.26.95.4 1.48.4h16.95c.8-.01 1.55-.33 2.11-.9.56-.57.87-1.33.86-2.13a3.04 3.04 0 00-.42-1.48zm-1.87 2.21c-.19.19-.44.3-.69.3H2.99c-.17 0-.34-.05-.49-.13a.992.992 0 01-.37-1.35L10.6 2.48c.08-.14.2-.25.34-.33a.992.992 0 011.37.33l8.46 14.13c.09.15.13.32.13.49 0 .26-.1.51-.29.7z"></path>
+                    <path d="M11.45 12.1c.55 0 1-.45 1-1v-4c0-.55-.45-1-1-1s-1 .45-1 1v4c0 .56.45 1 1 1zM11.46 14.1c-.56 0-1 .45-1 1s.45 1 1 1 1-.45 1-1-.45-1-1-1z"></path>
+                </g></g>
+            </svg>
+        </div>
+        <div class="pr-5 ml-3 w-full">
+            <h5>Wichtiger Hinweis:</h5>
+<p>Als Spielerköpfe (Id: <code translate="no" v-pre>player_head</code>) werden von Craftbook tatsächlich nur reine Spielerköpfe von Spielern aus dem <code translate="no" v-pre>/phead</code> von der Pipe angenommen.
+Für Spielerköpfe/Dekoköpfe, die aus <code translate="no" v-pre>/heads</code> erworben wurden oder die gedroppt werden, muss zwangsläufig ein <a href="https://wiki.openmc.net/craftbook-pipes/pipes/#sortierende-verzweigungen-mit-mc1229">Sorter</a> für die einzelnen Köpfe erstellt werden, da Pipes vom Standard her keine
+modifizierten Items kennen.</p>
+        </div>
+    </div>
+</div>
+<div class="table-wrapper scrollbar overflow-hidden">
+<table class="compact">
+<thead>
+<tr>
+<th>Deutscher Itemname</th>
+<th>Minecraft-ID</th>
+<th>Abkürzung</th>
+<th>Kurzform</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Spielerkopf</td>
+<td>player_head</td>
+<td>%head_player%</td>
+<td>397:3</td>
+</tr>
+<tr>
+<td>Zombiekopf</td>
+<td>zombie_head</td>
+<td>%head_zombie%</td>
+<td>397:2</td>
+</tr>
+<tr>
+<td>Skelettschädel</td>
+<td>skeleton_skull</td>
+<td>%head_skel%</td>
+<td>397</td>
+</tr>
+<tr>
+<td>Creeperkopf</td>
+<td>creeper_head</td>
+<td>%head_creepr%</td>
+<td>397:4</td>
+</tr>
+<tr>
+<td>Witherskelettschädel</td>
+<td>wither_skeleton_skull</td>
+<td>%head_witskel%</td>
+<td>397:1</td>
+</tr>
+<tr>
+<td>Drachenköpfe</td>
+<td>dragon_head</td>
+<td>%head_dragon%</td>
+<td>397:5</td>
+</tr>
+<tr>
+<td>Piglinkopf</td>
+<td>piglin_head</td>
+<td>%head_piglin%</td>
+<td>%aju%</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id="sonstige-dekoration">Sonstige Dekoration</h3>
+<div class="table-wrapper scrollbar overflow-hidden">
+<table class="compact">
+<thead>
+<tr>
+<th>Deutscher Itemname</th>
+<th>Minecraft-ID</th>
+<th>Abkürzung</th>
+<th>Kurzform</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Rüstungsständer</td>
+<td>armor_stand</td>
+<td>%armorstand%</td>
+<td>416</td>
+</tr>
+<tr>
+<td>Gerüst</td>
+<td>scaffolding</td>
+<td>%scaffolding%</td>
+<td>%mo%</td>
+</tr>
+<tr>
+<td>Schwamm</td>
+<td>sponge</td>
+<td>%sponge%</td>
+<td>19</td>
+</tr>
+<tr>
+<td>Nasser Schwamm</td>
+<td>wet_sponge</td>
+<td>%wet_sponge%</td>
+<td>19:1</td>
+</tr>
+<tr>
+<td>Gemälde</td>
+<td>painting</td>
+<td>%painting%</td>
+<td>321</td>
+</tr>
+<tr>
+<td>Rahmen</td>
+<td>item_frame</td>
+<td>%itemframe%</td>
+<td>389</td>
+</tr>
+<tr>
+<td>Leuchtrahmen</td>
+<td>glow_item_frame</td>
+<td>%gl_itemframe%</td>
+<td>%qt%</td>
+</tr>
+<tr>
+<td>Glocke</td>
+<td>bell</td>
+<td>%bell%</td>
+<td>%mp%</td>
+</tr>
+<tr>
+<td>Kette</td>
+<td>chain</td>
+<td>%chain%</td>
+<td>%mq%</td>
+</tr>
+<tr>
+<td>Kupferkette</td>
+<td>copper_chain</td>
+<td>%cpr_chain%</td>
+<td>%akm%</td>
+</tr>
+<tr>
+<td>Angelaufene Kupferkette</td>
+<td>exposed_copper_chain</td>
+<td>%e_cpr_chain%</td>
+<td>%akn%</td>
+</tr>
+<tr>
+<td>Verwitterte Kupferkette</td>
+<td>weathered_copper_chain</td>
+<td>%w_cpr_chain%</td>
+<td>%ako%</td>
+</tr>
+<tr>
+<td>Oxidierte Kupferkette</td>
+<td>oxidized_copper_chain</td>
+<td>%o_cpr_chain%</td>
+<td>%akp%</td>
+</tr>
+<tr>
+<td>Gewachste Kupferkette</td>
+<td>waxed_copper_chain</td>
+<td>%wa_cpr_chain%</td>
+<td>%akq%</td>
+</tr>
+<tr>
+<td>Gewachste angelaufene Kupferkette</td>
+<td>waxed_exposed_copper_chain</td>
+<td>%wa_e_cpr_chain%</td>
+<td>%akr%</td>
+</tr>
+<tr>
+<td>Gewachste verwitterte Kupferkette</td>
+<td>waxed_weathered_copper_chain</td>
+<td>%wa_w_cpr_chain%</td>
+<td>%aks%</td>
+</tr>
+<tr>
+<td>Gewachste oxidierte Kupferkette</td>
+<td>waxed_oxidized_copper_chain</td>
+<td>%wa_o_cpr_chain%</td>
+<td>%akt%</td>
+</tr>
+<tr>
+<td>Kupfergolemstatue</td>
+<td>copper_golem_statue</td>
+<td>%cpr_gost%</td>
+<td>%alc%</td>
+</tr>
+<tr>
+<td>Angelaufene Kupfergolemstatue</td>
+<td>exposed_copper_golem_statue</td>
+<td>%e_cpr_gost%</td>
+<td>%ald%</td>
+</tr>
+<tr>
+<td>Verwitterte Kupfergolemstatue</td>
+<td>weathered_copper_golem_statue</td>
+<td>%w_cpr_gost%</td>
+<td>%ale%</td>
+</tr>
+<tr>
+<td>Oxidierte Kupfergolemstatue</td>
+<td>oxidized_copper_golem_statue</td>
+<td>%o_cpr_gost%</td>
+<td>%alf%</td>
+</tr>
+<tr>
+<td>Gewachste Kupfergolemstatue</td>
+<td>waxed_copper_golem_statue</td>
+<td>%wa_cpr_gost%</td>
+<td>%alg%</td>
+</tr>
+<tr>
+<td>Gewachste angelaufene Kupfergolemstatue</td>
+<td>waxed_exposed_copper_golem_statue</td>
+<td>%wa_e_cpr_gost%</td>
+<td>%alh%</td>
+</tr>
+<tr>
+<td>Gewachste verwitterte Kupfergolemstatue</td>
+<td>waxed_weathered_copper_golem_statue</td>
+<td>%wa_w_cpr_gost%</td>
+<td>%ali%</td>
+</tr>
+<tr>
+<td>Gewachste oxidierte Kupfergolemstatue</td>
+<td>waxed_oxidized_copper_golem_statue</td>
+<td>%wa_o_cpr_gost%</td>
+<td>%alj%</td>
+</tr>
+<tr>
+<td>Lagerfeuer</td>
+<td>campfire</td>
+<td>%campfire%</td>
+<td>%mr%</td>
+</tr>
+<tr>
+<td>Seelenlagerfeuer</td>
+<td>soul_campfire</td>
+<td>%soul_campfire%</td>
+<td>%ms%</td>
+</tr>
+<tr>
+<td>Ausgetrockneter Ghast</td>
+<td>dried_ghast</td>
+<td>%d_ghast%</td>
+<td>%vw%</td>
+</tr>
+<tr>
+<td>Spinnennetz</td>
+<td>cobweb</td>
+<td>%cobweb%</td>
+<td>30</td>
+</tr>
+<tr>
+<td>Drachenei</td>
+<td>dragon_egg</td>
+<td>%dragonegg%</td>
+<td>122</td>
+</tr>
+<tr>
+<td>Sattel</td>
+<td>saddle</td>
+<td>%saddle%</td>
+<td>329</td>
+</tr>
+<tr>
+<td>Weißes Geschirr</td>
+<td>white_harness</td>
+<td>%w_harn%</td>
+<td>%wq%</td>
+</tr>
+<tr>
+<td>Hellgraues Geschirr</td>
+<td>light_gray_harness</td>
+<td>%lgra_harn%</td>
+<td>%vy%</td>
+</tr>
+<tr>
+<td>Graues Geschirr</td>
+<td>gray_harness</td>
+<td>%g_harn%</td>
+<td>%xy%</td>
+</tr>
+<tr>
+<td>Schwarzes geschirr</td>
+<td>black_harness</td>
+<td>%bl_harn%</td>
+<td>%so%</td>
+</tr>
+<tr>
+<td>Braunes Geschirr</td>
+<td>brown_harness</td>
+<td>%br_harn%</td>
+<td>%zg%</td>
+</tr>
+<tr>
+<td>Rotes Geschirr</td>
+<td>red_harness</td>
+<td>%r_harn%</td>
+<td>%zh%</td>
+</tr>
+<tr>
+<td>Oranges Geschirr</td>
+<td>orange_harness</td>
+<td>%o_harn%</td>
+<td>%aab%</td>
+</tr>
+<tr>
+<td>Gelbes Geschirr</td>
+<td>yellow_harness</td>
+<td>%y_harn%</td>
+<td>%py%</td>
+</tr>
+<tr>
+<td>Hellgrünes Geschirr</td>
+<td>lime_harness</td>
+<td>%lgre_harn%</td>
+<td>%ajv%</td>
+</tr>
+<tr>
+<td>Grünes Geschirr</td>
+<td>green_harness</td>
+<td>%g_harn%</td>
+<td>%ajw%</td>
+</tr>
+<tr>
+<td>Türkises Geschirr</td>
+<td>cyan_harness</td>
+<td>%c_harn%</td>
+<td>%ajx%</td>
+</tr>
+<tr>
+<td>Hellblaues Geschirr</td>
+<td>light_blue_harness</td>
+<td>%lb_harn%</td>
+<td>%ajy%</td>
+</tr>
+<tr>
+<td>Blaues Geschirr</td>
+<td>blue_harness</td>
+<td>%b_harn%</td>
+<td>%ajz%</td>
+</tr>
+<tr>
+<td>Violettes geschirr</td>
+<td>purple_harness</td>
+<td>%pu_harn%</td>
+<td>%aka%</td>
+</tr>
+<tr>
+<td>Magenta Geschirr</td>
+<td>magenta_harness</td>
+<td>%m_harn%</td>
+<td>%aku%</td>
+</tr>
+<tr>
+<td>Rosa Geschirr</td>
+<td>pink_harness</td>
+<td>%pi_harn%</td>
+<td>%akc%</td>
+</tr>
+<tr>
+<td>Leine</td>
+<td>lead</td>
+<td>%lead%</td>
+<td>420</td>
+</tr>
+<tr>
+<td>Namensschild</td>
+<td>name_tag</td>
+<td>%nametag%</td>
+<td>421</td>
+</tr>
+<tr>
+<td>Schwerer Kern</td>
+<td>heavy_core</td>
+<td>%hevcore%</td>
+<td>%agu%</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id="behälter">Behälter</h3>
+<div class="table-wrapper scrollbar overflow-hidden">
+<table class="compact">
+<thead>
+<tr>
+<th>Deutscher Itemname</th>
+<th>Minecraft-ID</th>
+<th>Abkürzung</th>
+<th>Kurzform</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Schüssel</td>
+<td>bowl</td>
+<td>%bowl%</td>
+<td>281</td>
+</tr>
+<tr>
+<td>Pilzsuppe</td>
+<td>mushroom_stew</td>
+<td>%shroom_stew%</td>
+<td>282</td>
+</tr>
+<tr>
+<td>Kaninchenragout</td>
+<td>rabbit_stew</td>
+<td>%rabbit_stew%</td>
+<td>413</td>
+</tr>
+<tr>
+<td>Seltsame Suppe</td>
+<td>suspicious_stew</td>
+<td>%suspic_stew%</td>
+<td>%mt%</td>
+</tr>
+<tr>
+<td>Kessel</td>
+<td>cauldron</td>
+<td>%cauldron%</td>
+<td>380</td>
+</tr>
+<tr>
+<td>Komposter</td>
+<td>composter</td>
+<td>%composter%</td>
+<td>%mu%</td>
+</tr>
+<tr>
+<td>Eimer</td>
+<td>bucket</td>
+<td>%bucket%</td>
+<td>325</td>
+</tr>
+<tr>
+<td>Wassereimer</td>
+<td>water_bucket</td>
+<td>%watr_bucket%</td>
+<td>326</td>
+</tr>
+<tr>
+<td>Lavaeimer</td>
+<td>lava_bucket</td>
+<td>%lava_bucket%</td>
+<td>327</td>
+</tr>
+<tr>
+<td>Milcheimer</td>
+<td>milk_bucket</td>
+<td>%milk_bucket%</td>
+<td>335</td>
+</tr>
+<tr>
+<td>Pulverschneeeimer</td>
+<td>powder_snow_bucket</td>
+<td>%pwd_sn_bucket%</td>
+<td>%rk%</td>
+</tr>
+<tr>
+<td>Kabeljaueimer</td>
+<td>cod_bucket</td>
+<td>%cod_bucket%</td>
+<td>%mv%</td>
+</tr>
+<tr>
+<td>Lachseimer</td>
+<td>salmon_bucket</td>
+<td>%salmon_bucket%</td>
+<td>%mw%</td>
+</tr>
+<tr>
+<td>Kugelfischeimer</td>
+<td>pufferfish_bucket</td>
+<td>%puffer_bucket%</td>
+<td>%mx%</td>
+</tr>
+<tr>
+<td>Tropenfischeimer</td>
+<td>tropical_fish_bucket</td>
+<td>%tropic_bucket%</td>
+<td>%my%</td>
+</tr>
+<tr>
+<td>Axolotleimer</td>
+<td>axolotl_bucket</td>
+<td>%axol_bucket%</td>
+<td>%rg%</td>
+</tr>
+<tr>
+<td>Kaulquappeneimer</td>
+<td>tadpole_bucket</td>
+<td>%tpole_bucket%</td>
+<td>%xd%</td>
+</tr>
+<tr>
+<td>Blumentopf</td>
+<td>flower_pot</td>
+<td>%flowerpot%</td>
+<td>390</td>
+</tr>
+<tr>
+<td>Verzierter Krug</td>
+<td>decorated_pot</td>
+<td>%deco_pot%</td>
+<td>%abv%</td>
+</tr>
+<tr>
+<td>Glasflasche</td>
+<td>glass_bottle</td>
+<td>%bottle%</td>
+<td>374</td>
+</tr>
+<tr>
+<td>Honigflasche</td>
+<td>honey_bottle</td>
+<td>%honey_bottle%</td>
+<td>%mz%</td>
+</tr>
+<tr>
+<td>Erfahrungsfläschchen</td>
+<td>experience_bottle</td>
+<td>%exp_bottle%</td>
+<td>384</td>
+</tr>
+<tr>
+<td>Trank</td>
+<td>potion</td>
+<td>%potion%</td>
+<td>373</td>
+</tr>
+<tr>
+<td>Wurftrank</td>
+<td>splash_potion</td>
+<td>%spl_potion%</td>
+<td>438</td>
+</tr>
+<tr>
+<td>Verweiltrank</td>
+<td>lingering_potion</td>
+<td>%lin_potion%</td>
+<td>441</td>
+</tr>
+<tr>
+<td>Drachenatem</td>
+<td>dragon_breath</td>
+<td>%dragonbreath%</td>
+<td>437</td>
+</tr>
+<tr>
+<td>Unheilvolle Flasche</td>
+<td>ominous_bottle</td>
+<td>%omi_bottle%</td>
+<td>%ahf%</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id="orientierungshilfen">Orientierungshilfen</h3>
+<div class="table-wrapper scrollbar overflow-hidden">
+<table class="compact">
+<thead>
+<tr>
+<th>Deutscher Itemname</th>
+<th>Minecraft-ID</th>
+<th>Abkürzung</th>
+<th>Kurzform</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Uhr</td>
+<td>clock</td>
+<td>%clock%</td>
+<td>347</td>
+</tr>
+<tr>
+<td>Kompass</td>
+<td>compass</td>
+<td>%compass%</td>
+<td>345</td>
+</tr>
+<tr>
+<td>Leere Karte</td>
+<td>map</td>
+<td>%map%</td>
+<td>395</td>
+</tr>
+<tr>
+<td>Karte</td>
+<td>filled_map</td>
+<td>%filled_map%</td>
+<td>%agx%</td>
+</tr>
+<tr>
+<td>Fernrohr</td>
+<td>spyglass</td>
+<td>%spyglass%</td>
+<td>%ro%</td>
+</tr>
+<tr>
+<td>Bergungskompass</td>
+<td>recovery_compass</td>
+<td>%rec_compass%</td>
+<td>%e2%</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id="waffen">Waffen</h3>
+<div class="table-wrapper scrollbar overflow-hidden">
+<table class="compact">
+<thead>
+<tr>
+<th>Deutscher Itemname</th>
+<th>Minecraft-ID</th>
+<th>Abkürzung</th>
+<th>Kurzform</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Holzschwert</td>
+<td>wooden_sword</td>
+<td>%wd_sword%</td>
+<td>268</td>
+</tr>
+<tr>
+<td>Steinschwert</td>
+<td>stone_sword</td>
+<td>%st_sword%</td>
+<td>272</td>
+</tr>
+<tr>
+<td>Eisenschwert</td>
+<td>iron_sword</td>
+<td>%ir_sword%</td>
+<td>267</td>
+</tr>
+<tr>
+<td>Goldschwert</td>
+<td>golden_sword</td>
+<td>%go_sword%</td>
+<td>283</td>
+</tr>
+<tr>
+<td>Diamantschwert</td>
+<td>diamond_sword</td>
+<td>%di_sword%</td>
+<td>276</td>
+</tr>
+<tr>
+<td>Netheritschwert</td>
+<td>netherite_sword</td>
+<td>%nt_sword%</td>
+<td>%ng%</td>
+</tr>
+<tr>
+<td>Kupferschwert</td>
+<td>copper_sword</td>
+<td>%co_sword%</td>
+<td>%amk%</td>
+</tr>
+<tr>
+<td>Bogen</td>
+<td>bow</td>
+<td>%bow%</td>
+<td>261</td>
+</tr>
+<tr>
+<td>Armbrust</td>
+<td>crossbow</td>
+<td>%crossbow%</td>
+<td>%nh%</td>
+</tr>
+<tr>
+<td>Dreizack</td>
+<td>trident</td>
+<td>%trident%</td>
+<td>%ni%</td>
+</tr>
+<tr>
+<td>Angel</td>
+<td>fishing_rod</td>
+<td>%fishingrod%</td>
+<td>346</td>
+</tr>
+<tr>
+<td>Feuerzeug</td>
+<td>flint_and_steel</td>
+<td>%flintandsteel%</td>
+<td>259</td>
+</tr>
+<tr>
+<td>Schere</td>
+<td>shears</td>
+<td>%shears%</td>
+<td>359</td>
+</tr>
+<tr>
+<td>Schild (Kampf)</td>
+<td>shield</td>
+<td>%shield%</td>
+<td>442</td>
+</tr>
+<tr>
+<td>Streitkolben</td>
+<td>mace</td>
+<td>%mace%</td>
+<td>%agv%</td>
+</tr>
+<tr>
+<td>Kupferspeer</td>
+<td>copper_spear</td>
+<td>%co_spear%</td>
+<td>%amm%</td>
+</tr>
+<tr>
+<td>Holzspeer</td>
+<td>wooden_spear</td>
+<td>%wo_spear%</td>
+<td>%and%</td>
+</tr>
+<tr>
+<td>Steinspeer</td>
+<td>stone_spear</td>
+<td>%st_spear%</td>
+<td>%ane%</td>
+</tr>
+<tr>
+<td>Goldspeer</td>
+<td>golden_spear</td>
+<td>%go_spear%</td>
+<td>%anf%</td>
+</tr>
+<tr>
+<td>Eisenspeer</td>
+<td>iron_spear</td>
+<td>%ir_spear%</td>
+<td>%ang%</td>
+</tr>
+<tr>
+<td>Diamantspeer</td>
+<td>diamond_spear</td>
+<td>%di_spear%</td>
+<td>%sh%</td>
+</tr>
+<tr>
+<td>Netheritspeer</td>
+<td>netherite_spear</td>
+<td>%nt_spear%</td>
+<td>%ani%</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id="spitzhacken">Spitzhacken</h3>
+<div class="table-wrapper scrollbar overflow-hidden">
+<table class="compact">
+<thead>
+<tr>
+<th>Deutscher Itemname</th>
+<th>Minecraft-ID</th>
+<th>Abkürzung</th>
+<th>Kurzform</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Holzspitzhacke</td>
+<td>wooden_pickaxe</td>
+<td>%wd_pickaxe%</td>
+<td>270</td>
+</tr>
+<tr>
+<td>Steinspitzhacke</td>
+<td>stone_pickaxe</td>
+<td>%st_pickaxe%</td>
+<td>274</td>
+</tr>
+<tr>
+<td>Eisenspitzhacke</td>
+<td>iron_pickaxe</td>
+<td>%ir_pickaxe%</td>
+<td>257</td>
+</tr>
+<tr>
+<td>Goldspitzhacke</td>
+<td>golden_pickaxe</td>
+<td>%go_pickaxe%</td>
+<td>285</td>
+</tr>
+<tr>
+<td>Diamantspitzhacke</td>
+<td>diamond_pickaxe</td>
+<td>%di_pickaxe%</td>
+<td>278</td>
+</tr>
+<tr>
+<td>Netheritspitzhacke</td>
+<td>netherite_pickaxe</td>
+<td>%nt_pickaxe%</td>
+<td>%nj%</td>
+</tr>
+<tr>
+<td>Kupferspitzhacke</td>
+<td>copper_pickaxe</td>
+<td>%co_pickaxe%</td>
+<td>%ami%</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id="schaufeln">Schaufeln</h3>
+<div class="table-wrapper scrollbar overflow-hidden">
+<table class="compact">
+<thead>
+<tr>
+<th>Deutscher Itemname</th>
+<th>Minecraft-ID</th>
+<th>Abkürzung</th>
+<th>Kurzform</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Holzschaufel</td>
+<td>wooden_shovel</td>
+<td>%wd_shovel%</td>
+<td>269</td>
+</tr>
+<tr>
+<td>Steinschaufel</td>
+<td>stone_shovel</td>
+<td>%st_shovel%</td>
+<td>273</td>
+</tr>
+<tr>
+<td>Eisenschaufel</td>
+<td>iron_shovel</td>
+<td>%ir_shovel%</td>
+<td>256</td>
+</tr>
+<tr>
+<td>Goldschaufel</td>
+<td>golden_shovel</td>
+<td>%go_shovel%</td>
+<td>284</td>
+</tr>
+<tr>
+<td>Diamantschaufel</td>
+<td>diamond_shovel</td>
+<td>%di_shovel%</td>
+<td>277</td>
+</tr>
+<tr>
+<td>Netheritschaufel</td>
+<td>netherite_shovel</td>
+<td>%nt_shovel%</td>
+<td>%nk%</td>
+</tr>
+<tr>
+<td>Kupferschaufel</td>
+<td>copper_shovel</td>
+<td>%co_shovel%</td>
+<td>%aml%</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id="äxte">Äxte</h3>
+<div class="table-wrapper scrollbar overflow-hidden">
+<table class="compact">
+<thead>
+<tr>
+<th>Deutscher Itemname</th>
+<th>Minecraft-ID</th>
+<th>Abkürzung</th>
+<th>Kurzform</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Holzaxt</td>
+<td>wooden_axe</td>
+<td>%wd_axe%</td>
+<td>271</td>
+</tr>
+<tr>
+<td>Steinaxt</td>
+<td>stone_axe</td>
+<td>%st_axe%</td>
+<td>275</td>
+</tr>
+<tr>
+<td>Eisenaxt</td>
+<td>iron_axe</td>
+<td>%ir_axe%</td>
+<td>258</td>
+</tr>
+<tr>
+<td>Goldaxt</td>
+<td>golden_axe</td>
+<td>%go_axe%</td>
+<td>286</td>
+</tr>
+<tr>
+<td>Diamantaxt</td>
+<td>diamond_axe</td>
+<td>%di_axe%</td>
+<td>279</td>
+</tr>
+<tr>
+<td>Netheritaxt</td>
+<td>netherite_axe</td>
+<td>%nt_axe%</td>
+<td>%nl%</td>
+</tr>
+<tr>
+<td>Kupferaxt</td>
+<td>copper_axe</td>
+<td>%co_axe%</td>
+<td>%amj%</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id="hacken">Hacken</h3>
+<div class="table-wrapper scrollbar overflow-hidden">
+<table class="compact">
+<thead>
+<tr>
+<th>Deutscher Itemname</th>
+<th>Minecraft-ID</th>
+<th>Abkürzung</th>
+<th>Kurzform</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Holzhacke</td>
+<td>wooden_hoe</td>
+<td>%wd_hoe%</td>
+<td>290</td>
+</tr>
+<tr>
+<td>Steinhacke</td>
+<td>stone_hoe</td>
+<td>%st_hoe%</td>
+<td>291</td>
+</tr>
+<tr>
+<td>Eisenhacke</td>
+<td>iron_hoe</td>
+<td>%ir_hoe%</td>
+<td>292</td>
+</tr>
+<tr>
+<td>Goldhacke</td>
+<td>golden_hoe</td>
+<td>%go_hoe%</td>
+<td>294</td>
+</tr>
+<tr>
+<td>Diamanthacke</td>
+<td>diamond_hoe</td>
+<td>%di_hoe%</td>
+<td>293</td>
+</tr>
+<tr>
+<td>Netherithacke</td>
+<td>netherite_hoe</td>
+<td>%nt_hoe%</td>
+<td>%nm%</td>
+</tr>
+<tr>
+<td>Kupferhacke</td>
+<td>copper_hoe</td>
+<td>%co_hoe%</td>
+<td>%amh%</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id="rüstung">Rüstung</h3>
+<div class="table-wrapper scrollbar overflow-hidden">
+<table class="compact">
+<thead>
+<tr>
+<th>Deutscher Itemname</th>
+<th>Minecraft-ID</th>
+<th>Abkürzung</th>
+<th>Kurzform</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Lederkappe</td>
+<td>leather_helmet</td>
+<td>%lt_helmet%</td>
+<td>298</td>
+</tr>
+<tr>
+<td>Lederjacke</td>
+<td>leather_chestplate</td>
+<td>%lt_chestplate%</td>
+<td>299</td>
+</tr>
+<tr>
+<td>Lederhose</td>
+<td>leather_leggings</td>
+<td>%lt_leggings%</td>
+<td>300</td>
+</tr>
+<tr>
+<td>Lederstiefel</td>
+<td>leather_boots</td>
+<td>%lt_boots%</td>
+<td>301</td>
+</tr>
+<tr>
+<td>Kettenhaube</td>
+<td>chainmail_helmet</td>
+<td>%ch_helmet%</td>
+<td>302</td>
+</tr>
+<tr>
+<td>Kettenhemd</td>
+<td>chainmail_chestplate</td>
+<td>%ch_chestplate%</td>
+<td>303</td>
+</tr>
+<tr>
+<td>Kettenhose</td>
+<td>chainmail_leggings</td>
+<td>%ch_leggings%</td>
+<td>304</td>
+</tr>
+<tr>
+<td>Kettenstiefel</td>
+<td>chainmail_boots</td>
+<td>%ch_boots%</td>
+<td>305</td>
+</tr>
+<tr>
+<td>Eisenhelm</td>
+<td>iron_helmet</td>
+<td>%ir_helmet%</td>
+<td>306</td>
+</tr>
+<tr>
+<td>Eisenharnisch</td>
+<td>iron_chestplate</td>
+<td>%ir_chestplate%</td>
+<td>307</td>
+</tr>
+<tr>
+<td>Eisenbeinschutz</td>
+<td>iron_leggings</td>
+<td>%ir_leggings%</td>
+<td>308</td>
+</tr>
+<tr>
+<td>Eisenstiefel</td>
+<td>iron_boots</td>
+<td>%ir_boots%</td>
+<td>309</td>
+</tr>
+<tr>
+<td>Kupferhelm</td>
+<td>copper_helmet</td>
+<td>%co_helmet%</td>
+<td>%alu%</td>
+</tr>
+<tr>
+<td>Kupferbrustplatte</td>
+<td>copper_chestplate</td>
+<td>%co_chestplate%</td>
+<td>%alv%</td>
+</tr>
+<tr>
+<td>Kupferhose</td>
+<td>copper_leggings</td>
+<td>%co_leggings%</td>
+<td>%alw%</td>
+</tr>
+<tr>
+<td>Kupferstiefel</td>
+<td>copper_boots</td>
+<td>%co_boots%</td>
+<td>%alx%</td>
+</tr>
+<tr>
+<td>Goldhelm</td>
+<td>golden_helmet</td>
+<td>%go_helmet%</td>
+<td>314</td>
+</tr>
+<tr>
+<td>Goldharnisch</td>
+<td>golden_chestplate</td>
+<td>%go_chestplate%</td>
+<td>315</td>
+</tr>
+<tr>
+<td>Goldbeinschutz</td>
+<td>golden_leggings</td>
+<td>%go_leggings%</td>
+<td>316</td>
+</tr>
+<tr>
+<td>Goldstiefel</td>
+<td>golden_boots</td>
+<td>%go_boots%</td>
+<td>317</td>
+</tr>
+<tr>
+<td>Diamanthelm</td>
+<td>diamond_helmet</td>
+<td>%di_helmet%</td>
+<td>310</td>
+</tr>
+<tr>
+<td>Diamantharnisch</td>
+<td>diamond_chestplate</td>
+<td>%di_chestplate%</td>
+<td>311</td>
+</tr>
+<tr>
+<td>Diamantbeinschutz</td>
+<td>diamond_leggings</td>
+<td>%di_leggings%</td>
+<td>312</td>
+</tr>
+<tr>
+<td>Diamantstiefel</td>
+<td>diamond_boots</td>
+<td>%di_boots%</td>
+<td>313</td>
+</tr>
+<tr>
+<td>Netherithelm</td>
+<td>netherite_helmet</td>
+<td>%nt_helmet%</td>
+<td>%nn%</td>
+</tr>
+<tr>
+<td>Netheritharnisch</td>
+<td>netherite_chestplate</td>
+<td>%nt_chestplate%</td>
+<td>%no%</td>
+</tr>
+<tr>
+<td>Netheritbeinschutz</td>
+<td>netherite_leggings</td>
+<td>%nt_leggings%</td>
+<td>%np%</td>
+</tr>
+<tr>
+<td>Netheritstiefel</td>
+<td>netherite_boots</td>
+<td>%nt_boots%</td>
+<td>%nq%</td>
+</tr>
+<tr>
+<td>Schildkrötenpanzer</td>
+<td>turtle_helmet</td>
+<td>%turtleshell%</td>
+<td>%nr%</td>
+</tr>
+<tr>
+<td>Elytra</td>
+<td>elytra</td>
+<td>%elytra%</td>
+<td>443</td>
+</tr>
+<tr>
+<td>Lederner Rossharnisch</td>
+<td>leather_horse_armor</td>
+<td>%lt_horsearmor%</td>
+<td>%nt%</td>
+</tr>
+<tr>
+<td>Eiserner Rossharnisch</td>
+<td>iron_horse_armor</td>
+<td>%ir_horsearmor%</td>
+<td>417</td>
+</tr>
+<tr>
+<td>Kupferner Rossharnisch</td>
+<td>copper_horse_armor</td>
+<td>%co_horsearmor%</td>
+<td>%amg%</td>
+</tr>
+<tr>
+<td>Goldener Rossharnisch</td>
+<td>golden_horse_armor</td>
+<td>%go_horsearmor%</td>
+<td>418</td>
+</tr>
+<tr>
+<td>Diamantener Rossharnisch</td>
+<td>diamond_horse_armor</td>
+<td>%di_horsearmor%</td>
+<td>419</td>
+</tr>
+<tr>
+<td>Netheritener Rossharnisch</td>
+<td>netherite_horse_armor</td>
+<td>%nt_horsearmor%</td>
+<td>%anc%</td>
+</tr>
+<tr>
+<td>Wolfspanzer</td>
+<td>wolf_armor</td>
+<td>%wolfarmor%</td>
+<td>%ahs%</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id="schallplatten">Schallplatten</h3>
+<div class="table-wrapper scrollbar overflow-hidden">
+<table class="compact">
+<thead>
+<tr>
+<th>Deutscher Itemname</th>
+<th>Minecraft-ID</th>
+<th>Abkürzung</th>
+<th>Kurzform</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Schallplatte 11</td>
+<td>music_disc_11</td>
+<td>%disc_11%</td>
+<td>2266</td>
+</tr>
+<tr>
+<td>Schallplatte 13</td>
+<td>music_disc_13</td>
+<td>%disc_13</td>
+<td>2256</td>
+</tr>
+<tr>
+<td>Schallplatte Blocks</td>
+<td>music_disc_blocks</td>
+<td>%disc_blocks%</td>
+<td>2258</td>
+</tr>
+<tr>
+<td>Schallplatte Cat</td>
+<td>music_disc_cat</td>
+<td>%disc_cat%</td>
+<td>2257</td>
+</tr>
+<tr>
+<td>Schallplatte Chirp</td>
+<td>music_disc_chirp</td>
+<td>%disc_chirp%</td>
+<td>2259</td>
+</tr>
+<tr>
+<td>Schallplatte Far</td>
+<td>music_disc_far</td>
+<td>%disc_far%</td>
+<td>2260</td>
+</tr>
+<tr>
+<td>Schallplatte Mall</td>
+<td>music_disc_mall</td>
+<td>%disc_mall%</td>
+<td>2261</td>
+</tr>
+<tr>
+<td>Schallplatte Mellohi</td>
+<td>music_disc_mellohi</td>
+<td>%disc_mellohi%</td>
+<td>2262</td>
+</tr>
+<tr>
+<td>Schallplatte Stal</td>
+<td>music_disc_stal</td>
+<td>%disc_stal%</td>
+<td>2263</td>
+</tr>
+<tr>
+<td>Schallplatte Strad</td>
+<td>music_disc_strad</td>
+<td>%disc_strad%</td>
+<td>2264</td>
+</tr>
+<tr>
+<td>Schallplatte Wait</td>
+<td>music_disc_wait</td>
+<td>%disc_wait%</td>
+<td>2267</td>
+</tr>
+<tr>
+<td>Schallplatte Ward</td>
+<td>music_disc_ward</td>
+<td>%disc_ward%</td>
+<td>2265</td>
+</tr>
+<tr>
+<td>Schallplatte Pigstep</td>
+<td>music_disc_pigstep</td>
+<td>%disc_pigstep%</td>
+<td>%nu%</td>
+</tr>
+<tr>
+<td>Schallplatte Otherside</td>
+<td>music_disc_otherside</td>
+<td>%disc_otherside%</td>
+<td>%e3%</td>
+</tr>
+<tr>
+<td>Schallplatte 5</td>
+<td>music_disc_5</td>
+<td>%disc_5%</td>
+<td>%e4%</td>
+</tr>
+<tr>
+<td>Plattenbruchstück - 5</td>
+<td>disc_fragment_5</td>
+<td>%disc_frag_5%</td>
+<td>%e5%</td>
+</tr>
+<tr>
+<td>Schallplatte Relic</td>
+<td>music_disc_relic</td>
+<td>%disc_relic%</td>
+<td>%aek%</td>
+</tr>
+<tr>
+<td>Schallplatte Aaron Cherof - Precipice</td>
+<td>music_disc_precipice</td>
+<td>%disc_precipice%</td>
+<td>%ahg%</td>
+</tr>
+<tr>
+<td>Schallplatte Lena Raine - Creator</td>
+<td>music_disc_creator</td>
+<td>%disc_creator%</td>
+<td>%ahh%</td>
+</tr>
+<tr>
+<td>Schallplatte Lena Raine - Creator (Music Box)</td>
+<td>music_disc_creator_music_box</td>
+<td>%disc_creator_mb%</td>
+<td>%ahi%</td>
+</tr>
+<tr>
+<td>Schallplatte Amos Roffy - Tears</td>
+<td>music_disc_tears</td>
+<td>%disc_tears%</td>
+<td>%vp%</td>
+</tr>
+<tr>
+<td>Schalltplatte Hyper Potions - Lava Chicken</td>
+<td>music_disc_lava_chicken</td>
+<td>%disc_lchicken%</td>
+<td>%zp%</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id="töpferscherben">Töpferscherben</h3>
+<div class="table-wrapper scrollbar overflow-hidden">
+<table class="compact">
+<thead>
+<tr>
+<th>Deutscher Itemname</th>
+<th>Minecraft-ID</th>
+<th>Abkürzung</th>
+<th>Kurzform</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Angler-Töpferscherbe</td>
+<td>angler_pottery_sherd</td>
+<td>%angler_pshd%</td>
+<td>%acq%</td>
+</tr>
+<tr>
+<td>Bergarbeiter-Töpferscherbe</td>
+<td>miner_pottery_sherd</td>
+<td>%miner_pshd%</td>
+<td>%acr%</td>
+</tr>
+<tr>
+<td>Brauer-Töpferscherbe</td>
+<td>brewer_pottery_sherd</td>
+<td>%brewer_pshd%</td>
+<td>%acs%</td>
+</tr>
+<tr>
+<td>Entdecker-Töpferscherbe</td>
+<td>explorer_pottery_sherd</td>
+<td>%explorer_pshd%</td>
+<td>%act%</td>
+</tr>
+<tr>
+<td>Flammen-Töpferscherbe</td>
+<td>burn_pottery_sherd</td>
+<td>%burn_pshd%</td>
+<td>%acu%</td>
+</tr>
+<tr>
+<td>Freundes-Töpferscherbe</td>
+<td>friend_pottery_sherd</td>
+<td>%friend_pshd%</td>
+<td>%acv%</td>
+</tr>
+<tr>
+<td>Garben-Töpferscherbe</td>
+<td>sheaf_pottery_sherd</td>
+<td>%sheaf_pshd%</td>
+<td>%acw%</td>
+</tr>
+<tr>
+<td>Gebärden-Töpferscherbe</td>
+<td>arms_up_pottery_sherd</td>
+<td>%armsup_pshd%</td>
+<td>%acx%</td>
+</tr>
+<tr>
+<td>Gefahren-Töpferscherbe</td>
+<td>danger_pottery_sherd</td>
+<td>%danger_pshd%</td>
+<td>%acy%</td>
+</tr>
+<tr>
+<td>Geheul-Töpferscherbe</td>
+<td>howl_pottery_sherd</td>
+<td>%howl_pshd%</td>
+<td>%acz%</td>
+</tr>
+<tr>
+<td>Herz-Töpferscherbe</td>
+<td>heart_pottery_sherd</td>
+<td>%heart_pshd%</td>
+<td>%ada%</td>
+</tr>
+<tr>
+<td>Herzschmerz-Töpferscherbe</td>
+<td>heartbreak_pottery_sherd</td>
+<td>%heartbreak_pshd%</td>
+<td>%adb%</td>
+</tr>
+<tr>
+<td>Juwelen-Töpferscherbe</td>
+<td>prize_pottery_sherd</td>
+<td>%prize_pshd%</td>
+<td>%adc%</td>
+</tr>
+<tr>
+<td>Klingen-Töpferscherbe</td>
+<td>blade_pottery_sherd</td>
+<td>%blade_pshd%</td>
+<td>%add%</td>
+</tr>
+<tr>
+<td>Reichtums-Töpferscherbe</td>
+<td>plenty_pottery_shrd</td>
+<td>%plenty_pshd%</td>
+<td>%ade%</td>
+</tr>
+<tr>
+<td>Schnaub-Töpferscherbe</td>
+<td>snort_pottery_sherd</td>
+<td>%snort_pshd%</td>
+<td>%adf%</td>
+</tr>
+<tr>
+<td>Schützen-Töpferscherbe</td>
+<td>archer_pottery_shrd</td>
+<td>%archer_pshd%</td>
+<td>%adg%</td>
+</tr>
+<tr>
+<td>Totenkopf-Töpferscherbe</td>
+<td>skull_pottery_sherd</td>
+<td>%skull_potsherd%</td>
+<td>%adh%</td>
+</tr>
+<tr>
+<td>Wimmerer-Töpferscherbe</td>
+<td>mourner_pottery_sherd</td>
+<td>%mourner_potsherd%</td>
+<td>%adi%</td>
+</tr>
+<tr>
+<td>Zufluchts-Töpferscherbe</td>
+<td>shelter_pottery_sherd</td>
+<td>%shelter_potsherd%</td>
+<td>%adj%</td>
+</tr>
+<tr>
+<td>Windstoßer-Töpferscherbe</td>
+<td>guster_pottery_sherd</td>
+<td>%guster_pshd%</td>
+<td>%ahb%</td>
+</tr>
+<tr>
+<td>Abschabe-Töpferscherbe</td>
+<td>scrape_pottery_sherd</td>
+<td>%scrape_pshd%</td>
+<td>%ahc%</td>
+</tr>
+<tr>
+<td>Fluss-Töpferscherbe</td>
+<td>flow_pottery_sherd</td>
+<td>%flow_pshd%</td>
+<td>%aha%</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id="schmiedevorlagen">Schmiedevorlagen</h3>
+<div class="table-wrapper scrollbar overflow-hidden">
+<table class="compact">
+<thead>
+<tr>
+<th>Deutscher Itemname</th>
+<th>Minecraft-ID</th>
+<th>Abkürzung</th>
+<th>Kurzform</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Schmiedevorlage Netheritaufwertung</td>
+<td>netherite_upgrade_smithing_template</td>
+<td>%neth_upg_stmp%</td>
+<td>%adk%</td>
+</tr>
+<tr>
+<td>Schmiedevorlage Wachen</td>
+<td>sentry_armor_trim_smithing_template</td>
+<td>%sentry_t_stmp%</td>
+<td>%adl%</td>
+</tr>
+<tr>
+<td>Schmiedevorlage Plagegeist</td>
+<td>vex_armor_trim_smithing_template</td>
+<td>%vex_t_stmp%</td>
+<td>%adm%</td>
+</tr>
+<tr>
+<td>Schmiedevorlage Wildnis</td>
+<td>wild_armor_trim_smithing_template</td>
+<td>%wild_t_stmp%</td>
+<td>%adn%</td>
+</tr>
+<tr>
+<td>Schmiedevorlage Küsten</td>
+<td>coast_armor_trim_smithing_template</td>
+<td>%coast_t_stmp%</td>
+<td>%ado%</td>
+</tr>
+<tr>
+<td>Schmiedevorlage Dünen</td>
+<td>dune_armor_trim_smithing_template</td>
+<td>%dune_t_stmp%</td>
+<td>%adp%</td>
+</tr>
+<tr>
+<td>Schmiedevorlage Wegfinder</td>
+<td>wayfinder_armor_trim_smithing_template</td>
+<td>%wfinder_t_stmp%</td>
+<td>%adq%</td>
+</tr>
+<tr>
+<td>Schmiedevorlage Aufzieher</td>
+<td>raiser_armor_trim_smithing_template</td>
+<td>%raiser_t_stmp%</td>
+<td>%adr%</td>
+</tr>
+<tr>
+<td>Schmiedevorlage Gestalter</td>
+<td>shaper_armor_trim_smithing_template</td>
+<td>%shaper_t_stmp%</td>
+<td>%ads%</td>
+</tr>
+<tr>
+<td>Schmiedevorlage Gastwirts</td>
+<td>host_armor_trim_smithing_template</td>
+<td>%host_t_stmp%</td>
+<td>%adt%</td>
+</tr>
+<tr>
+<td>Schmiedevorlage Warthof</td>
+<td>ward_armor_trim_smithing_template</td>
+<td>%ward_t_stmp%</td>
+<td>%adu%</td>
+</tr>
+<tr>
+<td>Schmiedevorlage Stille</td>
+<td>silence_armor_trim_smithing_template</td>
+<td>%silence_t_stmp%</td>
+<td>%adv%</td>
+</tr>
+<tr>
+<td>Schmiedevorlage Gezeiten</td>
+<td>tide_armor_trim_smithing_template</td>
+<td>%tide_t_stmp%</td>
+<td>%adw%</td>
+</tr>
+<tr>
+<td>Schmiedevorlage Schnauzen</td>
+<td>snout_armor_trim_smithing_template</td>
+<td>%snout_t_stmp%</td>
+<td>%adx%</td>
+</tr>
+<tr>
+<td>Schmiedevorlage Rippen</td>
+<td>rib_armor_trim_smithing_template</td>
+<td>%rib_t_stmp%</td>
+<td>%ady%</td>
+</tr>
+<tr>
+<td>Schmiedevorlage Augen</td>
+<td>eye_armor_trim_smithing_template</td>
+<td>%eye_t_stmp%</td>
+<td>%adz%</td>
+</tr>
+<tr>
+<td>Schmiedevorlage Turmspitzen</td>
+<td>spire_armor_trim_smithing_template</td>
+<td>%spire_t_stmp%</td>
+<td>%aea%</td>
+</tr>
+<tr>
+<td>Schmiedevorlage Fluss-Rüstungsbesatz</td>
+<td>flow_armor_trim_smithing_template</td>
+<td>%flow_t_stmp%</td>
+<td>%agy%</td>
+</tr>
+<tr>
+<td>Schmiedevorlage Bolzen-Rüstungsbesatz</td>
+<td>bolt_armor_trim_smithing_template</td>
+<td>%bolt_t_stmp%</td>
+<td>%agz%</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id="bündel">Bündel</h3>
+<div class="table-wrapper scrollbar overflow-hidden">
+<table class="compact">
+<thead>
+<tr>
+<th>Deutscher Itemname</th>
+<th>Minecraft-ID</th>
+<th>Abkürzung</th>
+<th>Kurzform</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Bündel</td>
+<td>bundle</td>
+<td>%bdle%</td>
+<td>%ajc%</td>
+</tr>
+<tr>
+<td>Weißes Bündel</td>
+<td>white_bundle</td>
+<td>%w_bdle%</td>
+<td>%ajd%</td>
+</tr>
+<tr>
+<td>Hellgraues Bündel</td>
+<td>light_gray_bundle</td>
+<td>%lgra_bdle%</td>
+<td>%aje%</td>
+</tr>
+<tr>
+<td>Graues Bündel</td>
+<td>gray_bundle</td>
+<td>%g_bdle%</td>
+<td>%ajf%</td>
+</tr>
+<tr>
+<td>Schwarzes Bündel</td>
+<td>black_bundle</td>
+<td>%bl_bdle%</td>
+<td>%ajg%</td>
+</tr>
+<tr>
+<td>Braunes Bündel</td>
+<td>brown_bundle</td>
+<td>%br_bdle%</td>
+<td>%ajh%</td>
+</tr>
+<tr>
+<td>Rotes Bündel</td>
+<td>red_bundle</td>
+<td>%r_bdle%</td>
+<td>%aji%</td>
+</tr>
+<tr>
+<td>Oranges Bündel</td>
+<td>orange_bundle</td>
+<td>%o_bdle%</td>
+<td>%ajj%</td>
+</tr>
+<tr>
+<td>Gelbes Bündel</td>
+<td>yellow_bundle</td>
+<td>%y_bdle%</td>
+<td>%ajk%</td>
+</tr>
+<tr>
+<td>Hellgründes Bündel</td>
+<td>lime_bundle</td>
+<td>%lgre_bdle%</td>
+<td>%ajl%</td>
+</tr>
+<tr>
+<td>Grünes Bündel</td>
+<td>green_bundle</td>
+<td>%grn_bdle%</td>
+<td>%tp%</td>
+</tr>
+<tr>
+<td>Hellblaues Bündel</td>
+<td>light_blue_bundle</td>
+<td>%lb_bdle%</td>
+<td>%ajn%</td>
+</tr>
+<tr>
+<td>Türkises Bündel</td>
+<td>cyan_bundle</td>
+<td>%c_bdle%</td>
+<td>%ajo%</td>
+</tr>
+<tr>
+<td>Blaues Bündel</td>
+<td>blue_bundle</td>
+<td>%b_bdle%</td>
+<td>%ajp%</td>
+</tr>
+<tr>
+<td>Violettes Bündel</td>
+<td>purple_bundle</td>
+<td>%pu_bdle%</td>
+<td>%ajq%</td>
+</tr>
+<tr>
+<td>Magenta Bündel</td>
+<td>magenta_bundle</td>
+<td>%m_bdle%</td>
+<td>%ajr%</td>
+</tr>
+<tr>
+<td>Rosa Bündel</td>
+<td>pink_bundle</td>
+<td>%pi_bdle%</td>
+<td>%ajs%</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id="bedrock">Bedrock</h3>
+<div class="table-wrapper scrollbar overflow-hidden">
+<table class="compact">
+<thead>
+<tr>
+<th>Deutscher Itemname</th>
+<th>Minecraft-ID</th>
+<th>Abkürzung</th>
+<th>Kurzform</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Grundgestein</td>
+<td>bedrock</td>
+<td>%bedrock%</td>
+<td>7</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id="sonstiges">Sonstiges</h3>
+<div class="table-wrapper scrollbar overflow-hidden">
+<table class="compact">
+<thead>
+<tr>
+<th>Deutscher Itemname</th>
+<th>Minecraft-ID</th>
+<th>Abkürzung</th>
+<th>Kurzform</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Prüfungsschlüssel</td>
+<td>trial_key</td>
+<td>%tri_key%</td>
+<td>%agr%</td>
+</tr>
+<tr>
+<td>Unheilvoller Prüfungsschlüssel</td>
+<td>ominous_trial_key</td>
+<td>%omi_key%</td>
+<td>%ags%</td>
+</tr>
+<tr>
+<td>Windkugel</td>
+<td>wind_charge</td>
+<td>%w_charge%</td>
+<td>%agw%</td>
+</tr>
+<tr>
+<td>Kupferner Nautiluspanzer</td>
+<td>copper_nautilus_armor</td>
+<td>%co_ntarmor%</td>
+<td>%aly%</td>
+</tr>
+<tr>
+<td>Eiserner Nautiluspanzer</td>
+<td>iron_nautilus_armor</td>
+<td>%ir_ntarmor%</td>
+<td>%amy%</td>
+</tr>
+<tr>
+<td>Goldener Nautiluspanzer</td>
+<td>golden_nautilus_armor</td>
+<td>%go_ntarmor%</td>
+<td>%amz%</td>
+</tr>
+<tr>
+<td>Diamantener Nautiluspanzer</td>
+<td>diamond_nautilus_armor</td>
+<td>%di_ntarmor%</td>
+<td>%ana%</td>
+</tr>
+<tr>
+<td>Netheritener Nautiluspanzer</td>
+<td>netherite_nautilus_armor</td>
+<td>%nt_ntarmor%</td>
+<td>%anb%</td>
+</tr>
+</tbody>
+</table>
+</div>
+
+                
+                <!-- Required only on API pages -->
+                <doc-toolbar-member-filter-no-results></doc-toolbar-member-filter-no-results>
+            </div>
+            <footer id="retype-content-footer" class="clear-both">
+            
+                <nav id="retype-nextprev" class="print:hidden flex mt-14">
+                    <div class="w-1/2">
+                        <a class="px-5 py-4 h-full flex items-center break-normal font-medium text-body-link border border-base-border hover:border-base-border-hover rounded-l-lg transition-colors duration-150 relative hover:z-5" href="../../craftbook-pipes/pipes/">
+                            <svg xmlns="http://www.w3.org/2000/svg" class="mr-3" width="24" height="24" viewBox="0 0 24 24" fill="currentColor" overflow="visible"><path d="M19 11H7.41l5.29-5.29a.996.996 0 10-1.41-1.41l-7 7a1 1 0 000 1.42l7 7a1.024 1.024 0 001.42-.01.996.996 0 000-1.41L7.41 13H19c.55 0 1-.45 1-1s-.45-1-1-1z" /><path fill="none" d="M0 0h24v24H0z" /></svg>
+                            <span>
+                                <span class="block text-xs font-normal text-base-text-muted">Vorheriger</span>
+                                <span class="block mt-1">Pipes</span>
+                            </span>
+                        </a>
+                    </div>
+            
+                    <div class="w-1/2">
+                        <a class="px-5 py-4 -mx-px h-full flex items-center justify-end break-normal font-medium text-body-link border border-base-border hover:border-base-border-hover rounded-r-lg transition-colors duration-150 relative hover:z-5" href="../../craftbook-pipes/pipe-sammelvariablen/">
+                            <span>
+                                <span class="block text-xs font-normal text-right text-base-text-muted">Nächster</span>
+                                <span class="block mt-1">Pipe-​Sammelvariablen</span>
+                            </span>
+                            <svg xmlns="http://www.w3.org/2000/svg" class="ml-3" width="24" height="24" viewBox="0 0 24 24" fill="currentColor" overflow="visible"><path d="M19.92 12.38a1 1 0 00-.22-1.09l-7-7a.996.996 0 10-1.41 1.41l5.3 5.3H5c-.55 0-1 .45-1 1s.45 1 1 1h11.59l-5.29 5.29a.996.996 0 000 1.41c.19.2.44.3.7.3s.51-.1.71-.29l7-7c.09-.09.16-.21.21-.33z" /><path fill="none" d="M0 0h24v24H0z" /></svg>
+                        </a>
+                    </div>
+                </nav>
+            </footer>
+        </main>
+
+        <div id="retype-page-footer" class="print:border-none border-t border-base-border pt-6 mb-8">
+            <footer class="flex flex-wrap items-center justify-between print:justify-center">
+                <div id="retype-footer-links" class="print:hidden">
+                    <ul class="flex flex-wrap items-center text-sm">
+                        <li>
+                            <a class="block mr-4 py-2 text-sm whitespace-nowrap transition-colors duration-200 ease-linear text-footer-link hover:text-footer-link-hover md:mb-0" href="https://teamwiki.openmc.net/">Internes Teamwiki</a>
+                        </li>
+                        <li>
+                            <a class="block mr-4 py-2 text-sm whitespace-nowrap transition-colors duration-200 ease-linear text-footer-link hover:text-footer-link-hover md:mb-0" href="https://openmc.net/impressum/">Impressum</a>
+                        </li>
+                        <li>
+                            <a class="block mr-4 py-2 text-sm whitespace-nowrap transition-colors duration-200 ease-linear text-footer-link hover:text-footer-link-hover md:mb-0" href="https://openmc.net/datenschutzerklaerung/">Datenschutzerklärung</a>
+                        </li>
+                    </ul>
+                </div>
+                <div id="retype-copyright" class="print:justify-center py-2 text-footer-text font-footer-link text-sm leading-relaxed"><p>OpenMC Wiki © 2026 ist lizensiert unter <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.de">CC BY-NC-ND 4.0</a>. OpenMC.net steht nicht in Verbindung mit Mojang Studios oder Minecraft®.</p></div>
+            </footer>
+        </div>
+    </div>
+
+    <!-- Rendered if sidebar right is enabled -->
+    <!-- Sidebar right skeleton-->
+    <div v-cloak class="fixed top-0 bottom-0 right-0 translate-x-full bg-sidebar-right-bg border-sidebar-right-border lg:sticky lg:border-l lg:shrink-0 lg:pt-6 lg:translate-x-0 sm:w-1/2 lg:w-64 lg:z-0 md:w-104 sidebar-right skeleton">
+        <div class="pl-5">
+            <div class="w-32 h-3 mb-4 bg-skeleton-bg rounded-full loading"></div>
+            <div class="w-48 h-3 mb-4 bg-skeleton-bg rounded-full loading"></div>
+            <div class="w-40 h-3 mb-4 bg-skeleton-bg rounded-full loading"></div>
+        </div>
+    </div>
+
+    <!-- User should be able to hide sidebar right -->
+    <doc-sidebar-right v-cloak></doc-sidebar-right>
+</div>
+
+        </div>
+    </div>
+
+    <doc-search-mobile></doc-search-mobile>
+    <doc-back-to-top></doc-back-to-top>
+</div>
+
+
+    <div id="retype-overlay-target"></div>
+
+        <script data-cfasync="false">window.__DOCS__ = { "title": "Pipe-Variablen", level: 2, icon: "file", hasPrism: false, hasInstagram: false, hasMermaid: false, hasMath: false, tocDepth: 23, "md": "/craftbook-pipes/pipe-variablen.md" }</script>
+</body>
+</html>
