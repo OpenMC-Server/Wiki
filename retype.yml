@@ -97,10 +97,10 @@ cname: false                  # The CNAME file value
 # -----------------------------------------------------------------------------
 
 edit:
-  repo: ""                    # The URL to source files for this project
+  repo: "https://github.com/OpenMC-Server/Wiki"                    # The URL to source files for this project
   base: ""                    # Optional base path to a directory within repo
   branch: ""                  # Point to a custom branch within the repo
-  label: "Edit this page"     # A custom label for the generated link
+  label: "Änderungen vorschlagen"     # A custom label for the generated link
 
 # -----------------------------------------------------------------------------
 
