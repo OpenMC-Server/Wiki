@@ -5,7 +5,7 @@ order: 296
 icon: verified
 ---
 
-# Farmanmeldungen [!button target="blank" size="xs" variant="success" icon=":bulb:" text="Feedback geben"](https://tally.so/r/WO8gxJ)
+# Farmanmeldungen 
 
 Farmanlagen sind ein interessanter Bestandteil des Spielgeschehens und von OpenMC. Bekannterweise führen mehrere Farmen bei zeitgleicher Nutzung jedoch zu Performance-Einbrüchen, welche den Spielspaß beeinträchtigen. Mit unserer ausgelagerten Industriewelt bieten wir als Server eine stark performante Welt für Farmen, Anlagen und vergleichbares an, um den Spaß in unserem Weltensystem zu garantieren.
 

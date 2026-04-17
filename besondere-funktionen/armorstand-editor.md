@@ -5,7 +5,7 @@ order: 396
 icon: pencil
 ---
 
-# ArmorStand Editor [!button target="blank" size="xs" variant="success" icon=":bulb:" text="Feedback geben"](https://tally.so/r/WO8gxJ)
+# ArmorStand Editor 
 
 [!badge variant="dark" icon="ruby" text="VIP/VIS Feature"](/allgemeines/ränge.md)
 

@@ -5,7 +5,7 @@ order: 298
 icon: checklist
 ---
 
-# Richtlinien [!button target="blank" size="xs" variant="success" icon=":bulb:" text="Feedback geben"](https://tally.so/r/WO8gxJ)
+# Richtlinien 
 
 Die folgenden Richtlinien dienen als Ergänzung der Serverregeln und sind ebenfalls zu befolgen.
 

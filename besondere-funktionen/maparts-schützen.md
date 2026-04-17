@@ -6,7 +6,7 @@ icon: lock
 
 ---
 
-# MapArts schützen [!button target="blank" size="xs" variant="success" icon=":bulb:" text="Feedback geben"](https://tally.so/r/WO8gxJ)
+# MapArts schützen 
 
 Um dein MapArt zu schützen, stehen dir mehrere Möglichkeiten offen. Nutzt diese Möglichkeiten, hast du dein MapArt vollumfänglich gegen Kopieren geschützt.
 

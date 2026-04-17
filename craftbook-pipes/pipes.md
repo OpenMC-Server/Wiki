@@ -5,7 +5,7 @@ order: 498
 icon: git-compare
 ---
 
-# Pipes [!button target="blank" size="xs" variant="success" icon=":bulb:" text="Feedback geben"](https://tally.so/r/WO8gxJ)
+# Pipes 
 
 [!badge :white_check_mark: Ingame-Tutorial verfügbar: `/warp tutorial_pipes`]
 

@@ -5,7 +5,7 @@ order: 799
 icon: screen-normal
 ---
 
-# Claiming (Grundstück erstellen) [!button target="blank" size="xs" variant="success" icon=":bulb:" text="Feedback geben"](https://tally.so/r/WO8gxJ)
+# Claiming (Grundstück erstellen) 
 
 [!badge :white_check_mark: Ingame-Tutorial verfügbar: `/warp tutorial_claiming`]
 

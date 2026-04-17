@@ -5,7 +5,7 @@ order: 299
 icon: command-palette
 ---
 
-# Weitere Befehle [!button target="blank" size="xs" variant="success" icon=":bulb:" text="Feedback geben"](https://tally.so/r/WO8gxJ)
+# Weitere Befehle 
 
 Hier erhältst du einen Überblick über weitere Befehle des Servers, welche nicht auf den anderen Seiten erläutert werden.
 

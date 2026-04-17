@@ -5,7 +5,7 @@ order: 899
 icon: rocket
 ---
 
-# Einstieg [!button target="blank" size="xs" variant="success" icon=":bulb:" text="Feedback geben"](https://tally.so/r/WO8gxJ)
+# Einstieg 
 
 Huhu und Willkommen auf OpenMC! :wave:
 

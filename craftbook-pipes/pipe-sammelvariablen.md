@@ -5,7 +5,7 @@ order: 496
 icon: list-ordered
 ---
 
-# Pipe-Sammelvariablen [!button target="blank" size="xs" variant="success" icon=":bulb:" text="Feedback geben"](https://tally.so/r/WO8gxJ)
+# Pipe-Sammelvariablen 
 
 Pipe-Sammelvariablen ermöglichen es dir, mehrere Items mit einer einzelnen Variable über das Pipe-System zu sortieren.
 

@@ -5,7 +5,7 @@ order: 597
 icon: package
 ---
 
-# ChestShop [!button target="blank" size="xs" variant="success" icon=":bulb:" text="Feedback geben"](https://tally.so/r/WO8gxJ)
+# ChestShop 
 
 [!badge :white_check_mark: Ingame-Tutorial verfügbar: `/warp tutorial_shops`]
 

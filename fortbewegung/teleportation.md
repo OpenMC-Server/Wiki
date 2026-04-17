@@ -5,7 +5,7 @@ order: 698
 icon: paper-airplane
 ---
 
-# Teleportation [!button target="blank" size="xs" variant="success" icon=":bulb:" text="Feedback geben"](https://tally.so/r/WO8gxJ)
+# Teleportation 
 
 Damit du schneller an dein Ziel kommst, kannst du dich auf verschiedene Arten teleportieren.
 

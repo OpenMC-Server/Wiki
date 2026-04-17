@@ -5,7 +5,7 @@ order: 499
 icon: gear
 ---
 
-# CraftBook [!button target="blank" size="xs" variant="success" icon=":bulb:" text="Feedback geben"](https://tally.so/r/WO8gxJ)
+# CraftBook 
 
 [!badge :white_check_mark: Ingame-Tutorial verfügbar: `/warp tutorial_craftbook`]
 

@@ -5,7 +5,7 @@ order: 896
 icon: ruby
 ---
 
-# Ränge [!button target="blank" size="xs" variant="success" icon=":bulb:" text="Feedback geben"](https://tally.so/r/WO8gxJ)
+# Ränge 
 Mit einem Rang kannst du viele nützliche Features und Vorteile erhalten. Hier findest du einen Überblick über die Ränge sowie eine Tabelle mit den spezifischen Vorteilen.
 
 Der VIP und VIS Rang sowie das Plus - Upgrade kann via `/shop` im Spiel erworben werden.\
