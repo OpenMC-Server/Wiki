@@ -28,6 +28,9 @@ Nun kannst du dich mit deinem neu erstellten Account einloggen und deine Statist
 
 >>>
 
+## Spielerseite öffnen
+Deine Spielerseite kannst du nach der Registrierung auch ingame mit `/planproxy player` einsehen.
+
 ## Statistiken im Spiel einsehen
 Eine begrenzte Anzahl von Statistiken kann auch im Spiel eingesehen werden.
 
