@@ -55,16 +55,7 @@ branding:
   logo: /images/Logo_Text_Schwarz.png
   logoDark: /images/Logo_Text_Weiß.png
   logoAlign: left
-  label: "IP: openmc.net | 1.21.11"
-
-
-lastUpdated:
-  date:
-    enabled: true
-    source: committer
-  by:
-    enabled: true
-    source: committer
+  label: "openmc.net • 1.21.11"
 
 # -----------------------------------------------------------------------------
 

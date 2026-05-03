@@ -11,8 +11,6 @@ icon: home
 
 :::content-center
 **Herzlich Willkommen im OpenMC Wiki :wave:**
-
-Server-IP: `openmc.net` | Version: 1.21.11
 :::
 
 [!card kicker="Erste Schritte" title="Dein Einstieg" image="/images/neulingsspawn.png" text="Erfahre, wie du am besten auf dem Server startest"](/allgemeines/einstieg.md)
