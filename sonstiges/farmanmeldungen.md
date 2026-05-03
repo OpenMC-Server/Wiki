@@ -20,21 +20,26 @@ Farmanmeldungen sind ein wichtiger Bestandteil für das Team, um die angemeldete
 - Du kannst direkt nach der Anmeldung mit dem Bau der Farm beginnen. Du musst nicht auf die Bestätigung der Anmeldung warten.
 !!!
 
+>>> Anmeldung starten
 Vor deiner Anmeldung solltest du dich bereits zu den Koordinaten begeben, wo deine Farm stehen wird.\
 Anschließend tätigst du den Befehl `/farmanmeldung`, um die Anmeldung zu beginnen.
 
-### 1. Farmkategorie auswählen
+>>> Farmkategorie auswählen
 Zu Beginn kannst du die für deine Farm vorgesehene Kategorie (Mobs, Ressourcen, Große Anlagen) auswählen.
 
-### 2. Farm auswählen
+>>> Farm auswählen
 In deiner ausgewählten Kategorie kannst du nun deine Farm auswählen, um die Anmeldung fortzuführen. Wenn du deine Farm in keiner Kategorie findest, kannst du den letzten Eintrag in der Kategorie mit dem Namen „Sonstiges“ auswählen und gerne das Team über die Farmart informieren (Farmanmeldung-Ticket im [Discord](https://discord.com/invite/ecqPF34)).
 
-### 3. Automatisierungsgrad auswählen
+>>> Automatisierungsgrad auswählen
 Zuletzt wählst du aus, ob deine Farm halbautomatisch oder vollautomatisch ist, um die Anmeldung abzuschließen. Unter welche Definition deine Farm genau fällt, kannst du dir in den [Richtlinien](https://wiki.openmc.net/sonstiges/richtlinien/#farmen) ansehen.
+>>>
 
+---
 
 ## Angemeldete Farmen anschauen
 Über den Befehl `/farmen anschauen` kannst du eine GUI öffnen, in welcher du alle deine angemeldeten Farmen inklusive Koordinaten, Welt u.v.m. anschauen kannst.
+
+---
 
 ## Farm abmelden
 Bitte wende dich per Discord-Ticket an das Team, um deine Farm abzumelden.

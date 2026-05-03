@@ -10,6 +10,8 @@ icon: graph
 
 ![](/images/plan.png)
 
+---
+
 ## Registrierung
 Um diese Funktion nutzen zu können, musst du zunächst einen Zugang zum Webinterface erstellen.
 
@@ -28,13 +30,16 @@ Nun kannst du dich mit deinem neu erstellten Account einloggen und deine Statist
 
 >>>
 
-## Spielerseite öffnen
+---
+
+## Weitere Befehle
+### Spielerseite öffnen
 Deine Spielerseite kannst du nach der Registrierung auch ingame mit `/planproxy player` einsehen.
 
-## Statistiken im Spiel einsehen
+### Statistiken im Spiel einsehen
 Eine begrenzte Anzahl von Statistiken kann auch im Spiel eingesehen werden.
 
 Nutze dazu den Befehl `/planproxy ingame`.
 
-## Account löschen
+### Account löschen
 Wenn du deinen Account löschen möchtest oder dein Passwort vergessen hast, nutze `/planproxy unregister`.
