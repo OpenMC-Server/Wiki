@@ -55,6 +55,16 @@ branding:
   logo: /images/Logo_Text_Schwarz.png
   logoDark: /images/Logo_Text_Weiß.png
   logoAlign: left
+  label: "IP: openmc.net | 1.21.11"
+
+
+lastUpdated:
+  date:
+    enabled: true
+    source: committer
+  by:
+    enabled: true
+    source: committer
 
 # -----------------------------------------------------------------------------
 
@@ -182,6 +192,7 @@ serve:
                               # Options: false (default) | true | number
     validation: optimal       # How thorough Retype is looking for file changes
                               # Options: fast | full | optimal (default)
+
 
 # -----------------------------------------------------------------------------
 
