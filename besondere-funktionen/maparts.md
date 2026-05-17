@@ -18,13 +18,13 @@ Die hier beschriebenden Informationen beziehen sich auf Funktionen, die in den k
 ## Erbauen von MapArts
 Auf OpenMC können MapArts in einer separaten Flachwelt erbaut werden. Diese Welt besitzt der Mapgröße entsprechende Grundstücke ("Plots").
 
-[!badge size="xl" text="Warp: **/warp Bauwelt-Maparts**"]
+[!badge size="xl" text=":cyclone: Zur Welt: **/warp Bauwelt-Maparts**"]
 
 ### Plot beanspruchen
 Um einen Plot zu beanspruchen und darauf zu bauen, gibt es zwei Möglichkeiten:
 
 ||| :one: Automatische Beanspruchung
-Gebe /plot auto ein, um einen freien Plot zu beanspruchen.\
+Gebe `/plot auto` ein, um einen freien Plot zu beanspruchen.\
 Es werden 500 ✪ abgezogen.
 
 **Achtung:** Wenn du ein größeres Mapart erstellen möchtest, nutze stattdessen die manuelle Beanspruchung.
@@ -54,23 +54,23 @@ Wenn du Bedrock entfernst und den Plot erst später verbindest, bleibt der Bedro
 !!!
 
 Folgende Modifizierungen stehen zur Verfügung:
-- Gras entfernen
+- **Gras entfernen**
   - Entfernt den Grasboden des Plots. Nützlich in Verbindung mit der Entfernung des Bedrocks.
   - Achtung: Die Blöcke auf Bodenhöhe werden mit Luft überschrieben.
   - Hinweis: Vor der Verwendung sollte /fly aktiviert werden.
-- Gras einfügen
+- **Gras einfügen**
   - Fügt den Grasboden des Plots wieder hinzu.
   - Achtung: Die Blöcke auf Bodenhöhe werden mit Grasblöcken überschrieben.
-- Bedrock entfernen
+- **Bedrock entfernen**
   - Entfernt den Bedrock unter dem Plot, um transparente Maparts zu ermöglichen.
   - Preis: 50 Tsd. ✪
   - Achtung: Die Blöcke unter der Bodenhöhe werden mit Luft überschrieben.
   - Hinweis: Vor der Verwendung sollte /fly aktiviert werden.
-- Plot abschirmen
+- **Plot abschirmen**
   - Errichtet eine Wand um den Plot, um dein Mapart vor fremden Blicken zu schützen.
   - Achtung: Die letzte Reihe am Rand des Plots wird Stein überschrieben.
   - Hinweis: Wenn du lediglich den Zugang zum Plot begrenzen möchtest, reicht ein Zugangsschutz mit `/plot deny *` aus.
-- Abschirmung entfernen
+- **Abschirmung entfernen**
   - Entfernt die Abschirmung um den Plot.
   - Achtung: Die letzte Reihe am Rand des Plots wird Luft überschrieben.
 
