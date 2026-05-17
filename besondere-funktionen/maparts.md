@@ -53,7 +53,7 @@ Beachte unbedingt die Hinweise vor dem Anklicken einer Modifizierung.
 Wenn du Bedrock entfernst und den Plot erst später verbindest, bleibt der Bedrock nur auf dem ursprünglichen Teil entfernt und du musst erneut 50 Tsd. ✪ bezahlen. Entferne Bedrock daher immer erst, wenn du die Plots bereits auf die gewünschte Größe verbunden hast. 
 !!!
 
-Folgende Modifizierungen stehen zur Verfügung:
+==- Verfügbare Modifizierungen
 - **Gras entfernen**
   - Entfernt den Grasboden des Plots. Nützlich in Verbindung mit der Entfernung des Bedrocks.
   - Achtung: Die Blöcke auf Bodenhöhe werden mit Luft überschrieben.
@@ -73,9 +73,10 @@ Folgende Modifizierungen stehen zur Verfügung:
 - **Abschirmung entfernen**
   - Entfernt die Abschirmung um den Plot.
   - Achtung: Die letzte Reihe am Rand des Plots wird Luft überschrieben.
+==-
 
 ### Zugang begrenzen
-Um zu verhindern, dass andere Spieler eine Karte von deinem MapArt erstellen können, kannst du einen Zugangsschutz zum Plot mit `/plot deny *` festlegen. Dieser Schutz kann sich auch nur auf einzelne Spieler beziehen. Um den Schutz wieder aufzuheben, nutze `/plot remove *`
+Um zu verhindern, dass andere Spieler eine Karte von deinem MapArt erstellen können, kannst du einen Zugangsschutz zum Plot mit `/plot deny *` festlegen. Dieser Schutz kann sich auch nur auf einzelne Spieler beziehen. Um den Schutz wieder aufzuheben, nutze `/plot remove *`.
 
 ### Rechte vergeben
 TODO
