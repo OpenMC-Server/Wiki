@@ -20,6 +20,10 @@ Auf OpenMC können MapArts in einer separaten Flachwelt erbaut werden. Diese Wel
 
 [!badge size="xl" text=":cyclone: Zur Welt: **/warp Bauwelt-Maparts**"]
 
+Jeder Plot ist 132x132 Blöcke groß: 128x128 Blöcke für das MapArt sowie zwei Blöcke als Puffer für die nördliche Reihe sowie die optionale Abschirmung.
+
+TODO: Regeln Mapart-Welt
+
 ### Plot beanspruchen
 Um einen Plot zu beanspruchen und darauf zu bauen, gibt es zwei Möglichkeiten:
 
@@ -27,10 +31,12 @@ Um einen Plot zu beanspruchen und darauf zu bauen, gibt es zwei Möglichkeiten:
 Gebe `/plot auto` ein, um einen freien Plot zu beanspruchen.\
 Es werden 500 ✪ abgezogen.
 
-**Achtung:** Wenn du ein größeres Mapart erstellen möchtest, nutze stattdessen die manuelle Beanspruchung.
+**Achtung:** Wenn du ein größeres MapArt erstellen möchtest, nutze stattdessen die manuelle Beanspruchung.
 ||| :two: Manuelle Beanspruchung
 Fliege zu einem freien Plot und gebe `/plot claim` ein.\
 Es werden 500 ✪ abgezogen.
+
+**Tipp:** Du kannst die [Basis-Livemap](https://basicmap.openmc.net/?world=maparts&renderer=basic&zoom=0&x=-129&z=-129) nutzen, um einen passenden Plot zu finden.
 |||
 
 ### Plots verbinden
@@ -38,22 +44,29 @@ Du kannst bis zu neun Plots miteinander verbinden, um bis zu 5x5 Maps umfassende
 
 Erwerbe dazu zuerst zwei oder mehr nebeneinanderliegende Plots. Stelle dich anschließend auf einen Plot, schaue in Richtung des zweiten Plots und gebe `/plot merge` ein. Es werden 500 ✪ abgezogen.
 
-Die verbundene Fläche kann auch für mehrere kleine Maparts genutzt werden: Das verbinden von zwei nebeneinanderliegenden Plots erlaubt beispielsweise das Erbauen von drei einzelnen Maparts.
+==- Beispiel
+Die verbundene Fläche kann für ein großes oder auch für mehrere kleine MapArts genutzt werden.
+||| Vorher
+Vier einzelne Plots für vier MapArts.
+![](/images/merge1.png)
+||| Nachher
+Ein großes Plot für ein MapArt der Größe 3x3 oder mehrere kleinere MapArts.
+![](/images/merge2.png)
+|||
+==-
+
+Solltest du die Verbindung aufheben wollen, erstelle bitte ein Support-Ticket. Die Kosten für die Verlinkung werden in diesem Fall nicht erstattet.
 
 ### Plot modifizieren
-Der Plot kann modifiziert werden, um das Aussehen des Maparts zu verändern oder um die Sicht auf das Mapart einzuschränken.
+Der Plot kann modifiziert werden, um das Aussehen des MapArts zu verändern oder um die Sicht auf das MapArt einzuschränken.
 
 Nutze den Befehl `/plot components`, um das Menü zu öffnen.
 
-!!!danger Achtung!
-Beachte unbedingt die Hinweise vor dem Anklicken einer Modifizierung.
-!!!
-
-!!!tip Tipp zur Bedrock-Entfernung auf verbundenen Plots
+==- Verfügbare Modifizierungen
+!!!tip Bedrock-Entfernung auf verbundenen Plots
 Wenn du Bedrock entfernst und den Plot erst später verbindest, bleibt der Bedrock nur auf dem ursprünglichen Teil entfernt und du musst erneut 50 Tsd. ✪ bezahlen. Entferne Bedrock daher immer erst, wenn du die Plots bereits auf die gewünschte Größe verbunden hast. 
 !!!
 
-==- Verfügbare Modifizierungen
 - **Gras entfernen**
   - Entfernt den Grasboden des Plots. Nützlich in Verbindung mit der Entfernung des Bedrocks.
   - Achtung: Die Blöcke auf Bodenhöhe werden mit Luft überschrieben.
@@ -79,7 +92,30 @@ Wenn du Bedrock entfernst und den Plot erst später verbindest, bleibt der Bedro
 Um zu verhindern, dass andere Spieler eine Karte von deinem MapArt erstellen können, kannst du einen Zugangsschutz zum Plot mit `/plot deny *` festlegen. Dieser Schutz kann sich auch nur auf einzelne Spieler beziehen. Um den Schutz wieder aufzuheben, nutze `/plot remove *`.
 
 ### Rechte vergeben
+#### Spieler adden
+Spieler, welche auf einem Plot mit `/plot add <spieler>` geaddet wurden, können nur auf dem Plot bauen, wenn der Plotinhaber in der Bauwelt online ist
+
+#### Spieler trusten
+Spieler, welche auf einem Plot mit `/plot trust <spieler>` getrustet wurden, können jederzeit auf dem Plot bauen.
+
+#### Rechte entfernen
+Mit dem Befehl `/plot remove <spieler>` kannst du die Rechte eines Spielers entfernen.
+
+### Teleportation
+Mithilfe von `/plot list mine` kannst du eine Liste deiner Plots anzeigen und dich per Klick direkt teleportieren.
+
+Nutze alternativ `/plot home <ID/Alias>` oder `/plot visit <ID/Alias>`, um dich zu einem deiner Plots zu teleportieren.
+
+Den Homepunkt auf einem Plot kannst du mit `/plot sethome` an deine aktuelle Position festlegen.
+
+### Flags festlegen
 TODO
+
+### Plotname und Beschreibung festlegen
+Mit `/plot alias set <text>` kannst du den Namen des Plots festlegen. `/plot alias remove <text>` entfernt diesen wieder.
+
+Mit `/plot desc <beschreibung>` kannst du die Beschreibung des Plots festlegen.
+
 
 ---
 
