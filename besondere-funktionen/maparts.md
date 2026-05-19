@@ -47,7 +47,7 @@ Erwerbe dazu zuerst zwei oder mehr nebeneinanderliegende Plots. Stelle dich ansc
 ==- Beispiel
 Die verbundene Fläche kann für ein großes oder auch für mehrere kleine MapArts genutzt werden.
 ||| Vorher
-Vier einzelne Plots für vier MapArts.
+Vier einzelne Plots für vier 1x1 große MapArts.
 ![](/images/merge1.png)
 ||| Nachher
 Ein großes Plot für ein MapArt der Größe 3x3 oder mehrere kleinere MapArts.
@@ -93,7 +93,7 @@ Um zu verhindern, dass andere Spieler eine Karte von deinem MapArt erstellen kö
 
 ### Rechte vergeben
 #### Spieler adden
-Spieler, welche auf einem Plot mit `/plot add <spieler>` geaddet wurden, können nur auf dem Plot bauen, wenn der Plotinhaber in der Bauwelt online ist
+Spieler, welche auf einem Plot mit `/plot add <spieler>` geaddet wurden, können nur auf dem Plot bauen, wenn der Plotinhaber in der Bauwelt online ist.
 
 #### Spieler trusten
 Spieler, welche auf einem Plot mit `/plot trust <spieler>` getrustet wurden, können jederzeit auf dem Plot bauen.
