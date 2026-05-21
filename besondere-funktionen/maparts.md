@@ -22,7 +22,13 @@ Auf OpenMC können MapArts in einer separaten Flachwelt erbaut werden. Diese Wel
 
 Jeder Plot ist 132x132 Blöcke groß: 128x128 Blöcke für das MapArt sowie zwei Blöcke als Puffer für die nördliche Reihe sowie die optionale Abschirmung.
 
-TODO: Regeln Mapart-Welt
+Aktuell kannst du maximal 30 Plots gleichzeitig beanspruchen. Zukünftig kannst du die maximale Anzahl erhöhen, diese Möglichkeit wird demnächst zur Verfügung stehen.
+
+!!!success Richtlinien für die Nutzung der Mapart-Welt
+- Die Plots in der MapArt-Welt dürfen ausschließlich für MapArts genutzt werden. Es dürfen nur Items, die für den MapArt-Bau benötigt werden, dort gelagert werden.
+- Plot-Modifikationen sind aus Gründen der Performance sparsam zu verwenden. Das zu häufige Aktivieren und Deaktivieren von Modifikationen ist daher zu unterlassen.
+- Blöcke, welche durch die Plot-Modifikationen auf dem Plot erscheinen, dürfen nicht abgefarmt werden.
+!!!
 
 ### Plot beanspruchen
 Um einen Plot zu beanspruchen und darauf zu bauen, gibt es zwei Möglichkeiten:
@@ -80,12 +86,12 @@ Wenn du Bedrock entfernst und den Plot erst später verbindest, bleibt der Bedro
   - Achtung: Die Blöcke unter der Bodenhöhe werden mit Luft überschrieben.
   - Hinweis: Vor der Verwendung sollte /fly aktiviert werden.
 - **Plot abschirmen**
-  - Errichtet eine Wand um den Plot, um dein Mapart vor fremden Blicken zu schützen.
-  - Achtung: Die letzte Reihe am Rand des Plots wird Stein überschrieben.
+  - Errichtet eine Wand mit Dach um den Plot, um dein Mapart vor fremden Blicken zu schützen.
+  - Achtung: Die letzte Reihe am Rand des Plots wird mit Stein überschrieben.
   - Hinweis: Wenn du lediglich den Zugang zum Plot begrenzen möchtest, reicht ein Zugangsschutz mit `/plot deny *` aus.
 - **Abschirmung entfernen**
   - Entfernt die Abschirmung um den Plot.
-  - Achtung: Die letzte Reihe am Rand des Plots wird Luft überschrieben.
+  - Achtung: Die letzte Reihe am Rand des Plots wird mit Luft überschrieben.
 ==-
 
 ### Zugang begrenzen
@@ -109,7 +115,21 @@ Nutze alternativ `/plot home <ID/Alias>` oder `/plot visit <ID/Alias>`, um dich 
 Den Homepunkt auf einem Plot kannst du mit `/plot sethome` an deine aktuelle Position festlegen.
 
 ### Flags festlegen
-TODO
+Du kannst verschiedene Flags auf dem Plot festlegen. Die Flags sind unabhängig von den ClaimFlags und ohne Freischaltung nutzbar.
+
+Flag          | Beschreibung                  | Standard
+:---:         | :---:                         | :---:
+coral-dry     | Trocknen von Korallen         | False
+crop-grow     | Wachsen von Pflanzen          | True
+copper-oxide  | Oxidieren von Kupfer          | False
+grass-grow    | Wachsen von Gras              | True
+ice-melt      | Schmelzen von Eis             | False
+(leaf-decay)  | Verfall von Blättern          | Dauerhaft in der Mapart-Welt deaktiviert
+mycel-grow    | Wachsen von Myzel             | True
+snow-melt     | Schmelzen von Schnee          | True
+soil-dry      | Austrocknen von Erde          | False
+vine-grow     | Wachsen von Ranken            | True
+
 
 ### Plotname und Beschreibung festlegen
 Mit `/plot alias set <text>` kannst du den Namen des Plots festlegen. `/plot alias remove <text>` entfernt diesen wieder.
