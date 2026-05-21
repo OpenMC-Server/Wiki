@@ -49,28 +49,28 @@ Eventeinrichtung
 
 ### Moderatoren
 ||| Cupcake7506 [!badge variant="success" text="seit 2021 im Team"]
--![](https://mc-api.io/render/full/Cupcake7506/java?size=200)
+-![](https://mc-api.io/render/full/Cupcake7506/java?size=180)
 **Aufgaben:**
 
  Moderation\
  Spieler-support\
  Wiki
 ||| Blechgecco [!badge variant="success" text="seit 2023 im Team"]
--![](https://mc-api.io/render/full/Blechgecco/java?size=200)
+-![](https://mc-api.io/render/full/Blechgecco/java?size=180)
 **Aufgaben:**
 
  Moderation\
  Spieler-support\
  Farmen
 ||| Adrxxian [!badge variant="success" text="seit 2025 im Team"]
--![](https://mc-api.io/render/full/Adrxxian/java?size=200)
+-![](https://mc-api.io/render/full/Adrxxian/java?size=180)
 **Aufgaben:**
 
  Moderation\
  Spieler-support\
  Claim-vergabe
 ||| Aleischa [!badge variant="success" text="seit 2025 im Team"]
--![](https://mc-api.io/render/full/Aleischa/java?size=200)
+-![](https://mc-api.io/render/full/Aleischa/java?size=180)
 **Aufgaben:**
 
  Moderation\
@@ -107,12 +107,12 @@ Eventeinrichtung
 
  Spielersupport
 ||| Vielleicht Du?
--![](https://mc-api.io/render/full/cool_klukXD/java?size=200)
+-![](https://mc-api.io/render/full/ItzMeShadan/java?size=200)
 **Wir suchen neue Supporter.**
 
  Bewirb dich auf Discord!
 ||| Vielleicht Du?
--![](https://mc-api.io/render/full/cool_klukXD/java?size=200)
+-![](https://mc-api.io/render/full/ItzMeShadan/java?size=200)
 **Wir suchen neue Supporter.**
 
  Bewirb dich auf Discord!
