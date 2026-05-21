@@ -22,7 +22,7 @@ Serverleitung\
 Backend\
 Eventeinrichtung
 ||| flowflower [!badge variant="success" text="seit 2019 im Team"]
--![|95](https://starlightskins.lunareclipse.studio/render/ultimate/46b48f65-05a5-4402-af0f-de03c4694071/full)
+-![](https://mc-api.io/render/full/flowflower/java?size=200)
 **Aufgaben:**
 
  Serverleitung\
@@ -32,14 +32,14 @@ Eventeinrichtung
 
 ### Administratoren
 ||| LPBoy_HD [!badge variant="success" text="seit 2020 im Team"]
--![|110](https://starlightskins.lunareclipse.studio/render/ultimate/d5cb42c9-537a-4090-9bd3-a0beedefad5f/full)
+-![](https://mc-api.io/render/full/LPBoy_HD/java?size=200)
 **Aufgaben:**
 
  Interne Organisation\
  Backend\
  Entwicklung
 ||| Schmerzfrequenz [!badge variant="success" text="seit 2023 im Team"]
--![|100](https://starlightskins.lunareclipse.studio/render/ultimate/57960b74-b290-4de9-879b-017f88f961b6/full)
+-![](https://mc-api.io/render/full/Schmerzfrequenz/java?size=200)
 **Aufgaben:**
 
  Supportleitung\
@@ -49,28 +49,28 @@ Eventeinrichtung
 
 ### Moderatoren
 ||| Cupcake7506 [!badge variant="success" text="seit 2021 im Team"]
--![|100](https://starlightskins.lunareclipse.studio/render/ultimate/82cb08fa-e6d3-4049-aa97-0a014ae89402/full)
+-![](https://mc-api.io/render/full/Cupcake7506/java?size=200)
 **Aufgaben:**
 
  Moderation\
  Spieler-support\
  Wiki
 ||| Blechgecco [!badge variant="success" text="seit 2023 im Team"]
--![|100](https://starlightskins.lunareclipse.studio/render/ultimate/9cd9e4cf-f644-4cb7-a48f-6f5c52f8cf24/full)
+-![](https://mc-api.io/render/full/Blechgecco/java?size=200)
 **Aufgaben:**
 
  Moderation\
  Spieler-support\
  Farmen
 ||| Adrxxian [!badge variant="success" text="seit 2025 im Team"]
--![|110](https://starlightskins.lunareclipse.studio/render/ultimate/f063642c-3159-43af-8fa8-426b9e8c1a08/full)
+-![](https://mc-api.io/render/full/Adrxxian/java?size=200)
 **Aufgaben:**
 
  Moderation\
  Spieler-support\
  Claim-vergabe
 ||| Aleischa [!badge variant="success" text="seit 2025 im Team"]
--![|100](https://starlightskins.lunareclipse.studio/render/ultimate/192876d1-2845-47a2-af33-fff31339a413/full)
+-![](https://mc-api.io/render/full/Aleischa/java?size=200)
 **Aufgaben:**
 
  Moderation\
@@ -80,19 +80,19 @@ Eventeinrichtung
 
 ### Eventler
 ||| Useflo [!badge variant="success" text="seit 2024 im Team"]
--![|105](https://starlightskins.lunareclipse.studio/render/ultimate/416ad43d-17eb-4c59-a912-e46684e23b31/full)
+-![](https://mc-api.io/render/full/Useflo/java?size=200)
 **Aufgaben:**
 
  Event-Entwicklung\
  Erbauen von Maps
 ||| Polarfoxine [!badge variant="success" text="seit 2024 im Team"]
--![|100](https://starlightskins.lunareclipse.studio/render/ultimate/7e0446ca-0b0f-4574-879b-48b2bb627aa8/full)
+-![](https://mc-api.io/render/full/Polarfoxine/java?size=200)
 **Aufgaben:**
 
  Event-Entwicklung\
  Erbauen von Maps
 ||| Krempii [!badge variant="success" text="seit 2024 im Team"]
--![|110](https://starlightskins.lunareclipse.studio/render/ultimate/3f5a8ca1-3d2c-4cfb-8d98-b54cd98ba718/full)
+-![](https://mc-api.io/render/full/Krempii/java?size=200)
 **Aufgaben:**
 
  Event-Entwicklung\
@@ -102,12 +102,17 @@ Eventeinrichtung
 
 ### Supporter
 ||| Thunder492 [!badge variant="success" text="seit 2025 im Team"]
--![|110](https://starlightskins.lunareclipse.studio/render/ultimate/774eb3de-3881-42c1-a772-8aada9135ac7/full)
+-![](https://mc-api.io/render/full/Thunder492/java?size=200)
 **Aufgaben:**
 
  Spielersupport
 ||| Vielleicht Du?
--![|110](https://starlightskins.lunareclipse.studio/render/ultimate/d9a3b9b6-f6ae-497f-af1e-36b544d54723/full)
+-![](https://mc-api.io/render/full/cool_klukXD/java?size=200)
+**Wir suchen neue Supporter.**
+
+ Bewirb dich auf Discord!
+||| Vielleicht Du?
+-![](https://mc-api.io/render/full/cool_klukXD/java?size=200)
 **Wir suchen neue Supporter.**
 
  Bewirb dich auf Discord!
