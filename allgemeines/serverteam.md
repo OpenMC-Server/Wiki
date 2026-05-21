@@ -15,7 +15,7 @@ Im folgenden findest du alle aktiven Teammitglieder und ihre Aufgabenbereiche.
 
 ### Owner
 ||| kev2k2 [!badge variant="success" text="seit 2019 im Team"]
--![|100](https://starlightskins.lunareclipse.studio/render/ultimate/4ff1d3ce-ffd6-44c9-8dfe-d04255162300/full)
+-![](https://mc-api.io/render/full/kev2k2/java?size=200)
 **Aufgaben:**
 
 Serverleitung\
