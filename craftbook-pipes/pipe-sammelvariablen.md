@@ -373,7 +373,10 @@ Um nach einer spezifischen Sammelvariable zu suchen, kannst du die Suche deines 
 *kelp, dried_kelp, dried_kelp_block, sea_pickle, seagrass, small_dripleaf, big_dripleaf, glow_lichen*
 
 [!badge variant="secondary" text="**%sn%**"] **Erde + Variationen**\
-*dirt, coarse_dirt, grass_block, podzol, mycelium, moss_block, moss_carpet, rooted_dirt*
+*dirt, coarse_dirt, grass_block, podzol, mycelium, moss_block, moss_carpet, rooted_dirt, pale_moss_block, pale_moss_carpet*
+
+[!badge variant="secondary" text="**%wg%**"] **Alle Moosvariationen**\
+*moss_block, moss_carpet, pale_moss_block, pale_moss_carpet*
 
 [!badge variant="secondary" text="**%aaa%**"] **Alle Schlammerzeugnisse**\
 *mud, muddy_mangrove_roots, mud_brick_slab, packed_mud, mud_brick, mud_brick_stairs, mud_brick_wall*
