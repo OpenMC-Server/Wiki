@@ -980,7 +980,7 @@ Friendly    | Dein Pet greift keine Mobs an, egal ob es selbst angegriffen wird.
 Normal      | Dein Pet greift nur an, wenn du/es von einem Gegner getroffen wirst/wird.
 Aggressive  | Dein Pet greift alles im Umkreis von 15 Blöcken an (Mobs sowie Spieler).
 Farm        | Dein Pet greift alle Mobs im Umkreis von 15 Blöcken um dich an.
-Raid        | Dein Pet greift nur feindliche Mobs an (Zombies, Skelette, etc) und keine Pets anderer Personen oder Villager.
+Raid        | Dein Pet greift wie bei `Normal` an, dafür jedoch keine Pets und andere Personen oder Villager.
 Duel        | Dein Pet greift Pets anderer Spieler an, deren Zustand auch auf "duel" gestellt ist (im Umkreis von 5 Blöcken).
 
 ---
