@@ -1,22 +1,17 @@
 ---
-label: MapArts
+label: Maparts
 layout: default
 order: 394
 icon: image
 
 ---
 
-# MapArts
+# Maparts
 
-Mit MapArts kannst du die gestalterischen Möglichkeiten in Minecraft erweitern und deiner Kreativität freien Lauf lassen.
+Mit Maparts kannst du die gestalterischen Möglichkeiten in Minecraft erweitern und deiner Kreativität freien Lauf lassen.
 
-!!!base Zukünftiges Feature
-Seite in Arbeit.\
-Die hier beschriebenden Informationen beziehen sich auf Funktionen, die in den kommenden Tagen veröffentlicht werden.
-!!!
-
-## Erbauen von MapArts
-Auf OpenMC können MapArts in einer separaten Flachwelt erbaut werden. Diese Welt besitzt der Mapgröße entsprechende Grundstücke ("Plots").
+## Erbauen von Maparts
+Auf OpenMC können Maparts in einer separaten Flachwelt erbaut werden. Diese Welt besitzt der Mapgröße entsprechende Grundstücke ("Plots").
 
 [!badge size="xl" text=":cyclone: Zur Welt: **/warp Bauwelt-Maparts**"]
 
@@ -25,7 +20,7 @@ Jeder Plot ist 132x132 Blöcke groß: 128x128 Blöcke für das MapArt sowie zwei
 Aktuell kannst du maximal 30 Plots gleichzeitig beanspruchen. Zukünftig kannst du die maximale Anzahl erhöhen, diese Möglichkeit wird demnächst zur Verfügung stehen.
 
 !!!success Richtlinien für die Nutzung der Mapart-Welt
-- Die Plots in der MapArt-Welt dürfen ausschließlich für MapArts genutzt werden. Es dürfen nur Items, die für den MapArt-Bau benötigt werden, dort gelagert werden.
+- Die Plots in der MapArt-Welt dürfen ausschließlich für Maparts genutzt werden. Es dürfen nur Items, die für den MapArt-Bau benötigt werden, dort gelagert werden.
 - Plot-Modifikationen sind aus Gründen der Performance sparsam zu verwenden. Das zu häufige Aktivieren und Deaktivieren von Modifikationen ist daher zu unterlassen.
 - Blöcke, welche durch die Plot-Modifikationen auf dem Plot erscheinen, dürfen nicht abgefarmt werden.
 !!!
@@ -42,21 +37,21 @@ Es werden 500 ✪ abgezogen.
 Fliege zu einem freien Plot und gebe `/plot claim` ein.\
 Es werden 500 ✪ abgezogen.
 
-**Tipp:** Du kannst die [Basis-Livemap](https://basicmap.openmc.net/?world=maparts&renderer=basic&zoom=0&x=-129&z=-129) nutzen, um einen passenden Plot zu finden.
+**Tipp:** Du kannst die [Basis-Livemap](https://basicmap.openmc.net/?world=Maparts&renderer=basic&zoom=0&x=-129&z=-129) nutzen, um einen passenden Plot zu finden.
 |||
 
 ### Plots verbinden
-Du kannst bis zu neun Plots miteinander verbinden, um bis zu 5x5 Maps umfassende MapArts zu erstellen.
+Du kannst bis zu neun Plots miteinander verbinden, um bis zu 5x5 Maps umfassende Maparts zu erstellen.
 
 Erwerbe dazu zuerst zwei oder mehr nebeneinanderliegende Plots. Stelle dich anschließend auf einen Plot, schaue in Richtung des zweiten Plots und gebe `/plot merge` ein. Es werden 500 ✪ abgezogen.
 
 ==- Beispiel
-Die verbundene Fläche kann für ein großes oder auch für mehrere kleine MapArts genutzt werden.
+Die verbundene Fläche kann für ein großes oder auch für mehrere kleine Maparts genutzt werden.
 ||| Vorher
-Vier einzelne Plots für vier 1x1 große MapArts.
+Vier einzelne Plots für vier 1x1 große Maparts.
 ![](/images/merge1.png)
 ||| Nachher
-Ein großes Plot für ein MapArt der Größe 3x3 oder mehrere kleinere MapArts.
+Ein großes Plot für ein MapArt der Größe 3x3 oder mehrere kleinere Maparts.
 ![](/images/merge2.png)
 |||
 ==-
@@ -64,7 +59,7 @@ Ein großes Plot für ein MapArt der Größe 3x3 oder mehrere kleinere MapArts.
 Solltest du die Verbindung aufheben wollen, erstelle bitte ein Support-Ticket. Die Kosten für die Verlinkung werden in diesem Fall nicht erstattet.
 
 ### Plot modifizieren
-Der Plot kann modifiziert werden, um das Aussehen des MapArts zu verändern oder um die Sicht auf das MapArt einzuschränken.
+Der Plot kann modifiziert werden, um das Aussehen des Maparts zu verändern oder um die Sicht auf das MapArt einzuschränken.
 
 Nutze den Befehl `/plot components`, um das Menü zu öffnen.
 
@@ -117,6 +112,8 @@ Den Homepunkt auf einem Plot kannst du mit `/plot sethome` an deine aktuelle Pos
 ### Flags festlegen
 Du kannst verschiedene Flags auf dem Plot festlegen. Die Flags sind unabhängig von den ClaimFlags und ohne Freischaltung nutzbar.
 
+Nutze den Befehl `/plot flag add <flag> <true/false>` zum aktivieren oder deaktivieren.
+
 Flag          | Beschreibung                  | Standard
 :---:         | :---:                         | :---:
 coral-dry     | Trocknen von Korallen         | False
@@ -136,19 +133,18 @@ Mit `/plot alias set <text>` kannst du den Namen des Plots festlegen. `/plot ali
 
 Mit `/plot desc <beschreibung>` kannst du die Beschreibung des Plots festlegen.
 
-
 ---
 
-## NoMapMaking ClaimFlag (bestehende MapArts in der Bauwelt)
+## NoMapMaking ClaimFlag (bestehende Maparts in der Bauwelt)
 Um zu verhindern, dass andere Spieler eine Karte von deinem MapArt erstellen können, kannst du die NoMapMaking ClaimFlag aktivieren. Nutze dazu den Befehl `/setclaimflag nomapmaking` auf deinem Claim.
 
 ---
 
-## MapArts patentieren
-Mit dem Befehl `/mapart` kannst du ein Menü aufrufen, in welchem du deine MapArts patentieren kannst. Dort kannst du die Karte einfach in das Feld auf der linken Seite legen und die gewünschten Funktionen auswählen. Wenn eine Funktion ausgewählt wurde, klicke auf “[Bestätigen]”  und die gewünschte Funktion wird für einen kleinen Geldbetrag aktiviert:
+## Maparts patentieren
+Mit dem Befehl `/mapart` kannst du ein Menü aufrufen, in welchem du deine Maparts patentieren kannst. Dort kannst du die Karte einfach in das Feld auf der linken Seite legen und die gewünschten Funktionen auswählen. Wenn eine Funktion ausgewählt wurde, klicke auf “[Bestätigen]”  und die gewünschte Funktion wird für einen kleinen Geldbetrag aktiviert:
 
 ### Replizierbarkeit
-Die Funktion “Replizieren verbieten” sorgt dafür, dass MapArts nicht mehr durch einen Kartentisch oder eine Werkbank kopiert werden können. Um diese Funktion zu aktivieren, benötigst du 2000 ✪.
+Die Funktion “Replizieren verbieten” sorgt dafür, dass Maparts nicht mehr durch einen Kartentisch oder eine Werkbank kopiert werden können. Um diese Funktion zu aktivieren, benötigst du 2000 ✪.
 
 ### Nutzbarkeit
 Die Funktion “Nutzung verbieten” sorgt dafür, dass Karten nicht mehr in Bilderrahmen gelegt werden können. Der Ersteller kann jedoch die Karte weiterhin in Rahmen legen, andere jedoch können die Karte nicht entfernen und drehen. Um diese Funktion zu aktivieren, benötigst du 1000 ✪.
@@ -159,5 +155,5 @@ Wird keine der Optionen aktiviert, wird das MapArt dennoch mit dem Namen des Ers
 
 Als Ersteller eines Patentes für die Map bist du in der Lage, die Verwendungszwecke der eigenen Maps besser zu steuern als bei herkömmlichen Methoden. Zudem brauchst du dein MapArt jeweils nur ein Mal zu patentieren, da du als Ersteller vom Patentschutz ausgeschlossen ist und somit mehrere Replikate mit dem Schutz erzeugen kannst.
 
-### Informationen zu MapArts anzeigen
-Mit dem `/mapinfo` Befehl kannst du Informationen zu bereits platzierten MapArts aufrufen, indem du diese ansiehst und den Befehl eingibst.
+### Informationen zu Maparts anzeigen
+Mit dem `/mapinfo` Befehl kannst du Informationen zu bereits platzierten Maparts aufrufen, indem du diese ansiehst und den Befehl eingibst.
