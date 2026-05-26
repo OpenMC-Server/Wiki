@@ -80,11 +80,11 @@ Wenn du Bedrock entfernst und den Plot erst später verbindest, bleibt der Bedro
   - Preis: 50 Tsd. ✪
   - Achtung: Die Blöcke unter der Bodenhöhe werden mit Luft überschrieben.
   - Hinweis: Vor der Verwendung sollte /fly aktiviert werden.
-- **Plot abschirmen**
+- **Sichtschutz aktivieren**
   - Errichtet eine Wand mit Dach um den Plot, um dein Mapart vor fremden Blicken zu schützen.
   - Achtung: Die letzte Reihe am Rand des Plots wird mit Stein überschrieben.
   - Hinweis: Wenn du lediglich den Zugang zum Plot begrenzen möchtest, reicht ein Zugangsschutz mit `/plot deny *` aus.
-- **Abschirmung entfernen**
+- **Sichtschutz deaktivieren**
   - Entfernt die Abschirmung um den Plot.
   - Achtung: Die letzte Reihe am Rand des Plots wird mit Luft überschrieben.
 ==-
