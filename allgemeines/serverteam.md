@@ -106,16 +106,16 @@ Eventeinrichtung
 **Aufgaben:**
 
  Spielersupport
-||| Vielleicht Du?
--![](https://mc-api.io/render/full/ItzMeShadan/java?size=200)
-**Wir suchen neue Supporter.**
+||| Brausefisch [!badge variant="success" text="seit 2026 im Team"]
+-![](https://mc-api.io/render/full/Brausefisch/java?size=200)
+**Aufgaben:**
 
- Bewirb dich auf Discord!
-||| Vielleicht Du?
--![](https://mc-api.io/render/full/ItzMeShadan/java?size=200)
-**Wir suchen neue Supporter.**
+ Spielersupport
+||| DoctorSetzling [!badge variant="success" text="seit 2026 im Team"]
+-![](https://mc-api.io/render/full/DoctorSetzling/java?size=200)
+**Aufgaben:**
 
- Bewirb dich auf Discord!
+ Spielersupport
 |||
 
 ---
