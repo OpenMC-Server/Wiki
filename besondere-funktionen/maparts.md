@@ -15,6 +15,8 @@ Auf OpenMC können Maparts in einer separaten Flachwelt erbaut werden. Diese Wel
 
 [!badge size="xl" text=":cyclone: Zur Welt: **/warp Bauwelt-Maparts**"]
 
+:lock: **Maparts sind in dieser Welt automatisch geschützt. Maps können nur auf eigenen Plots erstellt werden.**
+
 Jeder Plot ist 132x132 Blöcke groß: 128x128 Blöcke für das MapArt sowie zwei Blöcke als Puffer für die nördliche Reihe sowie die optionale Abschirmung.
 
 Aktuell kannst du maximal 30 Plots gleichzeitig beanspruchen. Zukünftig kannst du die maximale Anzahl erhöhen, diese Möglichkeit wird demnächst zur Verfügung stehen.
@@ -39,6 +41,8 @@ Es werden 500 ✪ abgezogen.
 
 **Tipp:** Du kannst die [Basis-Livemap](https://basicmap.openmc.net/?world=Maparts&renderer=basic&zoom=0&x=-129&z=-129) nutzen, um einen passenden Plot zu finden.
 |||
+
+Solltest du ein Plot löschen wollen, erstelle bitte ein Support-Ticket. Löschungen werden nur in Ausnahmefällen, und unter der Voraussetzung, dass keine Maps von dem Plot erstellt wurden, durchgeführt. Die Kosten für die Beanspruchung werden in diesem Fall nicht erstattet.
 
 ### Plots verbinden
 Du kannst bis zu neun Plots miteinander verbinden, um bis zu 5x5 Maps umfassende Maparts zu erstellen.
@@ -68,13 +72,16 @@ Nutze den Befehl `/plot components`, um das Menü zu öffnen.
 Wenn du Bedrock entfernst und den Plot erst später verbindest, bleibt der Bedrock nur auf dem ursprünglichen Teil entfernt und du musst erneut 50 Tsd. ✪ bezahlen. Entferne Bedrock daher immer erst, wenn du die Plots bereits auf die gewünschte Größe verbunden hast. 
 !!!
 
-- **Gras entfernen**
-  - Entfernt den Grasboden des Plots. Nützlich in Verbindung mit der Entfernung des Bedrocks.
+- **Boden entfernen**
+  - Entfernt den Boden des Plots. Nützlich in Verbindung mit der Entfernung des Bedrocks.
   - Achtung: Die Blöcke auf Bodenhöhe werden mit Luft überschrieben.
   - Hinweis: Vor der Verwendung sollte /fly aktiviert werden.
 - **Gras einfügen**
-  - Fügt den Grasboden des Plots wieder hinzu.
+  - Fügt Grasboden auf der Bodenhöhe hinzu.
   - Achtung: Die Blöcke auf Bodenhöhe werden mit Grasblöcken überschrieben.
+- **Barrieren einfügen**
+  - Fügt Barrieren auf der Bodenhöhe hinzu. Nützlich in Verbindung mit der Entfernung des Bedrocks.
+  - Achtung: Die Blöcke auf Bodenhöhe werden mit Barrieren überschrieben.
 - **Bedrock entfernen**
   - Entfernt den Bedrock unter dem Plot, um transparente Maparts zu ermöglichen.
   - Preis: 50 Tsd. ✪
@@ -89,10 +96,10 @@ Wenn du Bedrock entfernst und den Plot erst später verbindest, bleibt der Bedro
   - Achtung: Die letzte Reihe am Rand des Plots wird mit Luft überschrieben.
 ==-
 
-### Zugang begrenzen
-Um zu verhindern, dass andere Spieler eine Karte von deinem MapArt erstellen können, kannst du einen Zugangsschutz zum Plot mit `/plot deny *` festlegen. Dieser Schutz kann sich auch nur auf einzelne Spieler beziehen. Um den Schutz wieder aufzuheben, nutze `/plot remove *`.
+### Rechte konfigurieren
+#### Zugang begrenzen
+Du kannst einen Zugangsschutz zum Plot mit `/plot deny <spieler>` oder `/plot deny *` für alle Spieler festlegen.
 
-### Rechte vergeben
 #### Spieler adden
 Spieler, welche auf einem Plot mit `/plot add <spieler>` geaddet wurden, können nur auf dem Plot bauen, wenn der Plotinhaber in der Bauwelt online ist.
 
@@ -100,7 +107,7 @@ Spieler, welche auf einem Plot mit `/plot add <spieler>` geaddet wurden, können
 Spieler, welche auf einem Plot mit `/plot trust <spieler>` getrustet wurden, können jederzeit auf dem Plot bauen.
 
 #### Rechte entfernen
-Mit dem Befehl `/plot remove <spieler>` kannst du die Rechte eines Spielers entfernen.
+Mit dem Befehl `/plot remove <spieler>` kannst du die Rechte eines Spielers oder eine Zugangsbegrenzung entfernen.
 
 ### Teleportation
 Mithilfe von `/plot list mine` kannst du eine Liste deiner Plots anzeigen und dich per Klick direkt teleportieren.
