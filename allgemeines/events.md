@@ -12,9 +12,9 @@ Auf dieser Seite findest du Erläuterungen zu den Events, die regelmäßig auf O
 
 ## Bauevent
 !!! Aktuelles Bauevent:
-*Thema:* Industrie / Fabrik\
-*Dauer:* 01.04. - 15.05.\
-*Bewertungsevent:* 18.05. - 23.05.
+*Thema:* Revolution\
+*Dauer:* 01.06. - 15.07.\
+*Bewertungszeitraum:* 18.07. - 23.07.
 !!!
 
 ### Über das Bauevent
