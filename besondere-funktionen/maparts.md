@@ -135,9 +135,7 @@ soil-dry      | Austrocknen von Erde          | False
 vine-grow     | Wachsen von Ranken            | True
 
 
-### Plotname und Beschreibung festlegen
-Mit `/plot alias set <text>` kannst du den Namen des Plots festlegen. `/plot alias remove <text>` entfernt diesen wieder.
-
+### Beschreibung festlegen
 Mit `/plot desc <beschreibung>` kannst du die Beschreibung des Plots festlegen.
 
 ---
