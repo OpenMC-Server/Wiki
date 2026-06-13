@@ -19,8 +19,6 @@ Auf OpenMC können Maparts in einer separaten Flachwelt erbaut werden. Diese Wel
 
 Jeder Plot ist 132x132 Blöcke groß: 128x128 Blöcke für das MapArt sowie zwei Blöcke als Puffer für die nördliche Reihe sowie die optionale Abschirmung.
 
-Aktuell kannst du maximal 30 Plots gleichzeitig beanspruchen. Zukünftig kannst du die maximale Anzahl erhöhen, diese Möglichkeit wird demnächst zur Verfügung stehen.
-
 !!!success Richtlinien für die Nutzung der Mapart-Welt
 - Die Plots in der MapArt-Welt dürfen ausschließlich für Maparts genutzt werden. Es dürfen nur Items, die für den MapArt-Bau benötigt werden, dort gelagert werden.
 - Plot-Modifikationen sind aus Gründen der Performance sparsam zu verwenden. Das zu häufige Aktivieren und Deaktivieren von Modifikationen ist daher zu unterlassen.
