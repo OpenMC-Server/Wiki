@@ -10,7 +10,7 @@ icon: image
 
 Mit Maparts kannst du die gestalterischen Möglichkeiten in Minecraft erweitern und deiner Kreativität freien Lauf lassen.
 
-## Erbauen von Maparts
+## Erbauen von Maparts in der Plotwelt
 Auf OpenMC können Maparts in einer separaten Flachwelt erbaut werden. Diese Welt besitzt der Mapgröße entsprechende Grundstücke ("Plots").
 
 [!badge size="xl" text=":cyclone: Zur Welt: **/warp Bauwelt-Maparts**"]
@@ -25,6 +25,7 @@ Aktuell kannst du maximal 30 Plots gleichzeitig beanspruchen. Zukünftig kannst 
 - Die Plots in der MapArt-Welt dürfen ausschließlich für Maparts genutzt werden. Es dürfen nur Items, die für den MapArt-Bau benötigt werden, dort gelagert werden.
 - Plot-Modifikationen sind aus Gründen der Performance sparsam zu verwenden. Das zu häufige Aktivieren und Deaktivieren von Modifikationen ist daher zu unterlassen.
 - Blöcke, welche durch die Plot-Modifikationen auf dem Plot erscheinen, dürfen nicht abgefarmt werden.
+- Bevor neue Plots beansprucht werden, sollten die bestehenden Plots möglichst zunächst bebaut werden.
 !!!
 
 ### Plot beanspruchen
@@ -42,7 +43,12 @@ Es werden 500 ✪ abgezogen.
 **Tipp:** Du kannst die [Basis-Livemap](https://basicmap.openmc.net/?world=Maparts&renderer=basic&zoom=0&x=-129&z=-129) nutzen, um einen passenden Plot zu finden.
 |||
 
-Solltest du ein Plot löschen wollen, erstelle bitte ein Support-Ticket. Löschungen werden nur in Ausnahmefällen, und unter der Voraussetzung, dass keine Maps von dem Plot erstellt wurden, durchgeführt. Die Kosten für die Beanspruchung werden in diesem Fall nicht erstattet.
+#### Limit erweitern
+Standardmäßig kannst du maximal 30 Plots beanspruchen. Über das `/buyplots` Menü kannst du dieses Limit gegen eine entsprechende Gebühr erhöhen:
+- Limit 60 Plots: 15 Tsd. ✪
+- Limit 90 Plots: 30 Tsd. ✪
+- Weitere Limits werden bei Bedarf hinzugefügt.
+Der Wert bezieht sich dabei auf die Gesamtanzahl der beanspruchbaren Plots. Um ein höheres Limit freizuschalten, muss zunächst das vorherige freigeschaltet werden.
 
 ### Plots verbinden
 Du kannst bis zu neun Plots miteinander verbinden, um bis zu 5x5 Maps umfassende Maparts zu erstellen.
@@ -134,13 +140,21 @@ snow-melt     | Schmelzen von Schnee          | True
 soil-dry      | Austrocknen von Erde          | False
 vine-grow     | Wachsen von Ranken            | True
 
+In der Welt sind Fallschaden, Wetter, Hunger und der Verfall von Blättern dauerhaft deaktiviert.
 
 ### Beschreibung festlegen
 Mit `/plot desc <beschreibung>` kannst du die Beschreibung des Plots festlegen.
 
+### Plot oder Verbindungen löschen
+Solltest du ein Plot oder eine Verbindung löschen wollen, erstelle bitte ein Support-Ticket.
+
+Löschungen werden nur in Ausnahmefällen, und unter der Voraussetzung, dass keine Maps von dem Plot erstellt wurden, durchgeführt. Die Kosten für die Beanspruchung werden in diesem Fall nicht erstattet.
+
 ---
 
-## NoMapMaking ClaimFlag (bestehende Maparts in der Bauwelt)
+## Erbauen von Maparts in der normalen Bauwelt
+Grundsätzlich empfehlen wir, Maparts in der separaten Plotwelt zu erbauen. Du kannst Maparts aber auch in der normalen Bauwelt erbauen.
+
 Um zu verhindern, dass andere Spieler eine Karte von deinem MapArt erstellen können, kannst du die NoMapMaking ClaimFlag aktivieren. Nutze dazu den Befehl `/setclaimflag nomapmaking` auf deinem Claim.
 
 ---
