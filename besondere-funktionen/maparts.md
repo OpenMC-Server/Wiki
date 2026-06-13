@@ -48,6 +48,7 @@ Standardmäßig kannst du maximal 30 Plots beanspruchen. Über das `/buyplots` M
 - Limit 60 Plots: 15 Tsd. ✪
 - Limit 90 Plots: 30 Tsd. ✪
 - Weitere Limits werden bei Bedarf hinzugefügt.
+
 Der Wert bezieht sich dabei auf die Gesamtanzahl der beanspruchbaren Plots. Um ein höheres Limit freizuschalten, muss zunächst das vorherige freigeschaltet werden.
 
 ### Plots verbinden
