@@ -242,6 +242,7 @@ Für das erreichen einer bestimmten Follower-Anzahl auf Instagram schalten wir n
 
 Aktuell bestehen folgende Kits:
 
-|Anzahl Follower | Kit                |
-|----------------|--------------------|
-| 50             | `/kit Instagram_50`|
+|Anzahl Follower | Kit                  |
+|----------------|----------------------|
+| 50             | `/kit Instagram_50`  |
+| 100             | `/kit Instagram_100`|
