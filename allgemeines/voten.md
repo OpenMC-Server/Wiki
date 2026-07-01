@@ -70,31 +70,32 @@ Mit diesem Befehl kannst du eine beliebige Anzahl an Votecoins an eine andere Pe
 {.compact}
 Gewinn                  | Wahrscheinlichkeit in %
 ---                     | ---
-32 Eisen                | 5,89
-64 Eisen                | 7,86 
-5 Eisenblöcke           | 3,14 
-10 Eisenblöcke          | 1,57 
-32 Gold                 | 5,89
-64 Gold                 | 7,86 
-5 Goldblöcke            | 3,14 
-10 Goldblöcke           | 1,57 
-8 Diamanten	            | 3,14
-16 Diamanten            | 5,89
-32 Diamanten            | 4,72
-1 Diamantblock          | 7,86
-5 Diamantblöcke         | 1,57 
-10 Diamantblöcke        | 0,31 
-32 Lapislazuli          | 5,89
-64 Lapislazuli          | 7,86 
-5 Lapislazuliblöcke     | 3,14 
-10 Lapislazuliblöcke    | 1,57 
-1 Netheritbarren        | 0,31
-500 ✪	                | 4,70
-1000 ✪                  | 9,43 
-5000 ✪                  | 3,14 
-10000 ✪                 | 1,57 
-15000 ✪                 | 0,31 
-3 Shard I               | 1,67
+1h Flugzeit             | 0,50
+5h Flugzeit             | 0,31
+21h Flugzeit            | 0,06
+3d Plusrang             | 0,50
+10 Eisenblöcke          | 3,79
+32 Gold                 | 9,04
+64 Gold                 | 6,34
+5 Goldblöcke            | 5,89
+10 Goldblöcke           | 4,29
+8 Diamanten             | 6,52
+16 Diamanten            | 6,36
+32 Diamanten            | 5,63
+1 Diamantblock          | 7,59
+5 Diamantblöcke         | 4,23
+10 Diamantblöcke        | 5,61
+64 Lapis                | 8,21
+5 Lapisblöcke           | 5,27
+10 Lapisblöcke          | 4,29
+1 Netherite             | 0,19
+500 ✪                   | 6,24
+1000 ✪                  | 5,89
+5000 ✪                  | 1,96
+10000 ✪                 | 0,98
+15000 ✪                 | 0,19
+1 Shard I               | 1,04
+3 Shard I               | 0,50
 
 ==- Combat Chest [!badge variant="info" text="6 VC"]
 
@@ -103,10 +104,13 @@ Gewinn                              | Wahrscheinlichkeit in %
 ---                                 | ---
 Mighty Schwert                      | 2,57
 Mighty V Schwert                    | 0,35
-Mighty X Schwert                    | 0,14
-Mighty V Kampfaxt                   | 0,35
+Mighty X Schwert                    | 0,15
+Mighty V Kampfaxt                   | 0,37
 Mighty X Kampfaxt                   | 0,15
-Bogen (Unendlichkeit + Reparatur)   | 0,25
+Mighty V Speer                      | 0,37
+Mighty X Speer                      | 0,15
+Bogen (Unendlichkeit+Reparatur)     | 0,25
+Mighty V Armbrust                   | 0,35
 Mighty V Schild                     | 0,35
 Mighty V Schildkrötenhelm           | 1,30
 Mighty X Schildkrötenhelm           | 0,25
@@ -134,7 +138,7 @@ Pfeil des Lebens                    | 1,10
 Pfeil des Todes                     | 1,10
 Goldapfel                           | 0,73
 3 Shard I                           | 10,00
-Niete                               | 5,99
+Niete                               | 5,00
 
 ==- Tool Chest [!badge variant="info" text="5 VC"]
 
@@ -142,23 +146,24 @@ Niete                               | 5,99
 Gewinn                                              | Wahrscheinlichkeit in %
 ---                                                 | ---
 Mighty V Spitzhacke (Glück)                         | 1,20
-Mighty V, Haltbarkeit X Spitzhacke (Glück)          | 0,17
+Mighty V Spitzhacke, Haltbarkeit X (Glück)          | 0,17
 Mighty V Spitzhacke (Behutsamkeit)                  | 1,20
-Mighty V, Haltbarkeit X Spitzhacke (Behutsamkeit)   | 0,17
-Deepslate Spitzhacke                                | 3,50
+Mighty V Spitzhacke, Haltbarkeit X (Behutsamkeit)   | 0,17
 Mighty V Axt (Glück)                                | 2,00
-Mighty V, Haltbarkeit X Axt (Glück)                 | 0,28
+Mighty V Axt, Haltbarkeit X (Glück)                 | 0,28
 Mighty V Axt (Behutsamkeit)                         | 2,00
-Mighty V, Haltbarkeit X Axt (Behutsamkeit)          | 0,28
+Mighty V Axt, Haltbarkeit X (Behutsamkeit)          | 0,28
 Mighty V Schaufel                                   | 4,00
-Mighty V, Haltbarkeit X Schaufel                    | 0,56
+Mighty V Schaufel, Haltbarkeit X                    | 0,56
 Mighty V Hacke                                      | 4,00
-Mighty V, Haltbarkeit X Hacke                       | 0,56
+Mighty V Hacke, Haltbarkeit X                       | 0,56
 Mighty V Angel                                      | 0,80
 Mighty V Elytra                                     | 1,30
 Mighty X Elytra                                     | 0,35
 Mighty V Schere                                     | 3,80
 Mighty X Schere                                     | 0,56
+Mighty V Feuerzeug                                  | 3,80
+Mighty X Feuerzeug                                  | 0,56
 Verzaubertes Buch: Effizienz V                      | 11,97
 Verzaubertes Buch: Glück III                        | 11,97
 Verzaubertes Buch: Behutsamkeit                     | 11,97
@@ -172,53 +177,58 @@ Niete                                               | 8,59
 {.compact}
 Gewinn                      | Wahrscheinlichkeit in %
 ---                         | ---
-500 Claimblöcke	            | 11,36
+500 Claimblöcke             | 11,36
 1000 Claimblöcke            | 45,45
 2500 Claimblöcke            | 22,73
 5000 Claimblöcke            | 11,36
 7500 Claimblöcke            | 5,68
 10000 Claimblöcke           | 2,27
-15000 Claimblöcke           | 1,14
+15000 Claimblöcke           | 1,15
 
 ==- Collector Chest [!badge variant="info" text="4 VC"]
 
 {.compact}
 Gewinn                          | Wahrscheinlichkeit in %
 ---                             | ---
-Universelles Petfutter          | 8,00
-Rückstoß II Stock               | 3,00
-Rückstoß V Stock                | 2,00
-Rückstoß X Stock                | 1,00
-Dreizack Sog V                  | 1,00
-Love                            | 5,00
-Justice                         | 4,00
-Hope                            | 3,00
-Freedom                         | 2,00
-Faith                           | 0,5
-Kevs Command Block              | 0,5
-Eros Pfeil                      | 3,00
-Maksys Eiserner Braustand       | 0,5
-Best Diamond Ever               | 3,00
-Adminträne                      | 0,5
-Obi's Räucherstäbchen           | 0,5
-Taos Blue                       | 1,00
-Staubis Armorstand              | 1,00
-Cupcakes Hasenpfote             | 1,00
-Ultimative Claiming Schaufel    | 1,00
-Absorption V (3:00)             | 9,00
-Eile II (15:00)                 | 9,00
-Unterwasseratmung (30:00)       | 9,00
-Unsterblichkeit X (0:20)        | 9,00
-Glow (15:00)                    | 4,00
-Hermes Schuhe                   | 2,00
+Universelles Petfutter          | 7,95
+Rückstoß II Stock               | 2,80
+Rückstoß V Stock                | 1,60
+Rückstoß X Stock                | 0,48
+Dreizack Sog V                  | 0,45
+Eros Pfeil                      | 2,94
+Ultimative Claiming Schaufel    | 0,75
+Hermes Schuhe                   | 1,75
+Love                            | 4,10
+Justice                         | 3,30
+Hope                            | 2,50
+Freedom                         | 1,50
+Faith                           | 0,45
+Best Diamond Ever               | 2,30
+Adminträne                      | 0,75
 Votekies                        | 2,00
-3 Shard I                       | 7,00
-Niete                           | 11,0
-Saison Kopf                     | 3,00
-Joris Wuerfel                   | 1,00
-Eules Feder                     | 1,00
+Absorptionstrank (V, 3:00)      | 8,15
+Eiletrank (II, 15:00)           | 8,15
+Wasseratmungstrank (30:00)      | 8,15
+Unsterblichkeitstrank (X, 00:20)| 8,15
+Leuchtrank (15:00)              | 3,50
+Kevs Command Block              | 0,37
+Flowers Buchsammlung            | 0,37
+Maksys Eiserner Braustand       | 0,37
+Filos Phasensense               | 0,37
+Blechs Froglight                | 0,65
+Adrians Glückswürfel            | 0,65
+Cupcakes Hasenpfote             | 0,65
+Aleischas Reisetasche           | 0,65
+Krempiis Baublock               | 0,65
+Foxis Frostbeil                 | 0,65
+Flos Sprössling                 | 0,65
+Grimoire der Antworten          | 0,75
+Stein der Siedler               | 0,75
+Saison Kopf                     | 3,14
+3 Shard I                       | 7,60
+Niete                           | 14,60
 
-==-
+==- 
 
 ---
 
