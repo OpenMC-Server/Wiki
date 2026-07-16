@@ -47,6 +47,9 @@ Blendet die Kauf- & Verkaufsnachrichten ein bzw. aus.
 Zeigt die Transaktionshistorie des gesamten Geldumlaufes oder einer einzelnen Kategorie an.\
 Siehe auch [Transaktionshistorie](/geld-level/transaktionshistorie.md).
 
+`/shopinfo`
+Zeigt den Kisteninhalt, sowie weitere Infos zur Kisten und seinem Besitzer an.
+
 ---
 
 ## Shop bekannt machen
