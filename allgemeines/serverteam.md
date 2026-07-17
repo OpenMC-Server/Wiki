@@ -38,14 +38,6 @@ Eventeinrichtung
  Interne Organisation\
  Backend\
  Entwicklung
-||| Schmerzfrequenz [!badge variant="success" text="seit 2023 im Team"]
--![](https://mc-api.io/render/full/Schmerzfrequenz/java?size=200)
-**Aufgaben:**
-
- Supportleitung\
- Spielerfeedback\
- Bauevent-Organisation
-|||
 
 ### Moderatoren
 ||| Cupcake7506 [!badge variant="success" text="seit 2021 im Team"]
@@ -182,3 +174,10 @@ Je nach zeitlicher Verfügbarkeit werden Spielertreffen in einem ein- bis zweima
 
 ## Bewerben
 Eine Aufnahme ins Team kann sowohl durch die Teilnahme an einer Bewerbungsphase als auch durch eine Intitiativbewerbung erfolgen. Je nach Rang setzen wir unterschiedliche Kenntnisse und eine gewisse Spielzeit auf OpenMC voraus. Wir sind gespannt auf deine Bewerbung!
+
+---
+
+## Ehemalige
+Über die Jahre haben viele tolle Menschen am Server mitgewirkt. Du kannst die ehemaligen Teammitglieder unter dem Spawn besuchen (Eingang im kleinen Spawnhäuschen).
+
+-![](/images/ehemalige.png)
