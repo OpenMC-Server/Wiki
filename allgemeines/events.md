@@ -17,7 +17,7 @@ Auf dieser Seite findest du Erläuterungen zu den Events, die regelmäßig auf O
 *Bewertungszeitraum:* 24.08. - 28.08.
 !!!
 
-## *Das Bauevent wird aktuell angepasst - dazu findet ihr alle wichtigen Informationen in den News. Der Wiki-Eintrag wird bei Bedarf nach der Anpassung entsprechend erneuert. Bei Fragen wendet euch gerne ans Team.*
+### *Das Bauevent wird aktuell angepasst - dazu findet ihr alle wichtigen Informationen in den News. Der Wiki-Eintrag wird bei Bedarf nach der Anpassung entsprechend erneuert. Bei Fragen wendet euch gerne ans Team.*
 
 ### Über das Bauevent
 Das Bauevent beginnt immer mit dem 1. des Monats und endet am 15. um 23:59 Uhr des Folgemonats, sodass alle zwei Monate ein neues Bauevent stattfindet. In dem Bauzeitraum von eineinhalb Monaten haben Teilnehmer Zeit, ein zum vorgegebenen Thema passendes Bauwerk zu erschaffen  (Details: siehe "Ablauf").
