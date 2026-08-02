@@ -11,9 +11,9 @@ Mit einem Vote unterstützt du den Server und erhältst tolle Belohnungen über 
 ---
 
 ## Votelinks
-Du kannst täglich auf zwei Seiten voten, um Belohnungen zu erhalten und den Server kostenfrei zu unterstützen.
+Du kannst täglich auf drei Seiten voten, um Belohnungen zu erhalten und den Server kostenfrei zu unterstützen.
 
-[!button icon=":heart:" target="blank" text="Seite 1 (minecraft-server.eu)"](https://minecraft-server.eu/vote/index/20B25) [!button variant="secondary" target="blank" icon=":blue_heart:" text="Seite 2 (minecraft-serverlist.net)"](https://www.minecraft-serverlist.net/vote/51535)
+[!button icon=":heart:" target="blank" text="Seite 1 (minecraft-server.eu)"](https://minecraft-server.eu/vote/index/20B25) [!button variant="secondary" target="blank" icon=":white_heart:" text="Seite 2 (minecraft-serverlist.net)"](https://www.minecraft-serverlist.net/vote/51535) [!button variant="warning" target="blank" icon=":blue_heart:" text="Seite 3 (serverliste.net)"](https://serverliste.net/vote/5642)
 
 !!!warning Achtung:
 Wir möchten euch darauf hinweisen, dass auf minecraft-server.eu teilweise eine Weiterleitung auf Scam-Websiten erfolgt. Daher empfehlen wir, sämtliche **Cookies abzulehnen** und bestenfalls einen **Adblocker** zu nutzen.
@@ -29,11 +29,15 @@ Dort kannst du auch deinen persönlichen Votelink kopieren und z.B. für unterwe
 ## Belohnungen
 Je Vote erhältst du:
 
+### Voteseite 1 & 2:
 {.compact}
 Feature                     | Spieler | Siedler | VIP   | VIS   | + Upgrade | Champion
 :---:                       | :---:   | :---:   | :---: | :---: | :---:     | :---:
 VoteCoins (pro Vote)        | 1       | 2       | 1     | 2     | 3         | 4
 Flugzeit (in Min, pro Vote) | 10      | 20      | ∞     | ∞     |           | ∞
+
+### Voteseite 3:
+Zufällige Belohnung: 10min Flugzeit, 100 Claimblöcke, 1 VoteCoin oder 500 ✪.
 
 ---
 
@@ -48,6 +52,11 @@ Nutze `/vote` und bewege die Maus über deinen Kopf, um sowohl deine aktuelle Vo
 - Votes, welche von den Voteseiten nicht erfolgreich registriert wurden sowie Votes ohne oder mit falschem Namen können von uns leider nicht berücksichtigt werden.
 - Bei vollem Inventar droppen Votebelohnungen auf den Boden.
 - Die VoteStreak-Belohnungen können vorab nicht eingesehen werden.
+
+---
+
+## VoteParty
+Alle **800 Votes** erhalten alle Spieler, die mit ihrem Vote bei der Erreichung des Ziels mitgeholfen haben, eine zusätzliche Belohnung von **5 VoteCoins**. Der aktuelle Status des Ziels kann über `/voteparty` oder in den Menüs eingesehen werden.
 
 ---
 

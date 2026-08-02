@@ -38,6 +38,12 @@ Eventeinrichtung
  Interne Organisation\
  Backend\
  Entwicklung
+||| LashtagLP [!badge variant="success" text="seit 2020 im Team"]
+-![](https://mc-api.io/render/full/LashtagLP/java?size=200)
+**Aufgaben:**
+
+ Interne Organisation\
+ Event-Konfiguration
 |||
 
 ### Moderatoren
