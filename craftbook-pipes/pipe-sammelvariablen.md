@@ -269,7 +269,7 @@ Um nach einer spezifischen Sammelvariable zu suchen, kannst du die Suche deines 
 
 ### Blumen, Farben
 [!badge variant="secondary" text="**%yy%**"] **Alle Blumen**\
-*dandelion, poppy, blue_orchid, allium, azure_bluet, red_tulip, orange_tulip, white_tulip, pink_tulip, oxeye_daisy, cornflower, lily_of_the_valley, wither_rose, sunflower, lilac, rose_bush, peony, torchflower, pink_petals, pitcher_pod, pitcher_crop, closed_eyeblossom, open_eyeblossom*
+*dandelion, poppy, blue_orchid, allium, azure_bluet, red_tulip, orange_tulip, white_tulip, pink_tulip, oxeye_daisy, cornflower, lily_of_the_valley, wither_rose, sunflower, lilac, rose_bush, peony, torchflower, torchflower_seeds, pink_petals, pitcher_pod, pitcher_plant, closed_eyeblossom, open_eyeblossom, wildflowers, cactus_flower, spore_blossom*
 
 [!badge variant="secondary" text="**%zw%**"] **Alle Farben**\
 *white_dye, orange_dye, magenta_dye, light_blue_dye, yellow_dye, lime_dye, pink_dye, gray_dye, light_gray_dye, cyan_dye, purple_dye, blue_dye, green_dye, brown_dye, red_dye, black_dye*
