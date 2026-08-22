@@ -26,6 +26,10 @@ Dort kannst du auch deinen persönlichen Votelink kopieren und z.B. für unterwe
 
 ---
 
+[!embed](https://votetop.openmc.net/)
+
+---
+
 ## Belohnungen
 Je Vote erhältst du:
 
