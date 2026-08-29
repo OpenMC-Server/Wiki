@@ -182,7 +182,7 @@ Bei globalen Events verbirgt sich häufig ein seasonelles Ereignis dahinter, jed
 3. Nutze `/globalevent` oder `/gevent`, um eine Event-Oberfläche mit allen nötigen Informationen zu finden.
   - Der erste Slot stellt deinen persönlichen Fortschritt in Zusammenhang mit dem globalen Fortschritt. Außerdem wird hier ein Scoreboard der Top 10 Teilnehmer bereitgestellt, sowie deine eigene Platzierung in dem Event.
   - Im zweiten Slot werden die Zielobjekte (Blöcke, Items, ...) dargestellt, die auf das globale Ziel einwirken. Zudem werden dahinter prozentuale Chancen für Extra-Drops angezeigt, welche mit diversen Bonus-Effekt (siehe Slot drei) skalieren.
-  - Auf dem dritten Slot sind nun Bonuseffekte, die beim Erreichen bestimmter Meilensteine für alle freigeschaltet werden. Bonuseffekte **können** sich je nach Event wiederspiegeln in `Bonus Extra-Dropchance`, `Jobs-Exp`, `Jobs-Geld`, oder [`McMMO-Exp`](https://wiki.openmc.net/geld-level/mcmmo/).
+  - Auf dem dritten Slot sind nun Bonuseffekte, die beim Erreichen bestimmter Meilensteine für alle freigeschaltet werden. Bonuseffekte **können** sich je nach Event wiederspiegeln in `Bonus Extra-Dropchance`, [`Jobs-Exp`](https://wiki.openmc.net/geld-level/jobs/), [`Jobs-Geld`](https://wiki.openmc.net/geld-level/jobs/), oder [`McMMO-Exp`](https://wiki.openmc.net/geld-level/mcmmo/).
   - Auf dem letzten Slot findest du dann die Belohnungen die du zu jeweiligen Meilensteinen einsammeln kannst. Ein einfacher Klick auf den Slot sammelt die Belohnungen auf, die du schon zum aktuellen Zeitpunkt erhalten kannst.#
     
 <br/>
