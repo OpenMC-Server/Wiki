@@ -169,3 +169,20 @@ Um die Belohnungen zu erhalten, muss ein Slot im Inventar freigehalten werden.
 
 Es wird ein Gutschein, der alle Belohnungen enthält (kann per Rechtsklick eingelöst werden) vergeben.\
 Die ersten drei Plätze, die das Event auch überlebt haben, erhalten nach dem Event eine einzigartige Trophäe, die den Sieg des Events würdigt.
+
+---
+
+## Globale Events (Farmwelt)
+Globale Events finden in der Farmwelt als gemeinsame Ziele statt, die in einem gewissen Zeitraum erfüllt werden. Belohnt wird jeder Teilnehmer, der die Mindestanforderung am globalen Ziel erfüllt.
+Bei globalen Events verbirgt sich häufig ein seasonelles Ereignis dahinter, jedoch nicht immer zwangsläufig. Im folgenden Beispiel wird das "Minenmeister-Event 2026" als Referenz zugezogen, um den Ablauf zu erklären.
+
+### Ablauf des Events
+1. Nutze den Abenteurermodus über `/abenteurer`. Es erscheint nun eine Bossleiste mit dem globalen Ziel was erreicht werden soll.
+2. Dieser Modus ermöglicht es dir, besondere Erträge im Event zu erzielen (falls vorhand) und das globale Ziel zu füllen.
+3. Nutze `/globalevent` oder `/gevent`, um eine Event-Oberfläche mit allen nötigen Informationen zu finden.
+  - Der erste Slot stellt deinen persönlichen Fortschritt in Zusammenhang mit dem globalen Fortschritt. Außerdem wird hier ein Scoreboard der Top 10 Teilnehmer bereitgestellt, sowie deine eigene Platzierung in dem Event.
+  - Im zweiten Slot werden die Zielobjekte (Blöcke, Items, ...) dargestellt, die auf das globale Ziel einwirken. Zudem werden dahinter prozentuale Chancen für Extra-Drops angezeigt, welche mit diversen Bonus-Effekt (siehe Slot drei) skalieren.
+  - Auf dem dritten Slot sind nun Bonuseffekte, die beim Erreichen bestimmter Meilensteine für alle freigeschaltet werden. Bonuseffekte **können** sich je nach Event wiederspiegeln in `Bonus Extra-Dropchance`, `Jobs-Exp`, `Jobs-Geld`, oder [`McMMO-Exp`](https://wiki.openmc.net/geld-level/mcmmo/).
+  - Auf dem letzten Slot findest du dann die Belohnungen die du zu jeweiligen Meilensteinen einsammeln kannst. Ein einfacher Klick auf den Slot sammelt die Belohnungen auf, die du schon zum aktuellen Zeitpunkt erhalten kannst.
+<img width="334" height="140" alt="image" src="https://github.com/user-attachments/assets/88758921-df41-4623-9a90-5a33c46b54d4" />
+
