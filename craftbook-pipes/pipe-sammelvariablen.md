@@ -334,7 +334,7 @@ Um nach einer spezifischen Sammelvariable zu suchen, kannst du die Suche deines 
 [!badge variant="secondary" text="**%vg%**"] **Alle Schwarzsteinerzeugnisse**\
 *blackstone, blackstone_slab, blackstone_stairs, blackstone_wall*
 
-[!badge variant="secondary" text="**%vh%**"] **Alle polierten, gerissenen, gemeißelten Schwarzsteinerzeugnisse**\
+[!badge variant="secondary" text="**%xx%**"] **Alle polierten, gerissenen, gemeißelten Schwarzsteinerzeugnisse**\
 *polished_blackstone, polished_blackstone_slab, polished_blackstone_stairs, polished_blackstone_wall, polished_blackstone_bricks, polished_blackstone_brick_slab, polished_blackstone_brick_stairs, polished_blackstone_brick_wall, cracked_polished_blackstone_bricks, chiseled_polished_blackstone*
 
 [!badge variant="secondary" text="**%vi%**"] **Alle Netherziegelerzeugnisse**\
