@@ -680,7 +680,7 @@ Zu gesonderten Infos rund um `player_head` kannst du [hier](https://wiki.openmc.
 *clock, compass, map, filled_map*
 
 [!badge variant="secondary" text="**%pz%**"] **Pferderüstungen + Sattel**\
-*leather_horse_armor, iron_horse_armor, diamond_horse_armor, golden_horse_armor, saddle*
+*leather_horse_armor, copper_horse_armor, iron_horse_armor, diamond_horse_armor, golden_horse_armor, netherite_horse_armor, saddle*
 
 [!badge variant="secondary" text="**%akd%**"]  **Alle Geschirre**\
 *white_harness, light_gray_harness, gray_harness, black_harness, brown_harness, red_harness, orange_harness, yellow_harness, lime_harness, green_harness, cyan_harness, light_blue_harness, blue_harness, purple_harness, magenta_harness, pink_harness*
