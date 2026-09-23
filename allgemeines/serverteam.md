@@ -21,13 +21,6 @@ Im folgenden findest du alle aktiven Teammitglieder und ihre Aufgabenbereiche.
 Serverleitung\
 Backend\
 Eventeinrichtung
-||| flowflower [!badge variant="success" text="seit 2019 im Team"]
--![](https://mc-api.io/render/full/flowflower/java?size=200)
-**Aufgaben:**
-
- Serverleitung\
- Eventverwaltung\
- Bauevent-Organisation
 |||
 
 ### Administratoren
@@ -102,11 +95,6 @@ Eventeinrichtung
 ### Supporter
 ||| Thunder492 [!badge variant="success" text="seit 2025 im Team"]
 -![](https://mc-api.io/render/full/Thunder492/java?size=200)
-**Aufgaben:**
-
- Spielersupport
-||| Brausefisch [!badge variant="success" text="seit 2026 im Team"]
--![](https://mc-api.io/render/full/Brausefisch/java?size=200)
 **Aufgaben:**
 
  Spielersupport
