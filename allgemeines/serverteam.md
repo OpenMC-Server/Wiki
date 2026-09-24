@@ -23,6 +23,8 @@ Backend\
 Eventeinrichtung
 |||
 
+Die Inhaberschaft des Servers teilen sich kev2k2 und flowflower (Tätigkeit aktuell pausiert).
+
 ### Administratoren
 ||| LPBoy_HD [!badge variant="success" text="seit 2020 im Team"]
 -![](https://mc-api.io/render/full/LPBoy_HD/java?size=200)
@@ -109,6 +111,7 @@ Eventeinrichtung
 
 ## Die Teamstruktur
 In der folgenden Übersicht ist der Aufbau des Teams schematisch dargestellt. Im Anschluss werden die jeweiligen Aufgaben der Ränge beschrieben.
+
 ```mermaid
 %%{init: { 'theme': 'forest' }}%%
 flowchart TB
