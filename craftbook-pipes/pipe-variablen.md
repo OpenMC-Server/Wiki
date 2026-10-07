@@ -541,6 +541,45 @@ Um nach einer spezifischen Variable zu suchen, kannst du die Suche deines Browse
 | Dunkle Prismarinstufe                             | dark\_prismarine\_slab                    | %dk\_prism\_sl%       | %fx%          |
 | Dunkle Prismarintreppe                            | dark\_prismarine\_stairs                  | %dk\_prism\_st%       | %fy%          |
 
+### Schwefel
+{.compact}
+| Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
+| ---                                               | ---                                       | ---                   | ---           |
+| Schwefel                                             | sulfur                                           | %sulfur%                   | %ajm%       |
+| Schwefelstufe                                        | sulfur\_slab                                     | %sulfur\_slab%             | %anw%       |
+| Schwefeltreppe                                       | sulfur\_stairs                                   | %sulfur\_stairs%           | %anh%       |
+| Schwefelmauer                                        | sulfur\_wall                                     | %sulfur\_wall%             | %anx%       |
+| Schwefelspitze                                       | sulfur\_spike                                    | %sulfurspike%              | %aoy%       |
+| Schwefelziegel                                       | sulfur\_bricks                                   | %sulfur\_bricks%           | %akb%       |
+| Schwefelziegelstufe                                  | sulfur\_brick\_slab                              | %sulfur\_br\_sl%           | %aov%       |
+| Schwefelziegeltreppe                                 | sulfur\_brick\_stair                             | %sulfur\_br\_st%           | %aow%       |
+| Schwefelziegelmauer                                  | sulfur\_brick\_wall                              | %sulfur\_br\_wl%           | %aox%       |
+| Polierter Schwefel                                   | polished\_sulfur                                 | %p\_sulfur%                | %ajw%       |
+| Polierte Schwefelstufe                               | polished\_sulfur\_slab                           | %p\_sulfur\_sl%            | %aor%       |
+| Polierte Schwefeltreppe                              | polished\_sulfur\_stair                          | %p\_sulfur\_st%            | %aot%       |
+| Polierte Schwefelmauer                               | polished\_sulfur\_wall                           | %p\_sulfur\_wl%            | %aou%       |
+| Reaktiver Schwefel                                   | potent\_sulfur                                   | %pt\_sulfur%               | %aoq%       |
+| Gemeißelter Schwefel                                 | chiseled\_sulfur                                 | %chiseled\_sulfur%         | %als%       |
+| Schwefelwürfeleimer                                  | bucket\_of\_sulfur\_cube                         | %sulfur\_bucket%           | %aop%       |
+
+### Zinnober
+{.compact}
+| Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
+| ---                                               | ---                                       | ---                   | ---           |
+| Zinnober                                             | cinnabar                                         | %cinnabar%                 | %any%       |
+| Zinnoberstufe                                        | cinnabar\_slab                                   | %cinnabar\_sl%             | %aod%       |
+| Zinnobertreppe                                       | cinnabar\_stairs                                 | %cinnabar\_st%             | %aoc%       |
+| Zinnobermauer                                        | cinnabar\_wall                                   | %cinnabar\_wl%             | %aoe%       |
+| Zinnoberziegel                                       | cinnabar\_bricks                                 | %cinnabar\_br%             | %aoa%       |
+| Zinnoberziegelstufe                                  | cinnabar\_brick\_slab                            | %cinnabar\_br\_sl%         | %aoi%       |
+| Zinnoberziegeltreppe                                 | cinnabar\_brick\_stair                           | %cinnabar\_br\_st%         | %aoj%       |
+| Zinnoberziegelmauer                                  | cinnabar\_brick\_wall                            | %cinnabar\_br\_wl%         | %aok%       |
+| Polierter Zinnober                                   | polished\_cinnabar                               | %polished\_cinnabar%       | %anz%       |
+| Polierte Zinnoberstufe                               | polished\_cinnabar\_slab                         | %p\_cinnabar\_sl%          | %aof%       |
+| Polierte Zinnobertreppe                              | polished\_cinnabar\_stair                        | %p\_cinnabar\_st%          | %aog%       |
+| Polierte Zinnobermauer                               | polished\_cinnabar\_wall                         | %p\_cinnabar\_wl%          | %aoh%       |
+| Gemeißelter Zinnober                                 | chiseled\_cinnabar                               | %chiseled\_cinnabar%       | %aob%       |
+
 ### Obsidian
 {.compact}
 | Deutscher Itemname                                | Minecraft-ID                              | Abkürzung             | Kurzform      |
@@ -1799,6 +1838,7 @@ modifizierten Items kennen.
 | Schallplatte Lena Raine - Creator (Music Box)		| music_disc_creator_music_box				| %disc_creator_mb%		| %ahi% 		|
 | Schallplatte Amos Roffy - Tears                   | music\_disc\_tears                        | %disc\_tears%         | %vp%          |
 | Schalltplatte Hyper Potions - Lava Chicken        | music\_disc\_lava\_chicken                | %disc\_lchicken%      | %zp%          |
+| Schallplatte - Bounce                                | music\_disc\_bounce                              | %m\_disc\_bounce%          | %aol%       |
 
 ### Töpferscherben
 {.compact}
