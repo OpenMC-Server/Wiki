@@ -349,6 +349,31 @@ Um nach einer spezifischen Sammelvariable zu suchen, kannst du die Suche deines 
 [!badge variant="secondary" text="**%pw%**"] **Diverse Netherpflanzen**\
 *nether_wart_block, warped_wart_block, shroomlight, nether_wart, warped_fungus, crimson_fungus, twisting_vines, weeping_vines, warped_roots, crimson_roots*
 
+### The Sift
+[!badge variant="secondary" text="**%apa%**"] **Alle Zinnobererzeugnisse**\
+*chiseled_cinnabar, cinnabar, cinnabar_bricks, cinnabar_brick_slab, cinnabar_brick_stair, cinnabar_brick_wall, cinnabar_slab, cinnabar_stairs, cinnabar_wall, polished_cinnabar, polished_cinnabar_slab, polished_cinnabar_stair, polished_cinnabar_wall*
+
+[!badge variant="secondary" text="**%apb%**"] **Alle Zinnoberziegelerzeugnisse**\
+*cinnabar_bricks, cinnabar_brick_slab, cinnabar_brick_stair, cinnabar_brick_wall*
+
+[!badge variant="secondary" text="**%apc%**"] **Alle polierten Zinnobererzeugnisse**\
+*polished_cinnabar, polished_cinnabar_slab, polished_cinnabar_stair, polished_cinnabar_wall*
+
+[!badge variant="secondary" text="**%apd%**"] **Alle normalen Zinnoberzeugnisse**\
+*cinnabar, cinnabar_slab, cinnabar_stairs, cinnabar_wall*
+
+[!badge variant="secondary" text="**%aom%**"] **Alle Sulfurblöcke**\
+*bucket_of_sulfur_cube, chiseled_sulfur, polished_sulfur, polished_sulfur_slab, polished_sulfur_stair, polished_sulfur_wall, potent_sulfur, sulfur, sulfur_bricks, sulfur_brick_slab, sulfur_brick_stair, sulfur_brick_wall, sulfur_slab, sulfur_spike, sulfur_stairs, sulfur_wall*
+
+[!badge variant="secondary" text="**%aon%**"] **Alle Sulfurziegelerzeugnisse**\
+*sulfur_bricks, sulfur_brick_slab, sulfur_brick_stair, sulfur_brick_wall*
+
+[!badge variant="secondary" text="**%aoo%**"] **Alle polierten Sulfurerzeugnisse**\
+*polished_sulfur, polished_sulfur_slab, polished_sulfur_stair, polished_sulfur_wall*
+
+[!badge variant="secondary" text="**%aoz%**"] **Alle normalen Sulfurerzeugnisse**\
+*sulfur, sulfur_slab, sulfur_stairs, sulfur_wall*
+
 ### Sandstein
 [!badge variant="secondary" text="**%vc%**"] **Alle Sandsteinerzeugnisse**\
 *sandstone, sandstone_slab, sandstone_stairs, sandstone_wall*
@@ -674,7 +699,7 @@ Zu gesonderten Infos rund um `player_head` kannst du [hier](https://wiki.openmc.
 *bucket, water_bucket, lava_bucket, milk_bucket, pufferfish_bucket, salmon_bucket, cod_bucket, tropical_fish_bucket, axolotl_bucket, powder_snow_bucket*
 
 [!badge variant="secondary" text="**%yk%**"] **Alle Schallplatten**\
-*music_disc_wait, music_disc_cat, music_disc_13, music_disc_blocks, music_disc_chirp, music_disc_far, music_disc_mall, music_disc_11, music_disc_strad, music_disc_stal, music_disc_mellohi, music_disc_pigstep, music_disc_ward, music_disc_relic, music_disc_precipice, music_disc_creator, music_disc_creator_music_box, music_disc_otherside*
+*music_disc_wait, music_disc_cat, music_disc_13, music_disc_blocks, music_disc_chirp, music_disc_far, music_disc_mall, music_disc_11, music_disc_strad, music_disc_stal, music_disc_mellohi, music_disc_pigstep, music_disc_ward, music_disc_relic, music_disc_precipice, music_disc_creator, music_disc_creator_music_box, music_disc_otherside, music_disc_tears, music_disc_lava_chicken, music_disc_bounce*
 
 [!badge variant="secondary" text="**%ws%**"] **Uhr, Kompass, Karten**\
 *clock, compass, map, filled_map*
