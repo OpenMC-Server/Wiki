@@ -349,7 +349,7 @@ Um nach einer spezifischen Sammelvariable zu suchen, kannst du die Suche deines 
 [!badge variant="secondary" text="**%pw%**"] **Diverse Netherpflanzen**\
 *nether_wart_block, warped_wart_block, shroomlight, nether_wart, warped_fungus, crimson_fungus, twisting_vines, weeping_vines, warped_roots, crimson_roots*
 
-### The Sift
+### Schwefelbiom (Zinnober & Sulfur)
 [!badge variant="secondary" text="**%apa%**"] **Alle Zinnobererzeugnisse**\
 *chiseled_cinnabar, cinnabar, cinnabar_bricks, cinnabar_brick_slab, cinnabar_brick_stair, cinnabar_brick_wall, cinnabar_slab, cinnabar_stairs, cinnabar_wall, polished_cinnabar, polished_cinnabar_slab, polished_cinnabar_stair, polished_cinnabar_wall*
 
