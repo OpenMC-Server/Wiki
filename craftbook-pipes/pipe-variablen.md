@@ -560,7 +560,7 @@ Um nach einer spezifischen Variable zu suchen, kannst du die Suche deines Browse
 | Polierte Schwefelmauer                               | polished\_sulfur\_wall                           | %p\_sulfur\_wl%            | %aou%       |
 | Reaktiver Schwefel                                   | potent\_sulfur                                   | %pt\_sulfur%               | %aoq%       |
 | Gemeißelter Schwefel                                 | chiseled\_sulfur                                 | %chiseled\_sulfur%         | %als%       |
-| Schwefelwürfeleimer                                  | bucket\_of\_sulfur\_cube                         | %sulfur\_bucket%           | %aop%       |
+| Schwefelwürfeleimer                                 | sulfur\_cube\_bucket                             | %sulfur\_bucket%           | %aop%       |
 
 ### Zinnober
 {.compact}
