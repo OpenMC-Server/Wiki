@@ -87,6 +87,14 @@ footer:
       link: https://openmc.net/impressum/
     - text: Datenschutzerklärung
       link: https://openmc.net/datenschutzerklaerung/
+    - text: Server-Nutzungsbedingungen
+      link: https://openmc.net/server-nutzungsbedingungen/
+    - text: Website-Nutzungsbedingungen
+      link: https://openmc.net/website-nutzungsbedingungen/
+    - text: Kontaktformular
+      link: https://openmc.net/kontakt/
+    - text: Serverstatus
+      link: https://openmc.uptimepage.dev/
 
 # -----------------------------------------------------------------------------
 
