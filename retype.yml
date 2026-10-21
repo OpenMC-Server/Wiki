@@ -65,8 +65,12 @@ links:
     link: https://openmc.net/
   - text: Forum
     link: https://openmc.net/forum/
-  - text: Livemap
+  - text: Map
     link: https://map.openmc.net/
+  - text: Spenden
+    link: https://openmc.net/spenden/
+  - text: Voten
+    link: https://wiki.openmc.net/allgemeines/voten/
   - text: Discord
     link: https://discord.com/invite/ecqPF34
   - text: Instagram
