@@ -1293,6 +1293,7 @@ Um nach einer spezifischen Variable zu suchen, kannst du die Suche deines Browse
 | Geschlossene Augenblüte                           | closed_eyeblossom                         | %c_eblos%             | %aiq%         |
 | Geöffnete Augenblüte                              | open_eyeblossom                           | %o_eblos%             | %air%         |
 | Wildblumen                                        | wildflowers                               | %wflow%               | %wh%          |
+| Goldener Löwenzahn                                  | golden\_dandelion                                | %golddand%                 | %ape%       |
 
 ### Bienen
 {.compact}
