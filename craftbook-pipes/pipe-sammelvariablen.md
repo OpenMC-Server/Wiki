@@ -406,6 +406,9 @@ Um nach einer spezifischen Sammelvariable zu suchen, kannst du die Suche deines 
 [!badge variant="secondary" text="**%aaa%**"] **Alle Schlammerzeugnisse**\
 *mud, muddy_mangrove_roots, mud_brick_slab, packed_mud, mud_brick, mud_brick_stairs, mud_brick_wall*
 
+[!badge variant="secondary" text="**%apf%**"] **Alle Schlammziegelerzeugnisse**\
+*mud_brick, mud_brick_slab, mud_brick_stairs, mud_brick_wall*
+
 [!badge variant="secondary" text="**%vq%**"] **Kies, Sand, Roter Sand, Feuerstein**\
 *gravel, flint, sand, red_sand*
 
