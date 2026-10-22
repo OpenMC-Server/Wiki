@@ -11,8 +11,6 @@ icon: home
 
 :::content-center
 **Herzlich Willkommen im OpenMC Wiki :wave:**
-
-[![](https://openmc.uptimepage.dev/api/public/v1/badge.svg)](https://openmc.uptimepage.dev?utm_source=status-badge&utm_medium=badge&utm_campaign=embed)
 :::
 
 [!card kicker="Erste Schritte" title="Dein Einstieg" image="/images/neulingsspawn.png" text="Erfahre, wie du am besten auf dem Server startest"](/allgemeines/einstieg.md)
