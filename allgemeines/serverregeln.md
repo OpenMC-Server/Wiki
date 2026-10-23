@@ -7,7 +7,7 @@ icon: log
 
 # Serverregeln
 
-[!badge variant="info" text=":large_green_circle: Letzte Aktualisierung: 01.04.2026"]
+[!badge variant="info" text=":large_green_circle: Letzte Aktualisierung: 23.10.2026"]
 
 Mit dem Spielen auf unserem Server und/oder dem Beitritt auf unserem Discord akzeptierst du die Regeln.\
 Zusätzlich sind unsere [Richtlinien](/sonstiges/richtlinien.md) zu beachten. Diese gehen detaillierter auf bestimmte Aspekte und Einzelfälle ein.
