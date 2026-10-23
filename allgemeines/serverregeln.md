@@ -15,23 +15,22 @@ Zusätzlich sind unsere [Richtlinien](/sonstiges/richtlinien.md) zu beachten. Di
 ---
 
 ## §0 Grundsätze
-**0.1** Unsere Grundsätze im Miteinander auf dem Server lauten Kommunikation und Vertrauen.\
-**0.2** Wir vertrauen euch, dass ihr ehrlich, fair und mit guten Absichten spielt, die Bitten des Serverteams befolgt und niemals Situationen zu eurem unfairen Vorteil ausnutzt.\
-**0.3** Kommunikationsbereitschaft und Vertrauenswürdigkeit sind Voraussetzung zum Spielen auf OpenMC.\
+**0.1** OpenMC ist ein Server, auf dem alle Spielerinnen und Spieler unabhängig von Herkunft, Religion, Geschlecht oder Identität willkommen sind.\
+**0.2** Unsere Grundsätze für ein friedliches Miteinander lauten Respekt, Toleranz, Kommunikationsbereitschaft und Vertrauen. Rechts- und Linksextremismus, Rassismus, Antisemitismus und Diskriminierung haben bei uns daher keinen Platz.\
+**0.3** Wir vertrauen euch, dass ihr ehrlich, fair und mit guten Absichten spielt, die Bitten des Serverteams befolgt und niemals Situationen zu eurem unfairen Vorteil ausnutzt.\
 **0.4** Verweigerung von Kontakt mit uns, oder Vertrauensbruch uns oder anderen Spielern gegenüber sind die einzigen Bangründe auf OpenMC. Solche Bans sind grundsätzlich zeitlich unbeschränkt.
 
 ---
 
 ## §1 Allgemeines
-**1.1** Begegnet allen Spielern stets respektvoll, ob im Spiel oder auf Discord. Das gezielte offensive Verhalten gegenüber anderen Mitspielern wird nicht geduldet.\
-**1.2** Spam und anhaltendes Schreiben im Capslock sowie Werbung für Angebote außerhalb von OpenMC sind zu unterlassen.\
-**1.3** Beleidigende, rassistische, radikale und pornographische Namen, Skins, Inhalte und Bauwerke sind verboten.\
-**1.4** Die Verwendung von Zweitaccounts („Alts“) ist untersagt.\
-**1.5** Wir vertrauen euch, dass ihr Konfigurationsfehler im Server nicht ausnutzt („Bugusing“), sondern uns diese baldmöglich meldet. Auch gefühlt ungewöhnlich schnelles Leveln bei Plugins wie Jobs oder mcMMO zählt dazu.\
-**1.6** Es ist nicht erlaubt, `/pweather` für den Dreizack-Flug zu verwenden.\
-**1.7** Verloren gegangene Items werden grundsätzlich nur erstattet, wenn nachweisbar ist, dass man als Spieler ihren Verlust nicht hätte vermeiden können.\
-**1.8** Das bewusste Ausnutzen von Grauzonen der Regeln ist nicht gestattet. Bei Unsicherheiten ist das Team zu Rate zu ziehen – und dessen Aufklärung zu respektieren.\
-**1.9** Der Server lebt von dem kontinuierlichen Austausch zwischen der Spielerschaft und dem Team. Das Einreichen von Vorschlägen ist demnach sehr erwünscht. Sollte das Team jedoch festlegen, dass ein Vorschlag aus konzeptionellen oder vergleichbaren Gründen nicht implementiert wird, ist dies zu respektieren.
+**1.1** Spam und anhaltendes Schreiben im Capslock sowie Werbung für Angebote außerhalb von OpenMC sind zu unterlassen.\
+**1.2** Beleidigende, rassistische, radikale und pornographische Namen, Skins, Inhalte und Bauwerke sind verboten.\
+**1.3** Die Verwendung von Zweitaccounts („Alts“) ist untersagt.\
+**1.4** Wir vertrauen euch, dass ihr Konfigurationsfehler im Server nicht ausnutzt („Bugusing“), sondern uns diese baldmöglich meldet. Auch gefühlt ungewöhnlich schnelles Leveln bei Plugins wie Jobs oder mcMMO zählt dazu.\
+**1.5** Es ist nicht erlaubt, `/pweather` für den Dreizack-Flug zu verwenden.\
+**1.6** Verloren gegangene Items werden grundsätzlich nur erstattet, wenn nachweisbar ist, dass man als Spieler ihren Verlust nicht hätte vermeiden können.\
+**1.7** Das bewusste Ausnutzen von Grauzonen der Regeln ist nicht gestattet. Bei Unsicherheiten ist das Team zu Rate zu ziehen – und dessen Aufklärung zu respektieren.\
+**1.8** Der Server lebt von dem kontinuierlichen Austausch zwischen der Spielerschaft und dem Team. Das Einreichen von Vorschlägen ist demnach sehr erwünscht. Sollte das Team jedoch festlegen, dass ein Vorschlag aus konzeptionellen oder vergleichbaren Gründen nicht implementiert wird, ist dies zu respektieren.
 
 ---
 
