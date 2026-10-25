@@ -294,3 +294,10 @@ Es liegt in der Verantwortung des Spielers:
 
 
 **Die Spielerarchivierung hilft dabei, Ranglisten sauber zu halten und gleichzeitig die Leistungen ehemaliger Spieler zu bewahren.**
+
+---
+
+## Löschung von Inhalten
+Du erteilst uns ein nicht exklusives, permanentes, unwiderrufliches und unbegrenztes Nutzungsrecht für die Bauwerke, die du auf unserem Minecraft-Server erstellst. Es besteht kein Anspruch auf eine Entfernung der Bauwerke von dem Minecraft-Server. Ausgenommen davon sind persönliche Daten auf Schildern, in Bilderrahmen oder in Behältern.
+
+Wir behalten uns das Recht vor, jegliche Bauwerke oder sonstige Inhalte auf dem Server jederzeit ohne Angabe von Gründen zu bearbeiten oder zu löschen.
