@@ -63,20 +63,28 @@ links:
 
   - text: Website
     link: https://openmc.net/
+    icon: home
   - text: Forum
     link: https://openmc.net/forum/
+    icon: comment-discussion
   - text: Map
     link: https://map.openmc.net/
-  - text: Spenden
-    link: https://openmc.net/spenden/
+    icon: telescope
+  - text: VIP/VIS Shop
+    link: https://openmc.craftingstore.net/
+    icon: heart-fill
   - text: Voten
     link: https://wiki.openmc.net/allgemeines/voten/
+    icon: thumbsup
   - text: Discord
     link: https://discord.com/invite/ecqPF34
+    icon: hash
   - text: Instagram
     link: https://instagram.com/openmc/
+    icon: device-camera
   - text: Spielerstatistik
     link: https://plan.openmc.net/login
+    icon: graph
 
 # -----------------------------------------------------------------------------
 
@@ -87,11 +95,13 @@ footer:
       link: https://openmc.net/impressum/
     - text: Datenschutzerklärung
       link: https://openmc.net/datenschutzerklaerung/
-    - text: Server-Nutzungsbedingungen
-      link: https://openmc.net/server-nutzungsbedingungen/
-    - text: Website-Nutzungsbedingungen
-      link: https://openmc.net/website-nutzungsbedingungen/
+    - text: AGB und Widerrufsbelehrung
+      link: https://openmc.net/agb/
+    - text: Forum-Nutzungsbedingungen
+      link: https://openmc.net/forum-nutzungsbedingungen/
     - text: Kontaktformular
+      link: https://openmc.net/kontakt/
+    - text: Vertrag widerrufen
       link: https://openmc.net/kontakt/
     - text: Serverstatus
       link: https://openmc.instatus.com/
