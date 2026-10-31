@@ -54,6 +54,7 @@ Nutze `/vote` und bewege die Maus über deinen Kopf, um sowohl deine aktuelle Vo
 
 ### Gut zu wissen
 - Zur Aufrechterhaltung der VoteStreak muss auf mindestens einer Voteseite für OpenMC abgestimmt werden.
+- Innerhalb von 30 Tagen gewährt die Votestreak einen Tag, der z.B. wegen einem vergessen Vote ausgelassen werden darf. Es muss zu Beginn und auch nach einem ausgelassenen Tag 30 Tage am Stück gevotet werden, damit die Votestreak weitergezählt wird.
 - Votes, welche von den Voteseiten nicht erfolgreich registriert wurden sowie Votes ohne oder mit falschem Namen können von uns leider nicht berücksichtigt werden.
 - Bei vollem Inventar droppen Votebelohnungen auf den Boden.
 - Die VoteStreak-Belohnungen können vorab nicht eingesehen werden.

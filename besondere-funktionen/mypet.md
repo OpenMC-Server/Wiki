@@ -91,6 +91,7 @@ Spider          | -                 | 50%       | 80%       | 100           | Z�
 Squid           | -                 | 50%       | 80%       | 100           | Zähmen        | Angeln        | Kräuterkunde  | -
 Stray           | -                 | 30%       | 50%       | 300           | Zähmen        | Bogenschießen | -             | -
 Strider         | -                 | 30%       | 50%       | 200           | Zähmen        | Schwertkampf  | Alchemie      | Akrobatik
+Sulfur Cube     | -                 | 30%       | 50%       | 300           | Zähmen        | Kräuterkunde  | Alchemie      | Akrobatik
 Tadpole         | -                 | 50%       | 80%       | 100           | Zähmen        | Angeln        | Kräuterkunde  | -
 Trader Llama    | -                 | 30%       | 50%       | 200           | Zähmen        | Akrobatik     | Kräuterkunde  | -
 Tropical Fish   | -                 | 30%       | 50%       | 200           | Zähmen        | Angeln        | Kräuterkunde  | -
@@ -783,6 +784,16 @@ Mobs, welche in der gleichen Zeile gelistet sind bauen in gewissem Maße aufeina
   - Kann aufsammeln: Nein
   - Geschwindigkeit: 0.25
   - Nahrung: Steak, Gebratenes Scheinefleisch, Rohes Hammelfleisch, Rohes Hünchen, Rohes Kaninchen, Verrottetes Fleisch
+- **Schwefelwürfel**
+  - Grundleben: 35 (max. 80)
+  - Kampftyp: Nahkampf
+  - Schaden: 0 (max. 4.5)
+  - Leuchtfeuereffekte: Resistenz II, Stärke II, Feuerresistenz
+  - Inventar: 4 Reihen
+  - Fähigkeiten: Feuer, Rückstoß, Reiten, Gift
+  - Kann aufsammeln: Ja
+  - Geschwindigkeit: 0.38
+  - Nahrung: Schleimball, Schwefelspitze, Schwarzpulver
 
 +++ S4
 - **Delfin**
@@ -994,6 +1005,13 @@ Das Equipment kann entfernt werden, indem du mit deinem Pet via Schleichen + Rec
 ---
 
 ## Befehle
+
+`/pet`\
+Öffnet das Menü zum Verwalten deines Pets.
+
+`/pets`\
+Zeigt alle deine Pets an und lässt dich zwischen ihnen wechseln.
+
 `/petinfo`\
 Zeigt Informationen zum aktiven Pet.
 
@@ -1032,9 +1050,6 @@ Hiermit kann ein aktives Pet verkauft/gekauft werden. Wird der Betrag leer gelas
 
 `/petskill`\
 Zeigt die Fähigkeiten deines aktiven Pets.
-
-`/petchooseskilltree oder /pcst`\
-Hiermit kann der Skill deines aktiven Pets ausgewählt oder gewechselt werden.
 
 `/petbehavior oder /petbehaviour`\
 Ändert den Zustand deines aktiven Pets.
