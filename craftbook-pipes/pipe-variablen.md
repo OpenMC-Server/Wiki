@@ -552,7 +552,7 @@ Um nach einer spezifischen Variable zu suchen, kannst du die Suche deines Browse
 | Schwefelspitze                                       | sulfur\_spike                                    | %sulfurspike%              | %aoy%       |
 | Schwefelziegel                                       | sulfur\_bricks                                   | %sulfur\_bricks%           | %akb%       |
 | Schwefelziegelstufe                                  | sulfur\_brick\_slab                              | %sulfur\_br\_sl%           | %aov%       |
-| Schwefelziegeltreppe                                 | sulfur\_brick\_stair                             | %sulfur\_br\_st%           | %aow%       |
+| Schwefelziegeltreppe                                 | sulfur\_brick\_stairs                             | %sulfur\_br\_st%           | %aow%       |
 | Schwefelziegelmauer                                  | sulfur\_brick\_wall                              | %sulfur\_br\_wl%           | %aox%       |
 | Polierter Schwefel                                   | polished\_sulfur                                 | %p\_sulfur%                | %ajw%       |
 | Polierte Schwefelstufe                               | polished\_sulfur\_slab                           | %p\_sulfur\_sl%            | %aor%       |
