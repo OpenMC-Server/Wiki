@@ -556,7 +556,7 @@ Um nach einer spezifischen Variable zu suchen, kannst du die Suche deines Browse
 | Schwefelziegelmauer                                  | sulfur\_brick\_wall                              | %sulfur\_br\_wl%           | %aox%       |
 | Polierter Schwefel                                   | polished\_sulfur                                 | %p\_sulfur%                | %ajw%       |
 | Polierte Schwefelstufe                               | polished\_sulfur\_slab                           | %p\_sulfur\_sl%            | %aor%       |
-| Polierte Schwefeltreppe                              | polished\_sulfur\_stair                          | %p\_sulfur\_st%            | %aot%       |
+| Polierte Schwefeltreppe                              | polished\_sulfur\_stairs                          | %p\_sulfur\_st%            | %aot%       |
 | Polierte Schwefelmauer                               | polished\_sulfur\_wall                           | %p\_sulfur\_wl%            | %aou%       |
 | Reaktiver Schwefel                                   | potent\_sulfur                                   | %pt\_sulfur%               | %aoq%       |
 | Gemeißelter Schwefel                                 | chiseled\_sulfur                                 | %chiseled\_sulfur%         | %als%       |
@@ -572,11 +572,11 @@ Um nach einer spezifischen Variable zu suchen, kannst du die Suche deines Browse
 | Zinnobermauer                                        | cinnabar\_wall                                   | %cinnabar\_wl%             | %aoe%       |
 | Zinnoberziegel                                       | cinnabar\_bricks                                 | %cinnabar\_br%             | %aoa%       |
 | Zinnoberziegelstufe                                  | cinnabar\_brick\_slab                            | %cinnabar\_br\_sl%         | %aoi%       |
-| Zinnoberziegeltreppe                                 | cinnabar\_brick\_stair                           | %cinnabar\_br\_st%         | %aoj%       |
+| Zinnoberziegeltreppe                                 | cinnabar\_brick\_stairs                           | %cinnabar\_br\_st%         | %aoj%       |
 | Zinnoberziegelmauer                                  | cinnabar\_brick\_wall                            | %cinnabar\_br\_wl%         | %aok%       |
 | Polierter Zinnober                                   | polished\_cinnabar                               | %polished\_cinnabar%       | %anz%       |
 | Polierte Zinnoberstufe                               | polished\_cinnabar\_slab                         | %p\_cinnabar\_sl%          | %aof%       |
-| Polierte Zinnobertreppe                              | polished\_cinnabar\_stair                        | %p\_cinnabar\_st%          | %aog%       |
+| Polierte Zinnobertreppe                              | polished\_cinnabar\_stairs                        | %p\_cinnabar\_st%          | %aog%       |
 | Polierte Zinnobermauer                               | polished\_cinnabar\_wall                         | %p\_cinnabar\_wl%          | %aoh%       |
 | Gemeißelter Zinnober                                 | chiseled\_cinnabar                               | %chiseled\_cinnabar%       | %aob%       |
 
