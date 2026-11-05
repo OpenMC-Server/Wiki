@@ -95,13 +95,7 @@ footer:
       link: https://openmc.net/impressum/
     - text: Datenschutzerklärung
       link: https://openmc.net/datenschutzerklaerung/
-    - text: AGB und Widerrufsbelehrung
-      link: https://openmc.net/agb/
-    - text: Forum-Nutzungsbedingungen
-      link: https://openmc.net/forum-nutzungsbedingungen/
     - text: Kontaktformular
-      link: https://openmc.net/kontakt/
-    - text: Vertrag widerrufen
       link: https://openmc.net/kontakt/
     - text: Serverstatus
       link: https://openmc.instatus.com/
