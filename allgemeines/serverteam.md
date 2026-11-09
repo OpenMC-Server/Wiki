@@ -95,13 +95,18 @@ Die Inhaberschaft des Servers teilen sich kev2k2 und flowflower (Tätigkeit aktu
 |||
 
 ### Supporter
-||| Thunder492 [!badge variant="success" text="seit 2025 im Team"]
--![](https://mc-api.io/render/full/Thunder492/java?size=200)
+||| Tigerhei [!badge variant="success" text="seit 2026 im Team"]
+-![](https://mc-api.io/render/full/Tigerhei/java?size=200)
 **Aufgaben:**
 
  Spielersupport
-||| DoctorSetzling [!badge variant="success" text="seit 2026 im Team"]
--![](https://mc-api.io/render/full/DoctorSetzling/java?size=200)
+||| Gruseligees [!badge variant="success" text="seit 2026 im Team"]
+-![](https://mc-api.io/render/full/Gruseligees/java?size=200)
+**Aufgaben:**
+
+ Spielersupport
+||| Firehorse31 [!badge variant="success" text="seit 2026 im Team"]
+-![](https://mc-api.io/render/full/Firehorse31/java?size=200)
 **Aufgaben:**
 
  Spielersupport
