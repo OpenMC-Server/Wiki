@@ -49,7 +49,7 @@ Feature                     | Spieler | Siedler | VIP   | VIS   | + Upgrade | Ch
 :---:                       | :---:   | :---:   | :---: | :---: | :---:     | :---:
 VoteCoins (pro Vote)        | 1       | 2       | 1     | 2     | 3         | 4
 Flugzeit (in Min, pro Vote) | 10      | 20      | ∞     | ∞     |           | ∞
-Homes¹                      | 10      | 30      | 50    | 50    |           | 50
+Homes¹                      | 10      | 30      | 50    | 70    |           | 50
 Pets²                       | 20      | 50      | 85    | 85    |           | 85
 Jobs³                       | 1       | 2       | 3     | 3     |           | 3
 PlayerWarps⁴                | 1       | 2       | 1     | 2     | 5         | 5

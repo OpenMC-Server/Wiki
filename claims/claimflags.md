@@ -68,11 +68,18 @@ RaidMemberOnly          | Fremde Spieler können keine Raids auf dem Claim start
 ReadLecterns            | Das Lesen signierter Bücher in Lesepulten erlauben. | 20 Tsd. ✪
 NoEnter [Industriewelt] | Das Betreten des Claims durch fremde Spieler deaktivieren. | 0 ✪
 NoMapMaking             | Das Erstellen von Maps durch fremde Spieler deaktivieren. | 0 ✪
-CommandBlacklist        | Die Verwendung bestimmter Befehle deaktivieren. | Beim Team beantragbar
-NoElytra               | Deaktiviere das Fliegen mit der Elytra auf dem Claim | Beim Team beantragbar
-ViewContainer           | Kisten können geöffnet werden, aber es ist nicht möglich Items zu entnehmen. | Beim Team beantragbar
-KeepInventory           | Items werden nach dem Tod im Inventar beibehalten | Beim Team beantragbar für **Arenen**
-RespawnLocation         | Setze den Respawn-Punkt nach dem Tod auf dem Grundstück | Beim Team beantragbar für **Arenen**
+
+### Beim Team beantragbare Flags
+Um diese Flags zu erhalten, muss dein Claim/Vorhaben bestimmte Voraussetzungen erfüllen. Die Entscheidung wird jeweils als Einzelfall vom Team gefällt. Die Beantragung kann über ein Claimvergabe-Ticket im Discord erfolgen und ist kostenlos.
+
+Flag                    | Erklärung | Voraussetzung
+---                     | ---       | ---
+CommandBlacklist        | Die Verwendung bestimmter Befehle deaktivieren. | Projekt, welches die Flag benötigt, um wie vorgesehen zu funktionieren.
+NoElytra                | Deaktiviere das Fliegen mit der Elytra auf dem Claim |Projekt, welches die Flag benötigt, um wie vorgesehen zu funktionieren.
+NoFly                   | Deaktiviere das Fliegen auf deinem Claim | Projekt, welches sich nicht in Spawnzone 1 oder 2 befindet sowie die Flag benötigt, um wie vorgesehen zu funktionieren.
+ViewContainer           | Kisten können geöffnet werden, aber es ist nicht möglich Items zu entnehmen. | Projekt, welches die Flag benötigt, um wie vorgesehen zu funktionieren.
+KeepInventory           | Items werden nach dem Tod im Inventar beibehalten | Claim ist eine Arena.
+RespawnLocation         | Setze den Respawn-Punkt nach dem Tod auf dem Grundstück | Claim ist eine Arena.
 
 Sollte eine Flag aus technischen oder konzeptionellen Gründen einmal entfernt werden, kann eine Rückerstattung beantragt werden.
 
